@@ -6,13 +6,12 @@ use_production_ads=true
 # ============================================
 # ADMOB CONFIGURATION (for Android app)
 # ============================================
-i-news App ID: ca-app-pub-3714401773375720~3437419142
-admob_app_id=ca-app-pub-3714401773375720~3437419142
-#admob_banner_id=ca-app-pub-3714401773375720/6655443571
-admob_banner_id=ca-app-pub-3940256099942544~3347511713
-admob_native_id=ca-app-pub-3714401773375720/2078560858
-admob_interstitial_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
-admob_rewarded_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+#i-news App ID: ca-app-pub-3714401773375720~8328429611
+admob_app_id=ca-app-pub-3714401773375720~8328429611
+admob_banner_id=ca-app-pub-3714401773375720/9167858245
+admob_native_id=ca-app-pub-3714401773375720/9275669453
+admob_interstitial_id=ca-app-pub-3714401773375720/3299464215
+admob_rewarded_id=ca-app-pub-3714401773375720/2613068503
 
 # ============================================
 # ADSENSE CONFIGURATION (for web)
