@@ -5,18 +5,18 @@
 # ============================================
 # ADMOB CONFIGURATION (for Android app)
 # ============================================
-# E-news App ID: ca-app-pub-3714401773375720~3437419142
+i-news App ID: ca-app-pub-3714401773375720~3437419142
 admob_app_id=ca-app-pub-3714401773375720~3437419142
 admob_banner_id=ca-app-pub-3714401773375720/6655443571
 admob_native_id=ca-app-pub-3714401773375720/2078560858
-# admob_interstitial_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
-# admob_rewarded_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+admob_interstitial_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+admob_rewarded_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
 
 # ============================================
 # ADSENSE CONFIGURATION (for web)
 # ============================================
-# Publisher ID: pub-3714401773375720
-# Customer ID: 8573465169
+Publisher ID: pub-3714401773375720
+Customer ID: 8573465169
 adsense_publisher_id=ca-pub-3714401773375720
 # Add your ad unit slot IDs below (create ad units in AdSense dashboard)
 # adsense_banner_slot=XXXXXXXXXX
