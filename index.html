@@ -1,1021 +1,161 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="e-News - The ultimate global news aggregator with powerful features and seamless user experience">
-  <meta name="theme-color" content="#6366f1">
-  <link rel="icon" href="/e-News.jpeg">
-  <title>e-News - Features & Productivity</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    :root {
-      --primary: #6366f1;
-      --secondary: #8b5cf6;
-      --dark: #0a0a0f;
-      --light: #f5f5f7;
-      --text-dark: #1d1d1f;
-      --text-light: #f0f0f5;
-      --gradient: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a855f7 100%);
-      --shadow: 0 10px 40px rgba(99, 102, 241, 0.2);
-    }
-
-    body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      line-height: 1.6;
-      color: var(--text-dark);
-      background: var(--light);
-    }
-
-    .hero {
-      background: var(--gradient);
-      color: white;
-      padding: 80px 20px;
-      text-align: center;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .hero::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120"><path fill="%23ffffff" fill-opacity="0.1" d="M0,64L48,69.3C96,75,192,85,288,80C384,75,480,53,576,48C672,43,768,53,864,64C960,75,1056,85,1152,80L1200,75L1200,120L1152,120C1056,120,960,120,864,120C768,120,672,120,576,120C480,120,384,120,288,120C192,120,96,120,48,120L0,120Z"></path></svg>') bottom center no-repeat;
-      background-size: cover;
-    }
-
-    .hero-content {
-      max-width: 900px;
-      margin: 0 auto;
-      position: relative;
-      z-index: 1;
-    }
-
-    .logo {
-      width: 120px;
-      height: 120px;
-      border-radius: 30px;
-      margin: 0 auto 20px;
-      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-    }
-
-    h1 {
-      font-size: 3.5rem;
-      font-weight: 800;
-      margin-bottom: 20px;
-      text-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-    }
-
-    .tagline {
-      font-size: 1.5rem;
-      margin-bottom: 30px;
-      opacity: 0.95;
-    }
-
-    .cta-buttons {
-      display: flex;
-      gap: 20px;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-top: 40px;
-    }
-
-    .btn {
-      padding: 16px 40px;
-      font-size: 1.1rem;
-      font-weight: 600;
-      border: none;
-      border-radius: 12px;
-      cursor: pointer;
-      transition: all 0.3s ease;
-      text-decoration: none;
-      display: inline-block;
-    }
-
-    .btn-primary {
-      background: white;
-      color: var(--primary);
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-    }
-
-    .btn-primary:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
-    }
-
-    .btn-secondary {
-      background: rgba(255, 255, 255, 0.2);
-      color: white;
-      border: 2px solid white;
-    }
-
-    .btn-secondary:hover {
-      background: white;
-      color: var(--primary);
-      transform: translateY(-3px);
-    }
-
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 20px;
-    }
-
-    .section {
-      padding: 80px 0;
-    }
-
-    .section-header {
-      text-align: center;
-      margin-bottom: 60px;
-    }
-
-    .section-title {
-      font-size: 2.5rem;
-      font-weight: 800;
-      margin-bottom: 15px;
-      background: var(--gradient);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-    }
-
-    .section-subtitle {
-      font-size: 1.2rem;
-      color: #666;
-      max-width: 600px;
-      margin: 0 auto;
-    }
-
-    .features-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 30px;
-      margin-top: 50px;
-    }
-
-    .feature-card {
-      background: white;
-      padding: 40px 30px;
-      border-radius: 20px;
-      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
-      transition: all 0.3s ease;
-      border: 1px solid rgba(99, 102, 241, 0.1);
-    }
-
-    .feature-card:hover {
-      transform: translateY(-10px);
-      box-shadow: var(--shadow);
-    }
-
-    .feature-icon {
-      width: 60px;
-      height: 60px;
-      background: var(--gradient);
-      border-radius: 15px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 20px;
-      font-size: 30px;
-    }
-
-    .feature-title {
-      font-size: 1.5rem;
-      font-weight: 700;
-      margin-bottom: 15px;
-      color: var(--text-dark);
-    }
-
-    .feature-description {
-      color: #666;
-      line-height: 1.8;
-    }
-
-    .showcase {
-      background: var(--dark);
-      color: white;
-    }
-
-    .screenshot-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 30px;
-      margin-top: 50px;
-    }
-
-    .screenshot-card {
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 20px;
-      padding: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      transition: all 0.3s ease;
-    }
-
-    .screenshot-card:hover {
-      background: rgba(255, 255, 255, 0.08);
-      transform: scale(1.05);
-    }
-
-    .screenshot-placeholder {
-      width: 100%;
-      height: 300px;
-      background: linear-gradient(135deg, rgba(99, 102, 241, 0.2) 0%, rgba(139, 92, 246, 0.2) 100%);
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 3rem;
-      margin-bottom: 15px;
-      border: 2px dashed rgba(255, 255, 255, 0.2);
-    }
-
-    .screenshot-title {
-      font-size: 1.2rem;
-      font-weight: 600;
-      margin-bottom: 8px;
-    }
-
-    .screenshot-desc {
-      color: rgba(255, 255, 255, 0.7);
-      font-size: 0.95rem;
-    }
-
-    .productivity-section {
-      background: linear-gradient(to bottom, #f5f5f7, white);
-    }
-
-    .use-case-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-      gap: 40px;
-      margin-top: 50px;
-    }
-
-    .use-case {
-      background: white;
-      padding: 35px;
-      border-radius: 20px;
-      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
-      border-left: 5px solid var(--primary);
-    }
-
-    .use-case-title {
-      font-size: 1.4rem;
-      font-weight: 700;
-      margin-bottom: 15px;
-      color: var(--primary);
-    }
-
-    .use-case-list {
-      list-style: none;
-      margin-top: 15px;
-    }
-
-    .use-case-list li {
-      padding: 10px 0;
-      padding-left: 30px;
-      position: relative;
-      color: #444;
-    }
-
-    .use-case-list li::before {
-      content: '✓';
-      position: absolute;
-      left: 0;
-      color: var(--primary);
-      font-weight: bold;
-      font-size: 1.2rem;
-    }
-
-    .stats-section {
-      background: var(--gradient);
-      color: white;
-      padding: 60px 20px;
-      text-align: center;
-    }
-
-    .stats-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 40px;
-      max-width: 1000px;
-      margin: 40px auto 0;
-    }
-
-    .stat {
-      padding: 20px;
-    }
-
-    .stat-number {
-      font-size: 3.5rem;
-      font-weight: 800;
-      margin-bottom: 10px;
-      text-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    }
-
-    .stat-label {
-      font-size: 1.1rem;
-      opacity: 0.9;
-    }
-
-    .comparison-table {
-      background: white;
-      border-radius: 20px;
-      overflow: hidden;
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
-      margin-top: 40px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    th {
-      background: var(--gradient);
-      color: white;
-      padding: 20px;
-      font-weight: 700;
-      text-align: left;
-    }
-
-    td {
-      padding: 20px;
-      border-bottom: 1px solid #eee;
-    }
-
-    tr:hover {
-      background: #f9f9ff;
-    }
-
-    .check {
-      color: var(--primary);
-      font-size: 1.5rem;
-      font-weight: bold;
-    }
-
-    .cross {
-      color: #ccc;
-      font-size: 1.5rem;
-    }
-
-    footer {
-      background: var(--dark);
-      color: white;
-      padding: 40px 20px;
-      text-align: center;
-    }
-
-    .footer-links {
-      display: flex;
-      gap: 30px;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-top: 20px;
-    }
-
-    .footer-links a {
-      color: white;
-      text-decoration: none;
-      opacity: 0.8;
-      transition: opacity 0.3s;
-    }
-
-    .footer-links a:hover {
-      opacity: 1;
-    }
-
-    .download-section {
-      background: white;
-      padding: 80px 20px;
-    }
-
-    .download-container {
-      max-width: 900px;
-      margin: 0 auto;
-      background: var(--gradient);
-      border-radius: 30px;
-      padding: 60px 40px;
-      color: white;
-      text-align: center;
-      box-shadow: 0 20px 60px rgba(99, 102, 241, 0.3);
-    }
-
-    .download-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 50px;
-      margin-top: 40px;
-      align-items: center;
-    }
-
-    .qr-section {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .qr-code {
-      background: white;
-      padding: 20px;
-      border-radius: 20px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-      margin-bottom: 20px;
-    }
-
-    .qr-code img {
-      display: block;
-      width: 200px;
-      height: 200px;
-    }
-
-    .download-info {
-      text-align: left;
-    }
-
-    .download-info h3 {
-      font-size: 1.8rem;
-      margin-bottom: 20px;
-    }
-
-    .install-steps {
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 15px;
-      padding: 25px;
-      margin-top: 25px;
-      text-align: left;
-      border: 1px solid rgba(255, 255, 255, 0.2);
-    }
-
-    .install-steps h4 {
-      font-size: 1.2rem;
-      margin-bottom: 15px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .install-steps ol {
-      margin-left: 20px;
-      line-height: 2;
-    }
-
-    .install-steps li {
-      margin-bottom: 10px;
-    }
-
-    .download-btn-large {
-      display: inline-flex;
-      align-items: center;
-      gap: 12px;
-      background: white;
-      color: var(--primary);
-      padding: 18px 35px;
-      border-radius: 15px;
-      text-decoration: none;
-      font-weight: 700;
-      font-size: 1.2rem;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-      transition: all 0.3s ease;
-      margin-top: 20px;
-    }
-
-    .download-btn-large:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
-    }
-
-    .download-icon {
-      font-size: 1.5rem;
-    }
-
-    .badge {
-      display: inline-block;
-      background: rgba(255, 255, 255, 0.2);
-      padding: 6px 15px;
-      border-radius: 20px;
-      font-size: 0.9rem;
-      margin-top: 10px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-    }
-
-    @media (max-width: 768px) {
-      h1 {
-        font-size: 2.5rem;
-      }
-
-      .tagline {
-        font-size: 1.2rem;
-      }
-
-      .section-title {
-        font-size: 2rem;
-      }
-
-      .features-grid,
-      .screenshot-container,
-      .use-case-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .stats-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-
-      .download-grid {
-        grid-template-columns: 1fr;
-        gap: 30px;
-      }
-
-      .download-container {
-        padding: 40px 25px;
-      }
-
-      .download-info {
-        text-align: center;
-      }
-
-      .install-steps {
-        text-align: left;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="iNews - The ultimate global news aggregator. Real-time news, auto-translation, and text-to-speech.">
+    <meta name="theme-color" content="#0a0a0f">
+    <title>iNews - The Ultimate Global News Aggregator</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="index.css">
 </head>
-
 <body>
-  <!-- Hero Section -->
-  <section class="hero">
-    <div class="hero-content">
-      <img src="/e-News.jpeg" alt="e-News Logo" class="logo">
-      <h1>e-News</h1>
-      <p class="tagline">Your Ultimate Global News Aggregator</p>
-      <p style="font-size: 1.1rem; margin-top: 20px; opacity: 0.9;">Discover news from around the world with powerful
-        features designed for productivity and seamless reading experience</p>
-      <div class="cta-buttons">
-        <a href="/index.html" class="btn btn-primary">Launch App</a>
-        <a href="#features" class="btn btn-secondary">Explore Features</a>
-      </div>
-    </div>
-  </section>
+    <!-- Background Elements -->
+    <div class="bg-gradient-1"></div>
+    <div class="bg-gradient-2"></div>
+    <div class="noise-overlay"></div>
 
-  <!-- Key Features Section -->
-  <section class="section" id="features">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Powerful Features</h2>
-        <p class="section-subtitle">Everything you need for an exceptional news reading experience</p>
-      </div>
-
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon">🌍</div>
-          <h3 class="feature-title">Global Coverage</h3>
-          <p class="feature-description">Access news from multiple countries and languages. Select from dozens of
-            countries and filter by your preferred language to get truly global coverage.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🎨</div>
-          <h3 class="feature-title">4 Layout Views</h3>
-          <p class="feature-description">Choose between Grid, Rows, Compact, and Tile layouts. Customize your reading
-            experience to match your preference and device.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🌙</div>
-          <h3 class="feature-title">Dark & Light Mode</h3>
-          <p class="feature-description">Beautiful themes for any environment. Switch seamlessly between stunning dark
-            and light modes with a single tap.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🔍</div>
-          <h3 class="feature-title">Advanced Search</h3>
-          <p class="feature-description">Find exactly what you're looking for with powerful search across all articles,
-            titles, descriptions, and sources.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🗣️</div>
-          <h3 class="feature-title">Multi-Language Translation</h3>
-          <p class="feature-description">Read articles in your preferred language. Translate titles and content on the
-            fly with support for multiple translation services.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">⭐</div>
-          <h3 class="feature-title">Favorites System</h3>
-          <p class="feature-description">Save articles for later reading. Organize and access your favorite articles
-            anytime, even offline.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">📥</div>
-          <h3 class="feature-title">Bulk Export</h3>
-          <p class="feature-description">Export articles in multiple formats including PDF, JSON, and CSV. Perfect for
-            research and archiving.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">📱</div>
-          <h3 class="feature-title">PWA Support</h3>
-          <p class="feature-description">Install as a native app on any device. Works offline with service worker
-            caching and background sync.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🎯</div>
-          <h3 class="feature-title">Floating Controls</h3>
-          <p class="feature-description">Draggable floating toolbar for quick access to all features. Position it
-            anywhere on your screen for maximum productivity.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🔄</div>
-          <h3 class="feature-title">Real-time Updates</h3>
-          <p class="feature-description">Stay updated with the latest news. Automatic refresh and manual refresh options
-            to keep content fresh.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">📊</div>
-          <h3 class="feature-title">Analytics & Stats</h3>
-          <p class="feature-description">Track your reading habits with built-in analytics. See article counts, reading
-            time, and source statistics.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon">🚀</div>
-          <h3 class="feature-title">Lightning Fast</h3>
-          <p class="feature-description">Optimized performance with lazy loading, infinite scroll, and efficient
-            caching. Smooth experience on any device.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Screenshots Showcase -->
-  <section class="section showcase">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="section-title" style="color: white; -webkit-text-fill-color: white;">Experience in Action</h2>
-        <p class="section-subtitle" style="color: rgba(255, 255, 255, 0.8);">See how e-News transforms your news
-          reading experience</p>
-      </div>
-
-      <div class="screenshot-container">
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">📰</div>
-          <div class="screenshot-title">Grid Layout</div>
-          <p class="screenshot-desc">Beautiful card-based grid view with images and snippets</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">📋</div>
-          <div class="screenshot-title">Row Layout</div>
-          <p class="screenshot-desc">Clean row view perfect for quick scanning</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">📑</div>
-          <div class="screenshot-title">Compact Layout</div>
-          <p class="screenshot-desc">Dense information display for power users</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">🎨</div>
-          <div class="screenshot-title">Tile Layout</div>
-          <p class="screenshot-desc">Magazine-style asymmetric tiles</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">🌙</div>
-          <div class="screenshot-title">Dark Mode</div>
-          <p class="screenshot-desc">Eye-friendly dark theme with premium aesthetics</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">☀️</div>
-          <div class="screenshot-title">Light Mode</div>
-          <p class="screenshot-desc">Clean light theme for daytime reading</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">🔍</div>
-          <div class="screenshot-title">Search Interface</div>
-          <p class="screenshot-desc">Powerful search with real-time filtering</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">⚙️</div>
-          <div class="screenshot-title">Settings Panel</div>
-          <p class="screenshot-desc">Comprehensive customization options</p>
-        </div>
-
-        <div class="screenshot-card">
-          <div class="screenshot-placeholder">🎯</div>
-          <div class="screenshot-title">Floating Controls</div>
-          <p class="screenshot-desc">Draggable toolbar for quick access</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Productivity Use Cases -->
-  <section class="section productivity-section">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Boost Your Productivity</h2>
-        <p class="section-subtitle">Designed for professionals, researchers, and news enthusiasts</p>
-      </div>
-
-      <div class="use-case-grid">
-        <div class="use-case">
-          <h3 class="use-case-title">📚 For Researchers</h3>
-          <ul class="use-case-list">
-            <li>Export articles in multiple formats for citations</li>
-            <li>Save and organize sources for later reference</li>
-            <li>Translate international news for global research</li>
-            <li>Track sources and publication dates</li>
-            <li>Offline access to saved articles</li>
-          </ul>
-        </div>
-
-        <div class="use-case">
-          <h3 class="use-case-title">💼 For Professionals</h3>
-          <ul class="use-case-list">
-            <li>Monitor industry news from specific domains</li>
-            <li>Quick scanning with compact layout views</li>
-            <li>Share articles directly from the app</li>
-            <li>Customize feeds by country and language</li>
-            <li>Fast search to find relevant topics</li>
-          </ul>
-        </div>
-
-        <div class="use-case">
-          <h3 class="use-case-title">🌐 For Global Citizens</h3>
-          <ul class="use-case-list">
-            <li>Access news from multiple countries simultaneously</li>
-            <li>Translate articles to your preferred language</li>
-            <li>Compare coverage across different regions</li>
-            <li>Stay informed about international events</li>
-            <li>Discover diverse perspectives on global issues</li>
-          </ul>
-        </div>
-
-        <div class="use-case">
-          <h3 class="use-case-title">📱 For Mobile Users</h3>
-          <ul class="use-case-list">
-            <li>Install as native app on any device</li>
-            <li>Works offline with cached articles</li>
-            <li>Responsive design for all screen sizes</li>
-            <li>Floating controls for one-handed use</li>
-            <li>Fast loading and smooth scrolling</li>
-          </ul>
-        </div>
-
-        <div class="use-case">
-          <h3 class="use-case-title">✍️ For Content Creators</h3>
-          <ul class="use-case-list">
-            <li>Monitor trending topics across regions</li>
-            <li>Research and gather source material</li>
-            <li>Export articles for content inspiration</li>
-            <li>Track publication patterns and timing</li>
-            <li>Analyze news coverage across sources</li>
-          </ul>
-        </div>
-
-        <div class="use-case">
-          <h3 class="use-case-title">🎓 For Students</h3>
-          <ul class="use-case-list">
-            <li>Research current events for assignments</li>
-            <li>Practice language skills with translations</li>
-            <li>Export articles for papers and projects</li>
-            <li>Build knowledge base with favorites</li>
-            <li>Free and accessible learning resource</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Stats Section -->
-  <section class="stats-section">
-    <div class="container">
-      <h2 style="font-size: 2.5rem; margin-bottom: 10px;">Trusted by Users Worldwide</h2>
-      <p style="opacity: 0.9; font-size: 1.1rem;">Aggregating news from global sources</p>
-      <div class="stats-grid">
-        <div class="stat">
-          <div class="stat-number">100+</div>
-          <div class="stat-label">Countries Supported</div>
-        </div>
-        <div class="stat">
-          <div class="stat-number">50+</div>
-          <div class="stat-label">Languages Available</div>
-        </div>
-        <div class="stat">
-          <div class="stat-number">1000+</div>
-          <div class="stat-label">News Sources</div>
-        </div>
-        <div class="stat">
-          <div class="stat-number">24/7</div>
-          <div class="stat-label">Real-time Updates</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Download Section -->
-  <section class="download-section">
-    <div class="container">
-      <div class="download-container">
-        <h2 style="font-size: 2.5rem; margin-bottom: 15px;">📱 Download e-News for Android</h2>
-        <p style="font-size: 1.1rem; opacity: 0.95;">Get the native Android app for the best experience</p>
-        <div class="badge">Latest Version - APK</div>
-
-        <div class="download-grid">
-          <div class="qr-section">
-            <div class="qr-code">
-              <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://raw.githubusercontent.com/shajijohnsh/iNews/refs/heads/main/e-News.apk" alt="QR Code to Download e-News">
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <div class="logo-icon">iN</div>
+                <span>iNews</span>
             </div>
-            <p style="font-size: 1.1rem; font-weight: 600;">Scan to Download</p>
-            <p style="font-size: 0.95rem; opacity: 0.85; margin-top: 5px;">Use your phone's camera</p>
-          </div>
-
-          <div class="download-info">
-            <h3>🚀 Quick Install</h3>
-            <a href="https://raw.githubusercontent.com/shajijohnsh/iNews/refs/heads/main/e-News.apk" class="download-btn-large" download>
-              <span class="download-icon">⬇️</span>
-              <span>Download APK</span>
-            </a>
-
-            <div class="install-steps">
-              <h4>
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <circle cx="12" cy="12" r="10"></circle>
-                  <path d="M12 16v-4M12 8h.01"></path>
-                </svg>
-                Installation Instructions
-              </h4>
-              <ol>
-                <li><strong>Enable Unknown Sources:</strong>
-                  <br>Go to Settings → Security (or Privacy) → Enable "Install unknown apps" or "Unknown sources"
-                </li>
-                <li><strong>Download the APK:</strong>
-                  <br>Click the download button or scan the QR code
-                </li>
-                <li><strong>Install:</strong>
-                  <br>Open the downloaded file and tap "Install"
-                </li>
-                <li><strong>Launch:</strong>
-                  <br>Open e-News and start exploring global news!
-                </li>
-              </ol>
+            <div class="nav-links">
+                <a href="#features">Features</a>
+                <a href="#showcase">Showcase</a>
+                <a href="dmca-disclaimer.html">DMCA</a>
             </div>
-
-            <p style="font-size: 0.9rem; opacity: 0.8; margin-top: 20px;">
-              ℹ️ <strong>Note:</strong> Enable "Unknown sources" only for trusted apps. You can disable it after installation.
-            </p>
-          </div>
         </div>
-      </div>
-    </div>
-  </section>
+    </nav>
 
-  <!-- Comparison Table -->
-  <section class="section">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Why Choose e-News?</h2>
-        <p class="section-subtitle">See how we compare to traditional news apps</p>
-      </div>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container hero-content">
+            <div class="hero-text fade-in-up">
+                <div class="badge">Version 2.0 Now Available</div>
+                <h1>Your World.<br><span class="text-gradient">In Your Language.</span></h1>
+                <p class="subtitle">Experience the ultimate global news aggregator. Seamlessly filter by source, auto-translate articles in real-time, and let our advanced Text-to-Speech read the world to you.</p>
+                <div class="cta-group">
+                    <a href="#download" class="btn btn-primary">
+                        <span>Download App</span>
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                    </a>
+                    <a href="#features" class="btn btn-secondary">Explore Features</a>
+                </div>
+            </div>
+            <div class="hero-image-wrapper fade-in-up delay-1">
+                <div class="glass-mockup">
+                    <div class="mockup-header">
+                        <div class="dot red"></div>
+                        <div class="dot yellow"></div>
+                        <div class="dot green"></div>
+                    </div>
+                    <div class="mockup-body">
+                        <!-- Mockup UI representing the news app -->
+                        <div class="mockup-card">
+                            <div class="mockup-img placeholder-1"></div>
+                            <div class="mockup-text-sm">BBC News • 2h ago</div>
+                            <div class="mockup-title">Global Markets Rally as Tech Sector Surges</div>
+                        </div>
+                        <div class="mockup-card">
+                            <div class="mockup-img placeholder-2"></div>
+                            <div class="mockup-text-sm">TechCrunch • 4h ago</div>
+                            <div class="mockup-title">The Future of AI in Mobile Applications</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
-      <div class="comparison-table">
-        <table>
-          <thead>
-            <tr>
-              <th>Feature</th>
-              <th>e-News</th>
-              <th>Traditional Apps</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>Multiple Layout Views</strong></td>
-              <td><span class="check">✓</span> 4 Layouts</td>
-              <td><span class="cross">✗</span> Single View</td>
-            </tr>
-            <tr>
-              <td><strong>Global Coverage</strong></td>
-              <td><span class="check">✓</span> 100+ Countries</td>
-              <td><span class="cross">✗</span> Limited Regions</td>
-            </tr>
-            <tr>
-              <td><strong>Translation Support</strong></td>
-              <td><span class="check">✓</span> Built-in</td>
-              <td><span class="cross">✗</span> Not Available</td>
-            </tr>
-            <tr>
-              <td><strong>Offline Support</strong></td>
-              <td><span class="check">✓</span> Full PWA</td>
-              <td><span class="cross">✗</span> Requires Internet</td>
-            </tr>
-            <tr>
-              <td><strong>Export Options</strong></td>
-              <td><span class="check">✓</span> PDF, JSON, CSV</td>
-              <td><span class="cross">✗</span> None</td>
-            </tr>
-            <tr>
-              <td><strong>Customizable Interface</strong></td>
-              <td><span class="check">✓</span> Extensive</td>
-              <td><span class="cross">✗</span> Limited</td>
-            </tr>
-            <tr>
-              <td><strong>No Subscription</strong></td>
-              <td><span class="check">✓</span> Free Forever</td>
-              <td><span class="cross">✗</span> Paid Plans</td>
-            </tr>
-            <tr>
-              <td><strong>Privacy Focused</strong></td>
-              <td><span class="check">✓</span> Local Data</td>
-              <td><span class="cross">✗</span> Cloud Tracking</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </section>
+    <!-- Features Section -->
+    <section id="features" class="section">
+        <div class="container">
+            <div class="section-header fade-in-up">
+                <h2>Next-Gen <span class="text-gradient">Capabilities</span></h2>
+                <p>Everything you need to stay informed, built with cutting-edge technology.</p>
+            </div>
+            
+            <div class="features-grid">
+                <!-- Feature 1 -->
+                <div class="feature-card glass fade-in-up delay-1">
+                    <div class="feature-icon blue-gradient">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+                    </div>
+                    <h3>Auto-Translation</h3>
+                    <p>Read news from anywhere in the world. Our advanced engine automatically translates articles and snippets into your preferred local language instantly.</p>
+                </div>
 
-  <!-- CTA Section -->
-  <section class="stats-section">
-    <div class="container">
-      <h2 style="font-size: 2.5rem; margin-bottom: 20px;">Ready to Transform Your News Experience?</h2>
-      <p style="font-size: 1.2rem; opacity: 0.9; margin-bottom: 40px;">Start discovering global news with powerful
-        features designed for productivity</p>
-      <div class="cta-buttons">
-        <a href="/index.html" class="btn btn-primary">Launch e-News Now</a>
-        <a href="#features" class="btn btn-secondary">Learn More</a>
-      </div>
-    </div>
-  </section>
+                <!-- Feature 2 -->
+                <div class="feature-card glass fade-in-up delay-2">
+                    <div class="feature-icon purple-gradient">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+                    </div>
+                    <h3>Smart Text-to-Speech</h3>
+                    <p>Listen on the go. iNews will read articles aloud to you, seamlessly adapting to your selected translated language for perfect pronunciation.</p>
+                </div>
 
-  <!-- Footer -->
-  <footer>
-    <div class="container">
-      <img src="/e-News.jpeg" alt="e-News" style="width: 60px; height: 60px; border-radius: 15px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 10px;">e-News</h3>
-      <p style="opacity: 0.8; margin-bottom: 20px;">Your Global News Aggregator</p>
-      <div class="footer-links">
-        <a href="/index.html">Home</a>
-        <a href="#features">Features</a>
-        <a href="/index.html">Launch App</a>
-      </div>
-      <p style="margin-top: 30px; opacity: 0.6; font-size: 0.9rem;">&copy; 2024 e-News. All rights reserved.</p>
-    </div>
-  </footer>
+                <!-- Feature 3 -->
+                <div class="feature-card glass fade-in-up delay-3">
+                    <div class="feature-icon orange-gradient">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+                    </div>
+                    <h3>Precision Filtering</h3>
+                    <p>Tap any news agency logo or category to instantly filter your feed. See exactly what you want, from the sources you trust, without the clutter.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-  <script>
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        const target = document.querySelector(this.getAttribute('href'));
-        if (target) {
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      });
-    });
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <div class="logo">
+                        <div class="logo-icon small">iN</div>
+                        <span>iNews</span>
+                    </div>
+                    <p>The premium news experience.</p>
+                </div>
+                <div class="footer-links">
+                    <a href="mailto:shajijohnsh@gmail.com">Contact Us</a>
+                    <a href="dmca-disclaimer.html">DMCA Disclaimer</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 iNews App. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
 
-    const observerOptions = {
-      threshold: 0.1,
-      rootMargin: '0px 0px -100px 0px'
-    };
+    <script>
+        // Simple Intersection Observer for scroll animations
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.1
+        };
 
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.style.opacity = '1';
-          entry.target.style.transform = 'translateY(0)';
-        }
-      });
-    }, observerOptions);
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
 
-    document.querySelectorAll('.feature-card, .screenshot-card, .use-case').forEach(el => {
-      el.style.opacity = '0';
-      el.style.transform = 'translateY(30px)';
-      el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-      observer.observe(el);
-    });
-  </script>
+        document.querySelectorAll('.fade-in-up').forEach((el) => {
+            observer.observe(el);
+        });
+    </script>
 </body>
-
 </html>
