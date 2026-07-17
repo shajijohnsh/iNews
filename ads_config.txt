@@ -1,77 +1,62 @@
-# Your Custom Ad Configuration
-# Format: country|language|adPosition|logoUrl|headline|description|cta|linkUrl
-# Lines starting with # are comments
-use_production_ads=false
+# iNews Ad Configuration
+# This file allows you to control AdMob and Private Ads dynamically without updating the app.
+# 
+# Keys available:
+# admob_enabled (true/false)
+# private_ad_enabled (true/false)
+# private_banner_image_url
+# private_banner_click_url
+# private_native_image_url
+# private_native_click_url
+# private_native_title
+# private_native_description
+#
+# You can append _{COUNTRY_CODE} or _{COUNTRY_CODE}_{LANGUAGE_CODE} to any key 
+# to override the global setting for that specific region.
+# Example: admob_enabled_US=false
 
-# ============================================
-# ADMOB CONFIGURATION (for Android app)
-# ============================================
-#i-news App ID: ca-app-pub-3714401773375720~8328429611
-admob_app_id=ca-app-pub-6604202901728757~7136449055
-admob_banner_id=ca-app-pub-6604202901728757/1712731986
-admob_native_id=ca-app-pub-6604202901728757/7511853578
-admob_interstitial_id=ca-app-pub-6604202901728757/9016506931
-admob_rewarded_id=ca-app-pub-6604202901728757/2603261967
+# ==========================================
+# GLOBAL ADMOB CONFIGURATION
+# ==========================================
+admob_banner_id=ca-app-pub-3714401773375720~3437419142
+admob_native_id=ca-app-pub-3714401773375720~3437419142
+admob_interstitial_id=ca-app-pub-3714401773375720~3437419142
+admob_rewarded_id=ca-app-pub-3714401773375720~3437419142
+use_production_ads=true
 
-# ============================================
-# ADSENSE CONFIGURATION (for web)
-# ============================================
-Publisher ID: pub-3714401773375720
-Customer ID: 8573465169
-adsense_publisher_id=ca-pub-3714401773375720
-# Add your ad unit slot IDs below (create ad units in AdSense dashboard)
-# adsense_banner_slot=XXXXXXXXXX
-# adsense_inarticle_slot=XXXXXXXXXX
+# ==========================================
+# GLOBAL FALLBACK SETTINGS
+# ==========================================
+admob_enabled=true
+private_ad_enabled=false
+private_banner_image_url=https://example.com/global_banner.png
+private_banner_click_url=https://example.com
+private_native_image_url=https://example.com/global_native.png
+private_native_click_url=https://example.com
+private_native_title=Global Ad
+private_native_description=This is a global private ad.
 
-# ============================================
-# GLOBAL ADS (used when no specific country/language ads found)
-# ============================================
+# ==========================================
+# REGION-SPECIFIC SETTINGS
+# ==========================================
 
-global|global|1|https://via.placeholder.com/48?text=AD|Your Ad Here|Promote your business to millions|Contact Us|https://example.com/advertise
-global|global|2|https://via.placeholder.com/48?text=AD|Advertise With Us|Premium ad placement|Get Started|https://example.com/advertise
-global|global|3|https://via.placeholder.com/48?text=AD|Sponsor This App|Reach engaged readers|Learn More|https://example.com/advertise
-global|global|4|https://via.placeholder.com/48?text=AD|Your Brand Here|High visibility placement|Contact Sales|https://example.com/advertise
+# --- United States (US) ---
+# Disable AdMob in the US and show a Private Ad instead
+admob_enabled_US=false
+private_ad_enabled_US=true
+private_banner_image_url_US=https://example.com/us_banner.png
+private_banner_click_url_US=https://example.com/us
+private_native_image_url_US=https://example.com/us_native.png
+private_native_click_url_US=https://example.com/us
+private_native_title_US=Exclusive US Offer!
+private_native_description_US=This ad is specifically tailored for users in the United States.
 
-# ============================================
-# UNITED STATES - ENGLISH
-# ============================================
+# --- India (IN) ---
+# Keep AdMob enabled in India, but disable Private Ads entirely
+admob_enabled_IN=true
+private_ad_enabled_IN=false
 
-US|en|1|https://via.placeholder.com/48?text=US|Shop Amazon Sale|Up to 50% off electronics|Shop Now|https://amazon.com
-US|en|2|https://via.placeholder.com/48?text=US|Web Hosting $2.99/mo|Fast & reliable hosting|Start Now|https://example.com/hosting
-US|en|3|https://via.placeholder.com/48?text=US|Learn Online|Thousands of courses available|Enroll Free|https://example.com/courses
-US|en|4|https://via.placeholder.com/48?text=US|VPN Protection|Browse securely & privately|Try Free|https://example.com/vpn
-
-# ============================================
-# INDIA - ENGLISH
-# ============================================
-
-IN|en|1|https://via.placeholder.com/48?text=IN|Flipkart Big Sale|Huge discounts today|Shop Now|https://flipkart.com
-IN|en|2|https://via.placeholder.com/48?text=IN|Invest in Mutual Funds|Start SIP with ₹500/month|Invest Now|https://example.com/invest
-IN|en|3|https://via.placeholder.com/48?text=IN|Online Exam Prep|Ace competitive exams|Start Free|https://example.com/learn
-IN|en|4|https://via.placeholder.com/48?text=IN|Health Insurance|Protect your family|Get Quote|https://example.com/insurance
-
-# ============================================
-# INDIA - HINDI
-# ============================================
-
-IN|hi|1|https://via.placeholder.com/48?text=IN|फ्लिपकार्ट सेल|इलेक्ट्रॉनिक्स पर भारी छूट|अभी खरीदें|https://flipkart.com
-IN|hi|2|https://via.placeholder.com/48?text=IN|म्यूचुअल फंड|₹500/महीने से शुरू करें|निवेश करें|https://example.com/invest
-IN|hi|3|https://via.placeholder.com/48?text=IN|ऑनलाइन कोचिंग|परीक्षा की तैयारी|मुफ्त शुरू करें|https://example.com/learn
-IN|hi|4|https://via.placeholder.com/48?text=IN|स्वास्थ्य बीमा|परिवार की सुरक्षा करें|कोट पाएं|https://example.com/insurance
-
-# ============================================
-# ADD YOUR OWN COUNTRIES/LANGUAGES HERE
-# ============================================
-# Format: COUNTRY_CODE|LANGUAGE_CODE|POSITION|LOGO_URL|HEADLINE|DESCRIPTION|CTA|LINK_URL
-# Example:
-# ES|es|1|https://example.com/logo.png|Gran Venta|Descuentos increíbles|Comprar|https://example.com
-
-# ============================================
-# BANNER ADS (Bottom sticky banner)
-# Format: banner|country|language|logoUrl|headline|description|cta|linkUrl
-# ============================================
-
-banner|global|global|https://via.placeholder.com/40?text=AD|Advertise Your Brand|Reach millions daily|Contact Us|https://example.com/advertise
-banner|US|en|https://via.placeholder.com/40?text=US|Shop Now|Best deals on Amazon|Shop|https://amazon.com
-banner|IN|en|https://via.placeholder.com/40?text=IN|Flipkart Sale|Limited time offers|Shop Now|https://flipkart.com
-banner|IN|hi|https://via.placeholder.com/40?text=IN|फ्लिपकार्ट सेल|सीमित समय के लिए|अभी खरीदें|https://flipkart.com
+# --- United Kingdom (GB) ---
+# Disable all ads in the UK
+admob_enabled_GB=false
+private_ad_enabled_GB=false
