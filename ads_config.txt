@@ -1,7 +1,7 @@
 # Your Custom Ad Configuration
 # Format: country|language|adPosition|logoUrl|headline|description|cta|linkUrl
 # Lines starting with # are comments
-use_production_ads=true
+use_production_ads=false
 
 # ============================================
 # ADMOB CONFIGURATION (for Android app)
