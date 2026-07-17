@@ -29,10 +29,10 @@ use_production_ads=true
 # ==========================================
 admob_enabled=true
 private_ad_enabled=false
-private_banner_image_url=https://example.com/global_banner.png
-private_banner_click_url=https://example.com
-private_native_image_url=https://example.com/global_native.png
-private_native_click_url=https://example.com
+private_banner_image_url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7e/97/c07e974a-c8a3-68e3-8221-a73e66665c70/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png
+private_banner_click_url=https://shajijohnsh.github.io/iNews/
+private_native_image_url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7e/97/c07e974a-c8a3-68e3-8221-a73e66665c70/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png
+private_native_click_url=https://shajijohnsh.github.io/iNews/
 private_native_title=Global Ad
 private_native_description=This is a global private ad.
 
