@@ -44,10 +44,10 @@ private_native_description=This is a global private ad.
 # Disable AdMob in the US and show a Private Ad instead
 admob_enabled_US=false
 private_ad_enabled_US=true
-private_banner_image_url_US=https://example.com/us_banner.png
-private_banner_click_url_US=https://example.com/us
-private_native_image_url_US=https://example.com/us_native.png
-private_native_click_url_US=https://example.com/us
+private_banner_image_url_US=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7e/97/c07e974a-c8a3-68e3-8221-a73e66665c70/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png
+private_banner_click_url_US=https://shajijohnsh.github.io/iNews/
+private_native_image_url_US=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7e/97/c07e974a-c8a3-68e3-8221-a73e66665c70/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png
+private_native_click_url_US=https://shajijohnsh.github.io/iNews/
 private_native_title_US=Exclusive US Offer!
 private_native_description_US=This ad is specifically tailored for users in the United States.
 
