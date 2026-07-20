@@ -1,0 +1,14 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 2,
+  "feeds": {
+    "nytimes.com": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    ],
+    "nypost.com": [
+      "https://nypost.com/metro/feed/"
+    ]
+  }
+}
