@@ -18,10 +18,15 @@
 # ==========================================
 # GLOBAL ADMOB CONFIGURATION
 # ==========================================
-admob_banner_id=ca-app-pub-6604202901728757/1712731986
-admob_native_id=ca-app-pub-6604202901728757/7511853578
-admob_interstitial_id=ca-app-pub-6604202901728757/9016506931
-admob_rewarded_id=ca-app-pub-6604202901728757/2603261967
+#admob_banner_id=ca-app-pub-6604202901728757/1712731986
+#admob_native_id=ca-app-pub-6604202901728757/7511853578
+#admob_interstitial_id=ca-app-pub-6604202901728757/9016506931
+#admob_rewarded_id=ca-app-pub-6604202901728757/2603261967
+#use_production_ads=true
+admob_banner_id=ca-app-pub-3940256099942544/6300978111
+#admob_native_id=ca-app-pub-6604202901728757/7511853578
+admob_interstitial_id=ca-app-pub-3940256099942544/1033173712
+admob_rewarded_id=ca-app-pub-3940256099942544/5224354917
 use_production_ads=true
 
 # ==========================================
