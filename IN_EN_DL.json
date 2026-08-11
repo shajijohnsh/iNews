@@ -1,0 +1,59 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 27,
+  "feeds": {
+    "thehindu.com": [
+      "https://www.thehindu.com/feeder/default.rss"
+    ],
+    "frontline.thehindu.com": [
+      "https://frontline.thehindu.com/feeder/default.rss"
+    ],
+    "scroll.in": [
+      "https://feeds.feedburner.com/ScrollinArticles.rss"
+    ],
+    "theprint.in": [
+      "https://theprint.in/web-stories/feed/"
+    ],
+    "curlytales.com": [
+      "https://curlytales.com/feed/",
+      "https://curlytales.com/feed/atom/",
+      "https://curlytales.com/feed/",
+      "https://curlytales.com/comments/feed/",
+      "https://curlytales.com/web-stories/feed/",
+      "https://curlytales.com/feed/podcast"
+    ],
+    "medianama.com": [
+      "https://www.medianama.com/feed/",
+      "https://www.medianama.com/comments/feed/"
+    ],
+    "thehansindia.com": [
+      "https://www.thehansindia.com/google_feeds.xml"
+    ],
+    "news18.com": [
+      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
+    ],
+    "socialnews.xyz": [
+      "https://www.socialnews.xyz/feed/"
+    ],
+    "timesnownews.com": [
+      "https://www.timesnownews.com/feeds/gns-en-latest.xml",
+      "https://www.timesnownews.com/feeds/newsletter-en-top-stories.xml"
+    ],
+    "indianstartuptimes.com": [
+      "https://www.indianstartuptimes.com/feed/",
+      "https://www.indianstartuptimes.com/comments/feed/"
+    ],
+    "indialegallive.com": [
+      "https://indialegallive.com/feed/",
+      "https://indialegallive.com/comments/feed/",
+      "https://indialegallive.com/homepage/feed/",
+      "https://indialegallive.com/web-stories/feed/"
+    ]
+  }
+}

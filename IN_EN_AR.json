@@ -1,0 +1,145 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 34,
+  "total_feeds": 69,
+  "feeds": {
+    "indiasentinels.com": [
+      "https://www.indiasentinels.com/rss.php"
+    ],
+    "thehindu.com": [
+      "https://www.thehindu.com/feeder/default.rss"
+    ],
+    "assamtribune.com": [
+      "https://assamtribune.com/google_feeds.xml"
+    ],
+    "revsportz.in": [
+      "https://revsportz.in/feed/",
+      "https://revsportz.in/comments/feed/"
+    ],
+    "nature.com": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "thinkgeoenergy.com": [
+      "https://www.thinkgeoenergy.com/feed/",
+      "https://www.thinkgeoenergy.com/comments/feed/"
+    ],
+    "eastmojo.com": [
+      "https://eastmojo.com/feed/",
+      "https://eastmojo.com/web-stories/feed/"
+    ],
+    "newsriveting.com": [
+      "https://newsriveting.com/feed/",
+      "https://newsriveting.com/comments/feed/"
+    ],
+    "arunachal24.in": [
+      "https://arunachal24.in/feed/",
+      "https://arunachal24.in/comments/feed/",
+      "https://arunachal24.in/web-stories/feed/"
+    ],
+    "deccanchronicle.com": [
+      "https://www.deccanchronicle.com/google_feeds.xml"
+    ],
+    "arunachalobserver.org": [
+      "https://arunachalobserver.org/feed/",
+      "https://arunachalobserver.org/comments/feed/"
+    ],
+    "chinamediaproject.org": [
+      "https://chinamediaproject.org/feed/",
+      "https://chinamediaproject.org/comments/feed/"
+    ],
+    "independent.ng": [
+      "https://independent.ng/feed/",
+      "https://independent.ng/feed/atom/",
+      "https://independent.ng/feed/",
+      "https://independent.ng/comments/feed/"
+    ],
+    "nenow.in": [
+      "https://nenow.in/feed",
+      "https://nenow.in/comments/feed",
+      "https://nenow.in/web-stories/feed/"
+    ],
+    "scmp.com": [
+      "https://www.scmp.com/rss/feed"
+    ],
+    "nktv.in": [
+      "https://www.nktv.in/feed/"
+    ],
+    "northeastlivetv.com": [
+      "https://northeastlivetv.com/feed/",
+      "https://northeastlivetv.com/comments/feed/"
+    ],
+    "news18.com": [
+      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
+    ],
+    "theprint.in": [
+      "https://theprint.in/web-stories/feed/"
+    ],
+    "northeastindia24.com": [
+      "https://northeastindia24.com/feed/",
+      "https://northeastindia24.com/comments/feed/",
+      "https://northeastindia24.com/web-stories/feed/"
+    ],
+    "mahabahu.com": [
+      "https://mahabahu.com/feed/",
+      "https://mahabahu.com/comments/feed/"
+    ],
+    "streamlinefeed.co.ke": [
+      "https://streamlinefeed.co.ke/api/rss"
+    ],
+    "journalarta.com": [
+      "https://journalarta.com/feed/",
+      "https://journalarta.com/comments/feed/"
+    ],
+    "vishvasnews.com": [
+      "https://www.vishvasnews.com/feed/",
+      "https://www.vishvasnews.com/comments/feed/",
+      "https://www.vishvasnews.com/home/feed/"
+    ],
+    "themeghalayanexpress.com": [
+      "https://themeghalayanexpress.com/feed/",
+      "https://themeghalayanexpress.com/comments/feed/"
+    ],
+    "thenewsmill.com": [
+      "https://feeds.feedburner.com/thenewsmill",
+      "https://thenewsmill.com/feed/",
+      "https://thenewsmill.com/comments/feed/"
+    ],
+    "thequint.com": [
+      "https://www.thequint.com/stories.rss?section=news",
+      "https://www.thequint.com/stories.rss?section=entertainment",
+      "https://www.thequint.com/stories.rss?section=sports",
+      "https://www.thequint.com/stories.rss?section=tech-and-auto",
+      "https://www.thequint.com/stories.rss?section=education",
+      "https://www.thequint.com/stories.rss?section=india"
+    ],
+    "inc42.com": [
+      "https://inc42.com/feed/",
+      "https://inc42.com/comments/feed/",
+      "https://inc42.com/web-stories/feed/"
+    ],
+    "altnews.in": [
+      "https://www.altnews.in/feed/"
+    ],
+    "indiancatholicmatters.org": [
+      "https://www.indiancatholicmatters.org/feed/",
+      "https://www.indiancatholicmatters.org/comments/feed/"
+    ],
+    "moneycontrol.com": [
+      "https://www.moneycontrol.com/rss/latestnews.xml"
+    ],
+    "scroll.in": [
+      "https://feeds.feedburner.com/ScrollinArticles.rss"
+    ],
+    "indiatvnews.com": [
+      "https://api.indiatvnews.com/v3/en/gp7naGtJSQrs9oi/rss/topstory"
+    ],
+    "newslivetv.com": [
+      "https://newslivetv.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 30,
+  "total_feeds": 63,
+  "feeds": {
+    "thehindu.com": [
+      "https://www.thehindu.com/feeder/default.rss"
+    ],
+    "assamtribune.com": [
+      "https://assamtribune.com/google_feeds.xml"
+    ],
+    "curlytales.com": [
+      "https://curlytales.com/feed/",
+      "https://curlytales.com/feed/atom/",
+      "https://curlytales.com/feed/",
+      "https://curlytales.com/comments/feed/",
+      "https://curlytales.com/web-stories/feed/",
+      "https://curlytales.com/feed/podcast"
+    ],
+    "sundayguardianlive.com": [
+      "https://sundayguardianlive.com/feed/",
+      "https://sundayguardianlive.com/feed/atom/",
+      "https://sundayguardianlive.com/feed/",
+      "https://sundayguardianlive.com/comments/feed/",
+      "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
+    ],
+    "thehindubusinessline.com": [
+      "https://www.thehindubusinessline.com/feeder/default.rss"
+    ],
+    "moneycontrol.com": [
+      "https://www.moneycontrol.com/rss/latestnews.xml"
+    ],
+    "organiser.org": [
+      "https://organiser.org/feed/",
+      "https://organiser.org/web-stories/feed/"
+    ],
+    "thebetterindia.com": [
+      "https://thebetterindia.com/rss",
+      "https://thebetterindia.com/rss",
+      "https://thebetterindia.com/rss/categories/web-stories"
+    ],
+    "scroll.in": [
+      "https://feeds.feedburner.com/ScrollinArticles.rss"
+    ],
+    "altnews.in": [
+      "https://www.altnews.in/feed/"
+    ],
+    "thequint.com": [
+      "https://www.thequint.com/stories.rss?section=news",
+      "https://www.thequint.com/stories.rss?section=entertainment",
+      "https://www.thequint.com/stories.rss?section=sports",
+      "https://www.thequint.com/stories.rss?section=tech-and-auto",
+      "https://www.thequint.com/stories.rss?section=education",
+      "https://www.thequint.com/stories.rss?section=india"
+    ],
+    "nagpurtoday.in": [
+      "https://www.nagpurtoday.in/feed/"
+    ],
+    "hillpost.in": [
+      "https://hillpost.in/feed/",
+      "https://hillpost.in/comments/feed/",
+      "https://hillpost.in/home/feed/"
+    ],
+    "indiatvnews.com": [
+      "https://api.indiatvnews.com/v3/en/gp7naGtJSQrs9oi/rss/topstory"
+    ],
+    "punekarnews.in": [
+      "https://www.punekarnews.in/feed/",
+      "https://www.punekarnews.in/comments/feed/"
+    ],
+    "frontline.thehindu.com": [
+      "https://frontline.thehindu.com/feeder/default.rss"
+    ],
+    "news18.com": [
+      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
+    ],
+    "afaqs.com": [
+      "https://www.afaqs.com/rss"
+    ],
+    "pragativadi.com": [
+      "https://pragativadi.com/feed/",
+      "https://pragativadi.com/comments/feed/",
+      "https://pragativadi.com/web-stories/feed/"
+    ],
+    "ummid.com": [
+      "https://feeds.feedburner.com/ummid",
+      "https://www.ummid.com/syndications/ummid.xml",
+      "https://ummid.com/syndications/ummid.xml"
+    ],
+    "timesnownews.com": [
+      "https://www.timesnownews.com/feeds/gns-en-latest.xml",
+      "https://www.timesnownews.com/feeds/newsletter-en-top-stories.xml"
+    ],
+    "english.mathrubhumi.com": [
+      "https://english.mathrubhumi.com/sitemaps/mathrubhumien/rss"
+    ],
+    "inventiva.co.in": [
+      "https://www.inventiva.co.in/feed/",
+      "https://www.inventiva.co.in/comments/feed/"
+    ],
+    "bestmediainfo.com": [
+      "https://bestmediainfo.com/rss"
+    ],
+    "medianews4u.com": [
+      "https://www.medianews4u.com/feed/",
+      "https://www.medianews4u.com/comments/feed/"
+    ],
+    "news18marathi.com": [
+      "https://news18marathi.com/commonfeeds/v1/mar/rss/latest.xml"
+    ],
+    "thecsrjournal.in": [
+      "https://thecsrjournal.in/feed/",
+      "https://thecsrjournal.in/comments/feed/"
+    ],
+    "topnews.in": [
+      "https://topnews.in/rss.xml"
+    ],
+    "newsable.asianetnews.com": [
+      "https://newsable.asianetnews.com/rss"
+    ],
+    "sugermint.com": [
+      "https://sugermint.com/feed/",
+      "https://sugermint.com/comments/feed/"
+    ]
+  }
+}
