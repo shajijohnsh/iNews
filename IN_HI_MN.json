@@ -1,0 +1,16 @@
+{
+  "country_code": "IN",
+  "language_code": "HI",
+  "total_domains": 2,
+  "total_feeds": 4,
+  "feeds": {
+    "imphaltimes.com": [
+      "https://www.imphaltimes.com/feed/",
+      "https://www.imphaltimes.com/feed/atom/",
+      "https://www.imphaltimes.com/feed/"
+    ],
+    "manipur.gov.in": [
+      "https://manipur.gov.in/?feed=rss2"
+    ]
+  }
+}
