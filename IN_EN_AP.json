@@ -1,107 +1,104 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 28,
-  "total_feeds": 43,
+  "total_domains": 21,
+  "total_feeds": 54,
   "feeds": {
-    "thehindu.com": [
-      "https://www.thehindu.com/feeder/default.rss"
+    "vaartha.com": [
+      "https://vaartha.com/feed/",
+      "https://vaartha.com/web-stories/feed/"
     ],
-    "newsmeter.in": [
-      "https://newsmeter.in/google_feeds.xml"
+    "ntnews.com": [
+      "https://www.ntnews.com/feed"
     ],
-    "asiancommunitynews.com": [
-      "https://www.asiancommunitynews.com/feed/",
-      "https://www.asiancommunitynews.com/comments/feed/"
+    "prajasakti.com": [
+      "https://prajasakti.com/feeds.news.xml",
+      "https://prajasakti.com/feeds.articles.xml",
+      "https://prajasakti.com/feeds.interviews.xml",
+      "https://prajasakti.com/feeds.photo.xml",
+      "https://prajasakti.com/feeds.visual.xml"
     ],
-    "thecsrjournal.in": [
-      "https://thecsrjournal.in/feed/",
-      "https://thecsrjournal.in/comments/feed/"
+    "manatelangana.news": [
+      "https://www.manatelangana.news/google_feeds.xml"
     ],
-    "hillpost.in": [
-      "https://hillpost.in/feed/",
-      "https://hillpost.in/comments/feed/",
-      "https://hillpost.in/home/feed/"
+    "navatelangana.com": [
+      "https://navatelangana.com/feed/",
+      "https://navatelangana.com/home/feed/"
     ],
-    "timesnownews.com": [
-      "https://www.timesnownews.com/feeds/gns-en-latest.xml",
-      "https://www.timesnownews.com/feeds/newsletter-en-top-stories.xml"
+    "visalaandhra.com": [
+      "https://visalaandhra.com/feed/"
     ],
-    "scroll.in": [
-      "https://feeds.feedburner.com/ScrollinArticles.rss"
+    "prabhanews.com": [
+      "https://prabhanews.com/feed/",
+      "https://prabhanews.com/home-three/feed/"
     ],
-    "afaqs.com": [
-      "https://www.afaqs.com/rss"
+    "telugu.gulte.com": [
+      "https://telugu.gulte.com/feed"
     ],
-    "inventiva.co.in": [
-      "https://www.inventiva.co.in/feed/",
-      "https://www.inventiva.co.in/comments/feed/"
+    "telugu.news18.com": [
+      "https://telugu.news18.com/commonfeeds/v1/tel/rss/latest.xml"
     ],
-    "gulte.com": [
-      "https://www.gulte.com/web-stories/feed/"
+    "telugumirchi.com": [
+      "https://www.telugumirchi.com/feed",
+      "https://www.telugumirchi.com/homepage/feed"
     ],
-    "greatandhra.com": [
-      "https://www.greatandhra.com/feed/",
-      "https://www.greatandhra.com/comments/feed/"
-    ],
-    "siasat.com": [
-      "https://www.siasat.com/feed/"
+    "telugu.greatandhra.com": [
+      "https://telugu.greatandhra.com/feed"
     ],
     "telugu360.com": [
       "https://www.telugu360.com/feed/"
     ],
-    "thehansindia.com": [
-      "https://www.thehansindia.com/google_feeds.xml"
+    "telugu.samayam.com": [
+      "https://telugu.samayam.com/langapi/sitemap/gstandrssfeed.xml"
     ],
-    "medianama.com": [
-      "https://www.medianama.com/feed/",
-      "https://www.medianama.com/comments/feed/"
+    "telugu.asianetnews.com": [
+      "https://telugu.asianetnews.com/rss"
     ],
-    "news18.com": [
-      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
+    "teluguone.com": [
+      "https://www.teluguone.com/news/rss/politics/politics-39.rss",
+      "https://www.teluguone.com/news/rss/lifestyle/lifestyle-35.rss",
+      "https://www.teluguone.com/news/rss/health/health-34.rss",
+      "https://www.teluguone.com/tmdb/rss_reviews.xml",
+      "https://www.teluguone.com/tmdb/rss_tlnews.xml",
+      "https://www.teluguone.com/tmdb/rss_tlgossip.xml",
+      "https://www.teluguone.com/sahityam/rss.php?id=9",
+      "https://www.teluguone.com/sahityam/rss.php?id=5",
+      "https://www.teluguone.com/sahityam/rss.php?id=11",
+      "https://www.teluguone.com/sahityam/rss.php?id=13",
+      "https://www.teluguone.com/recipes/feeds/recipefeeds/non-vegetarian-6.rss",
+      "https://www.teluguone.com/recipes/feeds/recipefeeds/sweetsndeserts-8.rss",
+      "https://www.teluguone.com/recipes/feeds/recipefeeds/rice-4.rss",
+      "https://www.teluguone.com/recipes/feeds/recipefeeds/millet-food-13.rss",
+      "https://www.teluguone.com/recipes/feeds/recipefeeds/beverages-2.rss",
+      "https://www.teluguone.com/vanitha/rss/healthscience/healthscience-75.rss",
+      "https://www.teluguone.com/vanitha/rss/beautycare/beautycare-70.rss",
+      "https://www.teluguone.com/vanitha/rss/fashion/fashion-71.rss",
+      "https://www.teluguone.com/vanitha/rss/ladiesspecial/ladiesspecial-944.rss",
+      "https://www.teluguone.com/vanitha/rss/babycare/babycare-76.rss",
+      "https://www.teluguone.com/devotional/devotionalrss/endukuemiti-107.rss",
+      "https://www.teluguone.com/devotional/devotionalrss/aacharaalu-59.rss",
+      "https://www.teluguone.com/devotional/devotionalrss/puranapatralumythologicalstories-278.rss",
+      "https://www.teluguone.com/devotional/devotionalrss/punyakshetralutemples-65.rss",
+      "https://www.teluguone.com/devotional/devotionalrss/kalagnanam-55.rss"
     ],
-    "altnews.in": [
-      "https://www.altnews.in/feed/"
+    "tupaki.com": [
+      "https://www.tupaki.com/google_feeds.xml"
     ],
-    "moneycontrol.com": [
-      "https://www.moneycontrol.com/rss/latestnews.xml"
+    "andhrawatch.com": [
+      "https://andhrawatch.com/feed/"
     ],
-    "thefederal.com": [
-      "https://thefederal.com/google_feeds.xml"
+    "telugu.telugubullet.com": [
+      "https://telugu.telugubullet.com/feed/"
     ],
-    "chinimandi.com": [
-      "https://www.chinimandi.com/feed/",
-      "https://www.chinimandi.com/comments/feed/"
+    "telugupost.com": [
+      "https://www.telugupost.com/google_feeds.xml"
     ],
-    "socialnews.xyz": [
-      "https://www.socialnews.xyz/feed/"
+    "dearurban.com": [
+      "https://dearurban.com/feed/"
     ],
-    "telugubulletin.com": [
-      "https://www.telugubulletin.com/feed",
-      "https://www.telugubulletin.com/web-stories/feed/"
-    ],
-    "deccanchronicle.com": [
-      "https://www.deccanchronicle.com/google_feeds.xml"
-    ],
-    "news9live.com": [
-      "https://www.news9live.com/feedapi/latest-news/"
-    ],
-    "livelaw.in": [
-      "https://www.livelaw.in/google_feeds.xml"
-    ],
-    "medianews4u.com": [
-      "https://www.medianews4u.com/feed/",
-      "https://www.medianews4u.com/comments/feed/"
-    ],
-    "in.newsroom.ibm.com": [
-      "https://in.newsroom.ibm.com/announcements?pagetemplate=rss"
-    ],
-    "asianage.com": [
-      "https://www.asianage.com/google_feeds.xml"
+    "oktelugu.com": [
+      "https://oktelugu.com/feed",
+      "https://oktelugu.com/web-stories/feed/"
     ]
   }
 }

@@ -1,0 +1,46 @@
+{
+  "country_code": "IN",
+  "language_code": "AS",
+  "total_domains": 12,
+  "total_feeds": 14,
+  "feeds": {
+    "asomiyapratidin.in": [
+      "https://www.asomiyapratidin.in/rss"
+    ],
+    "niyomiyabarta.com": [
+      "https://niyomiyabarta.com/feed/"
+    ],
+    "dainikagradoot.in": [
+      "https://dainikagradoot.in/feed/"
+    ],
+    "assamtribune.com": [
+      "https://assamtribune.com/google_feeds.xml"
+    ],
+    "pratidintime.com": [
+      "https://www.pratidintime.com/rss"
+    ],
+    "ganaadhikar.com": [
+      "https://ganaadhikar.com/feed/"
+    ],
+    "thehillstimes.in": [
+      "https://thehillstimes.in/feed",
+      "https://thehillstimes.in/web-stories/feed/"
+    ],
+    "easternpanorama.in": [
+      "https://easternpanorama.in/index.php?format=feed&type=rss",
+      "https://easternpanorama.in/index.php?format=feed&type=atom"
+    ],
+    "timesofassam.com": [
+      "https://www.timesofassam.com/feed/"
+    ],
+    "assamtimes.org": [
+      "https://assamtimes.org/feed"
+    ],
+    "northeasttoday.in": [
+      "https://northeasttoday.in/feed/"
+    ],
+    "barakbulletin.com": [
+      "https://barakbulletin.com/feed/"
+    ]
+  }
+}

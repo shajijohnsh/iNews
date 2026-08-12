@@ -1,0 +1,25 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 7,
+  "feeds": {
+    "tarunbharat.com": [
+      "https://www.tarunbharat.com/feed/",
+      "https://www.tarunbharat.com/webstories/feed/"
+    ],
+    "goanews.com": [
+      "https://goanews.com/feed/"
+    ],
+    "digitalgoa.com": [
+      "https://digitalgoa.com/feed/",
+      "https://digitalgoa.com/news/feed/"
+    ],
+    "goanobserver.in": [
+      "https://www.goanobserver.in/feed/"
+    ],
+    "goaplusnews.com": [
+      "https://goaplusnews.com/feed/"
+    ]
+  }
+}

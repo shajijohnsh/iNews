@@ -1,50 +1,9 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 50,
-  "total_feeds": 73,
+  "total_domains": 35,
+  "total_feeds": 53,
   "feeds": {
-    "urdu.siasat.com": [
-      "https://urdu.siasat.com/feed/"
-    ],
-    "etemaaddaily.com": [
-      "https://www.etemaadweekly.com/rssfeeds.php"
-    ],
-    "kashmiruzma.news": [
-      "https://kashmiruzma.news/feed/"
-    ],
-    "dailyhindustanexpress.com": [
-      "https://dailyhindustanexpress.com/feed/"
-    ],
-    "avadhnama.com": [
-      "https://avadhnama.com/feed/",
-      "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
-    ],
-    "taasir.com": [
-      "https://taasir.com/feed/"
-    ],
-    "dailysalar.com": [
-      "https://www.dailysalar.com/feed/"
-    ],
-    "dailyaag.com": [
-      "http://dailyaag.com/phase2/feed/"
-    ],
-    "sahilonline.net": [
-      "https://sahilonline.net/feed/posts"
-    ],
-    "aalmiakhbar.com": [
-      "https://aalmiakhbar.com/feed",
-      "https://aalmiakhbar.com/front-page-demo1/feed"
-    ],
-    "thewireurdu.com": [
-      "https://thewireurdu.com/feed/"
-    ],
-    "urdu.news18.com": [
-      "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
-    ],
-    "millattimes.com": [
-      "https://millattimes.com/feed/"
-    ],
     "navbharattimes.indiatimes.com": [
       "https://navbharattimes.indiatimes.com/langapi/sitemap/gstandrssfeed.xml"
     ],
@@ -167,15 +126,6 @@
     ],
     "trthindi.com": [
       "https://www.trthindi.com/feed/rss.xml"
-    ],
-    "sundayguardianlive.com": [
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/feed/atom/",
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
-    ],
-    "newdelhitimes.com": [
-      "https://www.newdelhitimes.com/feed/"
     ]
   }
 }

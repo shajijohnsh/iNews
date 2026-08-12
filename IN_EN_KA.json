@@ -1,0 +1,57 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 19,
+  "feeds": {
+    "vijaykarnataka.com": [
+      "https://vijaykarnataka.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "vishwavani.news": [
+      "https://vishwavani.news/feed/"
+    ],
+    "varthabharati.in": [
+      "https://www.varthabharati.in/google_feeds.xml"
+    ],
+    "sanjevani.com": [
+      "https://sanjevani.com/feed/"
+    ],
+    "prajapragathi.com": [
+      "https://prajapragathi.com/feed/",
+      "https://prajapragathi.com/web-stories/feed/"
+    ],
+    "sudharmasanskritdaily.in": [
+      "https://sudharmasanskritdaily.in/feed/"
+    ],
+    "eesanje.com": [
+      "https://eesanje.com/feed/",
+      "https://eesanje.com/home/feed/"
+    ],
+    "karnatakamalla.com": [
+      "https://www.karnatakamalla.com/rss"
+    ],
+    "suddidina.com": [
+      "https://suddidina.com/feed/"
+    ],
+    "kannadadunia.com": [
+      "https://kannadadunia.com/feed/",
+      "https://kannadadunia.com/home-2/feed/"
+    ],
+    "sahilonline.in": [
+      "https://sahilonline.in/feed/posts"
+    ],
+    "kannada.asianetnews.com": [
+      "https://kannada.asianetnews.com/rss"
+    ],
+    "epaper.dakshinbharat.com": [
+      "https://epaper.dakshinbharat.com/rss"
+    ],
+    "yakshagana.com": [
+      "https://yakshagana.com/feed/",
+      "https://yakshagana.com/home/feed/"
+    ],
+    "vishvakannada.com": [
+      "https://vishvakannada.com/feed/"
+    ]
+  }
+}

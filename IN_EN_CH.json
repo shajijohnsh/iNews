@@ -1,49 +1,63 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 50,
-  "total_feeds": 73,
+  "total_domains": 52,
+  "total_feeds": 74,
   "feeds": {
-    "urdu.siasat.com": [
-      "https://urdu.siasat.com/feed/"
+    "rozanaspokesman.com": [
+      "https://rozanaspokesman.com/rss_feed/"
     ],
-    "etemaaddaily.com": [
-      "https://www.etemaadweekly.com/rssfeeds.php"
+    "nawanzamana.in": [
+      "https://nawanzamana.in/?feed=rss2",
+      "https://nawanzamana.in/?feed=rss2&page_id=24"
     ],
-    "kashmiruzma.news": [
-      "https://kashmiruzma.news/feed/"
+    "epaper.ajdiawaaz.in": [
+      "https://epaper.ajdiawaaz.in/rss"
     ],
-    "dailyhindustanexpress.com": [
-      "https://dailyhindustanexpress.com/feed/"
+    "dailypunjabtimes.com": [
+      "https://dailypunjabtimes.com/feed/"
     ],
-    "avadhnama.com": [
-      "https://avadhnama.com/feed/",
-      "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
+    "epaper.dailyaashiana.com": [
+      "https://epaper.dailyaashiana.com/rss"
     ],
-    "taasir.com": [
-      "https://taasir.com/feed/"
+    "epaper.sachkahoon.com": [
+      "https://epaper.sachkahoon.com/rss"
     ],
-    "dailysalar.com": [
-      "https://www.dailysalar.com/feed/"
+    "deshsewak.org": [
+      "https://www.deshsewak.org/rss"
     ],
-    "dailyaag.com": [
-      "http://dailyaag.com/phase2/feed/"
+    "dailysuraj.com": [
+      "https://dailysuraj.com/rss/pa-rss.xml",
+      "https://dailysuraj.com/atom/pa-atom.xml"
     ],
-    "sahilonline.net": [
-      "https://sahilonline.net/feed/posts"
+    "azadsoch.in": [
+      "https://www.azadsoch.in/rss"
     ],
-    "aalmiakhbar.com": [
-      "https://aalmiakhbar.com/feed",
-      "https://aalmiakhbar.com/front-page-demo1/feed"
+    "charhdikala.com": [
+      "https://charhdikala.com/feed/",
+      "https://charhdikala.com/home/feed/"
     ],
-    "thewireurdu.com": [
-      "https://thewireurdu.com/feed/"
+    "yespunjab.com": [
+      "https://yespunjab.com/feed/"
     ],
-    "urdu.news18.com": [
-      "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
+    "punjabinewsonline.com": [
+      "https://punjabinewsonline.com/?feed=rss2",
+      "https://punjabinewsonline.com/?feed=rss2&page_id=38"
     ],
-    "millattimes.com": [
-      "https://millattimes.com/feed/"
+    "punjabpost.in": [
+      "https://punjabpost.in/welcome/feed"
+    ],
+    "skyhawktimes.com": [
+      "https://skyhawktimes.com/feed/"
+    ],
+    "punjabtimesusa.com": [
+      "https://punjabtimesusa.com/?feed=rss2"
+    ],
+    "deshdoaba.com": [
+      "https://www.deshdoaba.com/feed/"
+    ],
+    "samajweekly.com": [
+      "https://samajweekly.com/feed/"
     ],
     "navbharattimes.indiatimes.com": [
       "https://navbharattimes.indiatimes.com/langapi/sitemap/gstandrssfeed.xml"
@@ -167,15 +181,6 @@
     ],
     "trthindi.com": [
       "https://www.trthindi.com/feed/rss.xml"
-    ],
-    "sundayguardianlive.com": [
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/feed/atom/",
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
-    ],
-    "newdelhitimes.com": [
-      "https://www.newdelhitimes.com/feed/"
     ]
   }
 }
