@@ -1,0 +1,63 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 21,
+  "feeds": {
+    "rozanaspokesman.com": [
+      "https://rozanaspokesman.com/rss_feed/"
+    ],
+    "nawanzamana.in": [
+      "https://nawanzamana.in/?feed=rss2",
+      "https://nawanzamana.in/?feed=rss2&page_id=24"
+    ],
+    "epaper.ajdiawaaz.in": [
+      "https://epaper.ajdiawaaz.in/rss"
+    ],
+    "dailypunjabtimes.com": [
+      "https://dailypunjabtimes.com/feed/"
+    ],
+    "epaper.dailyaashiana.com": [
+      "https://epaper.dailyaashiana.com/rss"
+    ],
+    "epaper.sachkahoon.com": [
+      "https://epaper.sachkahoon.com/rss"
+    ],
+    "deshsewak.org": [
+      "https://www.deshsewak.org/rss"
+    ],
+    "dailysuraj.com": [
+      "https://dailysuraj.com/rss/pa-rss.xml",
+      "https://dailysuraj.com/atom/pa-atom.xml"
+    ],
+    "azadsoch.in": [
+      "https://www.azadsoch.in/rss"
+    ],
+    "charhdikala.com": [
+      "https://charhdikala.com/feed/",
+      "https://charhdikala.com/home/feed/"
+    ],
+    "yespunjab.com": [
+      "https://yespunjab.com/feed/"
+    ],
+    "punjabinewsonline.com": [
+      "https://punjabinewsonline.com/?feed=rss2",
+      "https://punjabinewsonline.com/?feed=rss2&page_id=38"
+    ],
+    "punjabpost.in": [
+      "https://punjabpost.in/welcome/feed"
+    ],
+    "skyhawktimes.com": [
+      "https://skyhawktimes.com/feed/"
+    ],
+    "punjabtimesusa.com": [
+      "https://punjabtimesusa.com/?feed=rss2"
+    ],
+    "deshdoaba.com": [
+      "https://www.deshdoaba.com/feed/"
+    ],
+    "samajweekly.com": [
+      "https://samajweekly.com/feed/"
+    ]
+  }
+}

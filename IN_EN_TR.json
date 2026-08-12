@@ -1,0 +1,51 @@
+{
+  "country_code": "IN",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 19,
+  "feeds": {
+    "jagarantripura.com": [
+      "https://jagarantripura.com/feed/"
+    ],
+    "tripurachronicle.in": [
+      "https://tripurachronicle.in/feed/",
+      "https://tripurachronicle.in/homepage/feed/"
+    ],
+    "indigenousherald.com": [
+      "https://indigenousherald.com/rss.xml",
+      "https://indigenousherald.com/rss.xml?cat=1",
+      "https://indigenousherald.com/rss.xml?cat=2",
+      "https://indigenousherald.com/rss.xml?cat=3",
+      "https://indigenousherald.com/rss.xml?cat=4",
+      "https://indigenousherald.com/rss.xml?cat=5",
+      "https://indigenousherald.com/rss.xml?cat=6"
+    ],
+    "northeasttoday.in": [
+      "https://northeasttoday.in/feed/"
+    ],
+    "sangbadpratidin.in": [
+      "https://www.sangbadpratidin.in/feed/"
+    ],
+    "uttarbangasambad.com": [
+      "https://uttarbangasambad.com/feed/"
+    ],
+    "aamadermalda.in": [
+      "https://www.aamadermalda.in/blog-feed.xml"
+    ],
+    "ganadabi.com": [
+      "https://ganadabi.com/feed/"
+    ],
+    "ekdin-epaper.com": [
+      "https://www.ekdin-epaper.com/rss"
+    ],
+    "puberkalom.com": [
+      "https://www.puberkalom.com/feed"
+    ],
+    "aajkerdeshabrati.wordpress.com": [
+      "https://aajkerdeshabrati.wordpress.com/feed/"
+    ],
+    "songbadmanthan.com": [
+      "https://songbadmanthan.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "country_code": "IN",
+  "language_code": "GU",
+  "total_domains": 14,
+  "total_feeds": 23,
+  "feeds": {
+    "gujaratmitra.in": [
+      "https://gujaratmitra.in/feed/",
+      "https://gujaratmitra.in/feed/atom/",
+      "https://gujaratmitra.in/feed/"
+    ],
+    "gujarattoday.in": [
+      "https://gujarattoday.in/feed/"
+    ],
+    "rakhewaldaily.com": [
+      "https://rakhewaldaily.com/feed.xml"
+    ],
+    "sunvillasamachar.com": [
+      "https://sunvillasamachar.com/feed/",
+      "https://sunvillasamachar.com/home-2/feed/"
+    ],
+    "loksansar.in": [
+      "https://www.loksansar.in/feed/"
+    ],
+    "gujaratvaibhav.com": [
+      "https://gujaratvaibhav.com/feed/"
+    ],
+    "news18.com": [
+      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
+    ],
+    "aaspassepaper.com": [
+      "https://aaspassepaper.com/feed/"
+    ],
+    "gujaratguardian.com": [
+      "https://gujaratguardian.com/feed/"
+    ],
+    "eaglenews.in": [
+      "https://eaglenews.in/feed/",
+      "https://eaglenews.in/news/feed/"
+    ],
+    "muslimsandesh.wordpress.com": [
+      "https://muslimsandesh.wordpress.com/feed/"
+    ],
+    "tv9gujarati.com": [
+      "https://tv9gujarati.com/feed",
+      "https://www.tv9hindi.com/feed/gn"
+    ],
+    "deshgujarat.com": [
+      "https://deshgujarat.com/feed/"
+    ],
+    "iamgujarat.com": [
+      "https://www.iamgujarat.com/langapi/sitemap/gstandrssfeed.xml"
+    ]
+  }
+}

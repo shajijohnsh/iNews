@@ -1,0 +1,423 @@
+{
+  "country_code": "IN",
+  "language_code": "HI",
+  "total_domains": 107,
+  "total_feeds": 201,
+  "feeds": {
+    "thehindubusinessline.com": [
+      "https://www.thehindubusinessline.com/feeder/default.rss"
+    ],
+    "mathrubhumi.com": [
+      "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
+    ],
+    "greaterkashmir.com": [
+      "https://www.greaterkashmir.com/rss"
+    ],
+    "prabhanews.com": [
+      "https://prabhanews.com/feed/",
+      "https://prabhanews.com/comments/feed/",
+      "https://prabhanews.com/home-three/feed/"
+    ],
+    "thehindu.com": [
+      "https://www.thehindu.com/feeder/default.rss"
+    ],
+    "hosadigantha.in": [
+      "https://hosadigantha.com/feed/",
+      "https://hosadigantha.com/comments/feed/"
+    ],
+    "sangbadpratidin.in": [
+      "https://www.sangbadpratidin.in/feed/",
+      "https://www.sangbadpratidin.in/comments/feed/"
+    ],
+    "deccanchronicle.com": [
+      "https://www.deccanchronicle.com/google_feeds.xml"
+    ],
+    "afternoonvoice.com": [
+      "https://www.afternoonvoice.com/feed",
+      "https://www.afternoonvoice.com/comments/feed",
+      "https://www.afternoonvoice.com/web-stories/feed/"
+    ],
+    "orissapost.com": [
+      "https://www.orissapost.com/feed/",
+      "https://www.orissapost.com/comments/feed/"
+    ],
+    "munsifdaily.in": [
+      "https://munsifdaily.in/feed/",
+      "https://munsifdaily.in/comments/feed/"
+    ],
+    "siasat.com": [
+      "https://www.siasat.com/feed/"
+    ],
+    "sanjevani.com": [
+      "https://sanjevani.com/feed/"
+    ],
+    "navabharat.com": [
+      "https://navabharat.com/?feed=rss2",
+      "https://navabharat.com/?feed=comments-rss2"
+    ],
+    "navakal.in": [
+      "https://www.navakal.in/feed/",
+      "https://www.navakal.in/comments/feed/"
+    ],
+    "kashmirobserver.net": [
+      "https://kashmirobserver.net/feed/",
+      "https://kashmirobserver.net/comments/feed/"
+    ],
+    "vijaykarnataka.com": [
+      "https://vijaykarnataka.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "avadhnama.com": [
+      "https://avadhnama.com/feed/",
+      "https://avadhnama.com/comments/feed/",
+      "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
+    ],
+    "janmabhumidaily.com": [
+      "https://janmabhumi.in/feed/"
+    ],
+    "keralakaumudi.com": [
+      "https://keralakaumudi.com/rss/topstories",
+      "https://keralakaumudi.com/rss/topstories"
+    ],
+    "dinamani.com": [
+      "https://www.dinamani.com/stories.rss"
+    ],
+    "saamana.com": [
+      "https://www.saamana.com/feed/",
+      "https://www.saamana.com/comments/feed/"
+    ],
+    "navbharattimes.indiatimes.com": [
+      "https://navbharattimes.indiatimes.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "sudharmasanskritdaily.in": [
+      "https://sudharmasanskritdaily.in/feed/",
+      "https://sudharmasanskritdaily.in/comments/feed/"
+    ],
+    "statetimes.in": [
+      "https://statetimes.in/feed/"
+    ],
+    "karavaliale.net": [
+      "https://karavaliale.net/feed/",
+      "https://karavaliale.net/comments/feed/"
+    ],
+    "janayugomonline.com": [
+      "https://janayugomonline.com/feed/"
+    ],
+    "news-bangla.com": [
+      "https://news-bangla.com/new/?feed=rss2",
+      "https://news-bangla.com/new/?feed=comments-rss2"
+    ],
+    "dailydesherkatha.com": [
+      "https://lenstolerford.net/feed/",
+      "https://lenstolerford.net/comments/feed/"
+    ],
+    "ganadabi.com": [
+      "https://ganadabi.com/feed/",
+      "https://ganadabi.com/comments/feed/"
+    ],
+    "assamtribune.com": [
+      "https://assamtribune.com/google_feeds.xml"
+    ],
+    "asomiyapratidin.in": [
+      "https://www.asomiyapratidin.in/rss"
+    ],
+    "chandrikadaily.com": [
+      "https://www.chandrikadaily.com/feed",
+      "https://www.chandrikadaily.com/comments/feed"
+    ],
+    "madhyamam.com": [
+      "https://www.madhyamam.com/feeds.xml"
+    ],
+    "prahaar.in": [
+      "https://prahaar.in/feed/"
+    ],
+    "thehansindia.com": [
+      "https://www.thehansindia.com/google_feeds.xml"
+    ],
+    "dainiknavajyoti.com": [
+      "https://dainiknavajyoti.com/rss"
+    ],
+    "ganaadhikar.com": [
+      "https://ganaadhikar.com/feed/",
+      "https://ganaadhikar.com/comments/feed/"
+    ],
+    "jaihindnewspaper.com": [
+      "https://jaihindnewspaper.com/feed/",
+      "https://jaihindnewspaper.com/comments/feed/"
+    ],
+    "prajasakti.com": [
+      "https://prajasakti.com/feeds.news.xml",
+      "https://prajasakti.com/feeds.articles.xml",
+      "https://prajasakti.com/feeds.interviews.xml",
+      "https://prajasakti.com/feeds.photo.xml",
+      "https://prajasakti.com/feeds.visual.xml"
+    ],
+    "nagalandpost.com": [
+      "https://nagalandpost.com/feed/",
+      "https://nagalandpost.com/comments/feed/"
+    ],
+    "rozanaspokesman.com": [
+      "https://rozanaspokesman.com/rss_feed/"
+    ],
+    "starofmysore.com": [
+      "https://starofmysore.com/feed/",
+      "https://starofmysore.com/comments/feed/",
+      "https://starofmysore.com/home/feed/"
+    ],
+    "tarunbharat.com": [
+      "https://www.tarunbharat.com/feed/",
+      "https://www.tarunbharat.com/comments/feed/",
+      "https://www.tarunbharat.com/webstories/feed/"
+    ],
+    "andhrapatrika.in": [
+      "https://andhrapatrika.in/feed",
+      "https://andhrapatrika.in/comments/feed"
+    ],
+    "pragativadi.com": [
+      "https://pragativadi.com/feed/",
+      "https://pragativadi.com/comments/feed/",
+      "https://pragativadi.com/web-stories/feed/"
+    ],
+    "sundayguardianlive.com": [
+      "https://sundayguardianlive.com/feed/",
+      "https://sundayguardianlive.com/feed/atom/",
+      "https://sundayguardianlive.com/feed/",
+      "https://sundayguardianlive.com/comments/feed/",
+      "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
+    ],
+    "dharitri.com": [
+      "https://www.dharitri.com/feed/"
+    ],
+    "dhwanipratidhwani.net": [
+      "https://dhwanipratidhwani.net/feed/",
+      "https://dhwanipratidhwani.net/comments/feed/"
+    ],
+    "orissasambad.com": [
+      "https://orissasambad.com/feed/",
+      "https://orissasambad.com/comments/feed/"
+    ],
+    "lancasteronline.com": [
+      "http://lancasteronline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "kaakai.in": [
+      "https://kaakai.in/feed/",
+      "https://kaakai.in/comments/feed/"
+    ],
+    "epaper.hamaramahanagar.net": [
+      "https://epaper.hamaramahanagar.net/rss"
+    ],
+    "dailypunjabtimes.com": [
+      "https://dailypunjabtimes.com/feed/",
+      "https://dailypunjabtimes.com/comments/feed/"
+    ],
+    "punemirror.com": [
+      "https://punemirror.com/feed/",
+      "https://punemirror.com/comments/feed/"
+    ],
+    "aajsamaaj.com": [
+      "https://www.aajsamaaj.com/feed/",
+      "https://www.aajsamaaj.com/web-stories/feed/"
+    ],
+    "manatelangana.org": [
+      "https://www.manatelangana.news/google_feeds.xml"
+    ],
+    "navatelangana.com": [
+      "https://navatelangana.com/feed/",
+      "https://navatelangana.com/comments/feed/",
+      "https://navatelangana.com/home/feed/"
+    ],
+    "tarunmitra.in": [
+      "https://www.tarunmitra.in/rss"
+    ],
+    "teznews.com": [
+      "https://teznews.com/feed/",
+      "https://teznews.com/comments/feed/"
+    ],
+    "odishabytes.com": [
+      "https://odishabytes.com/feed/"
+    ],
+    "yuvaportal.com": [
+      "https://www.yuvaportal.com/rss/news"
+    ],
+    "nirvaynews.com": [
+      "https://nirvaynews.com/feed/",
+      "https://nirvaynews.com/comments/feed/"
+    ],
+    "sakalaepaper.com": [
+      "https://www.sakalaepaper.com/rss"
+    ],
+    "storynetwork.in": [
+      "https://storynetwork.in/feed/",
+      "https://storynetwork.in/comments/feed/",
+      "https://storynetwork.in/web-stories/feed/"
+    ],
+    "localsamosa.com": [
+      "https://www.localsamosa.com/rss"
+    ],
+    "republicpost.in": [
+      "https://republicpost.in/feed/",
+      "https://republicpost.in/comments/feed/",
+      "https://republicpost.in/web-stories/feed/"
+    ],
+    "theweeklynews.in": [
+      "https://theweeklynews.in/feed/",
+      "https://theweeklynews.in/comments/feed/",
+      "https://theweeklynews.in/web-stories/feed/"
+    ],
+    "teluguvaaditv.com": [
+      "https://www.teluguvaaditv.com/feeds/posts/default",
+      "https://www.teluguvaaditv.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/6334487174333636277/posts/default"
+    ],
+    "indoasiadefense.com": [
+      "https://indoasiadefense.com/feed/",
+      "https://indoasiadefense.com/comments/feed/"
+    ],
+    "gamingnation.in": [
+      "https://gamingnation.in/feed/"
+    ],
+    "navpradesh.com": [
+      "https://navpradesh.com/feed/",
+      "https://navpradesh.com/web-stories/feed/"
+    ],
+    "xperttimes.com": [
+      "https://xperttimes.com/feed/",
+      "https://xperttimes.com/comments/feed/",
+      "https://xperttimes.com/home/feed/"
+    ],
+    "rashtradeepika.com": [
+      "https://www.rashtradeepika.com/feed/",
+      "https://www.rashtradeepika.com/comments/feed/",
+      "https://www.rashtradeepika.com/home/feed/"
+    ],
+    "scroll.in": [
+      "https://feeds.feedburner.com/ScrollinArticles.rss"
+    ],
+    "parichaytimes.com": [
+      "https://parichaytimes.info/feed/",
+      "https://parichaytimes.info/comments/feed/"
+    ],
+    "dailypost.in": [
+      "https://dailypost.in/feed/",
+      "https://dailypost.in/comments/feed/"
+    ],
+    "taasir.com": [
+      "https://taasir.com/feed/",
+      "https://taasir.com/comments/feed/"
+    ],
+    "janmorcha.in": [
+      "https://janmorcha.in/feed/",
+      "https://janmorcha.in/comments/feed/"
+    ],
+    "sarbasadharana.com": [
+      "https://sarbasadharana.com/?feed=rss2",
+      "https://sarbasadharana.com/?feed=comments-rss2"
+    ],
+    "gujaratmitra.in": [
+      "https://gujaratmitra.in/feed/",
+      "https://gujaratmitra.in/feed/atom/",
+      "https://gujaratmitra.in/feed/",
+      "https://gujaratmitra.in/comments/feed/"
+    ],
+    "deshdoot.com": [
+      "https://deshdoot.com/feed/",
+      "https://deshdoot.com/comments/feed/",
+      "https://deshdoot.com/web-stories/feed/"
+    ],
+    "pratahkal.com": [
+      "https://www.pratahkal.com/google_feeds.xml"
+    ],
+    "thequint.com": [
+      "https://www.thequint.com/stories.rss?section=news",
+      "https://www.thequint.com/stories.rss?section=entertainment",
+      "https://www.thequint.com/stories.rss?section=sports",
+      "https://www.thequint.com/stories.rss?section=tech-and-auto",
+      "https://www.thequint.com/stories.rss?section=education",
+      "https://www.thequint.com/stories.rss?section=india"
+    ],
+    "risingkashmir.com": [
+      "https://risingkashmir.com/rss"
+    ],
+    "asianage.com": [
+      "https://www.asianage.com/google_feeds.xml"
+    ],
+    "hbtimes.in": [
+      "https://ml88.social/feed/",
+      "https://ml88.social/comments/feed/"
+    ],
+    "trolleytimes.com": [
+      "https://trolleytimes.com/feed/",
+      "https://trolleytimes.com/comments/feed/"
+    ],
+    "thenewsagenda.com": [
+      "https://thenewsagenda.com/feed/",
+      "https://thenewsagenda.com/comments/feed/"
+    ],
+    "b4blaze.com": [
+      "https://ml.b4blaze.com/feed",
+      "https://ml.b4blaze.com/comments/feed",
+      "https://ml.b4blaze.com/home-2/feed"
+    ],
+    "khabarsatta.com": [
+      "https://khabarsatta.com/feed/",
+      "https://khabarsatta.com/comments/feed/",
+      "https://khabarsatta.com/khabar-satta/feed/",
+      "https://khabarsatta.com/web-stories/feed/"
+    ],
+    "andamanchronicle.net": [
+      "https://andamanchronicle.net/feed/",
+      "https://andamanchronicle.net/comments/feed/"
+    ],
+    "andamansheekha.com": [
+      "https://andamansheekha.com/feed/",
+      "https://andamansheekha.com/comments/feed/"
+    ],
+    "hindimilap.in": [
+      "https://www.hindimilap.com/feed/",
+      "https://www.hindimilap.com/comments/feed/"
+    ],
+    "epaper.dakshinbharat.com": [
+      "https://epaper.dakshinbharat.com/rss"
+    ],
+    "epaper.dopaharmetro.com": [
+      "https://epaper.dopaharmetro.com/rss"
+    ],
+    "esamaad.com": [
+      "https://esamaad.com/feed/",
+      "https://esamaad.com/comments/feed/"
+    ],
+    "hindmatamirror.in": [
+      "https://www.pipefittings-flanges.in/feed/",
+      "https://www.pipefittings-flanges.in/comments/feed/"
+    ],
+    "jansandeshtimes.net": [
+      "https://www.jansandeshtimes.net/rss"
+    ],
+    "kannadatimes.com": [
+      "https://kannadatimes.com/feed/"
+    ],
+    "karnatakamalla.com": [
+      "https://www.karnatakamalla.com/rss"
+    ],
+    "jatgazette.in": [
+      "https://jatgazette.in/feed/",
+      "https://jatgazette.in/comments/feed/"
+    ],
+    "thekashmirmonitor.net": [
+      "https://www.thekashmirmonitor.net/feed/",
+      "https://www.thekashmirmonitor.net/comments/feed/"
+    ],
+    "krishakjagat.org": [
+      "https://www.krishakjagat.org/feed/"
+    ],
+    "loksansar.in": [
+      "https://www.loksansar.in/feed/",
+      "https://www.loksansar.in/comments/feed/"
+    ],
+    "loktej.com": [
+      "https://www.loktej.com/rss"
+    ],
+    "rakhewaldaily.com": [
+      "https://rakhewaldaily.com/feed.xml"
+    ]
+  }
+}
