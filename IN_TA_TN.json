@@ -1,0 +1,69 @@
+{
+  "country_code": "IN",
+  "language_code": "TA",
+  "total_domains": 18,
+  "total_feeds": 25,
+  "feeds": {
+    "dinamani.com": [
+      "https://www.dinamani.com/stories.rss"
+    ],
+    "viduthalai.in": [
+      "https://viduthalai.in/feed/"
+    ],
+    "dinasudar.com": [
+      "https://dinasudar.com/feed/"
+    ],
+    "tamil.samayam.com": [
+      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "tamil.asianetnews.com": [
+      "https://tamil.asianetnews.com/rss"
+    ],
+    "chennaionline.com": [
+      "https://www.chennaionline.com/feed/"
+    ],
+    "inioru.com": [
+      "https://inioru.com/feed/"
+    ],
+    "news4tamil.com": [
+      "https://news4tamil.com/feed/"
+    ],
+    "tamilminutes.com": [
+      "https://tamilminutes.com/feed/",
+      "https://tamilminutes.com/web-stories/feed/"
+    ],
+    "mrpuyal.com": [
+      "https://mrpuyal.com/feed/",
+      "https://mrpuyal.com/web-stories/feed/"
+    ],
+    "athirvu.in": [
+      "https://www.athirvu.in/feed/"
+    ],
+    "vanakkamlondon.com": [
+      "https://vanakkamlondon.com/feed/",
+      "https://vanakkamlondon.com/feed/atom/",
+      "https://vanakkamlondon.com/feed/"
+    ],
+    "globaltamilnews.net": [
+      "https://globaltamilnews.net/feed/",
+      "https://globaltamilnews.net/feed/atom/",
+      "https://globaltamilnews.net/feed/"
+    ],
+    "athirady.com": [
+      "https://www.athirady.com/feed"
+    ],
+    "4tamilmedia.com": [
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
+    ],
+    "thehindu.com": [
+      "https://www.thehindu.com/feeder/default.rss"
+    ],
+    "newstodaynet.com": [
+      "https://newstodaynet.com/feed/"
+    ],
+    "chennaivision.com": [
+      "https://chennaivision.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "country_code": "IN",
+  "language_code": "MR",
+  "total_domains": 10,
+  "total_feeds": 13,
+  "feeds": {
+    "maharashtratimes.com": [
+      "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "tarunbharat.com": [
+      "https://www.tarunbharat.com/feed/",
+      "https://www.tarunbharat.com/webstories/feed/"
+    ],
+    "prahaar.in": [
+      "https://prahaar.in/feed/"
+    ],
+    "parshvbhumi.com": [
+      "https://www.parshvbhumi.com/rss"
+    ],
+    "deshdoot.com": [
+      "https://deshdoot.com/feed/",
+      "https://deshdoot.com/web-stories/feed/"
+    ],
+    "maxmaharashtra.com": [
+      "https://www.maxmaharashtra.com/google_feeds.xml"
+    ],
+    "hellomaharashtra.in": [
+      "https://hellomaharashtra.in/feed/"
+    ],
+    "maharashtradesha.com": [
+      "https://maharashtradesha.com/feed/"
+    ],
+    "afternoonvoice.com": [
+      "https://www.afternoonvoice.com/feed",
+      "https://www.afternoonvoice.com/web-stories/feed/"
+    ],
+    "chaprak.com": [
+      "https://www.chaprak.com/blog-feed.xml"
+    ]
+  }
+}
