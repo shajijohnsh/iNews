@@ -1,0 +1,17 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "mymensinghpratidin.com": [
+      "https://mymensinghpratidin.com/feed/"
+    ],
+    "netrokonanews24.com": [
+      "https://netrokonanews24.com/feed/"
+    ],
+    "jamalpurbarta.com": [
+      "https://jamalpurbarta.com/feed/"
+    ]
+  }
+}

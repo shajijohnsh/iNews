@@ -1,0 +1,19 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 5,
+  "feeds": {
+    "acadienouvelle.com": [
+      "https://www.acadienouvelle.com/feed/",
+      "https://www.acadienouvelle.com/feed/",
+      "https://www.acadienouvelle.com/accueil/feed/"
+    ],
+    "stcroixcourier.ca": [
+      "https://chco.tv/feed/"
+    ],
+    "thebruns.ca": [
+      "https://thebruns.ca/feed/"
+    ]
+  }
+}

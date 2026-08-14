@@ -1,0 +1,25 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 5,
+  "total_feeds": 7,
+  "feeds": {
+    "dailyajkerbarta.com": [
+      "https://dailyajkerbarta.com/feed/"
+    ],
+    "ajkerparibartan.com": [
+      "https://ajkerparibartan.com/feed/",
+      "https://ajkerparibartan.com/feed/atom/"
+    ],
+    "ajkerbhola.com": [
+      "https://www.ajkerbhola.com/feed",
+      "https://www.ajkerbhola.com/feed/atom"
+    ],
+    "barisaltoday.com": [
+      "https://barisaltoday.com/feed/"
+    ],
+    "bholanews.com": [
+      "https://bholanews.com/feed"
+    ]
+  }
+}

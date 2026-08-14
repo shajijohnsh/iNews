@@ -1,0 +1,56 @@
+{
+  "country_code": "CA",
+  "language_code": "FR",
+  "total_domains": 16,
+  "total_feeds": 16,
+  "feeds": {
+    "qctonline.com": [
+      "https://www.qctonline.com/feed/"
+    ],
+    "lecourrierdusud.ca": [
+      "https://lecourrierdusud.ca/feed/"
+    ],
+    "thesuburban.com": [
+      "http://www.thesuburban.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sherbrookerecord.com": [
+      "https://www.sherbrookerecord.com/feed/"
+    ],
+    "lasentinelle.ca": [
+      "https://lasentinelle.ca/feed/"
+    ],
+    "lactiondautray.com": [
+      "https://www.lactiondautray.com/feed/"
+    ],
+    "lareleve.qc.ca": [
+      "https://lareleve.qc.ca/feed/"
+    ],
+    "mcgilldaily.com": [
+      "https://www.mcgilldaily.com/feed/"
+    ],
+    "thelinknewspaper.ca": [
+      "https://thelinknewspaper.ca/feed"
+    ],
+    "voir.ca": [
+      "https://voir.ca/feed/"
+    ],
+    "delitfrancais.com": [
+      "https://www.delitfrancais.com/feed/"
+    ],
+    "journalmetro.com": [
+      "https://journalmetro.com/feed/"
+    ],
+    "mtltimes.ca": [
+      "https://mtltimes.ca/feed/"
+    ],
+    "infodunordtremblant.ca": [
+      "https://infodunordtremblant.ca/feed/"
+    ],
+    "horizonweekly.ca": [
+      "https://horizonweekly.ca/feed/"
+    ],
+    "branchez-vous.com": [
+      "https://branchez-vous.com/feed/"
+    ]
+  }
+}

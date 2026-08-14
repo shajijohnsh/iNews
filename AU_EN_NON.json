@@ -1,0 +1,12 @@
+{
+  "country_code": "AU",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 2,
+  "feeds": {
+    "tamilaustralian.com": [
+      "https://tamilaustralian.com/feed/",
+      "https://tamilaustralian.com/home/feed/"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 24,
+  "total_feeds": 27,
+  "feeds": {
+    "thegauntlet.ca": [
+      "https://thegauntlet.ca/feed/"
+    ],
+    "themeliorist.ca": [
+      "https://themeliorist.ca/feed/"
+    ],
+    "thereflector.ca": [
+      "https://www.thereflector.ca/feed/"
+    ],
+    "ubyssey.ca": [
+      "https://ubyssey.ca/rss"
+    ],
+    "capilanocourier.com": [
+      "https://www.capilanocourier.com/feed/"
+    ],
+    "ufvcascade.ca": [
+      "https://ufvcascade.ca/feed/",
+      "https://ufvcascade.ca/home/feed/"
+    ],
+    "runnermag.ca": [
+      "https://runnermag.ca/feed/"
+    ],
+    "the-peak.ca": [
+      "https://the-peak.ca/feed/"
+    ],
+    "nexusnewspaper.com": [
+      "https://www.nexusnewspaper.com/newsite/feed/"
+    ],
+    "themanitoban.com": [
+      "https://themanitoban.com/feed/"
+    ],
+    "thebruns.ca": [
+      "https://thebruns.ca/feed/"
+    ],
+    "since1872.ca": [
+      "https://www.since1872.ca/feed/",
+      "https://www.since1872.ca/home-new/feed/"
+    ],
+    "themuse.ca": [
+      "https://themuse.ca/feed/"
+    ],
+    "theath.ca": [
+      "https://theath.ca/feed/"
+    ],
+    "brockpress.com": [
+      "https://brockpress.com/feed/"
+    ],
+    "queensjournal.ca": [
+      "https://www.queensjournal.ca/feed/"
+    ],
+    "theontarion.com": [
+      "https://theontarion.com/feed/"
+    ],
+    "westerngazette.ca": [
+      "http://westerngazette.ca/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecord.ca": [
+      "https://thecord.ca/feed/",
+      "https://thecord.ca/feed/podcast"
+    ],
+    "theeyeopener.com": [
+      "https://theeyeopener.com/feed/"
+    ],
+    "mcgilldaily.com": [
+      "https://www.mcgilldaily.com/feed/"
+    ],
+    "thelinknewspaper.ca": [
+      "https://thelinknewspaper.ca/feed"
+    ],
+    "delitfrancais.com": [
+      "https://www.delitfrancais.com/feed/"
+    ],
+    "carillonregina.com": [
+      "https://carillonregina.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "country_code": "AU",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 19,
+  "feeds": {
+    "brisbanetimes.com.au": [
+      "https://www.brisbanetimes.com.au/rss/feed.xml",
+      "https://www.brisbanetimes.com.au/rss/politics/federal.xml",
+      "https://www.brisbanetimes.com.au/rss/national/queensland.xml",
+      "https://www.brisbanetimes.com.au/rss/world.xml",
+      "https://www.brisbanetimes.com.au/rss/national.xml",
+      "https://www.brisbanetimes.com.au/rss/business.xml",
+      "https://www.brisbanetimes.com.au/rss/culture.xml",
+      "https://www.brisbanetimes.com.au/rss/technology.xml",
+      "https://www.brisbanetimes.com.au/rss/environment.xml",
+      "https://www.brisbanetimes.com.au/rss/lifestyle.xml",
+      "https://www.brisbanetimes.com.au/rss/property.xml",
+      "https://www.brisbanetimes.com.au/rss/goodfood.xml",
+      "https://www.brisbanetimes.com.au/rss/traveller.xml",
+      "https://www.brisbanetimes.com.au/rss/sport.xml",
+      "https://www.brisbanetimes.com.au/rss/sport/nrl.xml",
+      "https://www.brisbanetimes.com.au/rss/sport/rugby-union.xml",
+      "https://www.brisbanetimes.com.au/rss/sport/afl.xml"
+    ],
+    "westender.com.au": [
+      "https://westender.com.au/feed/"
+    ],
+    "echo-news.com.au": [
+      "https://echo-news.com.au/feed/"
+    ]
+  }
+}

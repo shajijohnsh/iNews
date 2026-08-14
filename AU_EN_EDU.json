@@ -1,0 +1,29 @@
+{
+  "country_code": "AU",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 7,
+  "feeds": {
+    "honisoit.com": [
+      "https://honisoit.com/feed/"
+    ],
+    "tertangala.net": [
+      "https://tertangala.net/feed/"
+    ],
+    "semperfloreat.com.au": [
+      "https://www.semperfloreat.com.au/feed/"
+    ],
+    "ontherecordunisa.com": [
+      "https://ontherecordau.com/feed/"
+    ],
+    "rmitcatalyst.com": [
+      "https://rmitcatalyst.com/feed/"
+    ],
+    "farragomagazine.com": [
+      "https://farragomagazine.com/news/rss/7797/subtree/"
+    ],
+    "pelicanmagazine.com.au": [
+      "https://www.pelicanmagazine.com.au/blog-feed.xml"
+    ]
+  }
+}

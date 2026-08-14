@@ -1,0 +1,32 @@
+{
+  "country_code": "AU",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 8,
+  "feeds": {
+    "adelaidereview.com.au": [
+      "https://www.adelaidereview.com.au/feed/"
+    ],
+    "courier.net.au": [
+      "https://www.courier.net.au/rss/"
+    ],
+    "ypct.com.au": [
+      "https://www.ypct.com.au/rss/"
+    ],
+    "barossaleader.com": [
+      "https://www.barossaleader.com/rss/"
+    ],
+    "cooberpedytimes.com": [
+      "https://cooberpedytimes.com/feed/"
+    ],
+    "weekenderherald.com.au": [
+      "https://weekenderherald.com.au/feed/"
+    ],
+    "murraypioneer.com.au": [
+      "https://www.murraypioneer.com.au/rss/"
+    ],
+    "twowellsecho.com.au": [
+      "https://twowellsecho.com.au/feed/"
+    ]
+  }
+}

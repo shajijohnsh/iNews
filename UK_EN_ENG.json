@@ -1,0 +1,30 @@
+{
+  "country_code": "UK",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 8,
+  "feeds": {
+    "chronicleseries.com": [
+      "https://www.chronicleseries.com/feed/",
+      "https://www.chronicleseries.com/home/feed/"
+    ],
+    "coventryadvertiser.co.uk": [
+      "https://www.coventryadvertiser.co.uk/feed/"
+    ],
+    "teesdalemercury.co.uk": [
+      "https://teesdalemercury.co.uk/feed/"
+    ],
+    "pukaarnews.com": [
+      "https://pukaarnews.com/feed/"
+    ],
+    "socialistworker.co.uk": [
+      "https://socialistworker.co.uk/feed/"
+    ],
+    "southwarknews.co.uk": [
+      "https://southwarknews.co.uk/feed/"
+    ],
+    "cwherald.com": [
+      "https://cwherald.com/feed/"
+    ]
+  }
+}

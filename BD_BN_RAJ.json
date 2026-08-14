@@ -1,0 +1,20 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 4,
+  "total_feeds": 4,
+  "feeds": {
+    "sonalisangbad.com": [
+      "https://sonalisangbad.com/feed/"
+    ],
+    "padmanews24.com": [
+      "https://padmanews24.com/feed/"
+    ],
+    "bograsangbad.com": [
+      "https://bograsangbad.com/feed"
+    ],
+    "onabil.net": [
+      "https://onabil.net/?feed=rss2"
+    ]
+  }
+}

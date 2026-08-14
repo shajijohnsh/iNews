@@ -1,0 +1,83 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 24,
+  "total_feeds": 27,
+  "feeds": {
+    "thehockeynews.com": [
+      "https://thehockeynews.com/rss/THNHOME/full",
+      "https://thehockeynews.com/feed/THNHOME/full.xml"
+    ],
+    "moneysense.ca": [
+      "https://www.moneysense.ca/feed/"
+    ],
+    "hellomagazine.com": [
+      "https://www.hellomagazine.com/feeds/rss/any/any/any/50.xml"
+    ],
+    "lactualite.com": [
+      "https://lactualite.com/feed/"
+    ],
+    "nightlife.ca": [
+      "https://nightlife.ca/feed/"
+    ],
+    "montecristomagazine.com": [
+      "https://montecristomagazine.com/feed"
+    ],
+    "faze.ca": [
+      "https://faze.ca/feed/"
+    ],
+    "canadianart.ca": [
+      "https://canadianart.ca/feed/"
+    ],
+    "nuvomagazine.com": [
+      "https://nuvomagazine.com/feed"
+    ],
+    "cbj.ca": [
+      "https://www.cbj.ca/feed/"
+    ],
+    "skicanadamag.com": [
+      "https://skicanadamag.com/feed/",
+      "https://skicanadamag.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php"
+    ],
+    "greenhousecanada.com": [
+      "https://www.greenhousecanada.com/feed/"
+    ],
+    "malahatreview.ca": [
+      "http://www.malahatreview.ca/malahat_review.xml"
+    ],
+    "everydayfiction.com": [
+      "https://everydayfiction.com/feed/"
+    ],
+    "shamelessmag.com": [
+      "https://wayback.archive-it.org/17766/20240210053551/https://shamelessmag.com/feeds/blog"
+    ],
+    "albertaviews.ca": [
+      "https://albertaviews.ca/feed/"
+    ],
+    "tnq.ca": [
+      "https://tnq.ca/feed/"
+    ],
+    "arcpoetry.ca": [
+      "https://arcpoetry.ca/feed/"
+    ],
+    "grainmagazine.ca": [
+      "https://grainmagazine.ca/blog/rss"
+    ],
+    "brickmag.com": [
+      "https://brickmag.com/feed/",
+      "https://brickmag.com/feed/podcast"
+    ],
+    "antigonishreview.com": [
+      "https://antigonishreview.com/feed/"
+    ],
+    "autoatlantic.com": [
+      "https://www.autoatlantic.com/feed/"
+    ],
+    "fillingstation.ca": [
+      "https://www.fillingstation.ca/blog-feed.xml"
+    ],
+    "action-nationale.qc.ca": [
+      "https://action-nationale.qc.ca/feed/"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "country_code": "AU",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 10,
+  "feeds": {
+    "easternshoresun.com.au": [
+      "https://easternshoresun.com.au/feed/"
+    ],
+    "glenorchygazette.com.au": [
+      "https://glenorchygazette.com.au/feed/"
+    ],
+    "togatus.com.au": [
+      "https://togatus.com.au/rss/"
+    ],
+    "huonnews.com": [
+      "https://huonnews.com/feed/"
+    ],
+    "kingboroughchronicle.com.au": [
+      "https://kingboroughchronicle.com.au/feed/"
+    ],
+    "northeasternadvertiser.com": [
+      "https://northeasternadvertiser.com/home?format=rss"
+    ],
+    "tasmaniantimes.com": [
+      "https://tasmaniantimes.com/feed/",
+      "https://tasmaniantimes.com/feed/atom/",
+      "https://tasmaniantimes.com/feed/"
+    ],
+    "brightoncommunitynews.com.au": [
+      "https://brightoncommunitynews.com.au/feed/"
+    ]
+  }
+}

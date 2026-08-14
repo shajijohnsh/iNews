@@ -1,0 +1,26 @@
+{
+  "country_code": "UK",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 6,
+  "feeds": {
+    "edinburgh.gov.uk": [
+      "https://www.edinburgh.gov.uk/rss/news"
+    ],
+    "nen.press": [
+      "https://nen.press/feed/"
+    ],
+    "scotsindependent.scot": [
+      "https://scotsindependent.scot/?feed=rss2"
+    ],
+    "dundeemessenger.co.uk": [
+      "https://dundeemessenger.co.uk/feed/"
+    ],
+    "whfp.com": [
+      "https://www.whfp.com/feed/"
+    ],
+    "orcadian.co.uk": [
+      "https://orcadian.co.uk/feed/"
+    ]
+  }
+}

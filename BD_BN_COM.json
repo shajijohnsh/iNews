@@ -1,0 +1,46 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 12,
+  "total_feeds": 14,
+  "feeds": {
+    "comillardak.com": [
+      "https://www.comillardak.com/feed"
+    ],
+    "cumillaprotidin.com": [
+      "https://cumillaprotidin.com/feed/"
+    ],
+    "ajker-cumilla.com": [
+      "https://www.ajker-cumilla.com/feed/"
+    ],
+    "comillarbarta.com": [
+      "https://comillarbarta.com/feed/"
+    ],
+    "amaderbrahmanbaria.com": [
+      "https://amaderbrahmanbaria.com/feed",
+      "https://amaderbrahmanbaria.com/home/feed"
+    ],
+    "lakshmipur24.com": [
+      "https://lakshmipur24.com/feed/",
+      "https://lakshmipur24.com/feed/"
+    ],
+    "cumillarpaper.com": [
+      "https://cumillarpaper.com/feed"
+    ],
+    "brahmanbaria24.com": [
+      "https://brahmanbaria24.com/feed/"
+    ],
+    "dailycomillanews.com": [
+      "https://dailycomillanews.com/feed"
+    ],
+    "feninewsbd.com": [
+      "https://feninewsbd.com/feed/"
+    ],
+    "chandpurnews.com": [
+      "https://chandpurnews.com/feed/"
+    ],
+    "chandpurtimes.com": [
+      "https://chandpurtimes.com/feed/"
+    ]
+  }
+}

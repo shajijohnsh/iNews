@@ -1,0 +1,17 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "gazette.mun.ca": [
+      "https://gazette.mun.ca/feed/"
+    ],
+    "themuse.ca": [
+      "https://themuse.ca/feed/"
+    ],
+    "theshoreline.ca": [
+      "https://theshoreline.ca/feed/"
+    ]
+  }
+}

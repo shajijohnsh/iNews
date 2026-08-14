@@ -1,0 +1,26 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 6,
+  "total_feeds": 6,
+  "feeds": {
+    "channelionline.com": [
+      "https://www.channelionline.com/feed/"
+    ],
+    "itvbd.com": [
+      "https://www.itvbd.com/feed/"
+    ],
+    "maasranga.tv": [
+      "https://maasranga.tv/feed/"
+    ],
+    "satv.tv": [
+      "https://www.satv.tv/feed/"
+    ],
+    "chsuk.tv": [
+      "https://chsuk.tv/feed/"
+    ],
+    "dbcnews.tv": [
+      "https://dbcnews.tv/feed.xml"
+    ]
+  }
+}

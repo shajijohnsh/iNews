@@ -1,0 +1,24 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 6,
+  "feeds": {
+    "canindia.com": [
+      "https://canindia.com/feed/"
+    ],
+    "horizonweekly.ca": [
+      "https://horizonweekly.ca/feed/"
+    ],
+    "gujaratnewsline.ca": [
+      "https://www.gujaratnewsline.ca/feed/"
+    ],
+    "chinesepress.com": [
+      "https://www.chinesepress.com/feed"
+    ],
+    "thebengalitimes.com": [
+      "https://www.thebengalitimes.com/feed/",
+      "https://www.thebengalitimes.com/home/feed/"
+    ]
+  }
+}

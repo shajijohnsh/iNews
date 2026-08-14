@@ -1,0 +1,16 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 2,
+  "total_feeds": 4,
+  "feeds": {
+    "chilahatiweb.com": [
+      "https://www.chilahatiweb.com/feeds/posts/default",
+      "https://www.chilahatiweb.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/761748852721868719/posts/default"
+    ],
+    "jugerkhabor.com": [
+      "https://jugerkhabor.com/feed"
+    ]
+  }
+}

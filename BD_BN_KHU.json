@@ -1,0 +1,34 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 8,
+  "total_feeds": 10,
+  "feeds": {
+    "purbanchal.com": [
+      "https://purbanchal.com/feed/"
+    ],
+    "khulnanchal.com": [
+      "https://khulnanchal.com/?feed=rss2"
+    ],
+    "dailyprobaha.com.bd": [
+      "https://dailyprobaha.com.bd/feed/"
+    ],
+    "meherpurnews.com": [
+      "https://www.meherpurnews.com/feed/",
+      "https://www.meherpurnews.com/feed/atom/",
+      "https://www.meherpurnews.com/feed/"
+    ],
+    "maguranews.com": [
+      "https://www.maguranews.com/feed/"
+    ],
+    "satkhiranews.com": [
+      "https://www.satkhiranews.com/feed/"
+    ],
+    "patradoot.net": [
+      "https://patradoot.net/feed/"
+    ],
+    "onenewsbd.com": [
+      "https://www.onenewsbd.com/feed"
+    ]
+  }
+}

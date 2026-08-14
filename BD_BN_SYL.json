@@ -1,0 +1,29 @@
+{
+  "country_code": "BD",
+  "language_code": "BN",
+  "total_domains": 7,
+  "total_feeds": 7,
+  "feeds": {
+    "beanibazartimes.com": [
+      "https://beanibazartimes.com/feed/"
+    ],
+    "dailykhowai.com": [
+      "https://dailykhowai.com/feed/"
+    ],
+    "sylhetreport.com": [
+      "https://sylhetreport.com/feed"
+    ],
+    "crimesylhet.com": [
+      "https://www.crimesylhet.com/feed/"
+    ],
+    "habiganjnews24.com": [
+      "https://www.habiganjnews24.com/feed/"
+    ],
+    "habiganjexpress.com": [
+      "https://www.habiganjexpress.com/?feed=rss2"
+    ],
+    "dailyprovatbela.com": [
+      "https://www.dailyprovatbela.com/feed/"
+    ]
+  }
+}

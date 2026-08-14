@@ -1,0 +1,17 @@
+{
+  "country_code": "UK",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "group.belfastmedia.com": [
+      "https://group.belfastmedia.com/feed/"
+    ],
+    "thedownrecorder.co.uk": [
+      "https://thedownrecorder.co.uk/feed/"
+    ],
+    "fermanaghherald.com": [
+      "https://www.fermanaghherald.com/feed/"
+    ]
+  }
+}

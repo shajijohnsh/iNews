@@ -1,0 +1,39 @@
+{
+  "country_code": "AU",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 21,
+  "feeds": {
+    "smh.com.au": [
+      "https://www.smh.com.au/rss/feed.xml",
+      "https://www.smh.com.au/rss/politics/federal.xml",
+      "https://www.smh.com.au/rss/national/nsw.xml",
+      "https://www.smh.com.au/rss/world.xml",
+      "https://www.smh.com.au/rss/national.xml",
+      "https://www.smh.com.au/rss/business.xml",
+      "https://www.smh.com.au/rss/culture.xml",
+      "https://www.smh.com.au/rss/technology.xml",
+      "https://www.smh.com.au/rss/environment.xml",
+      "https://www.smh.com.au/rss/lifestyle.xml",
+      "https://www.smh.com.au/rss/property.xml",
+      "https://www.smh.com.au/rss/goodfood.xml",
+      "https://www.smh.com.au/rss/traveller.xml",
+      "https://www.smh.com.au/rss/sport.xml",
+      "https://www.smh.com.au/rss/sport/nrl.xml",
+      "https://www.smh.com.au/rss/sport/rugby-union.xml",
+      "https://www.smh.com.au/rss/sport/afl.xml"
+    ],
+    "campusreview.com.au": [
+      "https://www.campusreview.com.au/feed/"
+    ],
+    "hawkesburygazette.com.au": [
+      "https://www.hawkesburygazette.com/directory-posts/rss/"
+    ],
+    "westernweekender.com.au": [
+      "https://www.westernweekender.com.au/feed/"
+    ],
+    "cowraguardian.com.au": [
+      "https://www.cowraguardian.com.au/sitemaps/cowraguardian/rss"
+    ]
+  }
+}

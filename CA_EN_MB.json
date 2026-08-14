@@ -1,0 +1,44 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 14,
+  "feeds": {
+    "winnipegfreepress.com": [
+      "https://www.winnipegfreepress.com/feed"
+    ],
+    "winnipegsun.com": [
+      "http://www.winnipegsun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "themanitoban.com": [
+      "https://themanitoban.com/feed/"
+    ],
+    "la-liberte.ca": [
+      "https://www.la-liberte.ca/feed/"
+    ],
+    "filipinojournal.com": [
+      "https://filipinojournal.com/feed/"
+    ],
+    "jewishpostandnews.ca": [
+      "https://jewishpostandnews.ca/feed/"
+    ],
+    "theprojector.ca": [
+      "https://theprojector.ca/feed/"
+    ],
+    "pilipino-express.com": [
+      "https://pilipino-express.com/?format=feed&type=rss",
+      "https://pilipino-express.com/?format=feed&type=atom"
+    ],
+    "brandonsun.com": [
+      "https://www.brandonsun.com/feed"
+    ],
+    "minnedosatribune.com": [
+      "https://minnedosatribune.com/feed/",
+      "https://minnedosatribune.com/feed/atom/",
+      "https://minnedosatribune.com/home/feed/"
+    ],
+    "thegraphicleader.com": [
+      "http://www.thegraphicleader.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "country_code": "CA",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 26,
+  "feeds": {
+    "orientalweekly.net": [
+      "https://orientalweekly.net/feed/",
+      "https://orientalweekly.net/blog/feed/"
+    ],
+    "punjabiakhbaar.ca": [
+      "https://www.punjabiakhbaar.ca/feed/",
+      "https://www.punjabiakhbaar.ca/web-stories/feed/"
+    ],
+    "thereflector.ca": [
+      "https://www.thereflector.ca/feed/"
+    ],
+    "thegauntlet.ca": [
+      "https://thegauntlet.ca/feed/"
+    ],
+    "thenuggetonline.com": [
+      "https://thenuggetonline.com/feed/",
+      "https://thenuggetonline.com/home-page/feed/"
+    ],
+    "bmcnews.org": [
+      "https://bmcnews.org/rss"
+    ],
+    "claresholmlocalpress.ca": [
+      "https://claresholmlocalpress.ca/feed/"
+    ],
+    "ecareview.com": [
+      "https://ecareview.com/feed/",
+      "https://ecareview.com/home/feed/"
+    ],
+    "drumhellermail.com": [
+      "https://www.drumhellermail.com/?format=feed&type=rss",
+      "https://www.drumhellermail.com/?format=feed&type=atom",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/",
+      "https://feeds.feedburner.com/"
+    ],
+    "meridiansource.ca": [
+      "https://meridiansource.ca/feed/"
+    ],
+    "threehillscapital.com": [
+      "https://threehillscapital.com/?format=feed&type=rss",
+      "https://threehillscapital.com/?format=feed&type=atom"
+    ]
+  }
+}

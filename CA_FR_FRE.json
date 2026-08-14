@@ -1,0 +1,25 @@
+{
+  "country_code": "CA",
+  "language_code": "FR",
+  "total_domains": 5,
+  "total_feeds": 7,
+  "feeds": {
+    "la-liberte.ca": [
+      "https://www.la-liberte.ca/feed/"
+    ],
+    "acadienouvelle.com": [
+      "https://www.acadienouvelle.com/feed/",
+      "https://www.acadienouvelle.com/feed/",
+      "https://www.acadienouvelle.com/accueil/feed/"
+    ],
+    "delitfrancais.com": [
+      "https://www.delitfrancais.com/feed/"
+    ],
+    "lecourrierdusud.ca": [
+      "https://lecourrierdusud.ca/feed/"
+    ],
+    "journalmetro.com": [
+      "https://journalmetro.com/feed/"
+    ]
+  }
+}
