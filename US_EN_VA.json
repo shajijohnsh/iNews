@@ -1,0 +1,110 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 34,
+  "total_feeds": 34,
+  "feeds": {
+    "heraldcourier.com": [
+      "http://heraldcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailypress.com": [
+      "https://www.dailypress.com/feed/"
+    ],
+    "dailyprogress.com": [
+      "http://dailyprogress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "starexponent.com": [
+      "http://starexponent.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "godanriver.com": [
+      "http://godanriver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fredericksburg.com": [
+      "http://fredericksburg.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dnronline.com": [
+      "http://www.dnronline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newsadvance.com": [
+      "http://newsadvance.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "martinsvillebulletin.com": [
+      "http://martinsvillebulletin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "richmond.com": [
+      "http://richmond.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "roanoke.com": [
+      "http://roanoke.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nvdaily.com": [
+      "http://www.nvdaily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pilotonline.com": [
+      "https://www.pilotonline.com/feed/"
+    ],
+    "newsvirginian.com": [
+      "http://newsvirginian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "catholicherald.com": [
+      "https://www.catholicherald.com/feed/"
+    ],
+    "villagenewsonline.com": [
+      "https://villagenewsonline.com/feed/"
+    ],
+    "fcnp.com": [
+      "https://www.fcnp.com/feed/"
+    ],
+    "henricocitizen.com": [
+      "https://www.henricocitizen.com/latest/rss/"
+    ],
+    "rrecord.com": [
+      "https://rrecord.com/feed/"
+    ],
+    "loudountimes.com": [
+      "http://www.loudountimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecentralvirginian.com": [
+      "https://www.thecentralvirginian.com/feed/"
+    ],
+    "fairfaxtimes.com": [
+      "http://www.fairfaxtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecoalfieldprogress.com": [
+      "https://thecoalfieldprogress.com/feed.atom"
+    ],
+    "fluvannareview.com": [
+      "https://fluvannareview.com/feed/"
+    ],
+    "blueridgeleader.com": [
+      "https://blueridgeleader.com/feed/"
+    ],
+    "yourgv.com": [
+      "http://www.yourgv.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ssentinel.com": [
+      "https://www.ssentinel.com/feed/"
+    ],
+    "fauquier.com": [
+      "http://www.fauquier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newsontheneck.com": [
+      "https://www.newsontheneck.com/feed/"
+    ],
+    "smithmountaineagle.com": [
+      "http://www.smithmountaineagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "broadsideonline.com": [
+      "https://broadsideonline.com/feed/"
+    ],
+    "collegiatetimes.com": [
+      "http://www.collegiatetimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "flathatnews.com": [
+      "https://flathatnews.com/feed/"
+    ],
+    "lawweekly.org": [
+      "https://www.lawweekly.org/front-page?format=rss"
+    ]
+  }
+}

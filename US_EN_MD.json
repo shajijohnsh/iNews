@@ -1,0 +1,59 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 16,
+  "total_feeds": 19,
+  "feeds": {
+    "capitalgazette.com": [
+      "https://www.capitalgazette.com/feed/"
+    ],
+    "times-news.com": [
+      "http://www.times-news.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "stardem.com": [
+      "http://www.stardem.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fredericknewspost.com": [
+      "http://www.fredericknewspost.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "baltimoresun.com": [
+      "https://www.baltimoresun.com/feed/"
+    ],
+    "baysideoc.net": [
+      "https://baysideoc.net/feed/",
+      "https://baysideoc.net/bayside-gazette/feed/"
+    ],
+    "myeasternshoremd.com": [
+      "http://www.myeasternshoremd.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dundalkeagle.com": [
+      "http://www.dundalkeagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "cecildaily.com": [
+      "http://www.cecildaily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecatoctinbanner.com": [
+      "https://thecatoctinbanner.com/feed/"
+    ],
+    "wvnews.com": [
+      "http://www.wvnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mdcoastdispatch.com": [
+      "https://d3corp.com/feed/"
+    ],
+    "thesentinel.com": [
+      "http://www.thesentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "shoreupdate.com": [
+      "https://www.shoreupdate.com/homepage/feed/"
+    ],
+    "thegreyhound.org": [
+      "https://thegreyhound.org/feed/",
+      "https://thegreyhound.org/feed/atom/"
+    ],
+    "mddcpress.com": [
+      "https://www.mddcpress.com/feed/rss2",
+      "https://www.mddcpress.com/feed/atom"
+    ]
+  }
+}

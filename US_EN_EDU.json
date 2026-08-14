@@ -1,0 +1,185 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 50,
+  "total_feeds": 77,
+  "feeds": {
+    "thecrimsonwhite.com": [
+      "https://thecrimsonwhite.com/feed/",
+      "https://thecrimsonwhite.com/feed/atom/"
+    ],
+    "theflorala.com": [
+      "https://theflorala.com/feed/",
+      "https://theflorala.com/feed/atom/"
+    ],
+    "wildcat.arizona.edu": [
+      "https://wildcat.arizona.edu/feed/",
+      "https://wildcat.arizona.edu/feed/atom/"
+    ],
+    "uatrav.com": [
+      "http://www.uatrav.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "cbubanner.com": [
+      "https://cbubanner.com/feed/"
+    ],
+    "thepolypost.com": [
+      "https://thepolypost.com/feed/"
+    ],
+    "theorion.com": [
+      "https://theorion.com/feed/",
+      "https://theorion.com/feed/atom/"
+    ],
+    "dailytitan.com": [
+      "http://dailytitan.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "cccadvocate.com": [
+      "https://cccadvocate.com/feed/",
+      "https://cccadvocate.com/feed/atom/"
+    ],
+    "tsl.news": [
+      "https://tsl.news/feed/"
+    ],
+    "thedailyaztec.com": [
+      "https://thedailyaztec.com/feed/",
+      "https://thedailyaztec.com/feed/atom/"
+    ],
+    "stanforddaily.com": [
+      "https://stanforddaily.com/feed/"
+    ],
+    "dailycal.org": [
+      "http://www.dailycal.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newuniversity.org": [
+      "https://newuniversity.org/feed/"
+    ],
+    "ucsdguardian.org": [
+      "https://ucsdguardian.org/feed/",
+      "https://ucsdguardian.org/feed/atom/"
+    ],
+    "cityonahillpress.com": [
+      "https://cityonahillpress.com/feed/"
+    ],
+    "dailytrojan.com": [
+      "https://dailytrojan.com/feed/",
+      "https://dailytrojan.com/feed/"
+    ],
+    "centralrecorder.org": [
+      "https://centralrecorder.org/feed/",
+      "https://centralrecorder.org/feed/atom/"
+    ],
+    "gwhatchet.com": [
+      "https://gwhatchet.com/feed/",
+      "https://gwhatchet.com/feed/atom/"
+    ],
+    "thehoya.com": [
+      "https://thehoya.com/feed/",
+      "https://thehoya.com/feed/atom/"
+    ],
+    "upressonline.com": [
+      "https://www.upressonline.com/feed/",
+      "https://www.upressonline.com/feed/atom/"
+    ],
+    "dailyeasternnews.com": [
+      "https://www.dailyeasternnews.com/feed/",
+      "https://www.dailyeasternnews.com/feed/atom/"
+    ],
+    "technewsiit.com": [
+      "https://www.technewsiit.com/feed/"
+    ],
+    "dailyiowan.com": [
+      "https://dailyiowan.com/feed/",
+      "https://dailyiowan.com/feed/atom/"
+    ],
+    "iowastatedaily.com": [
+      "https://iowastatedaily.com/feed/",
+      "https://iowastatedaily.com/feed/atom/"
+    ],
+    "kansan.com": [
+      "http://www.kansan.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "louisvillecardinal.com": [
+      "https://www.louisvillecardinal.com/feed/"
+    ],
+    "wkuherald.com": [
+      "https://wkuherald.com/feed/",
+      "https://wkuherald.com/feed/atom/"
+    ],
+    "lsureveille.com": [
+      "https://lsureveille.com/feed/",
+      "https://lsureveille.com/feed/atom/"
+    ],
+    "dailyfreepress.com": [
+      "https://dailyfreepress.com/feed/",
+      "https://dailyfreepress.com/feed/atom/"
+    ],
+    "berkeleybeacon.com": [
+      "https://berkeleybeacon.com/feed/",
+      "https://berkeleybeacon.com/feed/atom/"
+    ],
+    "lanthorn.com": [
+      "https://lanthorn.com/feed/",
+      "https://lanthorn.com/feed/atom/"
+    ],
+    "weekly.blog.gustavus.edu": [
+      "https://weekly.blog.gustavus.edu/feed/"
+    ],
+    "reflector-online.com": [
+      "https://reflector-online.com/feed/",
+      "https://reflector-online.com/feed/atom/"
+    ],
+    "thedmonline.com": [
+      "https://thedmonline.com/feed/"
+    ],
+    "themaneater.com": [
+      "https://themaneater.com/feed/",
+      "https://themaneater.com/feed/atom/"
+    ],
+    "montanakaimin.com": [
+      "http://www.montanakaimin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailynebraskan.com": [
+      "http://www.dailynebraskan.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "technicianonline.com": [
+      "https://technicianonline.com/feed/",
+      "https://technicianonline.com/feed/atom/"
+    ],
+    "bgfalconmedia.com": [
+      "https://bgfalconmedia.com/feed/",
+      "https://bgfalconmedia.com/feed/atom/"
+    ],
+    "dailybaro.orangemedianetwork.com": [
+      "https://dailybaro.orangemedianetwork.com/feed/",
+      "https://dailybaro.orangemedianetwork.com/feed/atom/"
+    ],
+    "pacindex.com": [
+      "https://pacindex.com/feed/"
+    ],
+    "the-tartan.org": [
+      "https://the-tartan.org/feed/"
+    ],
+    "asurampage.com": [
+      "http://www.asurampage.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "baylorlariat.com": [
+      "https://baylorlariat.com/feed/"
+    ],
+    "universe.byu.edu": [
+      "https://universe.byu.edu/index.rss"
+    ],
+    "uvureview.com": [
+      "https://www.uvureview.com/feed/"
+    ],
+    "basementmedicine.org": [
+      "https://www.basementmedicine.org/feed/",
+      "https://www.basementmedicine.org/feed/atom/"
+    ],
+    "flathatnews.com": [
+      "https://flathatnews.com/feed/"
+    ],
+    "dailyevergreen.com": [
+      "https://dailyevergreen.com/feed/",
+      "https://dailyevergreen.com/feed/atom/"
+    ]
+  }
+}

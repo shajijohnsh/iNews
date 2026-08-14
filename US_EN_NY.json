@@ -1,14 +1,86 @@
 {
   "country_code": "US",
   "language_code": "EN",
-  "total_domains": 2,
-  "total_feeds": 2,
+  "total_domains": 25,
+  "total_feeds": 28,
   "feeds": {
-    "nytimes.com": [
-      "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    "dailygazette.com": [
+      "http://www.dailygazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "nypost.com": [
-      "https://nypost.com/metro/feed/"
+    "auburnpub.com": [
+      "http://auburnpub.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thedailynewsonline.com": [
+      "http://www.thedailynewsonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "buffalonews.com": [
+      "http://buffalonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "cortlandstandard.com": [
+      "http://www.cortlandstandard.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fltimes.com": [
+      "http://www.fltimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "poststar.com": [
+      "http://poststar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailyfreeman.com": [
+      "https://www.dailyfreeman.com/feed/"
+    ],
+    "lockportjournal.com": [
+      "http://www.lockportjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newsday.com": [
+      "https://www.newsday.com/api/rss/recent",
+      "https://www.newsday.com/api/rss/recent"
+    ],
+    "niagara-gazette.com": [
+      "http://www.niagara-gazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "oneidadispatch.com": [
+      "https://www.oneidadispatch.com/feed/"
+    ],
+    "thedailystar.com": [
+      "http://www.thedailystar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pressrepublican.com": [
+      "http://www.pressrepublican.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "romesentinel.com": [
+      "http://www.romesentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "saratogian.com": [
+      "https://www.saratogian.com/feed/"
+    ],
+    "troyrecord.com": [
+      "https://www.troyrecord.com/feed/"
+    ],
+    "legislativegazette.com": [
+      "https://legislativegazette.com/feed/",
+      "https://legislativegazette.com/feed/atom/"
+    ],
+    "spotlightnews.com": [
+      "http://www.dailygazette.com/search/?f=rss&t=article&c=spotlightnews&l=50&s=start_time&sd=desc"
+    ],
+    "beenews.com": [
+      "http://www.beenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "canarsiecourier.com": [
+      "https://canarsiecourier.com/feed/"
+    ],
+    "coopercrier.com": [
+      "http://www.coopercrier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tbrnewsmedia.com": [
+      "https://tbrnewsmedia.com/feed/",
+      "https://tbrnewsmedia.com/td_d_slug_1/feed/"
+    ],
+    "ithaca.com": [
+      "http://www.ithaca.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nynewspapers.com": [
+      "https://nynewspapers.com/feed/"
     ]
   }
 }

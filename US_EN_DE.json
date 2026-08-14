@@ -1,0 +1,31 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 9,
+  "feeds": {
+    "eltiempohispano.com": [
+      "https://eltiempohispano.com/feed/"
+    ],
+    "hoyendelaware.com": [
+      "https://hoyendelaware.com/feed/",
+      "https://hoyendelaware.com/home-new/feed/"
+    ],
+    "starpublications.online": [
+      "https://starpublications.online/feed/"
+    ],
+    "newarkpostonline.com": [
+      "http://www.newarkpostonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "coastalpoint.com": [
+      "http://www.coastalpoint.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "udreview.com": [
+      "https://udreview.com/feed/",
+      "https://udreview.com/homepage/feed/"
+    ],
+    "delawarepressassociation.org": [
+      "https://delawarepressassociation.org/feed/"
+    ]
+  }
+}

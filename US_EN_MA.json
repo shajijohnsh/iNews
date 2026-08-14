@@ -1,0 +1,96 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 28,
+  "total_feeds": 32,
+  "feeds": {
+    "atholdailynews.com": [
+      "https://atholdailynews.com/feed/"
+    ],
+    "thesunchronicle.com": [
+      "http://www.thesunchronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "salemnews.com": [
+      "http://www.salemnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sentinelandenterprise.com": [
+      "https://www.sentinelandenterprise.com/feed/"
+    ],
+    "gloucestertimes.com": [
+      "http://www.gloucestertimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "lowellsun.com": [
+      "https://www.lowellsun.com/feed/"
+    ],
+    "itemlive.com": [
+      "https://itemlive.com/feed/"
+    ],
+    "newburyportnews.com": [
+      "http://www.newburyportnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "eagletribune.com": [
+      "http://www.eagletribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "berkshireeagle.com": [
+      "http://www.berkshireeagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "amherstbulletin.com": [
+      "https://amherstbulletin.com/feed/"
+    ],
+    "andovertownsman.com": [
+      "http://www.andovertownsman.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "capecodchronicle.com": [
+      "https://capecodchronicle.com/feed.atom"
+    ],
+    "thereminder.com": [
+      "https://thereminder.com/feed/"
+    ],
+    "mvtimes.com": [
+      "https://www.mvtimes.com/feed/"
+    ],
+    "wanderer.com": [
+      "https://www.wanderer.com/feed/",
+      "https://www.wanderer.com/home/feed/"
+    ],
+    "ack.net": [
+      "http://www.ack.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "portuguesetimes.com": [
+      "https://portuguesetimes.com/feed/"
+    ],
+    "valleyadvocate.com": [
+      "https://valleyadvocate.com/feed/"
+    ],
+    "hgazette.com": [
+      "http://www.hgazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "weeklynews.net": [
+      "https://itemlive.com/feed/"
+    ],
+    "capecodtoday.com": [
+      "https://capecodtoday.com/feed/"
+    ],
+    "indusbusinessjournal.com": [
+      "https://indusbusinessjournal.com/feed/",
+      "https://indusbusinessjournal.com/home/feed/"
+    ],
+    "mirrorspectator.com": [
+      "https://mirrorspectator.com/feed/"
+    ],
+    "communityadvocate.com": [
+      "https://www.communityadvocate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "berkeleybeacon.com": [
+      "https://berkeleybeacon.com/feed/",
+      "https://berkeleybeacon.com/feed/atom/"
+    ],
+    "dailycollegian.com": [
+      "https://dailycollegian.com/feed/",
+      "https://dailycollegian.com/feed/atom/"
+    ],
+    "nenpa.com": [
+      "https://www.nenpa.com/feed/"
+    ]
+  }
+}

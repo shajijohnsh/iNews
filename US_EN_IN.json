@@ -1,0 +1,84 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 25,
+  "total_feeds": 26,
+  "feeds": {
+    "heraldbulletin.com": [
+      "http://www.heraldbulletin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "news-banner.com": [
+      "https://news-banner.com/feed/"
+    ],
+    "chestertontribune.com": [
+      "https://www.psa-avtec.com/feed"
+    ],
+    "elkharttruth.com": [
+      "http://www.elkharttruth.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "goshennews.com": [
+      "http://www.goshennews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "suncommercial.com": [
+      "http://www.suncommercial.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "greensburgdailynews.com": [
+      "http://www.greensburgdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "inwhitleycounty.com": [
+      "http://www.inwhitleycounty.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nwitimes.com": [
+      "http://nwitimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "lpheralddispatch.com": [
+      "http://www.lpheralddispatch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pharostribune.com": [
+      "http://www.pharostribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "chronicle-tribune.com": [
+      "http://www.chronicle-tribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecouriertimes.com": [
+      "http://www.thecouriertimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thepilotnews.com": [
+      "http://www.thepilotnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tribstar.com": [
+      "http://www.tribstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "washtimesherald.com": [
+      "http://www.washtimesherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "warricknews.com": [
+      "http://www.pdclarion.com/search/?f=rss&t=article&c=warrick_news&l=50&s=start_time&sd=desc"
+    ],
+    "thepostandmail.com": [
+      "http://www.thepostandmail.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "madisoncourier.com": [
+      "http://www.madisoncourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "journalgazette.net": [
+      "http://www.journalgazette.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "webelpuente.com": [
+      "https://www.webelpuente.com/feed/"
+    ],
+    "kokomotribune.com": [
+      "http://www.kokomotribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "reporter.net": [
+      "http://www.reporter.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newsbug.info": [
+      "http://www.newsbug.info/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thedepauw.com": [
+      "https://thedepauw.com/feed/",
+      "https://thedepauw.com/feed/atom/"
+    ]
+  }
+}

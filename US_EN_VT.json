@@ -1,0 +1,82 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 24,
+  "total_feeds": 26,
+  "feeds": {
+    "timesargus.com": [
+      "http://www.timesargus.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "benningtonbanner.com": [
+      "http://www.benningtonbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "reformer.com": [
+      "http://www.reformer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "caledonianrecord.com": [
+      "http://www.caledonianrecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "rutlandherald.com": [
+      "http://www.rutlandherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "samessenger.com": [
+      "http://www.samessenger.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "brandonreporter.com": [
+      "https://brandonreporter.com/feed/"
+    ],
+    "bartonchronicle.com": [
+      "https://bartonchronicle.com/feed/"
+    ],
+    "jonews.com": [
+      "https://jonews.com/feed/",
+      "https://jonews.com/feed/"
+    ],
+    "sevendaysvt.com": [
+      "https://www.sevendaysvt.com/feed/"
+    ],
+    "vtcng.com": [
+      "http://www.vtcng.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "chestertelegraph.org": [
+      "https://www.chestertelegraph.org/feed/"
+    ],
+    "colchestersun.com": [
+      "http://www.colchestersun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "essexreporter.com": [
+      "http://www.essexreporter.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "countycourier.net": [
+      "https://countycourier.net/feed/"
+    ],
+    "mountaintimes.info": [
+      "https://mountaintimes.info/feed/"
+    ],
+    "manchesterjournal.com": [
+      "http://www.manchesterjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "montpelierbridge.org": [
+      "https://thebridgevt.org/feed/"
+    ],
+    "vnews.com": [
+      "https://vnews.com/feed/"
+    ],
+    "willistonobserver.com": [
+      "http://www.willistonobserver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dvalnews.com": [
+      "https://www.deerfieldvalleynews.org/rss.xml"
+    ],
+    "thevermontstandard.com": [
+      "https://thevermontstandard.com/feed/"
+    ],
+    "vtdigger.org": [
+      "https://vtdigger.org/feed/"
+    ],
+    "vtcynic.com": [
+      "https://vtcynic.com/feed/",
+      "https://vtcynic.com/feed/atom/"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "country_code": "US",
+  "language_code": "ES",
+  "total_domains": 23,
+  "total_feeds": 26,
+  "feeds": {
+    "latimes.com": [
+      "https://www.latimes.com/index.rss"
+    ],
+    "lasamericasnews.com": [
+      "https://lasamericasnews.com/index.php/es/?format=feed&type=rss",
+      "https://lasamericasnews.com/index.php/es/?format=feed&type=atom"
+    ],
+    "elnuevogeorgia.com": [
+      "https://elnuevogeorgia.com/feed/"
+    ],
+    "mundonow.com": [
+      "https://www.mundonow.com/rss.xml"
+    ],
+    "visionhispanausa.com": [
+      "https://visionhispanausa.com/?format=feed&type=rss",
+      "https://visionhispanausa.com/?format=feed&type=atom"
+    ],
+    "identidadlatina.com": [
+      "https://identidadlatina.com/feed/"
+    ],
+    "elsolnews.com": [
+      "https://elsolnews.com/feed/"
+    ],
+    "eltiempohispano.com": [
+      "https://eltiempohispano.com/feed/"
+    ],
+    "hoyendelaware.com": [
+      "https://hoyendelaware.com/feed/",
+      "https://hoyendelaware.com/home-new/feed/"
+    ],
+    "sun-sentinel.com": [
+      "https://www.sun-sentinel.com/feed/"
+    ],
+    "orlandosentinel.com": [
+      "https://www.orlandosentinel.com/feed/"
+    ],
+    "lagacetanewspaper.com": [
+      "https://lagacetanewspaper.com/feed/"
+    ],
+    "webelpuente.com": [
+      "https://www.webelpuente.com/feed/"
+    ],
+    "jambalayanews.com": [
+      "http://www.jambalayanews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "latinopinionbaltimore.com": [
+      "https://latinopinionbaltimore.com/feed/"
+    ],
+    "washingtonhispanic.com": [
+      "https://washingtonhispanic.com/rss.xml.php"
+    ],
+    "elplaneta.com": [
+      "https://elplaneta.com/rss/"
+    ],
+    "lavozhispanany.net": [
+      "https://lavozhispanany.net/feed/"
+    ],
+    "quepasamedia.com": [
+      "https://quepasamedia.com/feed/"
+    ],
+    "laconexionusa.com": [
+      "https://laconexionusa.com/feed/"
+    ],
+    "aldianews.com": [
+      "https://aldianews.com/en/rss.xml"
+    ],
+    "diario.mx": [
+      "https://diario.mx/rss/feed.xml"
+    ],
+    "eltiempolatino.com": [
+      "https://eltiempolatino.com/rss/"
+    ]
+  }
+}

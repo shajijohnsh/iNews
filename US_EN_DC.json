@@ -1,0 +1,35 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 11,
+  "feeds": {
+    "thehill.com": [
+      "https://thehill.com/feed/"
+    ],
+    "currentnewspapers.com": [
+      "https://currentnewspapers.com/feed/",
+      "https://currentnewspapers.com/home-5/feed/"
+    ],
+    "eltiempolatino.com": [
+      "https://eltiempolatino.com/rss/"
+    ],
+    "washingtoncitypaper.com": [
+      "https://washingtoncitypaper.com/feed/"
+    ],
+    "washingtonhispanic.com": [
+      "https://washingtonhispanic.com/rss.xml.php"
+    ],
+    "gwhatchet.com": [
+      "https://gwhatchet.com/feed/",
+      "https://gwhatchet.com/feed/atom/"
+    ],
+    "thehilltoponline.com": [
+      "https://thehilltoponline.com/feed/"
+    ],
+    "thehoya.com": [
+      "https://thehoya.com/feed/",
+      "https://thehoya.com/feed/atom/"
+    ]
+  }
+}

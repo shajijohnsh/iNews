@@ -1,0 +1,42 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 12,
+  "feeds": {
+    "dailyrecordnews.com": [
+      "http://www.dailyrecordnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tdn.com": [
+      "http://tdn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "goskagit.com": [
+      "https://www.goskagit.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sunnysidesun.com": [
+      "http://www.sunnysidesun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "union-bulletin.com": [
+      "http://www.union-bulletin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "yakimaherald.com": [
+      "http://www.yakimaherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "lyndentribune.com": [
+      "http://www.lyndentribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "omakchronicle.com": [
+      "http://www.omakchronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "vbjusa.com": [
+      "https://www.vbjusa.com/feed/"
+    ],
+    "dailyevergreen.com": [
+      "https://dailyevergreen.com/feed/",
+      "https://dailyevergreen.com/feed/atom/"
+    ],
+    "gonzagabulletin.com": [
+      "http://www.gonzagabulletin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

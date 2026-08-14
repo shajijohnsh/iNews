@@ -1,0 +1,44 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 12,
+  "feeds": {
+    "allure.com": [
+      "https://www.allure.com/feed/rss"
+    ],
+    "scoutlife.org": [
+      "https://scoutlife.org/feed/"
+    ],
+    "si.com": [
+      "https://www.si.com/feed"
+    ],
+    "billboard.com": [
+      "https://www.billboard.com/feed/rss/"
+    ],
+    "americanliteraryreview.com": [
+      "https://americanliteraryreview.com/feed/"
+    ],
+    "macworld.com": [
+      "https://www.macworld.com/feed"
+    ],
+    "chiefexecutive.net": [
+      "https://chiefexecutive.net/feed/"
+    ],
+    "popsci.com": [
+      "https://www.popsci.com/feed/"
+    ],
+    "scientificamerican.com": [
+      "https://www.scientificamerican.com/platform/syndication/rss/"
+    ],
+    "artforum.com": [
+      "https://www.artforum.com/feed/rss/"
+    ],
+    "cntraveler.com": [
+      "https://www.cntraveler.com/feed/rss"
+    ],
+    "edweek.org": [
+      "https://www.edweek.org/index.rss"
+    ]
+  }
+}

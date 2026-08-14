@@ -1,0 +1,57 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 16,
+  "total_feeds": 17,
+  "feeds": {
+    "bransontrilakesnews.com": [
+      "http://www.bransontrilakesnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "joplinglobe.com": [
+      "http://www.joplinglobe.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "maryvilleforum.com": [
+      "http://www.maryvilleforum.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "therolladailynews.com": [
+      "https://therolladailynews.com/feed/"
+    ],
+    "newspressnow.com": [
+      "http://www.newspressnow.com//?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "stltoday.com": [
+      "http://www.stltoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "bocojo.com": [
+      "http://www.columbiamissourian.com/search/?f=rss&t=article&c=boonecountyjournal&l=50&s=start_time&sd=desc"
+    ],
+    "bethanyclipper.com": [
+      "https://www.bethanyclipper.com/feed/"
+    ],
+    "themaneater.com": [
+      "https://themaneater.com/feed/",
+      "https://themaneater.com/feed/atom/"
+    ],
+    "myleaderpaper.com": [
+      "http://www.myleaderpaper.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ozarkcountytimes.com": [
+      "https://ozarkcountytimes.com/rss.xml"
+    ],
+    "thecash-book.com": [
+      "https://thecash-book.com/feed/"
+    ],
+    "maconhomepress.com": [
+      "https://maconhomepress.com/feed.atom"
+    ],
+    "timesnewspapers.com": [
+      "http://www.timesnewspapers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "emissourian.com": [
+      "http://www.missourian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "columbiamissourian.com": [
+      "http://www.columbiamissourian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

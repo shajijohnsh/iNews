@@ -1,0 +1,119 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 35,
+  "total_feeds": 41,
+  "feeds": {
+    "mcall.com": [
+      "https://www.mcall.com/feed/"
+    ],
+    "cumberlink.com": [
+      "http://cumberlink.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecourierexpress.com": [
+      "http://www.thecourierexpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "gettysburgtimes.com": [
+      "http://www.gettysburgtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "standardspeaker.com": [
+      "https://www.standardspeaker.com/feed/"
+    ],
+    "indianagazette.com": [
+      "http://www.indianagazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ncnewsonline.com": [
+      "http://www.ncnewsonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "timesherald.com": [
+      "https://www.timesherald.com/feed/"
+    ],
+    "thederrick.com": [
+      "http://www.thederrick.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "post-gazette.com": [
+      "https://www.post-gazette.com/rss"
+    ],
+    "triblive.com": [
+      "https://triblive.com/feed/"
+    ],
+    "pottsmerc.com": [
+      "https://www.pottsmerc.com/feed/"
+    ],
+    "delcotimes.com": [
+      "https://www.delcotimes.com/feed/"
+    ],
+    "readingeagle.com": [
+      "https://www.readingeagle.com/feed/"
+    ],
+    "thetimes-tribune.com": [
+      "https://www.thetimes-tribune.com/feed/"
+    ],
+    "newsitem.com": [
+      "http://www.newsitem.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sharonherald.com": [
+      "http://www.sharonherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailyitem.com": [
+      "http://www.dailyitem.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thedailyreview.com": [
+      "http://www.thedailyreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailylocal.com": [
+      "https://www.dailylocal.com/feed/"
+    ],
+    "citizensvoice.com": [
+      "https://www.citizensvoice.com/feed/"
+    ],
+    "mainlinemedianews.com": [
+      "https://www.mainlinemedianews.com/feed/"
+    ],
+    "homenewspa.com": [
+      "https://homenewspa.com/feed/"
+    ],
+    "bedfordgazette.com": [
+      "http://www.bedfordgazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theabingtonjournal.com": [
+      "https://www.theabingtonjournal.com/feed"
+    ],
+    "thecorryjournal.com": [
+      "http://www.thecorryjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "forestcitynews.com": [
+      "https://forestcitynews.com/feed/"
+    ],
+    "tribdem.com": [
+      "http://www.tribdem.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "webbweekly.com": [
+      "https://webbweekly.com/feed/",
+      "https://webbweekly.com/feed/",
+      "https://webbweekly.com/home/feed/"
+    ],
+    "caltimes.org": [
+      "https://www.caltimes.org/feed/",
+      "https://www.caltimes.org/feed/atom/"
+    ],
+    "pittnews.com": [
+      "https://pittnews.com/feed/",
+      "https://pittnews.com/feed/atom/"
+    ],
+    "theonlinerocket.com": [
+      "https://www.theonlinerocket.com/feed/",
+      "https://www.theonlinerocket.com/news-2/feed/"
+    ],
+    "the-tartan.org": [
+      "https://the-tartan.org/feed/"
+    ],
+    "villanovan.com": [
+      "https://villanovan.com/feed/",
+      "https://villanovan.com/feed/atom/"
+    ],
+    "panewsmedia.org": [
+      "https://panewsmedia.org/feed/"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 85,
+  "total_feeds": 94,
+  "feeds": {
+    "chicoer.com": [
+      "https://www.chicoer.com/feed/"
+    ],
+    "latimes.com": [
+      "https://www.latimes.com/index.rss"
+    ],
+    "triplicate.com": [
+      "https://triplicate.com/rss.xml"
+    ],
+    "ivpressonline.com": [
+      "http://www.ivpressonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "northcoastjournal.com": [
+      "https://www.northcoastjournal.com/feed/"
+    ],
+    "times-standard.com": [
+      "https://www.times-standard.com/feed/"
+    ],
+    "dailyrepublic.com": [
+      "http://www.dailyrepublic.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theunion.com": [
+      "http://www.theunion.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "hanfordsentinel.com": [
+      "http://hanfordsentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sanbenito.com": [
+      "https://sanbenito.com/feed/"
+    ],
+    "lodinews.com": [
+      "http://www.lodinews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "maderatribune.com": [
+      "https://maderatribune.com/feed/"
+    ],
+    "appeal-democrat.com": [
+      "http://www.appeal-democrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "napavalleyregister.com": [
+      "http://napavalleyregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "orovillemr.com": [
+      "https://www.orovillemr.com/feed/"
+    ],
+    "avpress.com": [
+      "http://www.avpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pasadenastarnews.com": [
+      "https://www.pasadenastarnews.com/feed/"
+    ],
+    "mtdemocrat.com": [
+      "http://www.mtdemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "recorderonline.com": [
+      "http://www.recorderonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "redbluffdailynews.com": [
+      "https://www.redbluffdailynews.com/feed/"
+    ],
+    "ridgecrestca.com": [
+      "http://www.ridgecrestca.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ocregister.com": [
+      "https://www.ocregister.com/feed/"
+    ],
+    "marinij.com": [
+      "https://www.marinij.com/feed/"
+    ],
+    "santacruzsentinel.com": [
+      "https://www.santacruzsentinel.com/feed/"
+    ],
+    "lompocrecord.com": [
+      "http://lompocrecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "santamariatimes.com": [
+      "http://santamariatimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pressdemocrat.com": [
+      "https://www.pressdemocrat.com/feed/"
+    ],
+    "sonomanews.com": [
+      "https://www.sonomanews.com/feed/"
+    ],
+    "uniondemocrat.com": [
+      "http://www.uniondemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "davisenterprise.com": [
+      "http://www.davisenterprise.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailybreeze.com": [
+      "https://www.dailybreeze.com/feed/"
+    ],
+    "ttownmedia.com": [
+      "http://www.ttownmedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ukiahdailyjournal.com": [
+      "https://www.ukiahdailyjournal.com/feed/"
+    ],
+    "thereporter.com": [
+      "https://www.thereporter.com/feed/"
+    ],
+    "timesheraldonline.com": [
+      "https://www.timesheraldonline.com/feed/"
+    ],
+    "sgvtribune.com": [
+      "https://www.sgvtribune.com/feed/"
+    ],
+    "whittierdailynews.com": [
+      "https://www.whittierdailynews.com/feed/"
+    ],
+    "dailydemocrat.com": [
+      "https://www.dailydemocrat.com/feed/"
+    ],
+    "visionhispanausa.com": [
+      "https://visionhispanausa.com/?format=feed&type=rss",
+      "https://visionhispanausa.com/?format=feed&type=atom"
+    ],
+    "boyleheightsbeat.com": [
+      "https://thelalocal.org/feed/"
+    ],
+    "modocrecord.com": [
+      "https://modocrecord.com/feed/"
+    ],
+    "heysocal.com": [
+      "https://heysocal.com/feed/"
+    ],
+    "beverlyhillscourier.com": [
+      "https://beverlyhillscourier.com/feed/"
+    ],
+    "canyon-news.com": [
+      "https://www.canyon-news.com/feed/"
+    ],
+    "pvvt.com": [
+      "http://www.pvvt.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "inyoregister.com": [
+      "http://www.inyoregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "delmartimes.net": [
+      "https://www.sandiegouniontribune.com/feed/",
+      "https://www.sandiegouniontribune.com/del-mar-times/feed/"
+    ],
+    "fridayflyer.com": [
+      "https://fridayflyer.com/feed/"
+    ],
+    "championnewspapers.com": [
+      "http://www.championnewspapers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "iecn.com": [
+      "https://iecn.com/feed/"
+    ],
+    "coronadonewsca.com": [
+      "http://www.coronadonewsca.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "danapointtimes.com": [
+      "http://www.picketfencemedia.com/search/?f=rss&t=article&c=danapointtimes&l=50&s=start_time&sd=desc"
+    ],
+    "sonomacountygazette.com": [
+      "https://www.pressdemocrat.com/feed/",
+      "https://www.pressdemocrat.com/sonoma-county-gazette/feed/"
+    ],
+    "advocate-news.com": [
+      "https://www.advocate-news.com/feed/"
+    ],
+    "mendocinobeacon.com": [
+      "https://www.mendocinobeacon.com/feed/"
+    ],
+    "tricityvoice.com": [
+      "https://tricityvoice.com/feed/"
+    ],
+    "gilroydispatch.com": [
+      "https://gilroydispatch.com/feed/"
+    ],
+    "hmbreview.com": [
+      "http://www.coastsidenews.com/search/?f=rss&t=article&c=review&l=50&s=start_time&sd=desc"
+    ],
+    "valleywidenewspaper.com": [
+      "https://valleywidenewspaper.com/feed/",
+      "https://valleywidenewspaper.com/feed/atom/",
+      "https://valleywidenewspaper.com/feed/"
+    ],
+    "lajollalight.com": [
+      "https://www.sandiegouniontribune.com/feed/",
+      "https://www.sandiegouniontribune.com/la-jolla-light/feed/"
+    ],
+    "sdnews.com": [
+      "https://timesofsandiego.com/feed/"
+    ],
+    "mountain-news.com": [
+      "http://www.mountain-news.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "lagunabeachindy.com": [
+      "http://www.lagunabeachindy.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mammothtimes.com": [
+      "http://www.mammothtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "almanacnews.com": [
+      "https://www.almanacnews.com/feed/"
+    ],
+    "montereyherald.com": [
+      "https://www.montereyherald.com/feed/"
+    ],
+    "eastbayexpress.com": [
+      "https://eastbayexpress.com/feed/"
+    ],
+    "paloaltoonline.com": [
+      "https://www.paloaltoonline.com/feed/"
+    ],
+    "siliconvalley.com": [
+      "https://www.siliconvalley.com/feed/"
+    ],
+    "paradisepost.com": [
+      "https://www.paradisepost.com/feed/"
+    ],
+    "pasoroblesdailynews.com": [
+      "https://pasoroblesdailynews.com/feed/"
+    ],
+    "ptreyeslight.com": [
+      "https://www.ptreyeslight.com/feed/"
+    ],
+    "eldonnews.org": [
+      "https://eldonnews.org/feed/"
+    ],
+    "ocweekly.com": [
+      "https://www.ocweekly.com/feed/"
+    ],
+    "independent.com": [
+      "https://www.independent.com/feed/",
+      "https://www.independent.com/feed/",
+      "https://www.independent.com/front-page/feed/"
+    ],
+    "northbaybusinessjournal.com": [
+      "https://www.pressdemocrat.com/feed/",
+      "https://www.pressdemocrat.com/north-bay-business-journal/feed/"
+    ],
+    "indiawest.com": [
+      "https://indiawest.com/feed/"
+    ],
+    "mercurynews.com": [
+      "https://www.mercurynews.com/feed/"
+    ],
+    "pressbanner.com": [
+      "https://pressbanner.com/feed/"
+    ],
+    "latinotimes.org": [
+      "https://www.latinotimes.org/feed/"
+    ],
+    "tehachapinews.com": [
+      "http://www.tehachapinews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thearknewspaper.com": [
+      "https://www.thearknewspaper.com/blog-feed.xml"
+    ],
+    "eastbaytimes.com": [
+      "https://www.eastbaytimes.com/feed/"
+    ],
+    "pajaronian.com": [
+      "https://pajaronian.com/feed/"
+    ],
+    "cnpa.com": [
+      "https://cnpa.com/feed/"
+    ]
+  }
+}

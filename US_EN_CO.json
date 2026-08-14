@@ -1,0 +1,108 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 33,
+  "total_feeds": 34,
+  "feeds": {
+    "denverpost.com": [
+      "https://www.denverpost.com/feed/"
+    ],
+    "coloradosun.com": [
+      "https://coloradosun.com/feed/"
+    ],
+    "gjsentinel.com": [
+      "http://www.gjsentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailycamera.com": [
+      "https://www.dailycamera.com/feed/"
+    ],
+    "coloradodaily.com": [
+      "https://www.coloradodaily.com/feed/"
+    ],
+    "canoncitydailyrecord.com": [
+      "https://www.canoncitydailyrecord.com/feed/"
+    ],
+    "fortmorgantimes.com": [
+      "https://www.fortmorgantimes.com/feed/"
+    ],
+    "greeleytribune.com": [
+      "https://www.greeleytribune.com/feed/"
+    ],
+    "timescall.com": [
+      "https://www.timescall.com/feed/"
+    ],
+    "reporterherald.com": [
+      "https://www.reporterherald.com/feed/"
+    ],
+    "montrosepress.com": [
+      "http://www.montrosepress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "akronnewsreporter.com": [
+      "https://www.akronnewsreporter.com/feed/"
+    ],
+    "coloradocommunitymedia.com": [
+      "http://www.coloradocommunitymedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sentinelcolorado.com": [
+      "https://sentinelcolorado.com/feed/"
+    ],
+    "theflume.com": [
+      "http://www.theflume.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "berthoudrecorder.com": [
+      "https://www.berthoudrecorder.com/feed/"
+    ],
+    "50plusmarketplacenews.com": [
+      "https://www.50plusmarketplacenews.com/feed"
+    ],
+    "broomfieldenterprise.com": [
+      "https://www.broomfieldenterprise.com/feed/"
+    ],
+    "chaffeecountytimes.com": [
+      "http://www.chaffeecountytimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "burlington-record.com": [
+      "https://www.burlington-record.com/feed/"
+    ],
+    "soprissun.com": [
+      "https://soprissun.com/feed/"
+    ],
+    "castlepinesconnection.com": [
+      "https://www.castlepinesconnection.com/feed/"
+    ],
+    "csbj.com": [
+      "https://socodigest.com/feed/"
+    ],
+    "csindy.com": [
+      "https://socoinsider.com/feed/"
+    ],
+    "fourcornersfreepress.com": [
+      "https://fourcornersfreepress.com/feed/"
+    ],
+    "crestedbuttenews.com": [
+      "https://crestedbuttenews.com/feed/"
+    ],
+    "eptrail.com": [
+      "https://www.eptrail.com/feed/"
+    ],
+    "lamarledger.com": [
+      "https://www.lamarledger.com/feed/"
+    ],
+    "leadvilleherald.com": [
+      "http://www.leadvilleherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "hcn.org": [
+      "https://www.hcn.org/feed/"
+    ],
+    "themountainmail.com": [
+      "http://www.themountainmail.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "northfortynews.com": [
+      "https://northfortynews.com/feed/"
+    ],
+    "collegian.com": [
+      "https://collegian.com/feed/",
+      "https://collegian.com/feed/atom/"
+    ]
+  }
+}

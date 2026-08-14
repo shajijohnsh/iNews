@@ -1,0 +1,90 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 27,
+  "total_feeds": 28,
+  "feeds": {
+    "guardonline.com": [
+      "http://www.guardonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "bentoncourier.com": [
+      "http://www.bentoncourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecabin.net": [
+      "http://www.thecabin.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thnews.com": [
+      "https://thnews.com/feed/"
+    ],
+    "jonesborosun.com": [
+      "http://www.jonesborosun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "malvern-online.com": [
+      "http://www.malvern-online.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "paragoulddailypress.com": [
+      "http://www.paragoulddailypress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thedailycitizen.com": [
+      "http://www.whitecountycitizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "stuttgartdailyleader.com": [
+      "https://www.stuttgartdailyleader.com/feed/"
+    ],
+    "theeveningtimes.com": [
+      "http://www.jonesborosun.com/search/?f=rss&t=article&c=theeveningtimes&l=50&s=start_time&sd=desc"
+    ],
+    "beebenews.com": [
+      "https://beebenews.com/index.php/feed/"
+    ],
+    "whiterivercurrent.com": [
+      "https://www.whiterivercurrent.com/feed/"
+    ],
+    "thegraphic.org": [
+      "https://www.thegraphic.org/feed/"
+    ],
+    "theyellcountyrecord.com": [
+      "https://www.theyellcountyrecord.com/feed/"
+    ],
+    "dequeenbee.com": [
+      "https://kdqn.net/feed/"
+    ],
+    "dewitt-ee.com": [
+      "https://dewitt-ee.com/feed.atom"
+    ],
+    "fairfieldbaynews.com": [
+      "https://fairfieldbaynews.com/feed/"
+    ],
+    "flippinonline.com": [
+      "https://www.flippinonline.com/feed/"
+    ],
+    "ashleycountyledger.com": [
+      "http://www.ashleycountyledger.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thesuntimes.com": [
+      "http://www.thesuntimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "helenaworld.org": [
+      "https://www.helenaworld.org/blog-feed.xml"
+    ],
+    "arktimes.com": [
+      "https://arktimes.com/feed"
+    ],
+    "menastar.com": [
+      "https://mypulsenews.com/feed/"
+    ],
+    "headlightnews.com": [
+      "https://www.headlightnews.com/feed/"
+    ],
+    "swarkansasnews.com": [
+      "https://swarkansasnews.com/feed/",
+      "https://swarkansasnews.com/home/feed/"
+    ],
+    "uatrav.com": [
+      "http://www.uatrav.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "arkansaspress.org": [
+      "https://arkansaspress.org/feed/"
+    ]
+  }
+}

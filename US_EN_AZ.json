@@ -1,0 +1,115 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 35,
+  "total_feeds": 37,
+  "feeds": {
+    "tucson.com": [
+      "https://tucson.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "eastvalleytribune.com": [
+      "http://www.eastvalleytribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dcourier.com": [
+      "http://www.dcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "azdailysun.com": [
+      "http://azdailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "yumasun.com": [
+      "http://www.yumasun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mohavedailynews.com": [
+      "http://www.mohavedailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "myheraldreview.com": [
+      "http://www.myheraldreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "kdminer.com": [
+      "http://www.kdminer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "havasunews.com": [
+      "http://www.havasunews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "westvalleyview.com": [
+      "http://www.westvalleyview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thebisbeeobserver.com": [
+      "https://thebisbeeobserver.com/feed/"
+    ],
+    "pvvt.com": [
+      "http://www.pvvt.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "journalaz.com": [
+      "https://journalaz.com/feed/",
+      "https://journalaz.com/home/feed/"
+    ],
+    "pinalcentral.com": [
+      "http://www.pinalcentral.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "robsonranchviews.com": [
+      "https://robsonranchviews.com/feed/"
+    ],
+    "chandlernews.com": [
+      "http://www.chandlernews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sunbirdnews.com": [
+      "https://sunbirdnews.com/feed/"
+    ],
+    "verdenews.com": [
+      "http://www.verdenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "flagstaffbusinessnews.com": [
+      "https://www.flagstaffbusinessnews.com/feed/"
+    ],
+    "nhonews.com": [
+      "http://www.nhonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "glendalestar.com": [
+      "http://www.glendalestar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "gvnews.com": [
+      "http://www.gvnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "quailcreekcrossing.com": [
+      "https://quailcreekcrossing.com/feed/"
+    ],
+    "inmaricopa.com": [
+      "https://inmaricopa.com/feed/"
+    ],
+    "thefoothillsfocus.com": [
+      "http://www.thefoothillsfocus.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "eacourier.com": [
+      "http://www.eacourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "redrocknews.com": [
+      "https://www.redrocknews.com/feed/"
+    ],
+    "tucsonlocalmedia.com": [
+      "http://www.tucsonlocalmedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "parkerpioneer.net": [
+      "http://www.havasunews.com/search/?f=rss&t=article&c=parker_pioneer&l=50&s=start_time&sd=desc"
+    ],
+    "paysonroundup.com": [
+      "http://www.paysonroundup.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "peoriatimes.com": [
+      "http://www.peoriatimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wickenburgsun.com": [
+      "http://www.wickenburgsun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wildcat.arizona.edu": [
+      "https://wildcat.arizona.edu/feed/",
+      "https://wildcat.arizona.edu/feed/atom/"
+    ],
+    "jackcentral.org": [
+      "http://www.jackcentral.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "azmedia.org": [
+      "https://azmedia.org/feed/"
+    ]
+  }
+}

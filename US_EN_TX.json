@@ -1,0 +1,142 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 44,
+  "total_feeds": 46,
+  "feeds": {
+    "athensreview.com": [
+      "http://www.athensreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theeagle.com": [
+      "http://theeagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thefacts.com": [
+      "http://thefacts.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "corsicanadailysun.com": [
+      "http://www.corsicanadailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dentonrc.com": [
+      "http://dentonrc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "gainesvilleregister.com": [
+      "http://www.gainesvilleregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "heraldbanner.com": [
+      "http://www.heraldbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "itemonline.com": [
+      "http://www.itemonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "jacksonvilleprogress.com": [
+      "http://www.jacksonvilleprogress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailytimes.com": [
+      "http://dailytimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "kdhnews.com": [
+      "http://kdhnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "lufkindailynews.com": [
+      "http://lufkindailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tribnow.com": [
+      "http://tribnow.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "herald-zeitung.com": [
+      "http://herald-zeitung.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "palestineherald.com": [
+      "http://www.palestineherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theparisnews.com": [
+      "http://theparisnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fbherald.com": [
+      "http://www.fbherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sanmarcosrecord.com": [
+      "http://www.sanmarcosrecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "seguingazette.com": [
+      "http://seguingazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ssnewstelegram.com": [
+      "http://www.ssnewstelegram.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sweetwaterreporter.com": [
+      "http://www.sweetwaterreporter.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "taylorpress.net": [
+      "https://www.taylorpress.net/rss/articles"
+    ],
+    "tdtnews.com": [
+      "http://www.tdtnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wacotrib.com": [
+      "http://wacotrib.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "weatherforddemocrat.com": [
+      "http://www.weatherforddemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "alvinsun.net": [
+      "http://www.alvinsun.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "baycitytribune.com": [
+      "http://baycitytribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "boernestar.com": [
+      "https://www.boernestar.com/rss/articles"
+    ],
+    "lightandchampion.com": [
+      "http://www.lightandchampion.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "moorenews.com": [
+      "http://www.moorenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wcleaderjournal.com": [
+      "http://www.wcleaderjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fredericksburgstandard.com": [
+      "http://www.fredericksburgstandard.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "goldthwaiteeagle.com": [
+      "https://www.goldthwaiteeagle.com/feed/"
+    ],
+    "gilmermirror.com": [
+      "https://www.gilmermirror.com/feed/"
+    ],
+    "jacksboronewspapers.com": [
+      "http://www.grahamleader.com/search/?f=rss&t=article&c=jacksboro-herald-gazette&l=50&s=start_time&sd=desc"
+    ],
+    "highlandernews.com": [
+      "http://marblefallsmessenger.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "palaciosbeacon.com": [
+      "https://palaciosbeacon.com/feed/"
+    ],
+    "pleasantonexpress.com": [
+      "http://www.pleasantonexpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecherokeean.com": [
+      "https://thecherokeean.com/feed.atom"
+    ],
+    "vhtx.news": [
+      "https://vhtx.news/feed/"
+    ],
+    "journal-Spectator.com": [
+      "http://www.wcleaderjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thebatt.com": [
+      "https://thebatt.com/feed/",
+      "https://thebatt.com/feed/atom/"
+    ],
+    "baylorlariat.com": [
+      "https://baylorlariat.com/feed/"
+    ],
+    "smudailycampus.com": [
+      "https://smudailycampus.com/feed/",
+      "https://smudailycampus.com/feed/atom/"
+    ]
+  }
+}

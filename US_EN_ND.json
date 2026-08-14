@@ -1,0 +1,48 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 13,
+  "total_feeds": 14,
+  "feeds": {
+    "bismarcktribune.com": [
+      "http://bismarcktribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "devilslakejournal.com": [
+      "https://www.devilslakejournal.com/feed/"
+    ],
+    "thedickinsonpress.com": [
+      "https://www.thedickinsonpress.com/index.rss"
+    ],
+    "inforum.com": [
+      "https://www.inforum.com/index.rss"
+    ],
+    "grandforksherald.com": [
+      "https://www.grandforksherald.com/index.rss"
+    ],
+    "jamestownsun.com": [
+      "https://www.jamestownsun.com/index.rss"
+    ],
+    "times-online.com": [
+      "http://www.times-online.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wahpetondailynews.com": [
+      "https://www.wahpetondailynews.com/index.rss"
+    ],
+    "willistonherald.com": [
+      "https://www.willistonherald.com/index.rss"
+    ],
+    "hbanner1.wordpress.com": [
+      "https://hbanner1.wordpress.com/feed/",
+      "https://hbanner1.wordpress.com/news-page/feed/"
+    ],
+    "agupdate.com": [
+      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "bensoncountynews.com": [
+      "https://www.bensoncountynews.com/feed/"
+    ],
+    "watfordcitynd.com": [
+      "https://www.watfordcitynd.com/index.rss"
+    ]
+  }
+}

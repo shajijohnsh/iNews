@@ -1,0 +1,29 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 7,
+  "feeds": {
+    "thewesterlysun.com": [
+      "http://www.thewesterlysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "woonsocketcall.com": [
+      "http://www.woonsocketcall.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "blockislandtimes.com": [
+      "http://www.blockislandtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "johnstonsunrise.net": [
+      "http://www.johnstonsunrise.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "independentri.com": [
+      "http://www.independentri.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "cranstononline.com": [
+      "http://www.cranstononline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "warwickonline.com": [
+      "http://www.warwickonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

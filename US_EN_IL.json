@@ -1,0 +1,70 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 20,
+  "total_feeds": 22,
+  "feeds": {
+    "pantagraph.com": [
+      "http://pantagraph.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thesouthern.com": [
+      "http://thesouthern.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "news-gazette.com": [
+      "http://www.news-gazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "jg-tc.com": [
+      "http://jg-tc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "herald-review.com": [
+      "http://herald-review.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "effinghamdailynews.com": [
+      "http://www.effinghamdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "qconline.com": [
+      "http://qconline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "advantagenews.com": [
+      "http://www.advantagenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "leaderunion.com": [
+      "https://www.leaderunion.com/feed/"
+    ],
+    "annanews.com": [
+      "https://annanews.com/rss.xml"
+    ],
+    "thecounty-chronicle.com": [
+      "https://www.thecounty-chronicle.com/feed/"
+    ],
+    "chicagotribune.com": [
+      "https://www.chicagotribune.com/feed/"
+    ],
+    "thevoice.us": [
+      "https://thevoice.us/feed/"
+    ],
+    "bellevillemessenger.org": [
+      "https://bellevillemessenger.org/feed/"
+    ],
+    "mississippivalleypublishing.com": [
+      "http://www.mississippivalleypublishing.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thedanishpioneer.com": [
+      "https://thedanishpioneer.com/feed/"
+    ],
+    "oakpark.com": [
+      "https://www.oakpark.com/feed/"
+    ],
+    "newsprogress.com": [
+      "https://newsprogress.com/feed/"
+    ],
+    "dailyegyptian.com": [
+      "https://dailyegyptian.com/feed/",
+      "https://dailyegyptian.com/feed/atom/"
+    ],
+    "dailynorthwestern.com": [
+      "https://dailynorthwestern.com/feed/",
+      "https://dailynorthwestern.com/feed/atom/"
+    ]
+  }
+}

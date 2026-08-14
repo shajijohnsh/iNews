@@ -1,0 +1,54 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 18,
+  "feeds": {
+    "emporiagazette.com": [
+      "http://www.emporiagazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "themercury.com": [
+      "http://themercury.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ctnewsonline.com": [
+      "http://www.ctnewsonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "anthonyrepublicannews.com": [
+      "https://www.anthonyrepublicannews.com/blog-feed.xml"
+    ],
+    "coffeycountyonline.com": [
+      "https://www.coffeycountyonline.com/index.php/feed/",
+      "https://www.coffeycountyonline.com/index.php/home/feed/"
+    ],
+    "derbyinformer.com": [
+      "http://www.derbyinformer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "desotoexplorer.com": [
+      "https://www.desotoexplorer.com/feed/"
+    ],
+    "starj.com": [
+      "https://starj.com/rss.cgi"
+    ],
+    "holtonrecorder.net": [
+      "https://www.holtonrecorder.net/rss.xml"
+    ],
+    "theleaven.org": [
+      "https://theleaven.org/feed/",
+      "https://theleaven.org/home-2/feed/"
+    ],
+    "marionrecord.com": [
+      "https://marionrecord.com/rss.cgi"
+    ],
+    "thebakerorange.com": [
+      "https://thebakerorange.com/feed/",
+      "https://thebakerorange.com/feed/atom/"
+    ],
+    "esubulletin.com": [
+      "https://esubulletin.com/feed/",
+      "https://esubulletin.com/feed/atom/"
+    ],
+    "kansan.com": [
+      "http://www.kansan.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

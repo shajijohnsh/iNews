@@ -1,0 +1,38 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 10,
+  "feeds": {
+    "newsminer.com": [
+      "http://www.newsminer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nomenugget.net": [
+      "https://nomenugget.net/rss.xml/m"
+    ],
+    "ketchikandailynews.com": [
+      "http://www.ketchikandailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "kodiakdailymirror.com": [
+      "http://www.kodiakdailymirror.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "deltadiscovery.com": [
+      "https://deltadiscovery.com/feed/"
+    ],
+    "thecordovatimes.com": [
+      "https://thecordovatimes.com/feed/"
+    ],
+    "deltawindonline.com": [
+      "http://www.deltawindonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "chilkatvalleynews.com": [
+      "https://www.chilkatvalleynews.com/feed/"
+    ],
+    "skagwaynews.com": [
+      "https://skagwaynews.com/feed.atom"
+    ],
+    "frontiersman.com": [
+      "https://www.frontiersman.com/latest/rss/"
+    ]
+  }
+}

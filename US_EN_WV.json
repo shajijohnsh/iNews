@@ -1,0 +1,54 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 16,
+  "feeds": {
+    "register-herald.com": [
+      "http://www.register-herald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "bdtonline.com": [
+      "http://www.bdtonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wvgazettemail.com": [
+      "http://www.wvgazettemail.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wvnews.com": [
+      "http://www.wvnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "timeswv.com": [
+      "http://www.timeswv.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "herald-dispatch.com": [
+      "https://www.herald-dispatch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "journal-news.net": [
+      "http://www.journal-news.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "williamsondailynews.com": [
+      "http://www.williamsondailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "morganmessenger.com": [
+      "https://www.morganmessenger.com/feed/"
+    ],
+    "lincolnjournal.com": [
+      "http://www.lincolnjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "loganbanner.com": [
+      "http://www.loganbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fayettetribune.com": [
+      "http://www.fayettetribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "waynecountynews.com": [
+      "http://www.waynecountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "marshallparthenon.com": [
+      "https://marshallparthenon.com/feed/",
+      "https://marshallparthenon.com/feed/atom/"
+    ],
+    "wvpress.org": [
+      "https://wvpress.org/feed/"
+    ]
+  }
+}

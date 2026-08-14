@@ -1,0 +1,14 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 2,
+  "feeds": {
+    "samoanews.com": [
+      "https://samoanews.com/rss1.xml"
+    ],
+    "talanei.com": [
+      "https://www.talanei.com/feed/"
+    ]
+  }
+}

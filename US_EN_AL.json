@@ -1,0 +1,122 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 36,
+  "total_feeds": 42,
+  "feeds": {
+    "alexcityoutlook.com": [
+      "http://www.tpimediagroup.org/search/?f=rss&t=article&c=alexcityoutlook&l=50&s=start_time&sd=desc"
+    ],
+    "annistonstar.com": [
+      "http://www.annistonstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mountaineagle.com": [
+      "http://www.mountaineagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "decaturdaily.com": [
+      "http://www.decaturdaily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dothaneagle.com": [
+      "http://dothaneagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "oanow.com": [
+      "http://oanow.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "timesdaily.com": [
+      "http://www.timesdaily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "times-journal.com": [
+      "http://times-journal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sandmountainreporter.com": [
+      "http://www.sandmountainreporter.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thearabtribune.com": [
+      "http://www.thearabtribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "atmorenews.com": [
+      "https://atmorenews.com/feed/"
+    ],
+    "auburnvillager.com": [
+      "http://www.auburnvillager.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thealabamabaptist.org": [
+      "https://thealabamabaptist.org/feed/"
+    ],
+    "alabamamessenger.com": [
+      "https://www.alabamamessenger.com/feed/"
+    ],
+    "birminghamtimes.com": [
+      "https://www.birminghamtimes.com/feed/",
+      "https://www.birminghamtimes.com/home/feed/"
+    ],
+    "latino-news.com": [
+      "https://latino-news.com/feed/",
+      "https://latino-news.com/news/feed/"
+    ],
+    "thecallnews.com": [
+      "https://www.thecallnews.com/feed/"
+    ],
+    "cullmantribune.com": [
+      "https://www.cullmantribune.com/feed/",
+      "https://www.cullmantribune.com/news-2/feed/"
+    ],
+    "gadsdenmessenger.com": [
+      "https://gadsdenmessenger.com/feed/"
+    ],
+    "choctawsun.org": [
+      "https://www.choctawsun.org/feed/"
+    ],
+    "thegreenvillestandard.com": [
+      "https://www.thegreenvillestandard.com/feed/"
+    ],
+    "advertisergleam.com": [
+      "http://www.advertisergleam.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "recordjournal.net": [
+      "https://www.recordjournal.net/feed/"
+    ],
+    "moultonadvertiser.com": [
+      "http://www.moultonadvertiser.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "monroejournal.com": [
+      "https://www.monroejournal.com/feed/"
+    ],
+    "moundvilletimes.net": [
+      "https://moundvilletimes.net/feed/"
+    ],
+    "opelikaobserver.com": [
+      "https://opelikaobserver.com/feed/"
+    ],
+    "citizenofeastalabama.com": [
+      "http://www.citizenofeastalabama.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mountainvalleynewspaper.com": [
+      "https://mountainvalleynewspaper.com/feed/",
+      "https://mountainvalleynewspaper.com/feed/podcast"
+    ],
+    "therandolphleader.com": [
+      "https://www.therandolphleader.com/feed/"
+    ],
+    "jcsentinel.com": [
+      "http://jcsentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theplanetweekly.com": [
+      "https://theplanetweekly.com/feed/",
+      "https://theplanetweekly.com/revitaa-pro-2/feed/"
+    ],
+    "unionsprings.news": [
+      "https://unionsprings.news/rss.xml"
+    ],
+    "lamardemocratnews.com": [
+      "https://www.lamardemocratnews.com/feed/"
+    ],
+    "thecrimsonwhite.com": [
+      "https://thecrimsonwhite.com/feed/",
+      "https://thecrimsonwhite.com/feed/atom/"
+    ],
+    "lagniappemobile.com": [
+      "http://www.lagniappemobile.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 20,
+  "total_feeds": 28,
+  "feeds": {
+    "centralmaine.com": [
+      "https://www.centralmaine.com/feed/"
+    ],
+    "bangordailynews.com": [
+      "https://www.bangordailynews.com/feed/",
+      "https://www.bangordailynews.com/web-stories/feed/"
+    ],
+    "pressherald.com": [
+      "https://www.pressherald.com/feed/"
+    ],
+    "sunjournal.com": [
+      "https://www.sunjournal.com/feed/",
+      "https://www.sunjournal.com/new-homepage-dec-2025/feed/"
+    ],
+    "twincitytimes.com": [
+      "https://twincitytimes.com/feed"
+    ],
+    "mdislander.com": [
+      "http://www.mdislander.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "conwaydailysun.com": [
+      "http://www.conwaydailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "capecourier.com": [
+      "https://capecourier.com/feed/"
+    ],
+    "thecounty.me": [
+      "https://thecounty.me/feed/"
+    ],
+    "quoddytides.com": [
+      "https://www.quoddytides.com/rss/"
+    ],
+    "ellsworthamerican.com": [
+      "http://www.ellsworthamerican.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "fiddleheadfocus.com": [
+      "https://thecounty.me/feed/"
+    ],
+    "gorhamtimes.com": [
+      "https://www.gorhamtimes.com/feed/",
+      "https://www.gorhamtimes.com/gorham-times/feed/"
+    ],
+    "machiasnews.com": [
+      "https://www.machiasnews.com/rss/"
+    ],
+    "lcnme.com": [
+      "https://lcnme.com/feed/",
+      "https://lcnme.com/feed/atom/"
+    ],
+    "frontpage.thewindhameagle.com": [
+      "https://frontpage.thewindhameagle.com/feeds/posts/default",
+      "https://frontpage.thewindhameagle.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/1191467285490879367/posts/default"
+    ],
+    "thebatesstudent.com": [
+      "https://thebatesstudent.com/feed/",
+      "https://thebatesstudent.com/feed/atom/"
+    ],
+    "usmfreepress.org": [
+      "https://usmfreepress.org/feed/",
+      "https://usmfreepress.org/feed/atom/"
+    ],
+    "mainecampus.com": [
+      "https://mainecampus.com/feed/"
+    ],
+    "mainepressassociation.org": [
+      "https://mainepressassociation.org/feed/"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 28,
+  "total_feeds": 39,
+  "feeds": {
+    "theadvocate.com": [
+      "http://www.theadvocate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "stmarynow.com": [
+      "https://www.stmarynow.com/rss.xml"
+    ],
+    "hammondstar.com": [
+      "http://www.hammondstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "vermiliontoday.com": [
+      "https://www.vermiliontoday.com/rss.xml"
+    ],
+    "baptistmessage.com": [
+      "https://baptistmessage.com/feed/"
+    ],
+    "businessreport.com": [
+      "https://www.businessreport.com/feed"
+    ],
+    "centralcitynews.us": [
+      "https://centralcitynews.us/?feed=rss2"
+    ],
+    "thepsychologytimes.com": [
+      "https://thepsychologytimes.com/feed/"
+    ],
+    "bossierpress.com": [
+      "https://bossierpress.com/feed/",
+      "https://bossierpress.com/feed/atom/",
+      "https://bossierpress.com/feed/"
+    ],
+    "heraldguide.com": [
+      "https://www.heraldguide.com/feed/"
+    ],
+    "avoyellestoday.com": [
+      "https://www.avoyellestoday.com/rss/"
+    ],
+    "centralcitynews.net": [
+      "http://www.centralcitynews.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "crowleypostsignal.com": [
+      "https://www.crowleypostsignal.com/rss.xml"
+    ],
+    "dequincynews.com": [
+      "https://www.dequincynews.com/feed/"
+    ],
+    "hannapub.com": [
+      "http://www.hannapub.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "kaplantoday.com": [
+      "https://www.kaplantoday.com/rss.xml"
+    ],
+    "lafourchegazette.com": [
+      "http://www.lafourchegazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ulmhawkeyeonline.com": [
+      "https://ulmhawkeyeonline.com/feed/",
+      "https://ulmhawkeyeonline.com/feed/atom/"
+    ],
+    "thewestsidejournal.com": [
+      "https://www.thewestsidejournal.com/feed/"
+    ],
+    "rustonleader.com": [
+      "https://www.rustonleader.com/rss.xml"
+    ],
+    "thebestoftimesnews.com": [
+      "http://www.thebestoftimesnews.com/tbt_rss.php?page=MAGS",
+      "http://www.thebestoftimesnews.com/tbt_rss.php?page=NEWS",
+      "http://www.thebestoftimesnews.com/tbt_rss.php?page=RADIO",
+      "http://www.thebestoftimesnews.com/tbt_rss.php?page=EVENTS"
+    ],
+    "theinquisitor.com": [
+      "https://www.theinquisitor.com/rss.xml"
+    ],
+    "lsureveille.com": [
+      "https://lsureveille.com/feed/",
+      "https://lsureveille.com/feed/atom/"
+    ],
+    "loyolamaroon.com": [
+      "https://loyolamaroon.com/feed/",
+      "https://loyolamaroon.com/feed/atom/"
+    ],
+    "thenichollsworth.com": [
+      "https://thenichollsworth.com/feed/",
+      "https://thenichollsworth.com/feed/atom/"
+    ],
+    "lionsroarnews.com": [
+      "https://lionsroarnews.com/feed/",
+      "https://lionsroarnews.com/feed/atom/"
+    ],
+    "tulanehullabaloo.com": [
+      "https://tulanehullabaloo.com/feed/",
+      "https://tulanehullabaloo.com/feed/atom/"
+    ],
+    "lapress.com": [
+      "http://www.lapress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

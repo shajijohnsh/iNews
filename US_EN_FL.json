@@ -1,0 +1,50 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 14,
+  "feeds": {
+    "orlandosentinel.com": [
+      "https://www.orlandosentinel.com/feed/"
+    ],
+    "sun-sentinel.com": [
+      "https://www.sun-sentinel.com/feed/"
+    ],
+    "alachuacountytoday.com": [
+      "https://alachuacountytoday.com/feed/"
+    ],
+    "amisun.com": [
+      "https://amisun.com/feed/"
+    ],
+    "islander.org": [
+      "https://www.islander.org/feed/"
+    ],
+    "thevosm.net": [
+      "https://1259.newstogo.us/feed/"
+    ],
+    "crestviewbulletin.com": [
+      "https://crestviewbulletin.com/feed/"
+    ],
+    "chronicleonline.com": [
+      "http://www.chronicleonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "chipleybugle.com": [
+      "https://chipleybugle.com/feed/"
+    ],
+    "bctelegraph.com": [
+      "https://bctelegraph.com/feed/"
+    ],
+    "observerlocalnews.com": [
+      "https://www.observerlocalnews.com/rss/headlines/all/"
+    ],
+    "businessobserverfl.com": [
+      "https://www.businessobserverfl.com/rss/headlines/all/"
+    ],
+    "midfloridanewspapers.com": [
+      "http://www.midfloridanewspapers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "flpress.com": [
+      "https://flpress.com/feed/"
+    ]
+  }
+}

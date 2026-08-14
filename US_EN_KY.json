@@ -1,0 +1,141 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 43,
+  "total_feeds": 47,
+  "feeds": {
+    "dailyindependent.com": [
+      "http://www.dailyindependent.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thetimestribune.com": [
+      "http://www.thetimestribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "kentuckynewera.com": [
+      "http://www.kentuckynewera.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "the-messenger.com": [
+      "http://www.the-messenger.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "maysville-online.com": [
+      "https://www.maysville-online.com/feed"
+    ],
+    "murrayledger.com": [
+      "http://www.murrayledger.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "messenger-inquirer.com": [
+      "http://www.messenger-inquirer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "paducahsun.com": [
+      "http://www.paducahsun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "richmondregister.com": [
+      "http://www.richmondregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "somerset-kentucky.com": [
+      "http://www.somerset-kentucky.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nolangroupmedia.com": [
+      "https://nolangroupmedia.com/feed/"
+    ],
+    "pmg-ky2.com": [
+      "http://www.pmg-ky2.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "madisoncourier.com": [
+      "http://www.madisoncourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "cumberlandcountynewspaper.com": [
+      "https://www.cumberlandcountynewspaper.com/feed/"
+    ],
+    "ky-leadernews.com": [
+      "https://ky-leadernews.com/feed/"
+    ],
+    "adairprogress.com": [
+      "https://www.adairprogress.com/feed/"
+    ],
+    "pmg-ky3.com": [
+      "http://www.pmg-ky3.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pmg-ky1.com": [
+      "http://www.pmg-ky1.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "franklinfavorite.com": [
+      "http://www.franklinfavorite.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "news-graphic.com": [
+      "http://www.news-graphic.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "record-herald.com": [
+      "https://www.record-herald.com/feed/"
+    ],
+    "harrodsburgherald.com": [
+      "https://www.harrodsburgherald.com/feed/"
+    ],
+    "octimesnews.com": [
+      "https://www.octimesnews.com/feed/"
+    ],
+    "hancockclarion.com": [
+      "https://www.hancockclarion.com/feed/"
+    ],
+    "smileypete.com": [
+      "https://smileypete.com/api/rss/content.rss"
+    ],
+    "sentinel-echo.com": [
+      "http://www.sentinel-echo.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "paintsvilleherald.com": [
+      "http://www.paintsvilleherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "news-expressky.com": [
+      "http://www.news-expressky.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "floydct.com": [
+      "http://www.floydct.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "timesleader.net": [
+      "http://www.timesleader.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "russellcountynewspapers.com": [
+      "https://www.russellcountynewspapers.com/feed/"
+    ],
+    "salyersvilleindependent.com": [
+      "https://salyersvilleindependent.com/feed/"
+    ],
+    "thecitizen-times.com": [
+      "https://www.thecitizen-times.com/feed/"
+    ],
+    "cpcnewspapers.com": [
+      "https://www.cpcnewspapers.com/feed/"
+    ],
+    "tompkinsvillenews.com": [
+      "https://www.tompkinsvillenews.com/feed/"
+    ],
+    "lewiscountyherald.com": [
+      "https://lewiscountyherald.com/feed/"
+    ],
+    "woodfordsun.com": [
+      "https://www.woodfordsun.com/blog-feed.xml"
+    ],
+    "mccrearyjournal.com": [
+      "https://www.mccrearyjournal.com/feed/"
+    ],
+    "wkuherald.com": [
+      "https://wkuherald.com/feed/",
+      "https://wkuherald.com/feed/atom/"
+    ],
+    "thenortherner.com": [
+      "https://www.thenortherner.com/feed/",
+      "https://www.thenortherner.com/feed/atom/"
+    ],
+    "kykernel.com": [
+      "https://kykernel.com/feed/",
+      "https://kykernel.com/feed/atom/"
+    ],
+    "murraystatenews.org": [
+      "https://murraystatenews.org/feed/",
+      "https://murraystatenews.org/feed/atom/"
+    ],
+    "kypress.com": [
+      "https://kypress.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 14,
+  "feeds": {
+    "staradvertiser.com": [
+      "https://www.staradvertiser.com/feed/"
+    ],
+    "hawaiicatholicherald.com": [
+      "https://hawaiicatholicherald.com/feed/"
+    ],
+    "midweek.com": [
+      "https://www.midweek.com/feed/"
+    ],
+    "northshorenews.com": [
+      "https://northshorenews.com/feed/"
+    ],
+    "hawaiiarmyweekly.com": [
+      "https://hawaiiarmyweekly.com/feed/"
+    ],
+    "hawaiireporter.com": [
+      "https://www.hawaiireporter.com/feed/",
+      "https://www.hawaiireporter.com/home/feed/"
+    ],
+    "midweekkauai.com": [
+      "https://www.midweekkauai.com/feed/"
+    ],
+    "civilbeat.org": [
+      "https://www.civilbeat.org/feed/"
+    ],
+    "hawaiistar.com": [
+      "https://www.hawaiistar.com/feed/"
+    ],
+    "thefilipinochronicle.com": [
+      "https://thefilipinochronicle.com/feed/"
+    ],
+    "hawaiipublishersassociation.com": [
+      "https://hawaiipublishersassociation.com/devsite/index.php/feed/",
+      "https://hawaiipublishersassociation.com/devsite/index.php/about-us/feed/"
+    ],
+    "kitv.com": [
+      "http://www.kitv.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 24,
+  "feeds": {
+    "cadillacnews.com": [
+      "http://www.cadillacnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "grandhaventribune.com": [
+      "http://www.grandhaventribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "shorelinemedia.net": [
+      "http://www.shorelinemedia.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "macombdaily.com": [
+      "https://www.macombdaily.com/feed/"
+    ],
+    "theoaklandpress.com": [
+      "https://www.theoaklandpress.com/feed/"
+    ],
+    "heraldpalladium.com": [
+      "http://www.heraldpalladium.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "record-eagle.com": [
+      "http://www.record-eagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wilcoxnewspapers.com": [
+      "https://wilcoxnewspapers.com/feed/"
+    ],
+    "antrimreview.net": [
+      "https://antrimreview.net/rss.xml"
+    ],
+    "bellevilleareaindependent.com": [
+      "https://bellevilleareaindependent.com/feed/"
+    ],
+    "boynegazette.com": [
+      "https://www.boynegazette.com/feed/"
+    ],
+    "baymillsnews.com": [
+      "https://www.baymillsnews.com/blog-feed.xml"
+    ],
+    "theexponent.com": [
+      "https://theexponent.com/feed",
+      "https://theexponent.com/home-2/feed"
+    ],
+    "bcrnews.net": [
+      "https://bcrnews.net/feed/"
+    ],
+    "tuscolatoday.com": [
+      "http://www.tuscolatoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "leaderpub.com": [
+      "http://www.heraldpalladium.com/search/?f=rss&t=article&c=leaderpub&l=50&s=start_time&sd=desc"
+    ],
+    "thenewsherald.com": [
+      "https://www.thenewsherald.com/feed/"
+    ],
+    "lanthorn.com": [
+      "https://lanthorn.com/feed/",
+      "https://lanthorn.com/feed/atom/"
+    ],
+    "everythreeweekly.com": [
+      "https://everythreeweekly.com/feed/"
+    ],
+    "michiganreview.com": [
+      "https://michiganreview.substack.com/feed"
+    ],
+    "thesouthend.wayne.edu": [
+      "http://www.thesouthend.wayne.edu/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "michiganpress.org": [
+      "https://michiganpress.org/feed/"
+    ]
+  }
+}

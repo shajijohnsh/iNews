@@ -1,0 +1,52 @@
+{
+  "country_code": "US",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 16,
+  "feeds": {
+    "bristolpress.com": [
+      "http://www.bristolpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "courant.com": [
+      "https://www.courant.com/feed/"
+    ],
+    "thechronicle.com": [
+      "http://www.thechronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "bridgeportdiocese.org": [
+      "https://www.bridgeportdiocese.org/feed/"
+    ],
+    "glcitizen.com": [
+      "https://glcitizen.com/feed/"
+    ],
+    "granbydrummer.com": [
+      "https://granbydrummer.com/feed/"
+    ],
+    "quchronicle.com": [
+      "https://quchronicle.com/feed/",
+      "https://quchronicle.com/feed/atom/"
+    ],
+    "commercialrecord.com": [
+      "https://commercialrecord.com/feed/",
+      "https://commercialrecord.com/landing/feed/"
+    ],
+    "identidadlatina.com": [
+      "https://identidadlatina.com/feed/"
+    ],
+    "newbritainherald.com": [
+      "http://www.newbritainherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "primepublishers.com": [
+      "http://www.primepublishers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "whvoice.com": [
+      "https://www.whvoice.com/feed/"
+    ],
+    "dailycampus.com": [
+      "https://dailycampus.com/feed/"
+    ],
+    "nenpa.com": [
+      "https://www.nenpa.com/feed/"
+    ]
+  }
+}
