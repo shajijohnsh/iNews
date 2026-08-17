@@ -18,21 +18,22 @@
 # ==========================================
 # GLOBAL ADMOB CONFIGURATION
 # ==========================================
-#admob_banner_id=ca-app-pub-6604202901728757/1712731986
-#admob_native_id=ca-app-pub-6604202901728757/7511853578
+admob_banner_id=ca-app-pub-6604202901728757/1712731986
+admob_native_id=ca-app-pub-6604202901728757/7511853578
 #admob_interstitial_id=ca-app-pub-6604202901728757/9016506931
 #admob_rewarded_id=ca-app-pub-6604202901728757/2603261967
-#use_production_ads=true
-admob_banner_id=ca-app-pub-3940256099942544/6300978111
+use_production_ads=true
+#test add
+#admob_banner_id=ca-app-pub-3940256099942544/6300978111
 #admob_native_id=ca-app-pub-6604202901728757/7511853578
-admob_interstitial_id=ca-app-pub-3940256099942544/1033173712
-admob_rewarded_id=ca-app-pub-3940256099942544/5224354917
-use_production_ads=false
+#admob_interstitial_id=ca-app-pub-3940256099942544/1033173712
+#admob_rewarded_id=ca-app-pub-3940256099942544/5224354917
+#use_production_ads=false
 
 # ==========================================
 # GLOBAL FALLBACK SETTINGS
 # ==========================================
-admob_enabled=false
+admob_enabled=true
 private_ad_enabled=false
 private_banner_image_url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7e/97/c07e974a-c8a3-68e3-8221-a73e66665c70/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png
 private_banner_click_url=https://shajijohnsh.github.io/iNews/
@@ -47,7 +48,7 @@ private_native_description=This is a global private ad.
 
 # --- United States (US) ---
 # Disable AdMob in the US and show a Private Ad instead
-admob_enabled_US=false
+admob_enabled_US=true
 private_ad_enabled_US=false
 private_banner_image_url_US=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7e/97/c07e974a-c8a3-68e3-8221-a73e66665c70/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png
 private_banner_click_url_US=https://shajijohnsh.github.io/iNews/
@@ -58,10 +59,10 @@ private_native_description_US=This ad is specifically tailored for i-News users 
 
 # --- India (IN) ---
 # Keep AdMob enabled in India, but disable Private Ads entirely
-admob_enabled_IN=false
+admob_enabled_IN=true
 private_ad_enabled_IN=false
 
 # --- United Kingdom (GB) ---
 # Disable all ads in the UK
-admob_enabled_GB=false
+admob_enabled_GB=true
 private_ad_enabled_GB=false
