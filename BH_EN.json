@@ -1,0 +1,27 @@
+{
+  "country_code": "BH",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 7,
+  "feeds": {
+    "bahrain-confidential.com": [
+      "https://www.bahrain-confidential.com/feed/"
+    ],
+    "bizbahrain.com": [
+      "https://www.bizbahrain.com/feed/"
+    ],
+    "fact-magazine.com": [
+      "https://fact-magazine.com/feed/"
+    ],
+    "gulf-insider.com": [
+      "https://www.gulf-insider.com/feed/"
+    ],
+    "vob.org": [
+      "https://www.vob.org/?feed=rss2"
+    ],
+    "womanthismonth.com": [
+      "https://womanthismonth.com/feed/",
+      "https://womanthismonth.com/home/feed/"
+    ]
+  }
+}

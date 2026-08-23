@@ -1,57 +1,89 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 15,
-  "total_feeds": 19,
+  "total_domains": 20,
+  "total_feeds": 41,
   "feeds": {
-    "vijaykarnataka.com": [
-      "https://vijaykarnataka.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "vishwavani.news": [
-      "https://vishwavani.news/feed/"
-    ],
-    "varthabharati.in": [
-      "https://www.varthabharati.in/google_feeds.xml"
-    ],
-    "sanjevani.com": [
-      "https://sanjevani.com/feed/"
-    ],
-    "prajapragathi.com": [
-      "https://prajapragathi.com/feed/",
-      "https://prajapragathi.com/web-stories/feed/"
-    ],
-    "sudharmasanskritdaily.in": [
-      "https://sudharmasanskritdaily.in/feed/"
+    "deccanherald.com": [
+      "https://prod-qt-images.s3.amazonaws.com/production/deccanherald/feed.xml"
     ],
     "eesanje.com": [
       "https://eesanje.com/feed/",
       "https://eesanje.com/home/feed/"
     ],
-    "karnatakamalla.com": [
-      "https://www.karnatakamalla.com/rss"
+    "epaper.dakshinbharat.com": [
+      "https://epaper.dakshinbharat.com/rss"
     ],
-    "suddidina.com": [
-      "https://suddidina.com/feed/"
+    "janathavani.com": [
+      "https://janathavani.com/feed/"
+    ],
+    "kannada.asianetnews.com": [
+      "https://kannada.asianetnews.com/rss"
+    ],
+    "kannada.oneindia.com": [
+      "https://kannada.oneindia.com/rss/kannada-news-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-astrology-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-cartoons-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-column-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-debates-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-jobs-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-jokes-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-literature-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-motivational-stories-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-nri-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-partner-content-fb.xml",
+      "https://kannada.oneindia.com/rss/kannada-travel-fb.xml",
+      "https://kannada.oneindia.com/rss/tag-assam-assembly-elections-2021.xml",
+      "https://kannada.oneindia.com/rss/tag-kerala-assembly-elections-2021.xml",
+      "https://kannada.oneindia.com/rss/tag-puducherry-assembly-elections-2021.xml",
+      "https://kannada.oneindia.com/rss/tag-tamil-nadu-assembly-elections-2021.xml",
+      "https://kannada.oneindia.com/rss/tag-west-bengal-assembly-elections-2021.xml"
     ],
     "kannadadunia.com": [
       "https://kannadadunia.com/feed/",
       "https://kannadadunia.com/home-2/feed/"
     ],
+    "kannadaprabha.com": [
+      "https://prod-qt-images.s3.amazonaws.com/production/kannadaprabha/feed.xml"
+    ],
+    "karnatakamalla.com": [
+      "https://www.karnatakamalla.com/rss"
+    ],
+    "prajapragathi.com": [
+      "https://prajapragathi.com/feed/",
+      "https://prajapragathi.com/web-stories/feed/"
+    ],
     "sahilonline.in": [
       "https://sahilonline.in/feed/posts"
     ],
-    "kannada.asianetnews.com": [
-      "https://kannada.asianetnews.com/rss"
+    "sanjevani.com": [
+      "https://sanjevani.com/feed/"
     ],
-    "epaper.dakshinbharat.com": [
-      "https://epaper.dakshinbharat.com/rss"
+    "suddidina.com": [
+      "https://suddidina.com/feed/"
+    ],
+    "sudharmasanskritdaily.in": [
+      "https://sudharmasanskritdaily.in/feed/"
+    ],
+    "udayavani.com": [
+      "https://www.udayavani.com/feed"
+    ],
+    "varthabharati.in": [
+      "https://www.varthabharati.in/google_feeds.xml"
+    ],
+    "vijaykarnataka.com": [
+      "https://vijaykarnataka.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "vishvakannada.com": [
+      "https://vishvakannada.com/feed/"
+    ],
+    "vishwavani.news": [
+      "https://vishwavani.news/feed/"
     ],
     "yakshagana.com": [
       "https://yakshagana.com/feed/",
       "https://yakshagana.com/home/feed/"
-    ],
-    "vishvakannada.com": [
-      "https://vishvakannada.com/feed/"
     ]
   }
 }

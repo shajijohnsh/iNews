@@ -4,25 +4,16 @@
   "total_domains": 10,
   "total_feeds": 13,
   "feeds": {
-    "maharashtratimes.com": [
-      "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed.xml"
+    "afternoonvoice.com": [
+      "https://www.afternoonvoice.com/feed",
+      "https://www.afternoonvoice.com/web-stories/feed/"
     ],
-    "tarunbharat.com": [
-      "https://www.tarunbharat.com/feed/",
-      "https://www.tarunbharat.com/webstories/feed/"
-    ],
-    "prahaar.in": [
-      "https://prahaar.in/feed/"
-    ],
-    "parshvbhumi.com": [
-      "https://www.parshvbhumi.com/rss"
+    "chaprak.com": [
+      "https://www.chaprak.com/blog-feed.xml"
     ],
     "deshdoot.com": [
       "https://deshdoot.com/feed/",
       "https://deshdoot.com/web-stories/feed/"
-    ],
-    "maxmaharashtra.com": [
-      "https://www.maxmaharashtra.com/google_feeds.xml"
     ],
     "hellomaharashtra.in": [
       "https://hellomaharashtra.in/feed/"
@@ -30,12 +21,21 @@
     "maharashtradesha.com": [
       "https://maharashtradesha.com/feed/"
     ],
-    "afternoonvoice.com": [
-      "https://www.afternoonvoice.com/feed",
-      "https://www.afternoonvoice.com/web-stories/feed/"
+    "maharashtratimes.com": [
+      "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed.xml"
     ],
-    "chaprak.com": [
-      "https://www.chaprak.com/blog-feed.xml"
+    "maxmaharashtra.com": [
+      "https://www.maxmaharashtra.com/google_feeds.xml"
+    ],
+    "parshvbhumi.com": [
+      "https://www.parshvbhumi.com/rss"
+    ],
+    "prahaar.in": [
+      "https://prahaar.in/feed/"
+    ],
+    "tarunbharat.com": [
+      "https://www.tarunbharat.com/feed/",
+      "https://www.tarunbharat.com/webstories/feed/"
     ]
   }
 }

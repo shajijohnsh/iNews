@@ -2,44 +2,44 @@
   "country_code": "CA",
   "language_code": "EN",
   "total_domains": 15,
-  "total_feeds": 16,
+  "total_feeds": 34,
   "feeds": {
-    "ubyssey.ca": [
-      "https://ubyssey.ca/rss"
+    "castanetkamloops.net": [
+      "https://www.castanetkamloops.net/rss/kamloops-top-headlines.xml",
+      "https://www.castanetkamloops.net/rss/mostrecent.xml",
+      "https://www.castanetkamloops.net/rss/page-1.xml",
+      "https://www.castanetkamloops.net/rss/page-10.xml",
+      "https://www.castanetkamloops.net/rss/page-101.xml",
+      "https://www.castanetkamloops.net/rss/page-11.xml",
+      "https://www.castanetkamloops.net/rss/page-2.xml",
+      "https://www.castanetkamloops.net/rss/page-21.xml",
+      "https://www.castanetkamloops.net/rss/page-3.xml",
+      "https://www.castanetkamloops.net/rss/page-4.xml",
+      "https://www.castanetkamloops.net/rss/page-48.xml",
+      "https://www.castanetkamloops.net/rss/page-5.xml",
+      "https://www.castanetkamloops.net/rss/page-6.xml",
+      "https://www.castanetkamloops.net/rss/page-61.xml",
+      "https://www.castanetkamloops.net/rss/page-7.xml",
+      "https://www.castanetkamloops.net/rss/page-8.xml",
+      "https://www.castanetkamloops.net/rss/page-86.xml",
+      "https://www.castanetkamloops.net/rss/page-87.xml",
+      "https://www.castanetkamloops.net/rss/page-91.xml"
     ],
-    "vancouverobserver.com": [
-      "https://www.vancouverobserver.com/rss.xml"
-    ],
-    "patrika.ca": [
-      "https://patrika.ca/feed/"
+    "kamloopsthisweek.com": [
+      "https://www.castanet.net/rss/mostrecent.xml"
     ],
     "kelownadailycourier.ca": [
       "http://www.kelownadailycourier.ca/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "the-peak.ca": [
-      "https://the-peak.ca/feed/"
     ],
     "lookoutnewspaper.com": [
       "https://lookoutnewspaper.com/feed/",
       "https://lookoutnewspaper.com/home/feed/"
     ],
-    "kamloopsthisweek.com": [
-      "https://www.castanet.net/rss/mostrecent.xml"
-    ],
-    "castanetkamloops.net": [
-      "https://www.castanet.net/rss/mostrecent.xml"
-    ],
     "merrittherald.com": [
       "https://www.merrittherald.com/feed/"
     ],
-    "thenav.ca": [
-      "https://thenav.ca/feed/"
-    ],
-    "valleyvoice.ca": [
-      "https://valleyvoice.ca/feed/"
-    ],
-    "timeschronicle.ca": [
-      "https://www.timeschronicle.ca/feed/"
+    "patrika.ca": [
+      "https://patrika.ca/feed/"
     ],
     "peachlandview.com": [
       "https://www.castanet.net/rss/mostrecent.xml"
@@ -49,6 +49,24 @@
     ],
     "runnermag.ca": [
       "https://runnermag.ca/feed/"
+    ],
+    "the-peak.ca": [
+      "https://the-peak.ca/feed/"
+    ],
+    "thenav.ca": [
+      "https://thenav.ca/feed/"
+    ],
+    "timeschronicle.ca": [
+      "https://www.timeschronicle.ca/feed/"
+    ],
+    "ubyssey.ca": [
+      "https://ubyssey.ca/rss"
+    ],
+    "valleyvoice.ca": [
+      "https://valleyvoice.ca/feed/"
+    ],
+    "vancouverobserver.com": [
+      "https://www.vancouverobserver.com/rss.xml"
     ]
   }
 }

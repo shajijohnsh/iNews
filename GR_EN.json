@@ -1,0 +1,397 @@
+{
+  "country_code": "GR",
+  "language_code": "EN",
+  "total_domains": 80,
+  "total_feeds": 229,
+  "feeds": {
+    "agon.gr": [
+      "https://www.agon.gr/feed/"
+    ],
+    "agonas.gr": [
+      "https://agonas.gr/feed/"
+    ],
+    "aixmi-news.gr": [
+      "https://www.aixmi-news.gr/feed/"
+    ],
+    "alithia.gr": [
+      "https://www.alithia.gr/rss.xml",
+      "http://www.alithia.gr/rss.xml"
+    ],
+    "anexartitos.gr": [
+      "https://www.anexartitos.gr/feed",
+      "https://www.anexartitos.gr/tag/podcast-dimitra/feed",
+      "https://www.anexartitos.gr/koinonia/opinion/podcast/feed"
+    ],
+    "athensvoice.gr": [
+      "https://www.athensvoice.gr/rss/echobox/"
+    ],
+    "athinorama.gr": [
+      "https://www.athinorama.gr/digital/rss/",
+      "https://www.athinorama.gr/digital/rss/default.aspx"
+    ],
+    "avgi.gr": [
+      "http://www.avgi.gr/newsstream/-/asset_publisher/CATEGORY/rss",
+      "https://www.avgi.gr/rss.xml"
+    ],
+    "businessnews.gr": [
+      "https://www.businessnews.gr/?format=feed&type=atom"
+    ],
+    "chiosnews.com": [
+      "https://chiosnews.com/feed/"
+    ],
+    "dimokratiki.gr": [
+      "https://www.dimokratiki.gr/feed/"
+    ],
+    "ditiki.gr": [
+      "https://ditiki.gr/feed/",
+      "https://ditiki.gr/feed/atom/",
+      "https://ditiki.gr/feed/"
+    ],
+    "dnews.gr": [
+      "https://feeds.feedburner.com/dikaiologitika/ZteV",
+      "https://www.dnews.gr/eidhseis/politikes-eidhseis?format=feed"
+    ],
+    "e-thessalia.gr": [
+      "https://e-thessalia.gr/feed/",
+      "https://e-thessalia.gr/feed"
+    ],
+    "efsyn.gr": [
+      "https://www.efsyn.gr/feed.xml"
+    ],
+    "ekathimerini.com": [
+      "http://www.ekathimerini.com/rss"
+    ],
+    "eleftheriaonline.gr": [
+      "https://feeds.feedburner.com/eleftheriaonline/uFFd",
+      "http://feeds.feedburner.com/eleftheriaonline/uFFd"
+    ],
+    "eleftherostypos.gr": [
+      "https://eleftherostypos.gr/feed",
+      "https://feeds.feedburner.com/eleftherostypos/RevCmVR1nZQ"
+    ],
+    "elkosmos.gr": [
+      "https://elkosmos.gr/feed"
+    ],
+    "emakedonia.gr": [
+      "https://www.emakedonia.gr/feed"
+    ],
+    "enikos.gr": [
+      "https://www.enikos.gr/feed/",
+      "https://www.enikos.gr/rss/latest.xml"
+    ],
+    "enimerosi.com": [
+      "https://enimerosi.com/rss/"
+    ],
+    "ert.gr": [
+      "https://www.ert.gr/feed/"
+    ],
+    "espressonews.gr": [
+      "https://www.espressonews.gr/feed/"
+    ],
+    "ethnos.gr": [
+      "https://www.ethnos.gr/rss-news?positionid=1"
+    ],
+    "evianews.com": [
+      "https://evianews.com/feed/"
+    ],
+    "evrytanika.gr": [
+      "https://evrytanika.gr/feed/"
+    ],
+    "filodimos.gr": [
+      "https://filodimos.gr/?format=feed&type=rss",
+      "https://filodimos.gr/?format=feed&type=atom"
+    ],
+    "gazzetta.gr": [
+      "https://www.gazzetta.gr/taxonomy/term/10001/all/feed",
+      "https://www.gazzetta.gr/taxonomy/term/1016/all/feed",
+      "https://www.gazzetta.gr/taxonomy/term/10166/all/feed",
+      "https://www.gazzetta.gr/taxonomy/term/1018/all/feed"
+    ],
+    "greeknewsonline.com": [
+      "https://www.greeknewsonline.com/feed/"
+    ],
+    "greekreporter.com": [
+      "https://greekreporter.com/feed/"
+    ],
+    "iefimerida.gr": [
+      "https://www.iefimerida.gr/rss.xml",
+      "https://www.iefimerida.gr/taxonomy/term/2/all/feed",
+      "https://www.iefimerida.gr/taxonomy/term/20/all/feed",
+      "https://www.iefimerida.gr/taxonomy/term/21/all/feed"
+    ],
+    "imeranews.gr": [
+      "https://imeranews.gr/feed/"
+    ],
+    "karfitsa.gr": [
+      "https://www.karfitsa.gr/feed/"
+    ],
+    "kathimerini.gr": [
+      "https://www.kathimerini.gr/feed/",
+      "https://www.kathimerini.gr/rss"
+    ],
+    "katohika.gr": [
+      "https://katohika.gr/gn-blog/apeleftherose-periorismous-kai-programmata-pou-se-kratoun-piso/feed/",
+      "https://katohika.gr/feed/",
+      "https://katohika.gr/gn-blog/taksidepse-sto-mellon-100-chronia-apo-tora/feed/",
+      "https://katohika.gr/gn-blog/o-covid-19-einai-ena-symvolo-mias-vathyteris-loimoksis-tou-iou-tou-nou-wetiko/feed/",
+      "https://katohika.gr/gn-blog/fovos-aporripsis-pos-mporei-na-voithisei-i-kliniki-ypnosi/feed/",
+      "https://katohika.gr/category/gn-blog/feed/",
+      "https://katohika.gr/gn-blog/%CE%B1%CF%80%CE%BB%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%B7-%CE%B1%CF%86%CE%AE%CE%B3%CE%B7%CF%83%CE%B7-%CF%84%CE%BF%CF%85-%CE%B5%CE%B9%CE%BC%CE%B1%CE%B9-%CE%B4%CE%AF%CF%87/feed/",
+      "https://katohika.gr/gn-blog/%CE%BA%CE%AC%CF%80%CE%BF%CE%B9%CE%B5%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%B9%CF%82-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BC%CE%B1%CF%82-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%BC%CF%8C%CE%BD/feed/",
+      "https://katohika.gr/gn-blog/londino-diarroi-ypoptis-chimikis-ousias-se-kentriko-dromo/feed/",
+      "https://katohika.gr/gn-blog/na-niotheis-kai-na-eisai-afto-pou-eisai-na-to-timas-kai-na-tou-epitrepeis-na-einai-arketo/feed/",
+      "https://katohika.gr/gn-blog/o-skiodis-eaftos-mou-synantisi-kai-ensomatosi-ypnotherapeia/feed/",
+      "https://katohika.gr/gn-blog/to-monadiko-apto-oplo-kata-opoiasdipote-epivoulis-kai-mind-control/feed/",
+      "https://katohika.gr/gn-blog/video-pagkosmios-dialogismos-chronogrammis-analipsis-telous-tou-koronoiou/feed/"
+    ],
+    "keeptalkinggreece.com": [
+      "https://www.keeptalkinggreece.com/feed/",
+      "https://www.keeptalkinggreece.com/home/feed/"
+    ],
+    "kokkinosprotathlitis.gr": [
+      "https://www.kokkinosprotathlitis.gr/feed/"
+    ],
+    "kosmoslarissa.gr": [
+      "https://kosmoslarissa.gr/feed/"
+    ],
+    "koutipandoras.gr": [
+      "https://www.koutipandoras.gr/feed/"
+    ],
+    "laosnews.gr": [
+      "https://laosnews.gr/feed/"
+    ],
+    "lifo.gr": [
+      "https://www.lifo.gr/articles.rss",
+      "https://www.lifo.gr/confessions.rss",
+      "https://www.lifo.gr/dedications.rss",
+      "https://www.lifo.gr/i_saw_you.rss",
+      "https://www.lifo.gr/lifoland.rss",
+      "https://www.lifo.gr/now.rss",
+      "https://www.lifo.gr/print.rss",
+      "https://www.lifo.gr/videos.rss"
+    ],
+    "makeleio.gr": [
+      "https://www.makeleio.gr/feed/",
+      "https://www.makeleio.gr/feed/",
+      "https://www.makeleio.gr/homepage-2/feed/"
+    ],
+    "metrosport.gr": [
+      "https://www.metrosport.gr/feed"
+    ],
+    "naftemporiki.gr": [
+      "https://www.naftemporiki.gr/business/feed/",
+      "https://www.naftemporiki.gr/feed/",
+      "https://www.naftemporiki.gr/politics/feed/",
+      "https://www.naftemporiki.gr/rssFeed",
+      "https://www.naftemporiki.gr/rssFeed?mode=categ&id=8&atype=story",
+      "https://www.naftemporiki.gr/rssFeed?mode=section&id=1&atype=story",
+      "https://www.naftemporiki.gr/rssFeed?mode=section&id=2&atype=story",
+      "https://www.naftemporiki.gr/techscience/feed/"
+    ],
+    "neakriti.gr": [
+      "https://www.neakriti.gr/category/editors-blogs/adonis-gortzis/rss",
+      "https://www.neakriti.gr/category/editors-blogs/aggelidaki-andriani-blog/rss",
+      "https://www.neakriti.gr/category/editors-blogs/doulgeraki-aggela-blog/rss",
+      "https://www.neakriti.gr/category/editors-blogs/giorgos-mimikos-blog/rss",
+      "https://www.neakriti.gr/category/editors-blogs/giorgos-sahinis-blog/rss",
+      "https://www.neakriti.gr/category/editors-blogs/manos-daskalakis-blog/rss",
+      "https://www.neakriti.gr/category/editors-blogs/maria-paulaki/rss",
+      "https://www.neakriti.gr/category/editors-blogs/mary-kariotaki-blog/rss",
+      "https://www.neakriti.gr/category/editors-blogs/nikos-kosmadakis/rss",
+      "https://www.neakriti.gr/category/editors-blogs/nikos-panagiotopoulos/rss",
+      "https://www.neakriti.gr/category/editors-blogs/sfakianaki-blog/rss",
+      "https://www.neakriti.gr/rss",
+      "https://www.neakriti.gr/rss.xml"
+    ],
+    "neoiagones.gr": [
+      "https://neoiagones.gr/feed/"
+    ],
+    "newpost.gr": [
+      "https://newpost.gr/blogs/feed/"
+    ],
+    "newsbeast.gr": [
+      "https://www.newsbeast.gr/car/feed",
+      "https://www.newsbeast.gr/entertainment/feed",
+      "https://www.newsbeast.gr/environment/feed",
+      "https://www.newsbeast.gr/feed",
+      "https://www.newsbeast.gr/financial/feed",
+      "https://www.newsbeast.gr/geuseis/feed",
+      "https://www.newsbeast.gr/greece/feed",
+      "https://www.newsbeast.gr/health/feed",
+      "https://www.newsbeast.gr/lifestyle/feed",
+      "https://www.newsbeast.gr/media/feed",
+      "https://www.newsbeast.gr/moto/feed",
+      "https://www.newsbeast.gr/politiki/feed",
+      "https://www.newsbeast.gr/society/feed",
+      "https://www.newsbeast.gr/sports/feed",
+      "https://www.newsbeast.gr/technology/feed",
+      "https://www.newsbeast.gr/travel/feed",
+      "https://www.newsbeast.gr/weird/feed",
+      "https://www.newsbeast.gr/woman/feed",
+      "https://www.newsbeast.gr/world/feed",
+      "https://www.newsbeast.gr/zwdia/feed"
+    ],
+    "newsbomb.gr": [
+      "https://www.newsbomb.gr/oles-oi-eidhseis?format=feed&type=atom",
+      "https://www.newsbomb.gr/oles-oi-eidhseis?format=feed&type=rss"
+    ],
+    "newsit.gr": [
+      "https://www.newsit.gr/category/blogs/politikh-kouzina/feed/",
+      "https://www.newsit.gr/feed/"
+    ],
+    "newsnowgr.com": [
+      "https://www.newsnowgr.com/sitemap-rsspop.xml"
+    ],
+    "novasports.gr": [
+      "https://www.novasports.gr/feed/"
+    ],
+    "orthodoxia.gr": [
+      "https://orthodoxia.gr/feed/"
+    ],
+    "parapolitika.gr": [
+      "https://www.parapolitika.gr/rss",
+      "https://www.parapolitika.gr/rss?containerid=15"
+    ],
+    "patris.gr": [
+      "https://www.patris.gr/feed/"
+    ],
+    "patrisnews.com": [
+      "https://www.patrisnews.com/feed/"
+    ],
+    "pelop.gr": [
+      "https://pelop.gr/feed/",
+      "https://pelop.gr/feed/gn"
+    ],
+    "pentapostagma.gr": [
+      "https://www.pentapostagma.gr/rss.xml"
+    ],
+    "politisonline.com": [
+      "https://politisonline.com/feed/"
+    ],
+    "prin.gr": [
+      "https://prin.gr/feed/"
+    ],
+    "prlogos.gr": [
+      "https://www.prlogos.gr/feed/",
+      "http://www.prlogos.gr/feed/"
+    ],
+    "proinanea.gr": [
+      "https://www.proinanea.gr/feed/",
+      "http://www.proinanea.gr/feed/"
+    ],
+    "protagon.gr": [
+      "https://protagon.gr/apopseis/blogs/feed",
+      "https://protagon.gr/feed",
+      "https://www.protagon.gr/apopseis/blogs/feed",
+      "https://www.protagon.gr/epikairotita/feed",
+      "https://www.protagon.gr/feed",
+      "https://www.protagon.gr/feed?i=protagon.el.article"
+    ],
+    "protothema.gr": [
+      "https://www.protothema.gr/blogs/aleksandros-kasimatis/rss",
+      "https://www.protothema.gr/blogs/basilis-stefanakidis/rss",
+      "https://www.protothema.gr/blogs/dimitris-anastasopoylos/rss",
+      "https://www.protothema.gr/blogs/dimitris-danikas/rss",
+      "https://www.protothema.gr/blogs/dimitris-pagadakis/rss",
+      "https://www.protothema.gr/blogs/fofi-giotaki/rss",
+      "https://www.protothema.gr/blogs/g-x-papagewrgioy/rss",
+      "https://www.protothema.gr/blogs/georgios-sanidas/rss",
+      "https://www.protothema.gr/blogs/giannis-paidas/rss",
+      "https://www.protothema.gr/blogs/giorgos-apostolopoulos/rss",
+      "https://www.protothema.gr/blogs/giwrgos-d-andreoy/rss",
+      "https://www.protothema.gr/blogs/giwrgos-stylios/rss",
+      "https://www.protothema.gr/blogs/gr-nikolopoylos/rss",
+      "https://www.protothema.gr/blogs/grigoris-tziobaras/rss",
+      "https://www.protothema.gr/blogs/ilias-papatheodorou/rss",
+      "https://www.protothema.gr/blogs/katerina-papakosta/rss",
+      "https://www.protothema.gr/blogs/kwstas-melas/rss",
+      "https://www.protothema.gr/blogs/makis-pollatos/rss",
+      "https://www.protothema.gr/blogs/maria-sureggela/rss",
+      "https://www.protothema.gr/blogs/mihalis-stoukas/rss",
+      "https://www.protothema.gr/blogs/mpampis-koytras/rss",
+      "https://www.protothema.gr/blogs/nikos-felekis/rss",
+      "https://www.protothema.gr/blogs/nikos-meletis/rss",
+      "https://www.protothema.gr/blogs/padelis-kapsis/rss",
+      "https://www.protothema.gr/blogs/rss",
+      "https://www.protothema.gr/blogs/rss/",
+      "https://www.protothema.gr/blogs/spilios-livanos/rss",
+      "https://www.protothema.gr/blogs/stefanos-tzanakis/rss",
+      "https://www.protothema.gr/blogs/takis-trakoysellis/rss",
+      "https://www.protothema.gr/blogs/tasos-gaitanis/rss",
+      "https://www.protothema.gr/blogs/tasos-karamitsos/rss",
+      "https://www.protothema.gr/blogs/theodoros-loukakis/rss",
+      "https://www.protothema.gr/economy/rss",
+      "https://www.protothema.gr/greece/rss",
+      "https://www.protothema.gr/politics/rss",
+      "https://www.protothema.gr/rss",
+      "https://www.protothema.gr/technology/rss"
+    ],
+    "rizospastis.gr": [
+      "https://www.rizospastis.gr/rssFeed.do?channel=Top",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Politics",
+      "https://www.rizospastis.gr/rssFeed.do?channel=World",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Economy",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Work",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Society",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Youth",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Arts",
+      "https://www.rizospastis.gr/rssFeed.do?channel=Sports"
+    ],
+    "rodiaki.gr": [
+      "https://feeds.feedburner.com/rodiaki/eidiseis-rodou"
+    ],
+    "sport-fm.gr": [
+      "https://www.sport-fm.gr/list/1.feed",
+      "https://www.sport-fm.gr/list/2.feed"
+    ],
+    "sport24.gr": [
+      "https://www.sport24.gr/newsfeed.xml?profile=public&types=news&version=light&items=60"
+    ],
+    "stoxos.gr": [
+      "https://www.stoxos.gr/feeds/posts/default",
+      "https://www.stoxos.gr/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/37430256/posts/default"
+    ],
+    "symboulos.gr": [
+      "https://www.symboulos.gr/feed/"
+    ],
+    "tanea.gr": [
+      "https://www.tanea.gr/feed",
+      "https://www.tanea.gr/feed/"
+    ],
+    "thenationalherald.com": [
+      "https://www.thenationalherald.com/feed/"
+    ],
+    "thestival.gr": [
+      "https://www.thestival.gr/feed/"
+    ],
+    "thetoc.gr": [
+      "https://www.thetoc.gr/newsfeed/rss/"
+    ],
+    "topontiki.gr": [
+      "http://www.topontiki.gr/rss"
+    ],
+    "tovima.gr": [
+      "https://www.tovima.gr/category/finance/feed/",
+      "https://www.tovima.gr/category/opinions/feed/",
+      "https://www.tovima.gr/category/politics/feed/",
+      "https://www.tovima.gr/category/world/feed/",
+      "https://www.tovima.gr/feed/",
+      "https://www.tovima.gr/tag/sinema-sti-sentra-podcast/feed/",
+      "https://www.tovima.gr/tag/to-vima-simera-podcast/feed/",
+      "https://www.tovima.gr/tag/to-vima-stin-istoria-podcast/feed/"
+    ],
+    "trakyaninsesi.com": [
+      "https://www.trakyaninsesi.com/rss.xml"
+    ],
+    "xronos.gr": [
+      "https://www.xronos.gr/rss.xml",
+      "https://xronos.gr/rss.xml"
+    ],
+    "zougla.gr": [
+      "https://www.zougla.gr/feed/",
+      "https://www.zougla.gr/rss",
+      "https://www.zougla.gr/rss/arthrablog"
+    ]
+  }
+}

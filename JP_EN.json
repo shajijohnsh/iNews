@@ -1,0 +1,164 @@
+{
+  "country_code": "JP",
+  "language_code": "EN",
+  "total_domains": 31,
+  "total_feeds": 94,
+  "feeds": {
+    "business.nikkei.com": [
+      "https://business.nikkei.com/rss/all_nb.rdf",
+      "https://business.nikkei.com/rss/sns/nb-live.rdf",
+      "https://business.nikkei.com/rss/sns/nb-plus.rdf",
+      "https://business.nikkei.com/rss/sns/nb-x.rdf",
+      "https://business.nikkei.com/rss/sns/nb.rdf"
+    ],
+    "cho-animedia.jp": [
+      "https://cho-animedia.jp/rss20/index.rdf"
+    ],
+    "corocoro.jp": [
+      "https://corocoro.jp/feed/",
+      "https://corocoro-news.jp/feed/"
+    ],
+    "cure-net.com": [
+      "https://cure-net.com/feed/"
+    ],
+    "dengekibunko.jp": [
+      "https://dengekibunko.jp/rss2.xml"
+    ],
+    "facta.co.jp": [
+      "https://facta.co.jp/feed/atom.xml"
+    ],
+    "famitsu.com": [
+      "https://www.famitsu.com/rss/category/fcom_anime.rdf",
+      "https://www.famitsu.com/rss/category/fcom_game.rdf",
+      "https://www.famitsu.com/rss/category/fcom_news_ps4.rdf",
+      "https://www.famitsu.com/rss/fcom_all.rdf"
+    ],
+    "hiraganatimes.com": [
+      "https://hiraganatimes.com/feed"
+    ],
+    "hobby.dengeki.com": [
+      "https://hobby.dengeki.com/feed/",
+      "https://hobby.dengeki.com/news/feed/",
+      "https://hobby.dengeki.com/tag/gundam/feed/",
+      "https://hobby.dengeki.com/tag/gunpla-2/feed/",
+      "https://hobby.dengeki.com/tag/moe_figure/feed/"
+    ],
+    "japantimes.co.jp": [
+      "https://www.japantimes.co.jp/culture/entertainment-news/feed/",
+      "https://www.japantimes.co.jp/culture/feed/",
+      "https://www.japantimes.co.jp/culture_category/entertainment-news/feed/",
+      "https://www.japantimes.co.jp/feed",
+      "https://www.japantimes.co.jp/feed/",
+      "https://www.japantimes.co.jp/feed/topstories",
+      "https://www.japantimes.co.jp/feed/topstories/",
+      "https://www.japantimes.co.jp/life/feed/",
+      "https://www.japantimes.co.jp/life/food/feed/",
+      "https://www.japantimes.co.jp/news/asia-pacific/feed/",
+      "https://www.japantimes.co.jp/news/crime-legal/feed/",
+      "https://www.japantimes.co.jp/news/feed/",
+      "https://www.japantimes.co.jp/news/national/feed/",
+      "https://www.japantimes.co.jp/news_category/asia-pacific/feed/",
+      "https://www.japantimes.co.jp/news_category/national/feed/",
+      "https://www.japantimes.co.jp/opinion/feed/"
+    ],
+    "jisin.jp": [
+      "https://jisin.jp/feed/"
+    ],
+    "jj-jj.net": [
+      "https://jj-jj.net/feed/"
+    ],
+    "kyotojournal.org": [
+      "https://kyotojournal.org/feed/"
+    ],
+    "magazineworld.jp": [
+      "https://magazineworld.jp/feed/"
+    ],
+    "mensnonno.jp": [
+      "https://www.mensnonno.jp/feed/",
+      "https://www.mensnonno.jp/fashion/feed/",
+      "https://www.mensnonno.jp/blog/feed/",
+      "https://www.mensnonno.jp/news/feed/"
+    ],
+    "metropolisjapan.com": [
+      "https://metropolisjapan.com/dining/feed/",
+      "https://metropolisjapan.com/feed/"
+    ],
+    "ndw.jp": [
+      "https://www.ndw.jp/feed/"
+    ],
+    "number.bunshun.jp": [
+      "https://number.bunshun.jp/list/rsssports"
+    ],
+    "oggi.jp": [
+      "https://oggi.jp/feed",
+      "https://oggi.jp/fashion/feed",
+      "https://oggi.jp/author/blog/feed",
+      "https://oggi.jp/author/blog/kei/feed",
+      "https://oggi.jp/author/blog/saori/feed",
+      "https://oggi.jp/author/blog/sugimotomiyuu/feed",
+      "https://oggi.jp/author/blog/miku/feed",
+      "https://oggi.jp/author/blog/ann/feed",
+      "https://oggi.jp/author/blog/tarutaniriina/feed",
+      "https://oggi.jp/author/blog/ishikihitomi/feed",
+      "https://oggi.jp/author/blog/hishinumaaya/feed",
+      "https://oggi.jp/author/blog/asanorie/feed",
+      "https://oggi.jp/author/blog/onomiki/feed",
+      "https://oggi.jp/author/blog/matsuyamashizuka/feed",
+      "https://oggi.jp/author/blog/hitomin/feed",
+      "https://oggi.jp/author/blog/sugiyamamichiko/feed"
+    ],
+    "outdoorjapan.com": [
+      "https://www.outdoorjapan.com/feed/"
+    ],
+    "railf.jp": [
+      "https://railf.jp/rss/rss.xml",
+      "https://railf.jp/rss/atom.xml"
+    ],
+    "sabra.jp": [
+      "https://sabra.jp/xml/top/news.xml"
+    ],
+    "shift.jp.org": [
+      "https://www.shift.jp.org/en/feed/"
+    ],
+    "shonenmagazine.com": [
+      "https://shonenmagazine.com/top/feed/"
+    ],
+    "tokyoweekender.com": [
+      "https://www.tokyoweekender.com/feed/"
+    ],
+    "toyokeizai.net": [
+      "https://toyokeizai.net/list/feed/rss"
+    ],
+    "web-ace.jp": [
+      "https://web-ace.jp/tmca/feed/rss/2000027/",
+      "https://web-ace.jp/youngaceup/feed/rss/1000010/",
+      "https://web-ace.jp/youngaceup/feed/rss/1000013/",
+      "https://web-ace.jp/youngaceup/feed/rss/1000086/",
+      "https://web-ace.jp/youngaceup/feed/rss/1000183/"
+    ],
+    "wjn.jp": [
+      "https://wjn.jp/feed/"
+    ],
+    "woman.nikkei.com": [
+      "https://woman.nikkei.com/rss/xwoman.rdf"
+    ],
+    "xtech.nikkei.com": [
+      "https://xtech.nikkei.com/rss/index.rdf",
+      "https://xtech.nikkei.com/rss/xtech-at.rdf",
+      "https://xtech.nikkei.com/rss/xtech-bld.rdf",
+      "https://xtech.nikkei.com/rss/xtech-con.rdf",
+      "https://xtech.nikkei.com/rss/xtech-dm.rdf",
+      "https://xtech.nikkei.com/rss/xtech-ele.rdf",
+      "https://xtech.nikkei.com/rss/xtech-ene.rdf",
+      "https://xtech.nikkei.com/rss/xtech-hlth.rdf",
+      "https://xtech.nikkei.com/rss/xtech-it.rdf",
+      "https://xtech.nikkei.com/rss/xtech-mono.rdf"
+    ],
+    "younganimal.com": [
+      "https://younganimal.com/series/f68f676b354d4/rss",
+      "https://younganimal.com/series/423d7471396e9/rss",
+      "https://younganimal.com/series/5194e06f961ab/rss",
+      "https://younganimal.com/series/f86488b27e3f9/rss"
+    ]
+  }
+}

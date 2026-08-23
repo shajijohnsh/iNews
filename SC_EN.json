@@ -1,0 +1,14 @@
+{
+  "country_code": "SC",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 2,
+  "feeds": {
+    "sbc.sc": [
+      "https://www.sbc.sc/feed/"
+    ],
+    "seychellesweekly.com": [
+      "https://www.seychellesweekly.com/feed/"
+    ]
+  }
+}

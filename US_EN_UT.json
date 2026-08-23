@@ -2,65 +2,85 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 18,
-  "total_feeds": 22,
+  "total_feeds": 42,
   "feeds": {
-    "hjnews.com": [
-      "http://www.hjnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "deseret.com": [
-      "https://www.deseret.com/rss/latest.rss"
-    ],
-    "slcrecord.com": [
-      "https://slcrecord.com/feed/"
-    ],
-    "sltrib.com": [
-      "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml"
-    ],
-    "ironcountytoday.com": [
-      "https://ironcountytoday.com/feed/"
-    ],
-    "sunews.net": [
-      "https://www.sunews.net/blog-feed.xml"
-    ],
-    "sanpetemessenger.com": [
-      "https://sanpetemessenger.com/feed/"
-    ],
-    "sjrnews.com": [
-      "https://sjrnews.com/rss.xml"
-    ],
-    "parkrecord.com": [
-      "https://www.parkrecord.com/feed/"
-    ],
-    "thechurchnews.com": [
-      "https://www.thechurchnews.com/rss/latest.rss"
-    ],
-    "stgeorgeutah.com": [
-      "http://www.stgeorgeutah.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "servedaily.com": [
-      "https://servedaily.com/feed/"
-    ],
-    "universe.byu.edu": [
-      "https://universe.byu.edu/index.rss"
-    ],
-    "thesignpostwsu.com": [
-      "https://thesignpostwsu.com/feed/",
-      "https://thesignpostwsu.com/feed/atom/"
-    ],
     "dailyutahchronicle.com": [
       "https://dailyutahchronicle.com/feed/",
       "https://dailyutahchronicle.com/feed/atom/",
       "https://dailyutahchronicle.com/feed/podcast"
     ],
+    "deseret.com": [
+      "https://www.deseret.com/rss/front-page/index.xml",
+      "https://www.deseret.com/rss/index.xml",
+      "https://www.deseret.com/rss/latest.rss"
+    ],
+    "hjnews.com": [
+      "http://www.hjnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ironcountytoday.com": [
+      "https://ironcountytoday.com/feed/"
+    ],
+    "parkrecord.com": [
+      "https://www.parkrecord.com/feed/"
+    ],
+    "sanpetemessenger.com": [
+      "https://sanpetemessenger.com/feed/"
+    ],
+    "servedaily.com": [
+      "https://servedaily.com/feed/"
+    ],
+    "sjrnews.com": [
+      "https://sjrnews.com/rss.xml"
+    ],
+    "slcrecord.com": [
+      "https://slcrecord.com/feed/"
+    ],
+    "sltrib.com": [
+      "https://www.sltrib.com/arc/outboundfeeds/news/?outputType=xml",
+      "https://www.sltrib.com/arc/outboundfeeds/religion/?outputType=xml",
+      "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.sltrib.com/arcio/rss/",
+      "https://www.sltrib.com/arcio/rss/category/artsliving/food/",
+      "https://www.sltrib.com/arcio/rss/category/artsliving/outdoors/",
+      "https://www.sltrib.com/arcio/rss/category/news/",
+      "https://www.sltrib.com/arcio/rss/category/news/environment/",
+      "https://www.sltrib.com/arcio/rss/category/news/health/",
+      "https://www.sltrib.com/arcio/rss/category/opinion/commentary/",
+      "https://www.sltrib.com/arcio/rss/category/religion/",
+      "https://www.sltrib.com/arcio/rss/category/religion/local/",
+      "https://www.sltrib.com/arcio/rss/category/sports/",
+      "https://www.sltrib.com/arcio/rss/category/sports/byu-cougars/",
+      "https://www.sltrib.com/arcio/rss/category/sports/high-school-sports/",
+      "https://www.sltrib.com/arcio/rss/category/sports/jazz/",
+      "https://www.sltrib.com/arcio/rss/category/sports/utah-utes/",
+      "https://www.sltrib.com/rss/feed/?sec=/News/&level=0"
+    ],
+    "stgeorgeutah.com": [
+      "http://www.stgeorgeutah.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sunews.net": [
+      "https://www.sunews.net/blog-feed.xml"
+    ],
+    "thechurchnews.com": [
+      "https://www.thechurchnews.com/rss/latest.rss"
+    ],
+    "thesignpostwsu.com": [
+      "https://thesignpostwsu.com/feed/",
+      "https://thesignpostwsu.com/feed/atom/"
+    ],
+    "universe.byu.edu": [
+      "https://universe.byu.edu/feed/",
+      "https://universe.byu.edu/index.rss"
+    ],
     "usustatesman.com": [
       "https://usustatesman.com/feed/",
       "https://usustatesman.com/home/feed/"
     ],
-    "uvureview.com": [
-      "https://www.uvureview.com/feed/"
-    ],
     "utahpress.com": [
       "https://utahpress.com/feed/"
+    ],
+    "uvureview.com": [
+      "https://www.uvureview.com/feed/"
     ]
   }
 }

@@ -1,0 +1,23 @@
+{
+  "country_code": "WS",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 5,
+  "feeds": {
+    "newslinesamoa.com": [
+      "https://newslinesamoa.com/feed/"
+    ],
+    "samoaglobalnews.com": [
+      "https://samoaglobalnews.com/feed/"
+    ],
+    "samoagovt.ws": [
+      "https://www.samoagovt.ws/feed/"
+    ],
+    "talamua.com": [
+      "https://talamua.com/?feed=rss2"
+    ],
+    "tv1samoa.com": [
+      "https://tv1samoa.com/feed/"
+    ]
+  }
+}

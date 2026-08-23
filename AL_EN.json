@@ -1,0 +1,34 @@
+{
+  "country_code": "AL",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 12,
+  "feeds": {
+    "academicus.edu.al": [
+      "https://www.academicus.edu.al/current.xml"
+    ],
+    "businessmag.al": [
+      "https://businessmag.al/feed/"
+    ],
+    "kosovarja-ks.com": [
+      "https://www.kosovarja-ks.com/feed/",
+      "https://www.kosovarja-ks.com/feed/atom/",
+      "https://www.kosovarja-ks.com/feed/"
+    ],
+    "monitor.al": [
+      "https://www.monitor.al/feed/",
+      "https://monitor.al/monitor-video/podcast-monitor-business-plus/feed/",
+      "http://feeds.feedburner.com/monitor/QnFd"
+    ],
+    "revistakuvendi.org": [
+      "https://revistakuvendi.org/?feed=rss2"
+    ],
+    "revistapsikologji.com": [
+      "http://revistapsikologji.com/feed/",
+      "http://revistapsikologji.com/feed/atom/"
+    ],
+    "shqip.al": [
+      "https://shqip.al/feed/"
+    ]
+  }
+}

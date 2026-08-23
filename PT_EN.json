@@ -1,0 +1,71 @@
+{
+  "country_code": "PT",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 35,
+  "feeds": {
+    "autosport.pt": [
+      "https://www.autosport.pt/feed/",
+      "https://www.autosport.pt/feed/atom/"
+    ],
+    "caras.sapo.pt": [
+      "https://caras.pt/feed/"
+    ],
+    "equisport.pt": [
+      "https://www.equisport.pt/feed/"
+    ],
+    "expresso.pt": [
+      "http://feeds.feedburner.com/expresso-geral",
+      "https://feeds.feedburner.com/tribuna-ultimas",
+      "https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true",
+      "https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT,NEWSLETTER&limit=20&pubsubhub=true",
+      "https://rss.impresa.pt/feed/latest/olimpia.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT,NEWSLETTER&limit=20&pubsubhub=true"
+    ],
+    "glam-magazine.pt": [
+      "http://glam-magazine.pt/feed/",
+      "https://glam-magazine.pt/feed/"
+    ],
+    "holofote.sapo.pt": [
+      "https://holofote.sapo.pt/feed/",
+      "https://holofote.pt/feed/"
+    ],
+    "maria.pt": [
+      "https://www.maria.pt/feed/"
+    ],
+    "marketeer.sapo.pt": [
+      "https://marketeer.sapo.pt/feed/"
+    ],
+    "novagente.pt": [
+      "https://www.novagente.pt/rss.xml",
+      "https://www.novagente.pt/rss"
+    ],
+    "pcguia.pt": [
+      "https://www.pcguia.pt/feed/"
+    ],
+    "regiaodeleiria.pt": [
+      "https://www.regiaodeleiria.pt/podcast/programa/antes-que-seja-tarde/feed/",
+      "https://www.regiaodeleiria.pt/podcast/programa/dois-olhares/feed/",
+      "https://www.regiaodeleiria.pt/podcast/programa/memorias-da-revolucao-de-abril/feed/",
+      "https://www.regiaodeleiria.pt/podcast/programa/mentes-inquietas/feed/",
+      "https://www.regiaodeleiria.pt/podcast/programa/radio-diz-que-disse/feed/",
+      "https://www.regiaodeleiria.pt/podcasts/feed/"
+    ],
+    "sabado.pt": [
+      "https://www.sabado.pt/rss"
+    ],
+    "vert-mag.com": [
+      "https://vert-mag.com/feed"
+    ],
+    "visao.sapo.pt": [
+      "https://visao.sapo.pt/feed/",
+      "https://visao.sapo.pt/exameinformatica/feed/",
+      "https://visao.sapo.pt/jornaldeletras/feed/",
+      "https://visao.sapo.pt/exame/feed/",
+      "https://visao.pt/exame/feed/",
+      "https://visao.pt/exameinformatica/feed/",
+      "https://visao.pt/feed/",
+      "https://visao.pt/jornaldeletras/feed/",
+      "https://visao.pt/podcasts/feed/"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "country_code": "IN",
   "language_code": "ML",
-  "total_domains": 73,
-  "total_feeds": 277,
+  "total_domains": 67,
+  "total_feeds": 217,
   "feeds": {
     "anweshanam.com": [
       "https://anweshanam.com/feed/",
@@ -10,9 +10,6 @@
     ],
     "bengaluruvartha.in": [
       "https://bengaluruvartha.in/feed/"
-    ],
-    "blogger.com": [
-      "https://www.blogger.com/feeds/7133727913369598967/posts/default"
     ],
     "blogs.malayalam.samayam.com": [
       "http://blogs.malayalam.samayam.com/tag/%E0%B4%9C%E0%B5%8B%E0%B4%B2%E0%B4%BF-%E0%B4%B8%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BC%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%82/feed/",
@@ -69,16 +66,6 @@
     "fanport.in": [
       "https://fanport.in/feed/"
     ],
-    "faxinfo.fr": [
-      "http://www.faxinfo.fr/feed/",
-      "https://www.faxinfo.fr/?feed=comments-rss2",
-      "https://www.faxinfo.fr/?feed=rss2",
-      "https://www.faxinfo.fr/feed/"
-    ],
-    "feeds.feedburner.com": [
-      "https://feeds.feedburner.com/kasargodvartha",
-      "https://feeds.feedburner.com/kvartha"
-    ],
     "futurekerala.in": [
       "https://futurekerala.in/feed/"
     ],
@@ -96,9 +83,7 @@
       "https://janayugomonline.com/feed/"
     ],
     "janmabhumi.in": [
-      "https://janmabhumi.in/feed/",
-      "https://janmabhumi.in/tag/rashtriya-swayamsevak-sangh-rss/feed/",
-      "https://janmabhumi.in/tag/rss-kerala/feed/"
+      "https://janmabhumi.in/feed/"
     ],
     "kairalinewsonline.com": [
       "https://www.kairalinewsonline.com/feed"
@@ -113,10 +98,6 @@
       "https://luca.co.in/web-stories/feed/"
     ],
     "madhyamam.com": [
-      "https://www.madhyamam.com/category/gulf-home/google_feeds.xml",
-      "https://www.madhyamam.com/category/kerala/google_feeds.xml",
-      "https://www.madhyamam.com/category/multimedia-podcast-editorial/feeds.xml",
-      "https://www.madhyamam.com/category/top-news/google_feeds.xml",
       "https://www.madhyamam.com/feeds.xml"
     ],
     "malabarinews.com": [
@@ -178,37 +159,7 @@
       "https://malayalam.news18.com/commonfeeds/v1/mal/rss/world.xml"
     ],
     "malayalam.samayam.com": [
-      "http://blogs.malayalam.samayam.com/tag/%E0%B4%95%E0%B4%BF%E0%B4%A8%E0%B4%BE%E0%B4%B6%E0%B5%8D%E0%B4%B6%E0%B5%87%E0%B4%B0%E0%B4%BF/feed/",
-      "http://blogs.malayalam.samayam.com/tag/%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%BF%E0%B4%A4%E0%B4%B5%E0%B5%81%E0%B4%82-%E0%B4%9C%E0%B5%8B%E0%B4%B2%E0%B4%BF%E0%B4%AF%E0%B5%81%E0%B4%82/feed/",
-      "http://blogs.malayalam.samayam.com/tag/%E0%B4%9C%E0%B5%8B%E0%B4%B2%E0%B4%BF-%E0%B4%B8%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BC%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%82/feed/",
-      "http://blogs.malayalam.samayam.com/tag/%E0%B4%B6%E0%B4%AC%E0%B4%B0%E0%B4%BF%E0%B4%AE%E0%B4%B2-%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B5%80-%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B5%87%E0%B4%B6%E0%B4%A8%E0%B4%82/feed/",
-      "http://blogs.malayalam.samayam.com/tag/abin-jospeh-interview/feed/",
-      "http://blogs.malayalam.samayam.com/tag/chalal/feed/",
-      "http://blogs.malayalam.samayam.com/tag/congress-on-sabarimala/feed/",
-      "http://blogs.malayalam.samayam.com/tag/congress-soft-hindu/feed/",
-      "http://blogs.malayalam.samayam.com/tag/featured/feed/",
-      "http://blogs.malayalam.samayam.com/tag/friendship/feed/",
-      "http://blogs.malayalam.samayam.com/tag/himalayan-trekking/feed/",
-      "http://blogs.malayalam.samayam.com/tag/images-of-kasol/feed/",
-      "http://blogs.malayalam.samayam.com/tag/kasol-market/feed/",
-      "http://blogs.malayalam.samayam.com/tag/kerala-udf-sabarimala-temple/feed/",
-      "http://blogs.malayalam.samayam.com/tag/maya-cafe/feed/",
-      "http://blogs.malayalam.samayam.com/tag/parvati-valley/feed/",
-      "http://blogs.malayalam.samayam.com/tag/sabarimala-verdict-opinion/feed/",
-      "http://blogs.malayalam.samayam.com/tag/sabarimala-verdict/feed/",
-      "http://blogs.malayalam.samayam.com/tag/summer-getaway/feed/",
-      "http://blogs.malayalam.samayam.com/tag/weekend-getaways/feed/",
-      "https://blogs.malayalam.samayam.com/tag/%E0%B4%95%E0%B4%BF%E0%B4%A8%E0%B4%BE%E0%B4%B6%E0%B5%8D%E0%B4%B6%E0%B5%87%E0%B4%B0%E0%B4%BF/feed/",
-      "https://blogs.malayalam.samayam.com/tag/congress-soft-hindu/feed/",
-      "https://blogs.malayalam.samayam.com/tag/friendship/feed/",
-      "https://blogs.malayalam.samayam.com/tag/himalayan-trekking/feed/",
-      "https://blogs.malayalam.samayam.com/tag/images-of-kasol/feed/",
-      "https://blogs.malayalam.samayam.com/tag/kasol/feed/",
-      "https://blogs.malayalam.samayam.com/tag/kinassery/feed/",
-      "https://blogs.malayalam.samayam.com/tag/maya-cafe/feed/",
-      "https://blogs.malayalam.samayam.com/tag/summer-getaway/feed/",
-      "https://blogs.malayalam.samayam.com/tag/weekend-getaways/feed/",
-      "https://malayalam.samayam.com/langapi/sitemap/gstandvideorssfeed/121882902.xml"
+      "https://malayalam.samayam.com/langapi/sitemap/gstandrssfeed.xml"
     ],
     "malayalam.webdunia.com": [
       "https://malayalam.webdunia.com/rss/kerala-news-in-malayalam-1010102.rss"
@@ -217,17 +168,9 @@
       "https://www.manoramaonline.com/travel/travel-blogs.feeds.rss.xml"
     ],
     "marunadanmalayalee.com": [
-      "https://marunadanmalayalee.com/feed"
+      "https://marunadanmalayalee.com/google_feeds.xml"
     ],
     "mathrubhumi.com": [
-      "https://www.mathrubhumi.com/cmlink/books-app-feed-1.1184606",
-      "https://www.mathrubhumi.com/cmlink/books-feed-1.1184605",
-      "https://www.mathrubhumi.com/cmlink/careers-rss-feed-1.1184573",
-      "https://www.mathrubhumi.com/cmlink/mathrubhumi-latestnews-appsfeed-1.1184482",
-      "https://www.mathrubhumi.com/cmlink/mathrubhumi-latestnews-rssfeed-1.1184486",
-      "https://www.mathrubhumi.com/cmlink/rss-feed-1.7275970",
-      "https://www.mathrubhumi.com/cmlink/spirituality-1.7280487",
-      "https://www.mathrubhumi.com/cmlink/test-feed-for-daily-hunt-1.10015004",
       "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
     ],
     "mediaoneonline.com": [
@@ -253,9 +196,6 @@
     ],
     "newspaper.mathrubhumi.com": [
       "https://newspaper.mathrubhumi.com/cmlink/rss-feed-1.7307860"
-    ],
-    "prod-qt-images.s3.amazonaws.com": [
-      "https://prod-qt-images.s3.amazonaws.com/production/dhanamonline-malayalam/feed.xml"
     ],
     "sathyamonline.com": [
       "https://www.sathyamonline.com/rss"
@@ -334,12 +274,6 @@
       "https://www.expresskerala.com/feed",
       "https://www.expresskerala.com/news/feed"
     ],
-    "www.faxinfo.fr": [
-      "http://www.faxinfo.fr/feed/",
-      "https://www.faxinfo.fr/?feed=comments-rss2",
-      "https://www.faxinfo.fr/?feed=rss2",
-      "https://www.faxinfo.fr/feed/"
-    ],
     "www.kairalinewsonline.com": [
       "https://www.kairalinewsonline.com/feed"
     ],
@@ -416,12 +350,6 @@
       "https://zeenews.india.com/rss/sports-news.xml",
       "https://zeenews.india.com/rss/technology-news.xml",
       "https://zeenews.india.com/rss/world-news.xml",
-      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
-      "https://zeenews.india.com:443/rss/business.xml",
-      "https://zeenews.india.com:443/rss/science-environment-news.xml",
-      "https://zeenews.india.com:443/rss/world-news.xml"
-    ],
-    "zeenews.india.com:443": [
       "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
       "https://zeenews.india.com:443/rss/business.xml",
       "https://zeenews.india.com:443/rss/science-environment-news.xml",

@@ -2,11 +2,8 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 8,
-  "total_feeds": 11,
+  "total_feeds": 112,
   "feeds": {
-    "thehill.com": [
-      "https://thehill.com/feed/"
-    ],
     "currentnewspapers.com": [
       "https://currentnewspapers.com/feed/",
       "https://currentnewspapers.com/home-5/feed/"
@@ -14,15 +11,113 @@
     "eltiempolatino.com": [
       "https://eltiempolatino.com/rss/"
     ],
-    "washingtoncitypaper.com": [
-      "https://washingtoncitypaper.com/feed/"
-    ],
-    "washingtonhispanic.com": [
-      "https://washingtonhispanic.com/rss.xml.php"
-    ],
     "gwhatchet.com": [
       "https://gwhatchet.com/feed/",
       "https://gwhatchet.com/feed/atom/"
+    ],
+    "thehill.com": [
+      "https://thehill.com/blogs/ballot-box/feed/",
+      "https://thehill.com/blogs/ballot-box/polls/feed/",
+      "https://thehill.com/blogs/blog-briefing-room/feed/",
+      "https://thehill.com/blogs/blog-briefing-room/news/campaigns/feed/",
+      "https://thehill.com/blogs/blog-briefing-room/news/feed/",
+      "https://thehill.com/blogs/floor-action/senate/feed/",
+      "https://thehill.com/blogs/in-the-know/feed/",
+      "https://thehill.com/blogs/in-the-know/in-the-know/feed/",
+      "https://thehill.com/blogs/pundits-blog/media/feed/",
+      "https://thehill.com/blogs/pundits-blog/transportation/feed/",
+      "https://thehill.com/business-a-lobbying/lobbying-contracts/feed/",
+      "https://thehill.com/business/appropriations/feed/",
+      "https://thehill.com/business/banking-financial-institutions/feed/",
+      "https://thehill.com/business/budget/feed/",
+      "https://thehill.com/business/economy/feed/",
+      "https://thehill.com/business/feed/",
+      "https://thehill.com/business/housing/feed/",
+      "https://thehill.com/business/trade/feed/",
+      "https://thehill.com/feed/",
+      "https://thehill.com/feed/?feed=partnerfeed-news-feed&format=rss",
+      "https://thehill.com/homenews/administration/feed/",
+      "https://thehill.com/homenews/campaign/feed/",
+      "https://thehill.com/homenews/feed/",
+      "https://thehill.com/homenews/house/feed/",
+      "https://thehill.com/homenews/media/feed/",
+      "https://thehill.com/homenews/senate/feed/",
+      "https://thehill.com/lobbying/feed/",
+      "https://thehill.com/news/administration/feed/",
+      "https://thehill.com/news/feed/",
+      "https://thehill.com/news/senate/feed/",
+      "https://thehill.com/news/sunday-talk-shows/feed/",
+      "https://thehill.com/opinion/congress-blog/feed/",
+      "https://thehill.com/opinion/congress-blog/healthcare/feed/",
+      "https://thehill.com/opinion/congress-blog/homeland-security/feed/",
+      "https://thehill.com/opinion/congress-blog/politics/feed/",
+      "https://thehill.com/policy/defense/feed/",
+      "https://thehill.com/policy/energy-environment/feed/",
+      "https://thehill.com/policy/finance/feed/",
+      "https://thehill.com/policy/healthcare/feed/",
+      "https://thehill.com/policy/healthcare/feed/?format=feed&type=rss",
+      "https://thehill.com/policy/international/feed/",
+      "https://thehill.com/policy/technology/feed/",
+      "https://thehill.com/policy/transportation/feed/",
+      "https://thehill.com/regulation/business/feed/",
+      "https://thehill.com/regulation/defense/feed/",
+      "https://thehill.com/regulation/feed/",
+      "https://thehill.com/regulation/finance/feed/",
+      "https://thehill.com/regulation/healthcare/feed/",
+      "https://thehill.com/regulation/international/feed/",
+      "https://thehill.com/regulation/technology/feed/",
+      "https://thehill.com/regulation/transportation/feed/",
+      "https://thehill.com/rss/syndicator/19109",
+      "https://thehill.com/rss/syndicator/19110",
+      "https://thehill.com/rss/syndicator/21684",
+      "https://thehill.com/taxonomy/term/1057/feed",
+      "https://thehill.com/taxonomy/term/1077/feed",
+      "https://thehill.com/taxonomy/term/1114/feed",
+      "https://thehill.com/taxonomy/term/1115/feed",
+      "https://thehill.com/taxonomy/term/1116/feed",
+      "https://thehill.com/taxonomy/term/1120/feed",
+      "https://thehill.com/taxonomy/term/1121/feed",
+      "https://thehill.com/taxonomy/term/1122/feed",
+      "https://thehill.com/taxonomy/term/1124/feed",
+      "https://thehill.com/taxonomy/term/1127/feed",
+      "https://thehill.com/taxonomy/term/1128/feed",
+      "https://thehill.com/taxonomy/term/1130/feed",
+      "https://thehill.com/taxonomy/term/1132/feed",
+      "https://thehill.com/taxonomy/term/1501/feed",
+      "https://thehill.com/taxonomy/term/1504/feed",
+      "https://thehill.com/taxonomy/term/16/feed",
+      "https://thehill.com/taxonomy/term/1630/feed",
+      "https://thehill.com/taxonomy/term/17/feed",
+      "https://thehill.com/taxonomy/term/1775/feed",
+      "https://thehill.com/taxonomy/term/1776/feed",
+      "https://thehill.com/taxonomy/term/1778/feed",
+      "https://thehill.com/taxonomy/term/18/feed",
+      "https://thehill.com/taxonomy/term/1820/feed",
+      "https://thehill.com/taxonomy/term/1839/feed",
+      "https://thehill.com/taxonomy/term/19/feed",
+      "https://thehill.com/taxonomy/term/1916/feed",
+      "https://thehill.com/taxonomy/term/20/feed",
+      "https://thehill.com/taxonomy/term/2002/feed",
+      "https://thehill.com/taxonomy/term/2054/feed",
+      "https://thehill.com/taxonomy/term/25206/feed",
+      "https://thehill.com/taxonomy/term/25207/feed",
+      "https://thehill.com/taxonomy/term/25208/feed",
+      "https://thehill.com/taxonomy/term/25213/feed",
+      "https://thehill.com/taxonomy/term/25214/feed",
+      "https://thehill.com/taxonomy/term/27/feed",
+      "https://thehill.com/taxonomy/term/28/feed",
+      "https://thehill.com/taxonomy/term/29/feed",
+      "https://thehill.com/taxonomy/term/30/feed",
+      "https://thehill.com/taxonomy/term/33/feed",
+      "https://thehill.com/taxonomy/term/33/feed?format=feed&type=rss",
+      "https://thehill.com/taxonomy/term/36/feed",
+      "https://thehill.com/taxonomy/term/38/feed",
+      "https://thehill.com/taxonomy/term/43/feed",
+      "https://thehill.com/taxonomy/term/46860/feed",
+      "https://thehill.com/taxonomy/term/46861/feed",
+      "https://thehill.com/taxonomy/term/48/feed",
+      "https://thehill.com/taxonomy/term/49/feed",
+      "https://thehill.com/taxonomy/term/51919/feed"
     ],
     "thehilltoponline.com": [
       "https://thehilltoponline.com/feed/"
@@ -30,6 +125,12 @@
     "thehoya.com": [
       "https://thehoya.com/feed/",
       "https://thehoya.com/feed/atom/"
+    ],
+    "washingtoncitypaper.com": [
+      "https://washingtoncitypaper.com/feed/"
+    ],
+    "washingtonhispanic.com": [
+      "https://washingtonhispanic.com/rss.xml.php"
     ]
   }
 }

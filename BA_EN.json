@@ -1,0 +1,81 @@
+{
+  "country_code": "BA",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 63,
+  "feeds": {
+    "azra.ba": [
+      "https://azra.ba/feed/atom/",
+      "https://azra.ba/feed/"
+    ],
+    "biznis.ba": [
+      "https://biznis.ba/rss",
+      "http://biznis.ba/feed/"
+    ],
+    "skolegijum.ba": [
+      "https://skolegijum.ba/rss"
+    ],
+    "slobodna-bosna.ba": [
+      "https://www.slobodna-bosna.ba/rss/100/sve_vijesti.html",
+      "http://www.slobodna-bosna.ba/rss/100/sve_vijesti.html",
+      "https://www.slobodna-bosna.ba/rss/14/vijesti.html",
+      "https://www.slobodna-bosna.ba/rss/1/politika.html",
+      "https://www.slobodna-bosna.ba/rss/3/hronika.html",
+      "https://www.slobodna-bosna.ba/rss/16/regija.html",
+      "https://www.slobodna-bosna.ba/rss/5/svijet.html",
+      "https://www.slobodna-bosna.ba/rss/7/sport.html",
+      "https://www.slobodna-bosna.ba/rss/12/drustvo.html",
+      "https://www.slobodna-bosna.ba/rss/2/ekonomija.html",
+      "https://www.slobodna-bosna.ba/rss/30/evropa.html",
+      "https://www.slobodna-bosna.ba/rss/4/mini_market.html",
+      "http://www.slobodna-bosna.ba/rss/16/regija.html",
+      "https://www.slobodna-bosna.ba/rss/32/rat_u_zalivu.html",
+      "https://www.slobodna-bosna.ba/rss/13/show.html",
+      "http://www.slobodna-bosna.ba/rss/14/vijesti.html",
+      "http://www.slobodna-bosna.ba/rss/5/svijet.html",
+      "https://www.slobodna-bosna.ba/rss/15/sareni_svijet.html",
+      "https://www.slobodna-bosna.ba/rss/18/zdravlje.html",
+      "https://www.slobodna-bosna.ba/rss/24/estrada.html",
+      "https://www.slobodna-bosna.ba/rss/26/jeste_li_znali.html",
+      "https://www.slobodna-bosna.ba/rss/34/sp_2026.html",
+      "http://www.slobodna-bosna.ba/rss/1/politika.html",
+      "http://www.slobodna-bosna.ba/rss/12/drustvo.html",
+      "https://www.slobodna-bosna.ba/rss/10/auto.html",
+      "https://www.slobodna-bosna.ba/rss/21/gastro.html",
+      "https://www.slobodna-bosna.ba/rss/22/zabava.html",
+      "https://www.slobodna-bosna.ba/rss/6/kultura.html",
+      "https://www.slobodna-bosna.ba/rss/11/senad_ante_portal.html",
+      "https://www.slobodna-bosna.ba/rss/17/hitec.html",
+      "https://www.slobodna-bosna.ba/rss/23/sex_i_grad.html",
+      "https://www.slobodna-bosna.ba/rss/25/frljoka.html",
+      "https://www.slobodna-bosna.ba/rss/27/drago_pilsel_moj_stav.html",
+      "https://www.slobodna-bosna.ba/rss/28/zena.html",
+      "https://www.slobodna-bosna.ba/rss/29/sjecanje.html",
+      "https://www.slobodna-bosna.ba/rss/31/intervjui.html",
+      "https://www.slobodna-bosna.ba/rss/33/sarajevski_snajperisti.html",
+      "http://www.slobodna-bosna.ba/rss/3/hronika.html",
+      "http://www.slobodna-bosna.ba/rss/4/mini_market.html",
+      "http://www.slobodna-bosna.ba/rss/7/sport.html",
+      "http://www.slobodna-bosna.ba/rss/2/ekonomija.html",
+      "http://www.slobodna-bosna.ba/rss/18/zdravlje.html",
+      "http://www.slobodna-bosna.ba/rss/15/sareni_svijet.html",
+      "http://www.slobodna-bosna.ba/rss/24/estrada.html",
+      "http://www.slobodna-bosna.ba/rss/13/show.html",
+      "http://www.slobodna-bosna.ba/rss/6/kultura.html",
+      "http://www.slobodna-bosna.ba/rss/10/auto.html",
+      "http://www.slobodna-bosna.ba/rss/17/hitec.html",
+      "http://www.slobodna-bosna.ba/rss/21/gastro.html",
+      "http://www.slobodna-bosna.ba/rss/22/zabava.html",
+      "http://www.slobodna-bosna.ba/rss/26/jeste_li_znali.html",
+      "http://www.slobodna-bosna.ba/rss/11/senad_ante_portal.html",
+      "http://www.slobodna-bosna.ba/rss/23/sex_i_grad.html",
+      "http://www.slobodna-bosna.ba/rss/25/frljoka.html",
+      "http://www.slobodna-bosna.ba/rss/27/drago_pilsel_moj_stav.html"
+    ],
+    "spiritofbosnia.org": [
+      "https://www.spiritofbosnia.org/feed/",
+      "https://www.spiritofbosnia.org/current-issue/feed/",
+      "https://www.spiritofbosnia.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php"
+    ]
+  }
+}

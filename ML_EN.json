@@ -1,0 +1,55 @@
+{
+  "country_code": "ML",
+  "language_code": "EN",
+  "total_domains": 13,
+  "total_feeds": 21,
+  "feeds": {
+    "afribone.com": [
+      "https://afribone.com/feed/"
+    ],
+    "amap.ml": [
+      "https://amap.ml/feed/"
+    ],
+    "bamada.net": [
+      "http://bamada.net/feed",
+      "https://bamada.net/feed"
+    ],
+    "info-matin.ml": [
+      "https://info-matin.ml/?feed=rss2"
+    ],
+    "journaldumali.com": [
+      "https://journaldumali.com/feed/",
+      "https://www.journaldumali.com/feed/"
+    ],
+    "mali-info.net": [
+      "https://mali-info.net/feed/"
+    ],
+    "mali-web.org": [
+      "https://mali-web.org/feed/atom/",
+      "https://mali-web.org/feed/"
+    ],
+    "maliactu.net": [
+      "https://maliactu.net/feed/",
+      "https://feeds.feedburner.com/MaliActu"
+    ],
+    "malijet.com": [
+      "https://malijet.com/rss"
+    ],
+    "malimedia.net": [
+      "http://malimedia.net/feed/"
+    ],
+    "maliweb.net": [
+      "https://www.maliweb.net/feed",
+      "https://www.maliweb.net/rss/category/pmu-mali"
+    ],
+    "malizine.com": [
+      "https://malizine.com/feed/"
+    ],
+    "studiotamani.org": [
+      "https://www.studiotamani.org/index.php/rss?format=feed&type=atom",
+      "https://www.studiotamani.org/index.php?format=feed&type=atom",
+      "https://www.studiotamani.org/index.php?format=feed&type=rss",
+      "https://www.studiotamani.org/index.php/rss?format=feed&type=rss"
+    ]
+  }
+}

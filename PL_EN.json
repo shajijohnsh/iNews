@@ -1,0 +1,221 @@
+{
+  "country_code": "PL",
+  "language_code": "EN",
+  "total_domains": 49,
+  "total_feeds": 115,
+  "feeds": {
+    "avanti24.pl": [
+      "https://avanti24.pl/pub/rss/Avanti24.xml"
+    ],
+    "chip.pl": [
+      "https://www.chip.pl/feed"
+    ],
+    "chn.kz.pl": [
+      "https://chn.kz.pl/?feed=rss2"
+    ],
+    "crn.pl": [
+      "https://crn.pl/feed"
+    ],
+    "czasciechanowa.pl": [
+      "https://czasciechanowa.pl/feed/"
+    ],
+    "czaskultury.pl": [
+      "https://czaskultury.pl/kategoria/podcast/feed/"
+    ],
+    "czasopis.pl": [
+      "https://czasopis.pl/feed/"
+    ],
+    "dookolaswiata24.pl": [
+      "https://www.dookolaswiata24.pl/feed/"
+    ],
+    "dorzeczy.pl": [
+      "https://dorzeczy.pl/feed",
+      "https://dorzeczy.pl/feed/",
+      "https://dorzeczy.pl/feed/ekonomia",
+      "https://dorzeczy.pl/feed/felietony",
+      "https://dorzeczy.pl/feed/historia",
+      "https://dorzeczy.pl/feed/komentarz-dnia",
+      "https://dorzeczy.pl/feed/kraj",
+      "https://dorzeczy.pl/feed/kultura",
+      "https://dorzeczy.pl/feed/obserwator-mediow",
+      "https://dorzeczy.pl/feed/opinie",
+      "https://dorzeczy.pl/feed/religia",
+      "https://dorzeczy.pl/feed/styl",
+      "https://dorzeczy.pl/feed/subotnik-ziemkiewicza",
+      "https://dorzeczy.pl/feed/subotnik-ziemkiewicza/",
+      "https://dorzeczy.pl/feed/swiat",
+      "https://dorzeczy.pl/feed/tygodnik"
+    ],
+    "film.com.pl": [
+      "https://film.com.pl/rss",
+      "https://film.com.pl/rss/wywiady",
+      "https://film.com.pl/rss/recenzje",
+      "https://film.com.pl/rss/telewizja-seriale",
+      "https://film.com.pl/rss/aktualnosci"
+    ],
+    "focus.pl": [
+      "https://www.focus.pl/feed"
+    ],
+    "forummleczarskie.pl": [
+      "https://www.forummleczarskie.pl/files/rss.xml"
+    ],
+    "fragile.net.pl": [
+      "https://fragile.net.pl/feed/"
+    ],
+    "frondalux.pl": [
+      "https://frondalux.pl/feed/"
+    ],
+    "geoforum.pl": [
+      "https://geoforum.pl/rss/",
+      "https://www.geoforum.pl/rss/"
+    ],
+    "glamour.pl": [
+      "https://www.glamour.pl/feed",
+      "https://www.glamour.pl/feed/atom",
+      "https://www.glamour.pl/feed/rdf"
+    ],
+    "gosc.pl": [
+      "https://www.gosc.pl/rss/rtr/c7a21.Aktualnosci-z-Gosciem-Niedzielnym",
+      "https://www.gosc.pl/rss/rtr/647501.Komentarze-Goscia",
+      "https://www.gosc.pl/rss/rtr/c7a2a.Liturgia-z-Gosciem-Niedzielnym"
+    ],
+    "historia.uwazamrze.pl": [
+      "https://historia.rp.pl/rss/3521-historia"
+    ],
+    "holocaustresearch.pl": [
+      "https://holocaustresearch.pl/rss.php?channel=news&lang=pl"
+    ],
+    "krytykapolityczna.pl": [
+      "https://krytykapolityczna.pl/feed/"
+    ],
+    "logo24.pl": [
+      "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml",
+      "https://audycje.tokfm.pl/rss-feed/721,Poznajmy-nasza-Europe"
+    ],
+    "magazynauto.interia.pl": [
+      "https://motoryzacja.interia.pl/feed"
+    ],
+    "magazynkoncept.pl": [
+      "https://magazynkoncept.pl/feed/",
+      "https://magazynkoncept.pl/feed/"
+    ],
+    "magnetofonowa.pl": [
+      "https://dekoracje-wariacje.pl/feed/"
+    ],
+    "midrasz.pl": [
+      "https://midrasz.pl/feed/"
+    ],
+    "modanazdrowie.pl": [
+      "https://modanazdrowie.pl/feed/"
+    ],
+    "mysl.pl": [
+      "http://mysl.pl/index.php/itemlist?format=feed&type=atom",
+      "http://mysl.pl/index.php/itemlist?format=feed&type=rss"
+    ],
+    "nczas.com": [
+      "https://nczas.com/feed/"
+    ],
+    "newsweek.pl": [
+      "https://www.newsweek.pl/.feed",
+      "https://www.newsweek.pl/rss.xml"
+    ],
+    "pcformat.pl": [
+      "https://pcformat.pl/rss/aktualnosci",
+      "https://s.pcformat.pl/rss/news.rss",
+      "https://pcformat.pl/kategoria/aktualnosci/feed/",
+      "http://s.pcformat.pl/rss/news.rss"
+    ],
+    "pch24.pl": [
+      "https://pch24.pl/feed/",
+      "https://pch24.pl/prezydent-podczas-szczytu-cop-w-dubaju-atom-jest-nasza-przyszloscia/feed/"
+    ],
+    "pcworld.pl": [
+      "https://www.pcworld.pl/news?rss"
+    ],
+    "perspektywy.pl": [
+      "http://perspektywy.pl/portal/index.php?format=feed&type=atom",
+      "http://perspektywy.pl/portal/index.php?format=feed&type=rss",
+      "https://perspektywy.pl/portal/index.php?format=feed&type=atom",
+      "https://perspektywy.pl/portal/index.php?format=feed&type=rss"
+    ],
+    "polityka.pl": [
+      "https://www.polityka.pl/rss/articles.xml?list=517"
+    ],
+    "polska-zbrojna.pl": [
+      "http://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleFeed",
+      "http://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleInMagazineFeed",
+      "http://www.polska-zbrojna.pl/Services/Feed.svc/GetGalleryFeed",
+      "http://www.polska-zbrojna.pl/Services/Feed.svc/GetVideoFeed",
+      "https://polska-zbrojna.pl/Services/Feed.svc/GetArticleFeed",
+      "https://polska-zbrojna.pl/Services/Feed.svc/GetArticleInMagazineFeed",
+      "https://polska-zbrojna.pl/Services/Feed.svc/GetGalleryFeed",
+      "https://polska-zbrojna.pl/Services/Feed.svc/GetVideoFeed",
+      "https://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleFeed",
+      "https://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleInMagazineFeed",
+      "https://www.polska-zbrojna.pl/Services/Feed.svc/GetGalleryFeed",
+      "https://www.polska-zbrojna.pl/Services/Feed.svc/GetVideoFeed"
+    ],
+    "ppe.pl": [
+      "https://www.ppe.pl/rss.html"
+    ],
+    "prawoipolityka.pl": [
+      "http://www.prawoipolityka.pl/index.php?format=feed&type=rss",
+      "http://www.prawoipolityka.pl/index.php?format=feed&type=atom"
+    ],
+    "ptr.edu.pl": [
+      "https://ptr.edu.pl/index.php?format=feed&type=rss",
+      "https://ptr.edu.pl/index.php?format=feed&type=atom"
+    ],
+    "replika-online.pl": [
+      "https://replika-online.pl/feed/"
+    ],
+    "samochody-specjalne.pl": [
+      "https://samochody-specjalne.pl/feed/"
+    ],
+    "studiaporadoznawcze.pl": [
+      "https://studiaporadoznawcze.pl/ojs/index.php/sp/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "https://studiaporadoznawcze.pl/ojs/index.php/sp/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "https://studiaporadoznawcze.pl/ojs/index.php/sp/gateway/plugin/WebFeedGatewayPlugin/rss2"
+    ],
+    "styl.interia.pl": [
+      "https://styl.interia.pl/feed"
+    ],
+    "teatr-pismo.pl": [
+      "https://teatr-pismo.pl/feed/"
+    ],
+    "terazmuzyka.pl": [
+      "https://www.terazmuzyka.pl/feed/"
+    ],
+    "tygodniknie.pl": [
+      "https://tygodniknie.pl/feed/"
+    ],
+    "tygodnikprzeglad.pl": [
+      "https://www.tygodnikprzeglad.pl/feed/"
+    ],
+    "urania.edu.pl": [
+      "https://urania.edu.pl/rss2.xml"
+    ],
+    "wprost.pl": [
+      "https://www.wprost.pl/rss",
+      "https://www.wprost.pl/rss/forum",
+      "https://www.wprost.pl/rss/historia",
+      "https://www.wprost.pl/rss/kraj",
+      "https://www.wprost.pl/rss/kultura",
+      "https://www.wprost.pl/rss/opinie-i-komentarze",
+      "https://www.wprost.pl/rss/pogoda",
+      "https://www.wprost.pl/rss/polityka",
+      "https://www.wprost.pl/rss/premium",
+      "https://www.wprost.pl/rss/prime-time",
+      "https://www.wprost.pl/rss/quizy",
+      "https://www.wprost.pl/rss/sport",
+      "https://www.wprost.pl/rss/swiat",
+      "https://www.wprost.pl/rss/tylko-u-nas",
+      "https://www.wprost.pl/rss/wiadomosci",
+      "https://www.wprost.pl/rss/wybory-2019",
+      "https://www.wprost.pl/rss/zycie"
+    ],
+    "zwierciadlo.pl": [
+      "https://zwierciadlo.pl/rss/articles.xml?list=3"
+    ]
+  }
+}

@@ -4,14 +4,14 @@
   "total_domains": 8,
   "total_feeds": 10,
   "feeds": {
+    "brightoncommunitynews.com.au": [
+      "https://brightoncommunitynews.com.au/feed/"
+    ],
     "easternshoresun.com.au": [
       "https://easternshoresun.com.au/feed/"
     ],
     "glenorchygazette.com.au": [
       "https://glenorchygazette.com.au/feed/"
-    ],
-    "togatus.com.au": [
-      "https://togatus.com.au/rss/"
     ],
     "huonnews.com": [
       "https://huonnews.com/feed/"
@@ -27,8 +27,8 @@
       "https://tasmaniantimes.com/feed/atom/",
       "https://tasmaniantimes.com/feed/"
     ],
-    "brightoncommunitynews.com.au": [
-      "https://brightoncommunitynews.com.au/feed/"
+    "togatus.com.au": [
+      "https://togatus.com.au/rss/"
     ]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "country_code": "LI",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 8,
+  "feeds": {
+    "vaterland.li": [
+      "https://www.vaterland.li/storage/rss/rss/vaterland/liechtenstein.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/sport.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/ausland.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/gesamt.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/kultur.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/region.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/vermischtes.xml",
+      "https://www.vaterland.li/storage/rss/rss/vaterland/wirtschaft.xml"
+    ]
+  }
+}

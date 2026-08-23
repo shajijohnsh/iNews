@@ -1,122 +1,398 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 50,
-  "total_feeds": 73,
+  "total_domains": 58,
+  "total_feeds": 644,
   "feeds": {
-    "urdu.siasat.com": [
-      "https://urdu.siasat.com/feed/"
+    "aalmiakhbar.com": [
+      "https://aalmiakhbar.com/feed",
+      "https://aalmiakhbar.com/front-page-demo1/feed"
     ],
-    "etemaaddaily.com": [
-      "https://www.etemaadweekly.com/rssfeeds.php"
-    ],
-    "kashmiruzma.news": [
-      "https://kashmiruzma.news/feed/"
-    ],
-    "dailyhindustanexpress.com": [
-      "https://dailyhindustanexpress.com/feed/"
+    "agrasamachar.com": [
+      "https://www.agrasamachar.com/feeds/posts/default",
+      "https://www.agrasamachar.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/816629786327993216/posts/default"
     ],
     "avadhnama.com": [
       "https://avadhnama.com/feed/",
       "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
     ],
-    "taasir.com": [
-      "https://taasir.com/feed/"
+    "bhadas4media.com": [
+      "https://www.bhadas4media.com/feed/"
     ],
-    "dailysalar.com": [
-      "https://www.dailysalar.com/feed/"
+    "bhopalsamachar.com": [
+      "https://www.bhopalsamachar.com/feeds/posts/default"
+    ],
+    "business-standard.com": [
+      "https://www.business-standard.com/rss/2018-fifa-world-cup-19201.rss",
+      "https://www.business-standard.com/rss/asian-games-2018-19203.rss",
+      "https://www.business-standard.com/rss/asian-hockey-champions-trophy-2018-19215.rss",
+      "https://www.business-standard.com/rss/automobile-198.rss",
+      "https://www.business-standard.com/rss/automobile-news-19801.rss",
+      "https://www.business-standard.com/rss/b2b-connect-156.rss",
+      "https://www.business-standard.com/rss/b2b-connect-agriculture-15609.rss",
+      "https://www.business-standard.com/rss/b2b-connect-budget-15608.rss",
+      "https://www.business-standard.com/rss/b2b-connect-latest-news-15611.rss",
+      "https://www.business-standard.com/rss/b2b-connect-manufacturing-industry-15605.rss",
+      "https://www.business-standard.com/rss/b2b-connect-pharma-15604.rss",
+      "https://www.business-standard.com/rss/b2b-connect-plastics-polymers-15603.rss",
+      "https://www.business-standard.com/rss/b2b-connect-specials-15610.rss",
+      "https://www.business-standard.com/rss/b2b-connect-waterproofing-15607.rss",
+      "https://www.business-standard.com/rss/b2b-connect-world-environment-day-15612.rss",
+      "https://www.business-standard.com/rss/beyond-business-104.rss",
+      "https://www.business-standard.com/rss/beyond-business-books-10405.rss",
+      "https://www.business-standard.com/rss/beyond-business-columns-10408.rss",
+      "https://www.business-standard.com/rss/beyond-business-features-10402.rss",
+      "https://www.business-standard.com/rss/beyond-business-motoring-10410.rss",
+      "https://www.business-standard.com/rss/beyond-business-news-10401.rss",
+      "https://www.business-standard.com/rss/beyond-business-people-10403.rss",
+      "https://www.business-standard.com/rss/bs-morning-show/stories.rss",
+      "https://www.business-standard.com/rss/bs-motoring-176.rss",
+      "https://www.business-standard.com/rss/bs-motoring-auto-17601.rss",
+      "https://www.business-standard.com/rss/bsrss.xml",
+      "https://www.business-standard.com/rss/budget-110.rss",
+      "https://www.business-standard.com/rss/budget-2019-201.rss",
+      "https://www.business-standard.com/rss/budget-2019-news-20101.rss",
+      "https://www.business-standard.com/rss/budget-ask-an-expert-11010.rss",
+      "https://www.business-standard.com/rss/budget-economic-survey-2013-11006.rss",
+      "https://www.business-standard.com/rss/budget-rail-2013-11005.rss",
+      "https://www.business-standard.com/rss/budget-run-up-11007.rss",
+      "https://www.business-standard.com/rss/budget-run-up-to-2013-11004.rss",
+      "https://www.business-standard.com/rss/budget/2019-11020.rss",
+      "https://www.business-standard.com/rss/budget/economic-survey-11009.rss",
+      "https://www.business-standard.com/rss/budget/my-budget-11011.rss",
+      "https://www.business-standard.com/rss/budget/news-11001.rss",
+      "https://www.business-standard.com/rss/budget/railway-budget-11008.rss",
+      "https://www.business-standard.com/rss/budget2016-11014.rss",
+      "https://www.business-standard.com/rss/budget2017-11015.rss",
+      "https://www.business-standard.com/rss/budget2018-188.rss",
+      "https://www.business-standard.com/rss/budget2018-news-18801.rss",
+      "https://www.business-standard.com/rss/business-standard-events-editorial-17501.rss",
+      "https://www.business-standard.com/rss/companies-101.rss",
+      "https://www.business-standard.com/rss/companies-auto-expo-2016-10116.rss",
+      "https://www.business-standard.com/rss/companies-bs-1000-10114.rss",
+      "https://www.business-standard.com/rss/companies-features-10102.rss",
+      "https://www.business-standard.com/rss/companies-infosys-vs-founders-10119.rss",
+      "https://www.business-standard.com/rss/companies-news-10101.rss",
+      "https://www.business-standard.com/rss/companies-opinion-10104.rss",
+      "https://www.business-standard.com/rss/companies-people-in-news-10109.rss",
+      "https://www.business-standard.com/rss/companies-results-10103.rss",
+      "https://www.business-standard.com/rss/companies-specials-10115.rss",
+      "https://www.business-standard.com/rss/companies-start-ups-10113.rss",
+      "https://www.business-standard.com/rss/companies-tata-10118.rss",
+      "https://www.business-standard.com/rss/coronavirus-11517.rss",
+      "https://www.business-standard.com/rss/current-affairs-115.rss",
+      "https://www.business-standard.com/rss/current-affairs-2-years-of-modi-govt-11514.rss",
+      "https://www.business-standard.com/rss/current-affairs-climate-change-11513.rss",
+      "https://www.business-standard.com/rss/current-affairs-columns-11504.rss",
+      "https://www.business-standard.com/rss/current-affairs-edits-11505.rss",
+      "https://www.business-standard.com/rss/current-affairs-features-11502.rss",
+      "https://www.business-standard.com/rss/current-affairs-infographics-11509.rss",
+      "https://www.business-standard.com/rss/current-affairs-news-11501.rss",
+      "https://www.business-standard.com/rss/current-affairs-one-year-of-modi-govt-11512.rss",
+      "https://www.business-standard.com/rss/current-affairs-people-11508.rss",
+      "https://www.business-standard.com/rss/current-affairs-polls-11507.rss",
+      "https://www.business-standard.com/rss/current-affairs-q-a-11506.rss",
+      "https://www.business-standard.com/rss/current-affairs-smart-cities-11515.rss",
+      "https://www.business-standard.com/rss/current-affairs-specials-11510.rss",
+      "https://www.business-standard.com/rss/current-affairs-sports-11516.rss",
+      "https://www.business-standard.com/rss/current-affairs-world-cup-2015-11511.rss",
+      "https://www.business-standard.com/rss/defence-197.rss",
+      "https://www.business-standard.com/rss/defence-news-19701.rss",
+      "https://www.business-standard.com/rss/economic-revival-207.rss",
+      "https://www.business-standard.com/rss/economic-revival/agriculture-20702.rss",
+      "https://www.business-standard.com/rss/economic-revival/automobile-20705.rss",
+      "https://www.business-standard.com/rss/economic-revival/aviation-20701.rss",
+      "https://www.business-standard.com/rss/economic-revival/construction-20706.rss",
+      "https://www.business-standard.com/rss/economic-revival/defence-20703.rss",
+      "https://www.business-standard.com/rss/economic-revival/energy-20708.rss",
+      "https://www.business-standard.com/rss/economic-revival/finance-20712.rss",
+      "https://www.business-standard.com/rss/economic-revival/health-20704.rss",
+      "https://www.business-standard.com/rss/economic-revival/hospitality-20713.rss",
+      "https://www.business-standard.com/rss/economic-revival/information-technology-20710.rss",
+      "https://www.business-standard.com/rss/economic-revival/labour-20711.rss",
+      "https://www.business-standard.com/rss/economic-revival/markets-20715.rss",
+      "https://www.business-standard.com/rss/economic-revival/msme-20709.rss",
+      "https://www.business-standard.com/rss/economic-revival/other-20714.rss",
+      "https://www.business-standard.com/rss/economic-revival/power-20707.rss",
+      "https://www.business-standard.com/rss/economy-policy-102.rss",
+      "https://www.business-standard.com/rss/economy-policy-features-10202.rss",
+      "https://www.business-standard.com/rss/economy-policy-make-in-india-10212.rss",
+      "https://www.business-standard.com/rss/economy-policy-news-10201.rss",
+      "https://www.business-standard.com/rss/economy-policy-opinion-10204.rss",
+      "https://www.business-standard.com/rss/economy-policy-people-in-news-10210.rss",
+      "https://www.business-standard.com/rss/economy-policy-specials-10211.rss",
+      "https://www.business-standard.com/rss/education-179.rss",
+      "https://www.business-standard.com/rss/education-news-17901.rss",
+      "https://www.business-standard.com/rss/elections-117.rss",
+      "https://www.business-standard.com/rss/elections-2014-164.rss",
+      "https://www.business-standard.com/rss/elections-2014-news-16401.rss",
+      "https://www.business-standard.com/rss/elections-assam-assembly-2016-11711.rss",
+      "https://www.business-standard.com/rss/elections-bihar-11710.rss",
+      "https://www.business-standard.com/rss/elections-kerala-assembly-elections-2016-11714.rss",
+      "https://www.business-standard.com/rss/elections-pondicherry-assembly-2016-11715.rss",
+      "https://www.business-standard.com/rss/elections-tamil-nadu-assembly-2016-11712.rss",
+      "https://www.business-standard.com/rss/elections-west-bengal-assembly-2016-11713.rss",
+      "https://www.business-standard.com/rss/elections/assam-election-11740.rss",
+      "https://www.business-standard.com/rss/elections/chhattisgarh-assembly-election-2018-11726.rss",
+      "https://www.business-standard.com/rss/elections/delhi-assembly-election-11737.rss",
+      "https://www.business-standard.com/rss/elections/goa-assembly-elections-2017-11719.rss",
+      "https://www.business-standard.com/rss/elections/goa-elections-11747.rss",
+      "https://www.business-standard.com/rss/elections/gujarat-assembly-elections-2017-11722.rss",
+      "https://www.business-standard.com/rss/elections/haryana-assembly-election-2019-11735.rss",
+      "https://www.business-standard.com/rss/elections/himachal-pradesh-assembly-elections-2017-11721.rss",
+      "https://www.business-standard.com/rss/elections/jharkhand-assembly-election-11736.rss",
+      "https://www.business-standard.com/rss/elections/kerala-election-11742.rss",
+      "https://www.business-standard.com/rss/elections/madhya-pradesh-assembly-election-2018-11724.rss",
+      "https://www.business-standard.com/rss/elections/maharashtra-assembly-election-2019-11734.rss",
+      "https://www.business-standard.com/rss/elections/manipur-assembly-elections-2017-11720.rss",
+      "https://www.business-standard.com/rss/elections/manipur-elections-11746.rss",
+      "https://www.business-standard.com/rss/elections/mizoram-assembly-election-2018-11727.rss",
+      "https://www.business-standard.com/rss/elections/odisha-assembly-election-2019-11730.rss",
+      "https://www.business-standard.com/rss/elections/puducherry-election-11741.rss",
+      "https://www.business-standard.com/rss/elections/punjab-assembly-elections-2017-11718.rss",
+      "https://www.business-standard.com/rss/elections/punjab-elections-11744.rss",
+      "https://www.business-standard.com/rss/elections/rajasthan-assembly-election-2018-11725.rss",
+      "https://www.business-standard.com/rss/elections/tamil-nadu-election-11739.rss",
+      "https://www.business-standard.com/rss/elections/telangana-assembly-election-2018-11729.rss",
+      "https://www.business-standard.com/rss/elections/up-elections-11743.rss",
+      "https://www.business-standard.com/rss/elections/uttar-pradesh-assembly-elections-2017-11716.rss",
+      "https://www.business-standard.com/rss/elections/uttarakhand-assembly-elections-2017-11717.rss",
+      "https://www.business-standard.com/rss/elections/uttarakhand-elections-11745.rss",
+      "https://www.business-standard.com/rss/elections/west-bengal-election-11738.rss",
+      "https://www.business-standard.com/rss/electric-vehicle-202.rss",
+      "https://www.business-standard.com/rss/electric-vehicle-news-20201.rss",
+      "https://www.business-standard.com/rss/entertainment-193.rss",
+      "https://www.business-standard.com/rss/entertainment-news-19301.rss",
+      "https://www.business-standard.com/rss/finance-103.rss",
+      "https://www.business-standard.com/rss/finance-banking-annual-10305.rss",
+      "https://www.business-standard.com/rss/finance-columnists-10307.rss",
+      "https://www.business-standard.com/rss/finance-editorials-10308.rss",
+      "https://www.business-standard.com/rss/finance-features-10302.rss",
+      "https://www.business-standard.com/rss/finance-news-10301.rss",
+      "https://www.business-standard.com/rss/finance-people-in-news-10310.rss",
+      "https://www.business-standard.com/rss/finance-rbi-policy-10312.rss",
+      "https://www.business-standard.com/rss/finance-special-10311.rss",
+      "https://www.business-standard.com/rss/general-news.rss",
+      "https://www.business-standard.com/rss/health-185.rss",
+      "https://www.business-standard.com/rss/health-news-18501.rss",
+      "https://www.business-standard.com/rss/hockey-world-cup-2018-19217.rss",
+      "https://www.business-standard.com/rss/home_page_top_stories.rss",
+      "https://www.business-standard.com/rss/income-tax-182.rss",
+      "https://www.business-standard.com/rss/income-tax-news-18201.rss",
+      "https://www.business-standard.com/rss/india-tour-of-australia-2018-19-19216.rss",
+      "https://www.business-standard.com/rss/india-tour-of-new-zealand-2019-19220.rss",
+      "https://www.business-standard.com/rss/indian-railways-196.rss",
+      "https://www.business-standard.com/rss/indian-super-league-2018-19-19206.rss",
+      "https://www.business-standard.com/rss/insight-190.rss",
+      "https://www.business-standard.com/rss/insight-pf-19001.rss",
+      "https://www.business-standard.com/rss/interim-budget-2019-199.rss",
+      "https://www.business-standard.com/rss/interim-budget-2019-news-19901.rss",
+      "https://www.business-standard.com/rss/international-116.rss",
+      "https://www.business-standard.com/rss/international-brexit-11605.rss",
+      "https://www.business-standard.com/rss/international-features-11602.rss",
+      "https://www.business-standard.com/rss/international-infographics-11603.rss",
+      "https://www.business-standard.com/rss/international-news-11601.rss",
+      "https://www.business-standard.com/rss/international-us-elections-11606.rss",
+      "https://www.business-standard.com/rss/ipl-189.rss",
+      "https://www.business-standard.com/rss/ipl/ipl-2018-18901.rss",
+      "https://www.business-standard.com/rss/jobs-183.rss",
+      "https://www.business-standard.com/rss/jobs-news-18301.rss",
+      "https://www.business-standard.com/rss/latest.rss",
+      "https://www.business-standard.com/rss/lifestyle-195.rss",
+      "https://www.business-standard.com/rss/lifestyle-news-19501.rss",
+      "https://www.business-standard.com/rss/lok-sabha-elections-2019-11728.rss",
+      "https://www.business-standard.com/rss/management-107.rss",
+      "https://www.business-standard.com/rss/management-books-ideas-10704.rss",
+      "https://www.business-standard.com/rss/management-columns-10705.rss",
+      "https://www.business-standard.com/rss/management-features-10702.rss",
+      "https://www.business-standard.com/rss/management-news-10701.rss",
+      "https://www.business-standard.com/rss/management-people-10706.rss",
+      "https://www.business-standard.com/rss/management-quiz-10709.rss",
+      "https://www.business-standard.com/rss/markets-106.rss",
+      "https://www.business-standard.com/rss/markets-bs-fund-manager-10620.rss",
+      "https://www.business-standard.com/rss/markets-cryptocurrency-10622.rss",
+      "https://www.business-standard.com/rss/markets-features-10610.rss",
+      "https://www.business-standard.com/rss/markets-ipos-10611.rss",
+      "https://www.business-standard.com/rss/markets-news-10601.rss",
+      "https://www.business-standard.com/rss/markets-opinion-10613.rss",
+      "https://www.business-standard.com/rss/markets-people-in-news-10615.rss",
+      "https://www.business-standard.com/rss/markets-stocks-10618.rss",
+      "https://www.business-standard.com/rss/most-viewed.rss",
+      "https://www.business-standard.com/rss/news-ani-international-15202.rss",
+      "https://www.business-standard.com/rss/news-cd-auto-15401.rss",
+      "https://www.business-standard.com/rss/news-cm-151.rss",
+      "https://www.business-standard.com/rss/news-cm-commodities-15103.rss",
+      "https://www.business-standard.com/rss/news-cm-companies-15102.rss",
+      "https://www.business-standard.com/rss/news-cm-economy-15105.rss",
+      "https://www.business-standard.com/rss/news-cm-equities-15101.rss",
+      "https://www.business-standard.com/rss/news-cm-general-15108.rss",
+      "https://www.business-standard.com/rss/news-cm-international-15107.rss",
+      "https://www.business-standard.com/rss/news-cm-ipo-15106.rss",
+      "https://www.business-standard.com/rss/news-cm-money-15104.rss",
+      "https://www.business-standard.com/rss/news-ians-150.rss",
+      "https://www.business-standard.com/rss/news-ians-cinema-showbiz-15004.rss",
+      "https://www.business-standard.com/rss/opinion-105.rss",
+      "https://www.business-standard.com/rss/opinion-blogs-10514.rss",
+      "https://www.business-standard.com/rss/opinion-business-law-taxation-10512.rss",
+      "https://www.business-standard.com/rss/opinion-chinese-10506.rss",
+      "https://www.business-standard.com/rss/opinion-columns-10502.rss",
+      "https://www.business-standard.com/rss/opinion-editorial-10501.rss",
+      "https://www.business-standard.com/rss/opinion-financial-x-ray-10503.rss",
+      "https://www.business-standard.com/rss/opinion-lunch-10507.rss",
+      "https://www.business-standard.com/rss/opinion-people-10504.rss",
+      "https://www.business-standard.com/rss/opinion-special-10516.rss",
+      "https://www.business-standard.com/rss/partner-content-158.rss",
+      "https://www.business-standard.com/rss/partner-content-international-business-economics-15803.rss",
+      "https://www.business-standard.com/rss/partner-content-specials-15801.rss",
+      "https://www.business-standard.com/rss/partner-content/press-releases-ani-15805.rss",
+      "https://www.business-standard.com/rss/pf-column-11403.rss",
+      "https://www.business-standard.com/rss/pf-features-11402.rss",
+      "https://www.business-standard.com/rss/pf-news-11401.rss",
+      "https://www.business-standard.com/rss/pf-primers-11405.rss",
+      "https://www.business-standard.com/rss/pf-q-a-11404.rss",
+      "https://www.business-standard.com/rss/politics-155.rss",
+      "https://www.business-standard.com/rss/politics-news-15501.rss",
+      "https://www.business-standard.com/rss/politics-specials-15510.rss",
+      "https://www.business-standard.com/rss/pro-kabaddi-league-2018-19207.rss",
+      "https://www.business-standard.com/rss/punditry-174.rss",
+      "https://www.business-standard.com/rss/punditry-beyond-business-17405.rss",
+      "https://www.business-standard.com/rss/punditry-companies-17403.rss",
+      "https://www.business-standard.com/rss/punditry-current-affairs-17404.rss",
+      "https://www.business-standard.com/rss/punditry-economy-policy-17401.rss",
+      "https://www.business-standard.com/rss/punditry-markets-17402.rss",
+      "https://www.business-standard.com/rss/railways-news-19601.rss",
+      "https://www.business-standard.com/rss/specials-109.rss",
+      "https://www.business-standard.com/rss/specials-brand-w-10906.rss",
+      "https://www.business-standard.com/rss/specials-e-commerce-10999.rss",
+      "https://www.business-standard.com/rss/specials-karnataka-verdict-10984.rss",
+      "https://www.business-standard.com/rss/specials-mobile-broadband-10988.rss",
+      "https://www.business-standard.com/rss/specials-pe-vc-10976.rss",
+      "https://www.business-standard.com/rss/specials-si-10902.rss",
+      "https://www.business-standard.com/rss/specials-swachh-bharat-10925.rss",
+      "https://www.business-standard.com/rss/sports-192.rss",
+      "https://www.business-standard.com/rss/sports-australia-tour-of-india-2019-19221.rss",
+      "https://www.business-standard.com/rss/sports-news-19202.rss",
+      "https://www.business-standard.com/rss/sports-premier-badminton-league-2018-19-19213.rss",
+      "https://www.business-standard.com/rss/sports-youth-olympic-games-2018-19212.rss",
+      "https://www.business-standard.com/rss/sports/australia-tour-of-india-19234.rss",
+      "https://www.business-standard.com/rss/sports/badminton-19214.rss",
+      "https://www.business-standard.com/rss/sports/bangladesh-tour-of-india-2019-19229.rss",
+      "https://www.business-standard.com/rss/sports/cricket-19204.rss",
+      "https://www.business-standard.com/rss/sports/fih-hockey-pro-league-19235.rss",
+      "https://www.business-standard.com/rss/sports/football-19205.rss",
+      "https://www.business-standard.com/rss/sports/hockey-19210.rss",
+      "https://www.business-standard.com/rss/sports/icc-cricket-world-cup-2019-19219.rss",
+      "https://www.business-standard.com/rss/sports/icc-cricket-world-cup-2023-19237.rss",
+      "https://www.business-standard.com/rss/sports/icc-t20-world-cup-2020-19227.rss",
+      "https://www.business-standard.com/rss/sports/icc-t20-world-cup-2021-19243.rss",
+      "https://www.business-standard.com/rss/sports/icc-world-test-championship-19225.rss",
+      "https://www.business-standard.com/rss/sports/india-australia-series-19238.rss",
+      "https://www.business-standard.com/rss/sports/india-england-series-19240.rss",
+      "https://www.business-standard.com/rss/sports/india-new-zealand-series-19245.rss",
+      "https://www.business-standard.com/rss/sports/india-south-africa-series-19236.rss",
+      "https://www.business-standard.com/rss/sports/india-sri-lanka-series-19244.rss",
+      "https://www.business-standard.com/rss/sports/india-tour-of-new-zealand-19233.rss",
+      "https://www.business-standard.com/rss/sports/india-tour-of-west-indies-2019-19224.rss",
+      "https://www.business-standard.com/rss/sports/india-west-indies-series-19249.rss",
+      "https://www.business-standard.com/rss/sports/ipl-2019-19218.rss",
+      "https://www.business-standard.com/rss/sports/ipl-2020-19230.rss",
+      "https://www.business-standard.com/rss/sports/ipl-2021-19241.rss",
+      "https://www.business-standard.com/rss/sports/ipl-2022-19248.rss",
+      "https://www.business-standard.com/rss/sports/kabaddi-19208.rss",
+      "https://www.business-standard.com/rss/sports/pro-kabaddi-league-2019-19223.rss",
+      "https://www.business-standard.com/rss/sports/pro-kabaddi-league-2021-19247.rss",
+      "https://www.business-standard.com/rss/sports/south-africa-tour-of-india-2019-19226.rss",
+      "https://www.business-standard.com/rss/sports/sri-lanka-tour-of-india-19232.rss",
+      "https://www.business-standard.com/rss/sports/tokyo-olympics-2020-19228.rss",
+      "https://www.business-standard.com/rss/sports/west-indies-tour-of-india-19231.rss",
+      "https://www.business-standard.com/rss/technology-108.rss",
+      "https://www.business-standard.com/rss/technology-launches-10813.rss",
+      "https://www.business-standard.com/rss/technology-news-10801.rss",
+      "https://www.business-standard.com/rss/technology-reviews-10814.rss",
+      "https://www.business-standard.com/rss/technology-specials-10815.rss",
+      "https://www.business-standard.com/rss/todays-paper.rss",
+      "https://www.business-standard.com/rss/us-elections-209.rss",
+      "https://www.business-standard.com/rss/us-elections/news-20901.rss",
+      "https://www.business-standard.com/rss/west-indies-tour-of-india-2018-19209.rss"
+    ],
+    "businesstoday.in": [
+      "https://www.businesstoday.in/rssfeeds/?id=home",
+      "https://www.businesstoday.in/rssfeeds?id=home"
     ],
     "dailyaag.com": [
       "http://dailyaag.com/phase2/feed/"
     ],
-    "sahilonline.net": [
-      "https://sahilonline.net/feed/posts"
+    "dailyhindinews.com": [
+      "https://dailyhindinews.com/feed/"
     ],
-    "aalmiakhbar.com": [
-      "https://aalmiakhbar.com/feed",
-      "https://aalmiakhbar.com/front-page-demo1/feed"
+    "dailyhindustanexpress.com": [
+      "https://dailyhindustanexpress.com/feed/"
     ],
-    "thewireurdu.com": [
-      "https://thewireurdu.com/feed/"
-    ],
-    "urdu.news18.com": [
-      "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
-    ],
-    "millattimes.com": [
-      "https://millattimes.com/feed/"
-    ],
-    "navbharattimes.indiatimes.com": [
-      "https://navbharattimes.indiatimes.com/langapi/sitemap/gstandrssfeed.xml"
+    "dailysalar.com": [
+      "https://www.dailysalar.com/feed/"
     ],
     "deshbandhu.co.in": [
       "https://www.deshbandhu.co.in/google_feeds.xml"
     ],
-    "sanjeevnitoday.com": [
-      "https://sanjeevnitoday.com/feed/",
-      "https://sanjeevnitoday.com/web-stories/feed/"
-    ],
-    "uttamhindu.com": [
-      "https://www.uttamhindu.com/feed/",
-      "https://www.uttamhindu.com/feed/atom/",
-      "https://www.uttamhindu.com/feed/"
-    ],
-    "loktej.com": [
-      "https://www.loktej.com/rss"
-    ],
-    "navabharat.com": [
-      "https://navabharat.com/?feed=rss2"
-    ],
-    "krishakjagat.org": [
-      "https://www.krishakjagat.org/feed/"
-    ],
-    "tarunmitra.in": [
-      "https://www.tarunmitra.in/rss"
-    ],
-    "panchjanya.com": [
-      "https://panchjanya.com/feed/",
-      "https://panchjanya.com/web-stories/feed/"
-    ],
-    "royalbulletin.in": [
-      "https://royalbulletin.in/rss"
-    ],
-    "jagruktimes.co.in": [
-      "https://jagruktimes.co.in/feed/"
-    ],
-    "jansandeshtimes.net": [
-      "https://www.jansandeshtimes.net/rss"
+    "downtoearth.org.in": [
+      "https://www.downtoearth.org.in/rss/105th-indian-science-congress",
+      "https://www.downtoearth.org.in/rss/africa",
+      "https://www.downtoearth.org.in/rss/agribusiness",
+      "https://www.downtoearth.org.in/rss/agriculture",
+      "https://www.downtoearth.org.in/rss/air",
+      "https://www.downtoearth.org.in/rss/air-pollution-causes-and-effects",
+      "https://www.downtoearth.org.in/rss/all",
+      "https://www.downtoearth.org.in/rss/bite-size",
+      "https://www.downtoearth.org.in/rss/budget-2020-21",
+      "https://www.downtoearth.org.in/rss/climate-change",
+      "https://www.downtoearth.org.in/rss/compliance",
+      "https://www.downtoearth.org.in/rss/cop-21",
+      "https://www.downtoearth.org.in/rss/coronavirus",
+      "https://www.downtoearth.org.in/rss/cyclone-amphan",
+      "https://www.downtoearth.org.in/rss/ecbc",
+      "https://www.downtoearth.org.in/rss/economy",
+      "https://www.downtoearth.org.in/rss/energy",
+      "https://www.downtoearth.org.in/rss/energy-efficiency",
+      "https://www.downtoearth.org.in/rss/environment",
+      "https://www.downtoearth.org.in/rss/environment-news",
+      "https://www.downtoearth.org.in/rss/food",
+      "https://www.downtoearth.org.in/rss/global-temperature",
+      "https://www.downtoearth.org.in/rss/global-warming-issues",
+      "https://www.downtoearth.org.in/rss/good-news",
+      "https://www.downtoearth.org.in/rss/governance",
+      "https://www.downtoearth.org.in/rss/green-campus",
+      "https://www.downtoearth.org.in/rss/health",
+      "https://www.downtoearth.org.in/rss/health-in-africa",
+      "https://www.downtoearth.org.in/rss/india",
+      "https://www.downtoearth.org.in/rss/lifestyle",
+      "https://www.downtoearth.org.in/rss/locusts",
+      "https://www.downtoearth.org.in/rss/look-back-2019",
+      "https://www.downtoearth.org.in/rss/mining",
+      "https://www.downtoearth.org.in/rss/natural-disasters",
+      "https://www.downtoearth.org.in/rss/neighborhood",
+      "https://www.downtoearth.org.in/rss/pollution",
+      "https://www.downtoearth.org.in/rss/renewable-energy",
+      "https://www.downtoearth.org.in/rss/rural-water-and-sanitation",
+      "https://www.downtoearth.org.in/rss/thermal-comfort",
+      "https://www.downtoearth.org.in/rss/toolkit",
+      "https://www.downtoearth.org.in/rss/urbanisation",
+      "https://www.downtoearth.org.in/rss/waste",
+      "https://www.downtoearth.org.in/rss/water",
+      "https://www.downtoearth.org.in/rss/wildlife-biodiversity",
+      "https://www.downtoearth.org.in/rss/wind-power-plant",
+      "https://www.downtoearth.org.in/rss/world",
+      "https://www.downtoearth.org.in/rss/young"
     ],
     "dunvalleymail.com": [
       "https://dunvalleymail.com/feed/",
       "https://dunvalleymail.com/homepage/feed/"
     ],
-    "dailyhindinews.com": [
-      "https://dailyhindinews.com/feed/"
+    "emalwa.com": [
+      "https://emalwa.com/feed/"
     ],
-    "ianshindi.in": [
-      "https://www.ians.in/rss-feed.xml"
-    ],
-    "inkhabar.com": [
-      "https://www.inkhabar.com/newsfeed/latest-feed/",
-      "https://www.inkhabar.com/newsfeed/latest-feed/atom/",
-      "https://www.inkhabar.com/newsfeed/latest-feed/"
-    ],
-    "bhopalsamachar.com": [
-      "https://www.bhopalsamachar.com/feeds/posts/default",
-      "https://www.bhopalsamachar.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/7947143779319889236/posts/default"
-    ],
-    "bhadas4media.com": [
-      "https://www.bhadas4media.com/feed/"
-    ],
-    "ujjawalprabhat.com": [
-      "https://ujjawalprabhat.com/feed/"
-    ],
-    "pravakta.com": [
-      "https://www.pravakta.com/feed/",
-      "https://www.pravakta.com/homepage-fast-news/feed/"
-    ],
-    "newswing.com": [
-      "https://newswing.com/feed/"
+    "etemaaddaily.com": [
+      "https://www.etemaadweekly.com/rssfeeds.php"
     ],
     "ghamasan.com": [
       "https://ghamasan.com/feed",
@@ -125,17 +401,298 @@
     "hastakshep.com": [
       "https://hastakshep.com/google_feeds.xml"
     ],
+    "highwaychannel.in": [
+      "https://highwaychannel.in/feed/"
+    ],
+    "hindustantimes.com": [
+      "https://www.hindustantimes.com/feeds/rss/analysis/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/festival/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/gemstones/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/horoscope/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/today-panchang/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/vastu/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/astrology/your-fortune-today/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/books/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/brand-post/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/brand-stories/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/budget/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/car-bike/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/editorials/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/editors-pick/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/admissions/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/board-exams/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/competitive-exams/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/employment-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/exam-results/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/features/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/education/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/chhattisgarh-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/goa-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/karnataka-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/lok-sabha-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/lok-sabha/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/madhya-pradesh-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/manipur-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/mizoram-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/punjab-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/rajasthan-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/telangana-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/elections/uttar-pradesh-assembly-election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/anime/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/bollywood/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/hollywood/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/music/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/others/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/tamil-cinema/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/telugu-cinema/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/tv/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/entertainment/web-series/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/environment/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/health/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/climate-change/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/economy/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/future-tech/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/gender-equality/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/governance/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/international-affairs/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/public-health/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/ht-insight/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/cinema/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/decor/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/htcity-delhi-junction/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/htcity-foodies/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/htcity-high-spirits/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/htcity-showstoppers/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/trips-tours/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/htcity/wellness/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/infographic/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/latest/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/brunch/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/fashion/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/festivals/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/health/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/pet/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/recipe/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/relationships/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/lifestyle/travel/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/opinion/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/art-culture/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/cricket/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/entertainment/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/lifestyle/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/photos/sports/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/real-estate/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/science/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/shop-now/electronics/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/shop-now/fashion/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/shop-now/health-and-beauty/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/shop-now/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sponsored-post/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/badminton/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/commonwealth-games/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/football/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/hockey/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/olympics/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/others/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/tennis/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/sports/wwe-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/technology/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/cricket/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/election/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/entertainment/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/htls/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/lifestyle/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/shows/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/sports/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/videos/world-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/web-stories/branded-content-features/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/web-stories/education/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/web-stories/entertainment/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/web-stories/in-focus/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/web-stories/lifestyle/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/web-stories/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+      "https://www.hindustantimes.com/feeds/rss/world-news/us-news/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/analysis/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/art-culture/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/auto/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/bollywood/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/books/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/brunch/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/business/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/bhopal/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/chandigarh/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/dehradun/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/delhi/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/gurgaon/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/indore/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/jaipur/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/kolkata/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/lucknow/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/mumbai/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/noida/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/patna/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cities/ranchi/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/columns/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/cricket/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/editorials/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/education/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/entertainment/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/fashion-trends/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/football/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/health-fitness/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/hollywood/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/icc-world-cup-2019/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/india/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/lifestyle/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/movie-reviews/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/music/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/opinion/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/othersports/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/punjab/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/realestate/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/regional-movies/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/sex-relationships/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/sports/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tabloid/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tech-features/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tech-gadgets/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tech-news/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tech/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tennis/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/topnews/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/travel/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/tv/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/weekend-top/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/world-cinema/rssfeed.xml",
+      "https://www.hindustantimes.com/rss/world/rssfeed.xml"
+    ],
+    "ianshindi.in": [
+      "https://www.ians.in/rss-feed.xml"
+    ],
+    "indiatoday.in": [
+      "https://www.indiatoday.in/rss-gallery",
+      "https://www.indiatoday.in/rss-video",
+      "https://www.indiatoday.in/rss/1206500",
+      "https://www.indiatoday.in/rss/1206509",
+      "https://www.indiatoday.in/rss/1206513",
+      "https://www.indiatoday.in/rss/1206514",
+      "https://www.indiatoday.in/rss/1206550",
+      "https://www.indiatoday.in/rss/1206551",
+      "https://www.indiatoday.in/rss/1206577",
+      "https://www.indiatoday.in/rss/1206584",
+      "https://www.indiatoday.in/rss/1206614",
+      "https://www.indiatoday.in/rss/home"
+    ],
+    "inkhabar.com": [
+      "https://www.inkhabar.com/newsfeed/latest-feed/",
+      "https://www.inkhabar.com/newsfeed/latest-feed/atom/",
+      "https://www.inkhabar.com/newsfeed/latest-feed/"
+    ],
+    "jagruktimes.co.in": [
+      "https://jagruktimes.co.in/feed/"
+    ],
+    "jaianndata.com": [
+      "https://jaianndata.com/feed/"
+    ],
+    "jansandeshtimes.net": [
+      "https://www.jansandeshtimes.net/rss"
+    ],
+    "kashmiruzma.news": [
+      "https://kashmiruzma.news/feed/"
+    ],
+    "krishakjagat.org": [
+      "https://www.krishakjagat.org/feed/"
+    ],
+    "loktej.com": [
+      "https://www.loktej.com/feed",
+      "https://www.loktej.com/rss"
+    ],
+    "millattimes.com": [
+      "https://millattimes.com/feed/"
+    ],
+    "milligazette.com": [
+      "https://www.milligazette.com/rss/news.rss"
+    ],
+    "navabharat.com": [
+      "https://navabharat.com/?feed=rss2"
+    ],
+    "navbharattimes.indiatimes.com": [
+      "https://navbharattimes.indiatimes.com/et-hindi/rssfeedsection/2279786.cms",
+      "https://navbharattimes.indiatimes.com/jokes/rssfeedsection/19615041.cms",
+      "https://navbharattimes.indiatimes.com/opinion/editorial/rssfeeds/2007740431.cms",
+      "https://navbharattimes.indiatimes.com/rssfeeds/2007740431.cms",
+      "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+    ],
+    "navsancharsamachar.com": [
+      "https://navsancharsamachar.com/feed/"
+    ],
+    "newdelhitimes.com": [
+      "https://www.newdelhitimes.com/feed/"
+    ],
+    "newswing.com": [
+      "https://newswing.com/feed/"
+    ],
+    "outlookindia.com": [
+      "https://www.outlookindia.com/rss/home",
+      "https://www.outlookindia.com/rss/main/website"
+    ],
+    "panchjanya.com": [
+      "https://panchjanya.com/feed/",
+      "https://panchjanya.com/web-stories/feed/"
+    ],
+    "peoplesupdate.com": [
+      "https://peoplesupdate.com/feed.xml"
+    ],
     "poorvanchalmedia.com": [
       "https://poorvanchalmedia.com/feed/"
+    ],
+    "pravakta.com": [
+      "https://www.pravakta.com/feed/",
+      "https://www.pravakta.com/homepage-fast-news/feed/"
+    ],
+    "royalbulletin.in": [
+      "https://royalbulletin.in/rss"
     ],
     "sabguru.com": [
       "https://www.sabguru.com/feed"
     ],
-    "emalwa.com": [
-      "https://emalwa.com/feed/"
-    ],
-    "peoplesupdate.com": [
-      "https://peoplesupdate.com/feed.xml"
+    "sahilonline.net": [
+      "https://sahilonline.net/feed/posts"
     ],
     "samaykhabar.com": [
       "https://www.samaykhabar.com/feeds/posts/default",
@@ -145,37 +702,67 @@
       "https://www.samaykhabar.com/feeds/posts/default?alt=rss",
       "https://www.blogger.com/feeds/4381924464031099265/posts/default"
     ],
-    "highwaychannel.in": [
-      "https://highwaychannel.in/feed/"
+    "sanjeevnitoday.com": [
+      "https://sanjeevnitoday.com/feed/",
+      "https://sanjeevnitoday.com/web-stories/feed/"
+    ],
+    "sundayguardianlive.com": [
+      "https://sundayguardianlive.com/feed",
+      "https://sundayguardianlive.com/feed/",
+      "https://sundayguardianlive.com/feed/atom/"
+    ],
+    "taasir.com": [
+      "https://taasir.com/feed/"
+    ],
+    "tarunmitra.in": [
+      "https://www.tarunmitra.in/rss"
     ],
     "teznews.com": [
       "https://teznews.com/feed/"
     ],
-    "navsancharsamachar.com": [
-      "https://navsancharsamachar.com/feed/"
+    "thewireurdu.com": [
+      "https://thewireurdu.com/feed/"
     ],
-    "yashbharat.com": [
-      "https://www.yashbharat.com/feed/"
-    ],
-    "jaianndata.com": [
-      "https://jaianndata.com/feed/"
-    ],
-    "agrasamachar.com": [
-      "https://www.agrasamachar.com/feeds/posts/default",
-      "https://www.agrasamachar.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/816629786327993216/posts/default"
+    "timesofindia.indiatimes.com": [
+      "https://timesofindia.indiatimes.com/blogs/feed/defaultrss",
+      "https://timesofindia.indiatimes.com/rssfeedmostread.cms",
+      "https://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms?x=1",
+      "https://timesofindia.indiatimes.com/rssfeeds/1898272.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/1898274.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/2177298.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/2886704.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/7098551.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms",
+      "https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms",
+      "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
     ],
     "trthindi.com": [
       "https://www.trthindi.com/feed/rss.xml"
     ],
-    "sundayguardianlive.com": [
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/feed/atom/",
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
+    "ujjawalprabhat.com": [
+      "https://ujjawalprabhat.com/feed/"
     ],
-    "newdelhitimes.com": [
-      "https://www.newdelhitimes.com/feed/"
+    "urdu.news18.com": [
+      "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
+    ],
+    "urdu.siasat.com": [
+      "https://urdu.siasat.com/feed/"
+    ],
+    "uttamhindu.com": [
+      "https://www.uttamhindu.com/feed/",
+      "https://www.uttamhindu.com/feed/atom/",
+      "https://www.uttamhindu.com/feed/"
+    ],
+    "yashbharat.com": [
+      "https://www.yashbharat.com/feed/"
     ]
   }
 }

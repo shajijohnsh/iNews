@@ -1,0 +1,58 @@
+{
+  "country_code": "SR",
+  "language_code": "EN",
+  "total_domains": 16,
+  "total_feeds": 18,
+  "feeds": {
+    "apintie.sr": [
+      "https://feeds.feedburner.com/ApintieTV"
+    ],
+    "atv.sr": [
+      "https://atv.sr/feed/"
+    ],
+    "culturu.com": [
+      "https://www.culturu.com/feed/"
+    ],
+    "dagbladdewest.com": [
+      "https://dagbladdewest.com/feed/"
+    ],
+    "dbsuriname.com": [
+      "https://www.dbsuriname.com/feed/"
+    ],
+    "dwtonline.com": [
+      "https://dwtonline.com/feed/"
+    ],
+    "gfcnieuws.com": [
+      "https://www.gfcnieuws.com/feed/"
+    ],
+    "keynews.sr": [
+      "https://keynews.sr/feed/"
+    ],
+    "parbode.com": [
+      "https://www.parbode.com/feed/"
+    ],
+    "srherald.com": [
+      "https://www.srherald.com/feed/"
+    ],
+    "starnieuws.com": [
+      "https://www.starnieuws.com/rss/starnieuws.rss"
+    ],
+    "stvs.sr": [
+      "https://stvs.sr/feed/"
+    ],
+    "surinametimes.com": [
+      "https://www.surinametimes.com/feed/",
+      "http://www.surinametimes.com/feed/"
+    ],
+    "surinameview.com": [
+      "https://www.surinameview.com/feed/"
+    ],
+    "unitednews.sr": [
+      "https://unitednews.sr/feed/",
+      "https://unitednews.sr/category/news/feed/"
+    ],
+    "waterkant.net": [
+      "https://www.waterkant.net/feed/"
+    ]
+  }
+}

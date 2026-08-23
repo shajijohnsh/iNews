@@ -1,0 +1,25 @@
+{
+  "country_code": "TD",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 7,
+  "feeds": {
+    "alwihdainfo.com": [
+      "https://www.alwihdainfo.com/index.php?preaction=rss",
+      "https://www.alwihdainfo.com/xml/atom.xml",
+      "https://www.alwihdainfo.com/xml/syndication.rss"
+    ],
+    "journaldutchad.com": [
+      "https://journaldutchad.com/feed/"
+    ],
+    "lepaystchad.com": [
+      "https://www.lepaystchad.com/feed/"
+    ],
+    "tchadinfos.com": [
+      "https://tchadinfos.com/feed/"
+    ],
+    "zoomtchad.com": [
+      "http://zoomtchad.com/feed/"
+    ]
+  }
+}

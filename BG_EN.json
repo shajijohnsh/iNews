@@ -1,0 +1,132 @@
+{
+  "country_code": "BG",
+  "language_code": "EN",
+  "total_domains": 28,
+  "total_feeds": 68,
+  "feeds": {
+    "aero-bg.com": [
+      "https://aero-bg.com/feed/"
+    ],
+    "agrozona.bg": [
+      "https://agrozona.bg/feed/"
+    ],
+    "autobild.bg": [
+      "https://autobild.bg/feed/"
+    ],
+    "az-jenata.bg": [
+      "https://www.az-jenata.bg/rss/latest",
+      "https://www.az-jenata.bg/rss/c/8-svobodno-vreme",
+      "https://www.az-jenata.bg/rss/c/12-semeystvo",
+      "https://www.az-jenata.bg/rss/c/3-gotvarstvo",
+      "https://www.az-jenata.bg/rss/c/4-za-doma",
+      "https://www.az-jenata.bg/rss/c/5-zdrave-i-krasota",
+      "https://www.az-jenata.bg/rss/c/1-bremennost",
+      "https://www.az-jenata.bg/rss/c/10-moda",
+      "https://www.az-jenata.bg/rss/c/174-vlog-eto-kak",
+      "https://www.az-jenata.bg/rss/c/2-intimno"
+    ],
+    "bela.bg": [
+      "https://bela.bg/feed/"
+    ],
+    "bg-mamma.com": [
+      "https://blog.bg-mamma.com/feed",
+      "https://blog.bg-mamma.com/zabavno/feed",
+      "https://blog.bg-mamma.com/kak-raboti-forumat/feed",
+      "https://blog.bg-mamma.com/preporachano-ot-potrebiteli/feed",
+      "https://blog.bg-mamma.com/novini/feed",
+      "https://blog.bg-mamma.com/istinski-istorii/feed"
+    ],
+    "bgonair.bg": [
+      "https://www.bgonair.bg/rss/c/162-reportazhi",
+      "https://www.bgonair.bg/rss/c/166-kriminalno",
+      "https://www.bgonair.bg/rss/c/199-goreshta-liniya",
+      "https://www.bgonair.bg/rss/c/2-bulgaria",
+      "https://www.bgonair.bg/rss/c/4-world",
+      "https://www.bgonair.bg/rss/c/5-science",
+      "https://www.bgonair.bg/rss/c/7-sport",
+      "https://www.bgonair.bg/rss/latest"
+    ],
+    "cherga.bg": [
+      "https://cherga.bg/feed/"
+    ],
+    "clubs1.bg": [
+      "https://clubs1.bg/feed/"
+    ],
+    "cosmopolitan.bg": [
+      "https://www.cosmopolitan.bg/rss/articles.xml"
+    ],
+    "eva.bg": [
+      "https://eva.bg/feed"
+    ],
+    "ezine.bg": [
+      "https://ezine.bg/rssnew/ezine-8-88.xml",
+      "https://ezine.bg/rssnew/ezine-8-102.xml",
+      "https://ezine.bg/rssnew/ezine-8-112.xml",
+      "https://ezine.bg/rssnew/ezine-8-87.xml"
+    ],
+    "hera.bg": [
+      "http://www.hera.bg/rss/lastposts.xml"
+    ],
+    "hicomm.bg": [
+      "https://hicomm.bg/rss"
+    ],
+    "iskamdaznam.com": [
+      "https://iskamdaznam.com/feed/"
+    ],
+    "jilishta.com": [
+      "https://interior.jilishta.com/feed/atom/",
+      "https://interior.jilishta.com/feed/",
+      "https://news.jilishta.com/feed/",
+      "https://interior.jilishta.com/blog/works/accenti-v-spalniata/feed/",
+      "https://interior.jilishta.com/blog/works/gradinski-detaili/feed/",
+      "https://interior.jilishta.com/blog/works/dizainerski-mebeli/feed/",
+      "https://interior.jilishta.com/blog/works/lubopitno/feed/",
+      "https://interior.jilishta.com/blog/works/dizainersko-osvetlenie/feed/",
+      "https://interior.jilishta.com/blog/works/detaili-v-kuhniata/feed/",
+      "http://news.jilishta.com/feed/",
+      "http://interior.jilishta.com/blog/works/accenti-v-spalniata/feed/",
+      "http://interior.jilishta.com/blog/works/detaili-v-kuhniata/feed/",
+      "http://interior.jilishta.com/blog/works/dizainerski-mebeli/feed/",
+      "http://interior.jilishta.com/blog/works/dizainersko-osvetlenie/feed/",
+      "http://interior.jilishta.com/blog/works/gradinski-detaili/feed/",
+      "http://interior.jilishta.com/blog/works/lubopitno/feed/"
+    ],
+    "karieri.bg": [
+      "https://www.karieri.bg/rss"
+    ],
+    "manager.bg": [
+      "https://www.manager.bg/rss.xml"
+    ],
+    "moderendom.net": [
+      "https://moderendom.net/feed/"
+    ],
+    "nashdom-bg.com": [
+      "https://www.nashdom-bg.com/feed/"
+    ],
+    "nationalgeographic.bg": [
+      "https://www.nationalgeographic.bg/rss/articles.xml"
+    ],
+    "newteck.bg": [
+      "https://newteck.bg/feed/"
+    ],
+    "novovreme.com": [
+      "https://novovreme.com/feed/"
+    ],
+    "regal.bg": [
+      "https://www.regal.bg/rss/"
+    ],
+    "rozali.com": [
+      "https://rozali.com/rss/latestnews.xml"
+    ],
+    "spisaniebulka.com": [
+      "https://spisaniebulka.com/feed"
+    ],
+    "starshel.bg": [
+      "https://starshel.bg/feed/"
+    ],
+    "svatbamagazine.com": [
+      "https://svatbamagazine.com/?format=feed&type=atom",
+      "https://svatbamagazine.com/?format=feed&type=rss"
+    ]
+  }
+}

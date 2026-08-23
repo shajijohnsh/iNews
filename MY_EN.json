@@ -1,0 +1,35 @@
+{
+  "country_code": "MY",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 11,
+  "feeds": {
+    "aswaqpress.com": [
+      "https://aswaqpress.com/feed/"
+    ],
+    "gempakstarz.com": [
+      "https://gempakstarz.com/feed/"
+    ],
+    "glamlelaki.my": [
+      "https://glamlelaki.my/feed/"
+    ],
+    "juiceonline.com": [
+      "https://juiceonline.com/feed/",
+      "https://juiceonline.com/events/feed/",
+      "https://juiceonline.com/news-blog/feed/",
+      "https://juiceonline.com/news-blog/juice-heart/feed/"
+    ],
+    "kl-lifestyle.com.my": [
+      "https://www.kl-lifestyle.com.my/feed/"
+    ],
+    "marketingmagazine.com.my": [
+      "https://marketingmagazine.com.my/feed/"
+    ],
+    "thepeak.com.my": [
+      "https://thepeak.com.my/feed/"
+    ],
+    "therocket.com.my": [
+      "https://www.therocket.com.my/en/feed/"
+    ]
+  }
+}

@@ -4,28 +4,31 @@
   "total_domains": 10,
   "total_feeds": 13,
   "feeds": {
-    "thecatholicspirit.com": [
-      "https://www.thecatholicspirit.com/feed/"
-    ],
-    "catholicreview.org": [
-      "https://catholicreview.org/feed/"
-    ],
-    "thecatholictelegraph.com": [
-      "https://thecatholictelegraph.com/feed/"
+    "angelusnews.com": [
+      "https://angelusnews.com/feed/"
     ],
     "catholiclife.diolc.org": [
       "https://catholiclife.diolc.org/feed/",
       "https://catholiclife.diolc.org/feed/atom/",
       "https://catholiclife.diolc.org/feed/"
     ],
+    "catholicreview.org": [
+      "https://catholicreview.org/feed/"
+    ],
     "catholicworker.org": [
       "https://catholicworker.org/feed/"
     ],
-    "thefloridacatholic.org": [
-      "http://www.thefloridacatholic.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "hawaiicatholicherald.com": [
       "https://hawaiicatholicherald.com/feed/"
+    ],
+    "thecatholicspirit.com": [
+      "https://www.thecatholicspirit.com/feed/"
+    ],
+    "thecatholictelegraph.com": [
+      "https://thecatholictelegraph.com/feed/"
+    ],
+    "thefloridacatholic.org": [
+      "http://www.thefloridacatholic.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "theleaven.org": [
       "https://theleaven.org/feed/",
@@ -33,9 +36,6 @@
     ],
     "thetablet.org": [
       "https://thetablet.org/feed/"
-    ],
-    "angelusnews.com": [
-      "https://angelusnews.com/feed/"
     ]
   }
 }

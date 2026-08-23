@@ -1,0 +1,40 @@
+{
+  "country_code": "GM",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 12,
+  "feeds": {
+    "allgambianews.com": [
+      "https://www.allgambianews.com/feed/"
+    ],
+    "elegance.gm": [
+      "https://elegance.gm/feed/"
+    ],
+    "fatunetwork.net": [
+      "https://fatunetwork.net/feed/",
+      "https://www.fatunetwork.net/feed/"
+    ],
+    "foroyaa.net": [
+      "https://foroyaa.net/feed/"
+    ],
+    "gainako.com": [
+      "https://gainako.com/feed/"
+    ],
+    "gambia-today.com": [
+      "https://gambia-today.com/feed/"
+    ],
+    "kaironews.com": [
+      "https://kaironews.com/feed/"
+    ],
+    "standard.gm": [
+      "https://standard.gm/feed/"
+    ],
+    "thepoint.gm": [
+      "http://thepoint.gm/posts/rss/xml",
+      "https://thepoint.gm/posts/rss/xml"
+    ],
+    "whatson-gambia.com": [
+      "https://whatson-gambia.com/feed/"
+    ]
+  }
+}

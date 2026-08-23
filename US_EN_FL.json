@@ -1,50 +1,55 @@
 {
   "country_code": "US",
   "language_code": "EN",
-  "total_domains": 14,
-  "total_feeds": 14,
+  "total_domains": 15,
+  "total_feeds": 17,
   "feeds": {
-    "orlandosentinel.com": [
-      "https://www.orlandosentinel.com/feed/"
-    ],
-    "sun-sentinel.com": [
-      "https://www.sun-sentinel.com/feed/"
-    ],
     "alachuacountytoday.com": [
       "https://alachuacountytoday.com/feed/"
     ],
     "amisun.com": [
       "https://amisun.com/feed/"
     ],
-    "islander.org": [
-      "https://www.islander.org/feed/"
+    "bctelegraph.com": [
+      "https://bctelegraph.com/feed/"
     ],
-    "thevosm.net": [
-      "https://1259.newstogo.us/feed/"
-    ],
-    "crestviewbulletin.com": [
-      "https://crestviewbulletin.com/feed/"
-    ],
-    "chronicleonline.com": [
-      "http://www.chronicleonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "businessobserverfl.com": [
+      "https://www.businessobserverfl.com/article/rss/all/all",
+      "https://www.businessobserverfl.com/article/rss/business-observer/industry-insights",
+      "https://www.businessobserverfl.com/rss/headlines/all/"
     ],
     "chipleybugle.com": [
       "https://chipleybugle.com/feed/"
     ],
-    "bctelegraph.com": [
-      "https://bctelegraph.com/feed/"
+    "chronicleonline.com": [
+      "http://www.chronicleonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "observerlocalnews.com": [
-      "https://www.observerlocalnews.com/rss/headlines/all/"
+    "crestviewbulletin.com": [
+      "https://crestviewbulletin.com/feed/"
     ],
-    "businessobserverfl.com": [
-      "https://www.businessobserverfl.com/rss/headlines/all/"
+    "dothaneagle.com": [
+      "http://dothaneagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "flpress.com": [
+      "https://flpress.com/feed/"
+    ],
+    "islander.org": [
+      "https://www.islander.org/feed/"
     ],
     "midfloridanewspapers.com": [
       "http://www.midfloridanewspapers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "flpress.com": [
-      "https://flpress.com/feed/"
+    "observerlocalnews.com": [
+      "https://www.observerlocalnews.com/rss/headlines/all/"
+    ],
+    "orlandosentinel.com": [
+      "https://www.orlandosentinel.com/feed/"
+    ],
+    "sun-sentinel.com": [
+      "https://www.sun-sentinel.com/feed/"
+    ],
+    "thevosm.net": [
+      "https://1259.newstogo.us/feed/"
     ]
   }
 }

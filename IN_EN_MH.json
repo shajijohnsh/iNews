@@ -1,28 +1,41 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 10,
-  "total_feeds": 13,
+  "total_domains": 15,
+  "total_feeds": 64,
   "feeds": {
-    "maharashtratimes.com": [
-      "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed.xml"
+    "afternoonvoice.com": [
+      "https://www.afternoonvoice.com/feed",
+      "https://www.afternoonvoice.com/web-stories/feed/"
     ],
-    "tarunbharat.com": [
-      "https://www.tarunbharat.com/feed/",
-      "https://www.tarunbharat.com/webstories/feed/"
-    ],
-    "prahaar.in": [
-      "https://prahaar.in/feed/"
-    ],
-    "parshvbhumi.com": [
-      "https://www.parshvbhumi.com/rss"
+    "chaprak.com": [
+      "https://www.chaprak.com/blog-feed.xml"
     ],
     "deshdoot.com": [
       "https://deshdoot.com/feed/",
       "https://deshdoot.com/web-stories/feed/"
     ],
-    "maxmaharashtra.com": [
-      "https://www.maxmaharashtra.com/google_feeds.xml"
+    "dnaindia.com": [
+      "https://www.dnaindia.com/feeds/analysis.xml",
+      "https://www.dnaindia.com/feeds/india.xml",
+      "https://www.dnaindia.com/feeds/latest.xml",
+      "https://www.dnaindia.com/feeds/money.xml",
+      "https://www.dnaindia.com/feeds/mumbai.xml",
+      "https://www.dnaindia.com/feeds/scitech.xml",
+      "https://www.dnaindia.com/feeds/world.xml"
+    ],
+    "economictimes.indiatimes.com": [
+      "https://economictimes.indiatimes.com/news/morning-brief-podcast/rssfeeds/79263773.cms",
+      "https://economictimes.indiatimes.com/opinion/blogs/rssfeeds/46313130.cms",
+      "https://economictimes.indiatimes.com/rssfeeds/2146842.cms",
+      "https://economictimes.indiatimes.com/rssfeeds/26519191.cms",
+      "https://economictimes.indiatimes.com/rssfeeds/858478126.cms"
+    ],
+    "filmfare.com": [
+      "https://www.filmfare.com/feeds/feeds.xml"
+    ],
+    "freepressjournal.in": [
+      "https://www.freepressjournal.in/stories.rss"
     ],
     "hellomaharashtra.in": [
       "https://hellomaharashtra.in/feed/"
@@ -30,12 +43,60 @@
     "maharashtradesha.com": [
       "https://maharashtradesha.com/feed/"
     ],
-    "afternoonvoice.com": [
-      "https://www.afternoonvoice.com/feed",
-      "https://www.afternoonvoice.com/web-stories/feed/"
+    "maharashtratimes.com": [
+      "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed.xml"
     ],
-    "chaprak.com": [
-      "https://www.chaprak.com/blog-feed.xml"
+    "maxmaharashtra.com": [
+      "https://www.maxmaharashtra.com/google_feeds.xml"
+    ],
+    "mid-day.com": [
+      "http://www.mid-day.com/Resources/midday/rss/entertainment.xml",
+      "http://www.mid-day.com/Resources/midday/rss/mumbai.xml",
+      "http://www.mid-day.com/Resources/midday/rss/news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/automobiles.xml",
+      "https://www.mid-day.com/Resources/midday/rss/bollywood-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/cricket.xml",
+      "https://www.mid-day.com/Resources/midday/rss/culture.xml",
+      "https://www.mid-day.com/Resources/midday/rss/entertainment.xml",
+      "https://www.mid-day.com/Resources/midday/rss/famous-personalities.xml",
+      "https://www.mid-day.com/Resources/midday/rss/fashion.xml",
+      "https://www.mid-day.com/Resources/midday/rss/food.xml",
+      "https://www.mid-day.com/Resources/midday/rss/football.xml",
+      "https://www.mid-day.com/Resources/midday/rss/health-and-fitness.xml",
+      "https://www.mid-day.com/Resources/midday/rss/hollywood-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/india-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/infotainment.xml",
+      "https://www.mid-day.com/Resources/midday/rss/lifestyle.xml",
+      "https://www.mid-day.com/Resources/midday/rss/mumbai-crime-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/mumbai-food.xml",
+      "https://www.mid-day.com/Resources/midday/rss/mumbai-guide.xml",
+      "https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/mumbai.xml",
+      "https://www.mid-day.com/Resources/midday/rss/news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/offbeat-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/opinion.xml",
+      "https://www.mid-day.com/Resources/midday/rss/other-sports.xml",
+      "https://www.mid-day.com/Resources/midday/rss/regional-indian-cinema-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/relationships.xml",
+      "https://www.mid-day.com/Resources/midday/rss/science.xml",
+      "https://www.mid-day.com/Resources/midday/rss/sports.xml",
+      "https://www.mid-day.com/Resources/midday/rss/sunday-mid-day.xml",
+      "https://www.mid-day.com/Resources/midday/rss/technology.xml",
+      "https://www.mid-day.com/Resources/midday/rss/television-news.xml",
+      "https://www.mid-day.com/Resources/midday/rss/things-to-do.xml",
+      "https://www.mid-day.com/Resources/midday/rss/travel.xml",
+      "https://www.mid-day.com/Resources/midday/rss/web-series.xml",
+      "https://www.mid-day.com/Resources/midday/rss/world-news.xml"
+    ],
+    "parshvbhumi.com": [
+      "https://www.parshvbhumi.com/rss"
+    ],
+    "prahaar.in": [
+      "https://prahaar.in/feed/"
+    ],
+    "tarunbharat.com": [
+      "https://www.tarunbharat.com/feed/",
+      "https://www.tarunbharat.com/webstories/feed/"
     ]
   }
 }

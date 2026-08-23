@@ -4,23 +4,8 @@
   "total_domains": 28,
   "total_feeds": 35,
   "feeds": {
-    "democratherald.com": [
-      "http://democratherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "theworldlink.com": [
-      "http://theworldlink.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "gazettetimes.com": [
-      "http://gazettetimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "heraldandnews.com": [
-      "http://www.heraldandnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "argusobserver.com": [
       "http://www.argusobserver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "nrtoday.com": [
-      "http://www.nrtoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "bendsource.com": [
       "https://www.bendsource.com/feed/"
@@ -29,24 +14,35 @@
       "https://cascadebusnews.com/feed/",
       "https://cascadebusnews.com/home-test/feed/"
     ],
-    "currypilot.com": [
-      "http://www.currypilot.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "cgsentinel.com": [
+      "http://www.cgsentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "columbiagorgenews.com": [
       "http://www.columbiagorgenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "cgsentinel.com": [
-      "http://www.cgsentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "currypilot.com": [
+      "http://www.currypilot.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "polkio.com": [
-      "http://www.polkio.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "dailybaro.orangemedianetwork.com": [
+      "https://dailybaro.orangemedianetwork.com/feed/",
+      "https://dailybaro.orangemedianetwork.com/feed/atom/"
+    ],
+    "dailyemerald.com": [
+      "https://dailyemerald.com/feed/",
+      "https://dailyemerald.com/feed/atom/"
+    ],
+    "democratherald.com": [
+      "http://democratherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "eugeneweekly.com": [
       "https://eugeneweekly.com/feed/",
       "https://eugeneweekly.com/feed/whp/"
     ],
-    "thesiuslawnews.com": [
-      "http://www.thesiuslawnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "gazettetimes.com": [
+      "http://gazettetimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "heraldandnews.com": [
+      "http://www.heraldandnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "keizertimes.com": [
       "https://www.keizertimes.com/feed/"
@@ -54,11 +50,26 @@
     "lakecountyexam.com": [
       "http://www.lakecountyexam.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "thenewsguard.com": [
-      "http://www.thenewsguard.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "lcctorch.com": [
+      "https://lcctorch.com/feed/"
     ],
     "newportnewstimes.com": [
       "http://www.newportnewstimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nrtoday.com": [
+      "http://www.nrtoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "orenews.com": [
+      "https://orenews.com/index.php?rss=Article",
+      "https://orenews.com/index.php?rss=Article,cat-advertising",
+      "https://orenews.com/index.php?rss=Article,cat-foundtion",
+      "https://orenews.com/index.php?rss=Article,cat-about"
+    ],
+    "pacindex.com": [
+      "https://pacindex.com/feed/"
+    ],
+    "polkio.com": [
+      "http://www.polkio.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "rogueriverpress.com": [
       "https://www.rogueriverpress.com/feed/"
@@ -66,34 +77,23 @@
     "sweethomenews.com": [
       "https://www.sweethomenews.com/feed/"
     ],
-    "tillamookheadlightherald.com": [
-      "http://www.tillamookheadlightherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "dailybaro.orangemedianetwork.com": [
-      "https://dailybaro.orangemedianetwork.com/feed/",
-      "https://dailybaro.orangemedianetwork.com/feed/atom/"
-    ],
     "theclackamasprint.net": [
       "https://www.theclackamasprint.net/feed/"
     ],
-    "dailyemerald.com": [
-      "https://dailyemerald.com/feed/",
-      "https://dailyemerald.com/feed/atom/"
+    "thenewsguard.com": [
+      "http://www.thenewsguard.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "pacindex.com": [
-      "https://pacindex.com/feed/"
+    "thesiuslawnews.com": [
+      "http://www.thesiuslawnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theworldlink.com": [
+      "http://theworldlink.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tillamookheadlightherald.com": [
+      "http://www.tillamookheadlightherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "willamettecollegian.com": [
       "https://www.willamettecollegian.com/blog-feed.xml"
-    ],
-    "lcctorch.com": [
-      "https://lcctorch.com/feed/"
-    ],
-    "orenews.com": [
-      "https://orenews.com/index.php?rss=Article",
-      "https://orenews.com/index.php?rss=Article,cat-advertising",
-      "https://orenews.com/index.php?rss=Article,cat-foundtion",
-      "https://orenews.com/index.php?rss=Article,cat-about"
     ]
   }
 }

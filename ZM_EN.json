@@ -1,0 +1,65 @@
+{
+  "country_code": "ZM",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 23,
+  "feeds": {
+    "daily-mail.co.zm": [
+      "https://www.daily-mail.co.zm/feed/"
+    ],
+    "dailynationzambia.com": [
+      "https://dailynationzambia.com/feed/"
+    ],
+    "diggers.news": [
+      "https://diggers.news/feed/"
+    ],
+    "lusakastar.com": [
+      "https://lusakastar.com/feed",
+      "https://lusakastar.com/home/feed"
+    ],
+    "lusakatimes.com": [
+      "https://www.lusakatimes.com/feed/"
+    ],
+    "lusakavoice.com": [
+      "https://lusakavoice.com/feed/"
+    ],
+    "mwebantu.com": [
+      "https://www.mwebantu.com/feed/"
+    ],
+    "theglobeonline.news": [
+      "http://theglobeonline.news/feed/"
+    ],
+    "times.co.zm": [
+      "https://times.co.zm/feed/"
+    ],
+    "zambia.co.zm": [
+      "https://zambia.co.zm/feed/"
+    ],
+    "zambiainvest.com": [
+      "https://www.zambiainvest.com/feed/"
+    ],
+    "zambianews365.com": [
+      "https://zambianews365.com/feed/"
+    ],
+    "zambianeye.com": [
+      "https://zambianeye.com/feed/",
+      "https://zambianeye.com/feed/"
+    ],
+    "zambianfootball.co.zm": [
+      "https://zambianfootball.co.zm/feed/",
+      "https://zambianfootball.co.zm/home/feed/"
+    ],
+    "zambianobserver.com": [
+      "https://zambianobserver.com/feed/"
+    ],
+    "zambianpolitics.com": [
+      "https://www.zambianpolitics.com/feeds/posts/default",
+      "https://www.zambianpolitics.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/2858056321380385476/posts/default"
+    ],
+    "zedgossip.net": [
+      "https://zedgossip.net/feed/",
+      "https://zedgossip.net/home/feed/"
+    ]
+  }
+}

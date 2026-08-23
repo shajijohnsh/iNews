@@ -4,11 +4,23 @@
   "total_domains": 14,
   "total_feeds": 14,
   "feeds": {
-    "sfbayview.com": [
-      "https://sfbayview.com/feed/"
+    "aframnews.com": [
+      "https://aframnews.com/feed/"
     ],
-    "theburningspear.com": [
-      "https://theburningspear.com/feed/"
+    "blackchronicle.com": [
+      "https://blackchronicle.com/feed/"
+    ],
+    "callandpost.com": [
+      "https://callandpost.com/feed/"
+    ],
+    "chicagocrusader.com": [
+      "https://chicagocrusader.com/feed/"
+    ],
+    "flsentinel.com": [
+      "https://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305"
+    ],
+    "forwardtimes.com": [
+      "http://www.forwardtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "miamitimesonline.com": [
       "http://www.miamitimesonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -16,35 +28,23 @@
     "pensacolavoice.net": [
       "https://pensacolavoice.net/feed/"
     ],
-    "flsentinel.com": [
-      "https://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305"
+    "phillytrib.com": [
+      "http://www.phillytrib.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sfbayview.com": [
+      "https://sfbayview.com/feed/"
+    ],
+    "theburningspear.com": [
+      "https://theburningspear.com/feed/"
+    ],
+    "thenewjournalandguide.com": [
+      "https://thenewjournalandguide.com/feed/"
     ],
     "thewestsidegazette.com": [
       "https://thewestsidegazette.com/feed/"
     ],
-    "chicagocrusader.com": [
-      "https://chicagocrusader.com/feed/"
-    ],
-    "callandpost.com": [
-      "https://callandpost.com/feed/"
-    ],
-    "blackchronicle.com": [
-      "https://blackchronicle.com/feed/"
-    ],
-    "phillytrib.com": [
-      "http://www.phillytrib.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "tri-statedefender.com": [
       "https://tri-statedefender.com/feed/"
-    ],
-    "aframnews.com": [
-      "https://aframnews.com/feed/"
-    ],
-    "forwardtimes.com": [
-      "http://www.forwardtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thenewjournalandguide.com": [
-      "https://thenewjournalandguide.com/feed/"
     ]
   }
 }

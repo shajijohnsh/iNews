@@ -2,49 +2,27 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 25,
-  "total_feeds": 27,
+  "total_feeds": 29,
   "feeds": {
-    "starkvilledailynews.com": [
-      "http://www.starkvilledailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "djournal.com": [
-      "http://www.djournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "calhouncountyjournal.com": [
+      "https://calhouncountyjournal.com/feed/"
     ],
     "dailytimesleader.com": [
       "http://www.dailytimesleader.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "seacoastecho.com": [
-      "http://www.seacoastecho.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "rankincn.com": [
-      "https://www.rankincn.com/feed/"
-    ],
-    "calhouncountyjournal.com": [
-      "https://calhouncountyjournal.com/feed/"
-    ],
-    "thecarthaginian.com": [
-      "https://www.thecarthaginian.com/feed/"
-    ],
-    "theclintoncourier.net": [
-      "https://www.theclintoncourier.net/feed/"
-    ],
     "desototimes.com": [
       "http://www.desototimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "southreporter.com": [
-      "https://www.southreporter.com/rss.xml"
+    "djournal.com": [
+      "https://www.djournal.com/search/?f=rss&t=article&c=&l=50&s=start_time&sd=desc",
+      "https://www.djournal.com/search/?f=rss&t=article&c=news/state-news&l=50&s=start_time&sd=desc",
+      "https://www.djournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "jacksonfreepress.com": [
-      "https://www.jacksonfreepress.com/rss/headlines/"
+    "franklinadvocate.com": [
+      "https://franklinadvocate.com/feed.atom"
     ],
-    "themississippilink.com": [
-      "https://themississippilink.com/feed/"
-    ],
-    "starherald.net": [
-      "https://www.starherald.net/rss.xml"
-    ],
-    "leader-call.com": [
-      "http://www.leader-call.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "gctimesonline.com": [
+      "http://www.gctimesonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "greenecountyheraldonline.com": [
       "https://www.greenecountyheraldonline.com/feed/"
@@ -52,34 +30,58 @@
     "holmescountyherald.com": [
       "https://www.holmescountyherald.com/feed/"
     ],
-    "gctimesonline.com": [
-      "http://www.gctimesonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "franklinadvocate.com": [
-      "https://franklinadvocate.com/feed.atom"
+    "jacksonfreepress.com": [
+      "https://www.jacksonfreepress.com/rss/headlines/"
     ],
     "lawrencecountypress.com": [
       "https://www.lawrencecountypress.com/feed/"
     ],
-    "yalnews.com": [
-      "https://www.yalnews.com/feed/"
+    "leader-call.com": [
+      "http://www.leader-call.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "thewaynecountynews.com": [
-      "https://thewaynecountynews.com/feed.atom"
-    ],
-    "stonecountyenterprise.com": [
-      "http://www.stonecountyenterprise.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thedmonline.com": [
-      "https://thedmonline.com/feed/"
+    "rankincn.com": [
+      "https://www.rankincn.com/feed/"
     ],
     "reflector-online.com": [
       "https://reflector-online.com/feed/",
       "https://reflector-online.com/feed/atom/"
     ],
+    "seacoastecho.com": [
+      "http://www.seacoastecho.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "sm2media.com": [
       "https://sm2media.com/feed/",
       "https://sm2media.com/feed/atom/"
+    ],
+    "southreporter.com": [
+      "https://www.southreporter.com/rss.xml"
+    ],
+    "starherald.net": [
+      "https://www.starherald.net/rss.xml"
+    ],
+    "starkvilledailynews.com": [
+      "http://www.starkvilledailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "stonecountyenterprise.com": [
+      "http://www.stonecountyenterprise.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecarthaginian.com": [
+      "https://www.thecarthaginian.com/feed/"
+    ],
+    "theclintoncourier.net": [
+      "https://www.theclintoncourier.net/feed/"
+    ],
+    "thedmonline.com": [
+      "https://thedmonline.com/feed/"
+    ],
+    "themississippilink.com": [
+      "https://themississippilink.com/feed/"
+    ],
+    "thewaynecountynews.com": [
+      "https://thewaynecountynews.com/feed.atom"
+    ],
+    "yalnews.com": [
+      "https://www.yalnews.com/feed/"
     ]
   }
 }

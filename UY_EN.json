@@ -1,0 +1,285 @@
+{
+  "country_code": "UY",
+  "language_code": "EN",
+  "total_domains": 41,
+  "total_feeds": 195,
+  "feeds": {
+    "180.com.uy": [
+      "https://www.180.com.uy/feed.php"
+    ],
+    "20once.com.uy": [
+      "https://www.20once.com.uy/feed/",
+      "http://www.20once.com.uy/feed/"
+    ],
+    "actualidad.com.uy": [
+      "https://www.actualidad.com.uy/index.php?format=feed&type=atom",
+      "https://www.actualidad.com.uy/index.php?format=feed&type=rss",
+      "http://actualidad.com.uy/index.php?format=feed&type=atom",
+      "http://www.actualidad.com.uy/index.php?format=feed&type=atom",
+      "http://actualidad.com.uy/index.php?format=feed&type=rss",
+      "http://www.actualidad.com.uy/index.php?format=feed&type=rss"
+    ],
+    "ahoranoticias.com.uy": [
+      "https://www.ahoranoticias.com.uy/feed/"
+    ],
+    "apnews.com": [
+      "https://apnews.com/education.rss",
+      "https://apnews.com/entertainment.rss",
+      "https://apnews.com/health.rss",
+      "https://apnews.com/hub/ap-top-news.rss",
+      "https://apnews.com/hub/houthis.rss",
+      "https://apnews.com/hub/middle-east.rss",
+      "https://apnews.com/hub/photography.rss",
+      "https://apnews.com/index.rss",
+      "https://apnews.com/science.rss",
+      "https://apnews.com/technology.rss",
+      "https://apnews.com/us-news.rss",
+      "https://apnews.com/world-news.rss",
+      "https://apnews.com:443/climate-and-environment.rss",
+      "https://apnews.com:443/health.rss",
+      "https://apnews.com:443/technology.rss"
+    ],
+    "artigasnoticias.com.uy": [
+      "https://artigasnoticias.com.uy/feed/"
+    ],
+    "brecha.com.uy": [
+      "https://brecha.com.uy/feed/"
+    ],
+    "busqueda.com.uy": [
+      "https://www.busqueda.com.uy/anxml.aspx?13"
+    ],
+    "carasycaretas.com.uy": [
+      "https://www.carasycaretas.com.uy/rss/pages/podcast.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/home.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/ruta-de-la-seda.xml",
+      "https://www.carasycaretas.com.uy/feed/",
+      "https://www.carasycaretas.com.uy/rss/pages/sociedad.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/politica.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/deportes.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/cultura-y-espectaculos.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/internacionales.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/columnistas.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/derecho-humanos.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/economia.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/editorial.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/empresariales.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/entrevistas.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/justicia.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/la-borra-del-cafe.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/like.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/pescado-rabioso.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/salud.xml",
+      "https://www.carasycaretas.com.uy/rss/pages/sindicales.xml"
+    ],
+    "carmeloportal.com": [
+      "https://www.carmeloportal.com/feed"
+    ],
+    "colonianoticias.com.uy": [
+      "https://www.colonianoticias.com.uy/feed/",
+      "https://www.colonianoticias.com.uy/home/feed/"
+    ],
+    "correopuntadeleste.com": [
+      "https://correopuntadeleste.com/feed/"
+    ],
+    "cronicas.com.uy": [
+      "https://www.cronicas.com.uy/feed/",
+      "http://www.cronicas.com.uy/feed/"
+    ],
+    "diariocambio.com.uy": [
+      "https://diariocambio.com.uy/feed/"
+    ],
+    "duraznodigital.uy": [
+      "https://www.duraznodigital.uy/feeds/posts/default",
+      "https://www.duraznodigital.uy/feeds/posts/default?alt=rss"
+    ],
+    "elacontecer.com.uy": [
+      "https://elacontecer.com.uy/feed/",
+      "https://elacontecer.com.uy/web-stories/feed/"
+    ],
+    "elobservador.com.uy": [
+      "https://www.elobservador.com.uy/rss/argentina.xml",
+      "https://www.elobservador.com.uy/rss/elobservador.xml",
+      "https://www.elobservador.com.uy/rss/referi.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/nacional.xml",
+      "https://www.elobservador.com.uy/rss/pages/home.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/mundo.xml",
+      "https://www.elobservador.com.uy/rss/espa%C3%B1a.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/tendencias.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/espectaculos-y-cultura.xml",
+      "https://www.elobservador.com.uy/rss/cromo.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/economia-y-empresas.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/personajes.xml",
+      "https://www.elobservador.com.uy/rss/blogs.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/agro.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/carnaval.xml",
+      "https://www.elobservador.com.uy/rss/padreshoy.xml",
+      "https://www.elobservador.com.uy/rss/tag/member.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/argentina.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/cafe-negocios.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/opinion.xml",
+      "https://www.elobservador.com.uy/rss/blogs/consultor-tributario.xml",
+      "https://www.elobservador.com.uy/rss/blogs/el-comportamiento-en-la-vida-cotidiana.xml",
+      "https://www.elobservador.com.uy/rss/blogs/emprendedores.xml",
+      "https://www.elobservador.com.uy/rss/blogs/historias-minimas.xml",
+      "https://www.elobservador.com.uy/rss/blogs/la-fonda-del-angel.xml",
+      "https://www.elobservador.com.uy/rss/blogs/latinoamerica-21.xml",
+      "https://www.elobservador.com.uy/rss/blogs/milongas-y-obsesiones.xml",
+      "https://www.elobservador.com.uy/rss/blogs/ministerio-de-diseno.xml",
+      "https://www.elobservador.com.uy/rss/blogs/neurona-financiera.xml",
+      "https://www.elobservador.com.uy/rss/blogs/reaccion-en-accion.xml",
+      "https://www.elobservador.com.uy/rss/blogs/reflexiones-liberales.xml",
+      "https://www.elobservador.com.uy/rss/blogs/the-sotano.xml",
+      "https://www.elobservador.com.uy/rss/blogs/tool-box.xml",
+      "https://www.elobservador.com.uy/rss/blogs/zikitipiu.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/comer-y-disfrutar.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/estilo-de-vida.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/futuro-sustentable.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/publicaciones.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/remates.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/salud.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/seisgrados.xml",
+      "https://www.elobservador.com.uy/rss/elobservador/sociales.xml",
+      "https://www.elobservador.com.uy/rss/referi/qatar-2022.xml",
+      "https://www.elobservador.com.uy/rss/tag/el-observador-tv.xml",
+      "https://www.elobservador.com.uy/rss/tag/podcast.xml"
+    ],
+    "elpais.com.uy": [
+      "https://www.elpais.com.uy/rss/",
+      "https://www.elpais.com.uy/rss/latest"
+    ],
+    "elpueblodigital.uy": [
+      "https://elpueblodigital.uy/feed/"
+    ],
+    "eltelegrafo.com": [
+      "https://www.eltelegrafo.com/feed/"
+    ],
+    "en.mercopress.com": [
+      "https://en.mercopress.com/rss/",
+      "https://en.mercopress.com/rss/agriculture",
+      "https://en.mercopress.com/rss/antarctica",
+      "https://en.mercopress.com/rss/argentina",
+      "https://en.mercopress.com/rss/brazil",
+      "https://en.mercopress.com/rss/chile",
+      "https://en.mercopress.com/rss/economy",
+      "https://en.mercopress.com/rss/energy",
+      "https://en.mercopress.com/rss/environment",
+      "https://en.mercopress.com/rss/falkland-islands",
+      "https://en.mercopress.com/rss/fisheries",
+      "https://en.mercopress.com/rss/health-science",
+      "https://en.mercopress.com/rss/international",
+      "https://en.mercopress.com/rss/investments",
+      "https://en.mercopress.com/rss/latin-america",
+      "https://en.mercopress.com/rss/mercosur",
+      "https://en.mercopress.com/rss/paraguay",
+      "https://en.mercopress.com/rss/politics",
+      "https://en.mercopress.com/rss/real-estate",
+      "https://en.mercopress.com/rss/tourism",
+      "https://en.mercopress.com/rss/unasur",
+      "https://en.mercopress.com/rss/united-states",
+      "https://en.mercopress.com/rss/uruguay",
+      "https://en.mercopress.com/rss/venezuela"
+    ],
+    "english.elpais.com": [
+      "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/culture",
+      "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/economy-and-business",
+      "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/international",
+      "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/people",
+      "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/science-tech",
+      "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/usa",
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada"
+    ],
+    "grupormultimedio.com": [
+      "https://grupormultimedio.com/feed/"
+    ],
+    "helvecia.com.uy": [
+      "https://helvecia.com.uy/feed/"
+    ],
+    "hoycanelones.com.uy": [
+      "https://hoycanelones.com.uy/?feed=rss2"
+    ],
+    "lacoloniadigital.com.uy": [
+      "https://www.lacoloniadigital.com.uy/feed/"
+    ],
+    "ladiaria.com.uy": [
+      "https://ladiaria.com.uy/feeds/articulos/"
+    ],
+    "laoraldeportiva.com.uy": [
+      "https://laoraldeportiva.com.uy/feed/"
+    ],
+    "laprensa.com.uy": [
+      "https://laprensa.com.uy/?format=feed&type=rss",
+      "https://laprensa.com.uy/?format=feed&type=atom"
+    ],
+    "lr21.com.uy": [
+      "https://www.lr21.com.uy/feed"
+    ],
+    "maldonadonoticias.com": [
+      "https://maldonadonoticias.com/beta/?format=feed&type=rss",
+      "https://maldonadonoticias.com/beta/?format=feed&type=atom"
+    ],
+    "montevideo.com.uy": [
+      "http://www.montevideo.com.uy/anxml.aspx?133",
+      "http://www.montevideo.com.uy/anxml.aspx?58",
+      "http://www.montevideo.com.uy/anxml.aspx?60"
+    ],
+    "pagina33.com": [
+      "https://pagina33.com/feed/"
+    ],
+    "periodicocentenario.com.uy": [
+      "https://periodicocentenario.com.uy/feed/"
+    ],
+    "sanjoseahora.com.uy": [
+      "https://sanjoseahora.com.uy/feed/"
+    ],
+    "subrayado.com.uy": [
+      "https://www.subrayado.com.uy/rss/pages/cine.xml",
+      "https://www.subrayado.com.uy/rss/pages/rock.xml",
+      "https://www.subrayado.com.uy/rss/pages/teatro.xml",
+      "https://www.subrayado.com.uy/rss/pages/home.xml",
+      "https://www.subrayado.com.uy/rss/pages/policiales.xml",
+      "https://www.subrayado.com.uy/rss/pages/sociedad.xml",
+      "https://www.subrayado.com.uy/rss/pages/politica.xml",
+      "https://www.subrayado.com.uy/rss/pages/internacionales.xml",
+      "https://www.subrayado.com.uy/rss/pages/cultura.xml",
+      "https://www.subrayado.com.uy/rss/pages/curiosidades.xml",
+      "https://www.subrayado.com.uy/rss/pages/deportes.xml",
+      "https://www.subrayado.com.uy/rss/pages/economia.xml",
+      "https://www.subrayado.com.uy/rss/pages/empresariales.xml",
+      "https://www.subrayado.com.uy/rss/pages/futbol-internacional.xml",
+      "https://www.subrayado.com.uy/rss/pages/futbol-uruguayo.xml",
+      "https://www.subrayado.com.uy/rss/pages/nacional.xml",
+      "https://www.subrayado.com.uy/rss/pages/opinion.xml",
+      "https://www.subrayado.com.uy/rss/pages/show.xml",
+      "https://www.subrayado.com.uy/rss/pages/tecnologia-internet.xml",
+      "https://www.subrayado.com.uy/rss/pages/turf.xml"
+    ],
+    "teledoce.com": [
+      "https://www.teledoce.com/feed/"
+    ],
+    "theguardian.com": [
+      "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+      "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+      "https://www.theguardian.com/football/who-scored-blog/rss",
+      "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+      "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+      "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+      "https://www.theguardian.com/sport/blog/rss",
+      "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+      "https://www.theguardian.com/uk/rss",
+      "https://www.theguardian.com/us/rss",
+      "https://www.theguardian.com/world/rss"
+    ],
+    "todoelcampo.com.uy": [
+      "https://todoelcampo.com.uy/feed"
+    ],
+    "uruguayaldia.com.uy": [
+      "https://uruguayaldia.com.uy/feed/"
+    ],
+    "uypress.net": [
+      "http://www.uypress.net/anxml.aspx?13"
+    ]
+  }
+}

@@ -4,20 +4,20 @@
   "total_domains": 16,
   "total_feeds": 16,
   "feeds": {
-    "qctonline.com": [
-      "https://www.qctonline.com/feed/"
+    "branchez-vous.com": [
+      "https://branchez-vous.com/feed/"
     ],
-    "lecourrierdusud.ca": [
-      "https://lecourrierdusud.ca/feed/"
+    "delitfrancais.com": [
+      "https://www.delitfrancais.com/feed/"
     ],
-    "thesuburban.com": [
-      "http://www.thesuburban.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "horizonweekly.ca": [
+      "https://horizonweekly.ca/feed/"
     ],
-    "sherbrookerecord.com": [
-      "https://www.sherbrookerecord.com/feed/"
+    "infodunordtremblant.ca": [
+      "https://infodunordtremblant.ca/feed/"
     ],
-    "lasentinelle.ca": [
-      "https://lasentinelle.ca/feed/"
+    "journalmetro.com": [
+      "https://journalmetro.com/feed/"
     ],
     "lactiondautray.com": [
       "https://www.lactiondautray.com/feed/"
@@ -25,32 +25,32 @@
     "lareleve.qc.ca": [
       "https://lareleve.qc.ca/feed/"
     ],
+    "lasentinelle.ca": [
+      "https://lasentinelle.ca/feed/"
+    ],
+    "lecourrierdusud.ca": [
+      "https://lecourrierdusud.ca/feed/"
+    ],
     "mcgilldaily.com": [
       "https://www.mcgilldaily.com/feed/"
-    ],
-    "thelinknewspaper.ca": [
-      "https://thelinknewspaper.ca/feed"
-    ],
-    "voir.ca": [
-      "https://voir.ca/feed/"
-    ],
-    "delitfrancais.com": [
-      "https://www.delitfrancais.com/feed/"
-    ],
-    "journalmetro.com": [
-      "https://journalmetro.com/feed/"
     ],
     "mtltimes.ca": [
       "https://mtltimes.ca/feed/"
     ],
-    "infodunordtremblant.ca": [
-      "https://infodunordtremblant.ca/feed/"
+    "qctonline.com": [
+      "https://www.qctonline.com/feed/"
     ],
-    "horizonweekly.ca": [
-      "https://horizonweekly.ca/feed/"
+    "sherbrookerecord.com": [
+      "https://www.sherbrookerecord.com/feed/"
     ],
-    "branchez-vous.com": [
-      "https://branchez-vous.com/feed/"
+    "thelinknewspaper.ca": [
+      "https://thelinknewspaper.ca/feed"
+    ],
+    "thesuburban.com": [
+      "http://www.thesuburban.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "voir.ca": [
+      "https://voir.ca/feed/"
     ]
   }
 }

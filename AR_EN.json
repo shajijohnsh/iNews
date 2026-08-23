@@ -1,0 +1,117 @@
+{
+  "country_code": "AR",
+  "language_code": "EN",
+  "total_domains": 19,
+  "total_feeds": 71,
+  "feeds": {
+    "ahoramama.com.ar": [
+      "https://ahoramama.com.ar/feed/"
+    ],
+    "bigbangnews.com": [
+      "https://www.bigbangnews.com/rss/actualidad.xml",
+      "https://www.bigbangnews.com/rss/policiales.xml",
+      "https://www.bigbangnews.com/rss/politica.xml",
+      "https://www.bigbangnews.com/rss/deportes.xml",
+      "https://www.bigbangnews.com/rss/farandula.xml",
+      "https://www.bigbangnews.com/rss/mundo.xml",
+      "https://www.bigbangnews.com/rss/recetas.xml",
+      "https://www.bigbangnews.com/rss/tapas.xml",
+      "https://www.bigbangnews.com/rss/tecnologia.xml",
+      "https://www.bigbangnews.com/rss/television.xml",
+      "https://www.bigbangnews.com/feed/politica",
+      "https://www.bigbangnews.com/feed/policiales",
+      "https://www.bigbangnews.com/feed/",
+      "https://www.bigbangnews.com/feed/actualidad",
+      "https://www.bigbangnews.com/feed/deportes",
+      "https://www.bigbangnews.com/feed/mundo",
+      "https://www.bigbangnews.com/feed/recetas",
+      "https://www.bigbangnews.com/feed/tecnologia"
+    ],
+    "billboard.ar": [
+      "https://billboard.ar/feed/"
+    ],
+    "caras.perfil.com": [
+      "https://caras.perfil.com/feed",
+      "https://caras.perfil.com/feed/deportes",
+      "https://caras.perfil.com/feed/espectaculos",
+      "https://caras.perfil.com/feed/salud",
+      "https://caras.perfil.com/feed/sociedad"
+    ],
+    "carasycaretas.org.ar": [
+      "https://carasycaretas.org.ar/feed/",
+      "https://carasycaretas.org.ar/webstories/feed/"
+    ],
+    "cronista.com": [
+      "http://www.cronista.com/files/rss/news.xml",
+      "https://www.cronista.com/files/rss/apertura.xml",
+      "https://www.cronista.com/files/rss/it.xml",
+      "https://www.cronista.com/files/rss/news.xml",
+      "https://www.cronista.com/rss/feed.xml"
+    ],
+    "dyd.com.ar": [
+      "https://dyd.com.ar/feed/"
+    ],
+    "elgrafico.com.ar": [
+      "https://www.elgrafico.com.ar/rss"
+    ],
+    "lanacion.com.ar": [
+      "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
+      "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.lanacion.com.ar/arcio/rss/"
+    ],
+    "megautos.com": [
+      "https://www.megautos.com/feed/",
+      "https://www.megautos.com/test-noticias-precios-autos/feed/"
+    ],
+    "mercado.com.ar": [
+      "https://mercado.com.ar/feed/"
+    ],
+    "noticias.perfil.com": [
+      "https://noticias.perfil.com/feed"
+    ],
+    "parati.com.ar": [
+      "https://www.parati.com.ar/feed/"
+    ],
+    "parlamentario.com": [
+      "https://www.parlamentario.com/feed/"
+    ],
+    "prensaeconomica.com.ar": [
+      "https://prensaeconomica.com.ar/?feed=rss2"
+    ],
+    "pronto.com.ar": [
+      "https://www.pronto.com.ar/feeds/rss",
+      "https://www.pronto.com.ar/rss",
+      "https://www.pronto.com.ar/rss/famosos",
+      "https://www.pronto.com.ar/rss/informacion",
+      "https://www.pronto.com.ar/rss/magazine",
+      "https://www.pronto.com.ar/rss/curiosidades",
+      "https://www.pronto.com.ar/rss/espectaculos",
+      "https://www.pronto.com.ar/rss/bailando-2015",
+      "https://www.pronto.com.ar/rss/cocina",
+      "https://www.pronto.com.ar/rss/comunicados",
+      "https://www.pronto.com.ar/rss/fotos-de-hoy",
+      "https://www.pronto.com.ar/rss/looks",
+      "https://www.pronto.com.ar/rss/moda-pronto",
+      "https://www.pronto.com.ar/rss/mundial-2014",
+      "https://www.pronto.com.ar/rss/opinion",
+      "https://www.pronto.com.ar/rss/portadas",
+      "https://www.pronto.com.ar/rss/premios-pronto",
+      "https://www.pronto.com.ar/rss/premios-pronto-2012",
+      "https://www.pronto.com.ar/rss/pronto-tv",
+      "https://www.pronto.com.ar/rss/radio-pronto",
+      "https://www.pronto.com.ar/rss/retro",
+      "https://www.pronto.com.ar/rss/salud",
+      "https://www.pronto.com.ar/rss/tapas",
+      "https://www.pronto.com.ar/rss/author/dalia.hassan"
+    ],
+    "revistagente.com": [
+      "https://www.revistagente.com/feed/"
+    ],
+    "revistasusana.com": [
+      "https://www.revistasusana.com/feed/"
+    ],
+    "veintitres.com.ar": [
+      "https://www.veintitres.com.ar/feed/feed.xml"
+    ]
+  }
+}

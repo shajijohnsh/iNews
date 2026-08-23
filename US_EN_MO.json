@@ -2,56 +2,60 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 16,
-  "total_feeds": 17,
+  "total_feeds": 21,
   "feeds": {
-    "bransontrilakesnews.com": [
-      "http://www.bransontrilakesnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "joplinglobe.com": [
-      "http://www.joplinglobe.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "maryvilleforum.com": [
-      "http://www.maryvilleforum.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "therolladailynews.com": [
-      "https://therolladailynews.com/feed/"
-    ],
-    "newspressnow.com": [
-      "http://www.newspressnow.com//?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "stltoday.com": [
-      "http://www.stltoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "bethanyclipper.com": [
+      "https://www.bethanyclipper.com/feed/"
     ],
     "bocojo.com": [
       "http://www.columbiamissourian.com/search/?f=rss&t=article&c=boonecountyjournal&l=50&s=start_time&sd=desc"
     ],
-    "bethanyclipper.com": [
-      "https://www.bethanyclipper.com/feed/"
+    "bransontrilakesnews.com": [
+      "http://www.bransontrilakesnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "columbiamissourian.com": [
+      "https://www.columbiamissourian.com/search/?f=rss&t=article&c=comostreetgazette&l=50&s=start_time&sd=desc",
+      "https://www.columbiamissourian.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+      "https://www.columbiamissourian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory",
+      "https://www.columbiamissourian.com/search/?q=&t=article&nfl=ap&l=100&d=&date-selector=on&d1=24+hours+ago&d2=&s=start_time&f=atom&altf=iatom"
+    ],
+    "emissourian.com": [
+      "http://www.missourian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "joplinglobe.com": [
+      "https://www.joplinglobe.com/search/?f=rss&t=article&c=region/national_business&l=50&s=start_time&sd=desc",
+      "https://www.joplinglobe.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=news,news/*&f=rss"
+    ],
+    "maconhomepress.com": [
+      "https://maconhomepress.com/feed.atom"
+    ],
+    "maryvilleforum.com": [
+      "http://www.maryvilleforum.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "myleaderpaper.com": [
+      "http://www.myleaderpaper.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newspressnow.com": [
+      "http://www.newspressnow.com//?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ozarkcountytimes.com": [
+      "https://ozarkcountytimes.com/rss.xml"
+    ],
+    "stltoday.com": [
+      "http://www.stltoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecash-book.com": [
+      "https://thecash-book.com/feed/"
     ],
     "themaneater.com": [
       "https://themaneater.com/feed/",
       "https://themaneater.com/feed/atom/"
     ],
-    "myleaderpaper.com": [
-      "http://www.myleaderpaper.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "ozarkcountytimes.com": [
-      "https://ozarkcountytimes.com/rss.xml"
-    ],
-    "thecash-book.com": [
-      "https://thecash-book.com/feed/"
-    ],
-    "maconhomepress.com": [
-      "https://maconhomepress.com/feed.atom"
+    "therolladailynews.com": [
+      "https://therolladailynews.com/feed/"
     ],
     "timesnewspapers.com": [
       "http://www.timesnewspapers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "emissourian.com": [
-      "http://www.missourian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "columbiamissourian.com": [
-      "http://www.columbiamissourian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

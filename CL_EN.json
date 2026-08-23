@@ -1,0 +1,22 @@
+{
+  "country_code": "CL",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 6,
+  "feeds": {
+    "ecovisiones.cl": [
+      "https://www.ecovisiones.cl/econoticias/rss/Ecovisiones.xml",
+      "https://www.ecovisiones.cl/econoticias/rss/Ecovisiones.xml"
+    ],
+    "elperiodista.cl": [
+      "https://www.elperiodista.cl/feed/"
+    ],
+    "latercera.com": [
+      "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.latercera.com/arcio/rss/"
+    ],
+    "theclinic.cl": [
+      "https://www.theclinic.cl/podcast/feed/"
+    ]
+  }
+}

@@ -1,28 +1,21 @@
 {
   "country_code": "US",
   "language_code": "ES",
-  "total_domains": 23,
-  "total_feeds": 26,
+  "total_domains": 22,
+  "total_feeds": 84,
   "feeds": {
-    "latimes.com": [
-      "https://www.latimes.com/index.rss"
-    ],
-    "lasamericasnews.com": [
-      "https://lasamericasnews.com/index.php/es/?format=feed&type=rss",
-      "https://lasamericasnews.com/index.php/es/?format=feed&type=atom"
+    "aldianews.com": [
+      "https://aldianews.com/en/rss.xml",
+      "https://aldianews.com/rss.xml",
+      "https://www.aldianews.com/en/rss.xml",
+      "https://www.aldianews.com/es/rss.xml",
+      "https://www.aldianews.com/rss.xml"
     ],
     "elnuevogeorgia.com": [
       "https://elnuevogeorgia.com/feed/"
     ],
-    "mundonow.com": [
-      "https://www.mundonow.com/rss.xml"
-    ],
-    "visionhispanausa.com": [
-      "https://visionhispanausa.com/?format=feed&type=rss",
-      "https://visionhispanausa.com/?format=feed&type=atom"
-    ],
-    "identidadlatina.com": [
-      "https://identidadlatina.com/feed/"
+    "elplaneta.com": [
+      "https://elplaneta.com/rss/"
     ],
     "elsolnews.com": [
       "https://elsolnews.com/feed/"
@@ -30,51 +23,114 @@
     "eltiempohispano.com": [
       "https://eltiempohispano.com/feed/"
     ],
+    "eltiempolatino.com": [
+      "https://eltiempolatino.com/rss/"
+    ],
     "hoyendelaware.com": [
       "https://hoyendelaware.com/feed/",
       "https://hoyendelaware.com/home-new/feed/"
     ],
-    "sun-sentinel.com": [
-      "https://www.sun-sentinel.com/feed/"
-    ],
-    "orlandosentinel.com": [
-      "https://www.orlandosentinel.com/feed/"
-    ],
-    "lagacetanewspaper.com": [
-      "https://lagacetanewspaper.com/feed/"
-    ],
-    "webelpuente.com": [
-      "https://www.webelpuente.com/feed/"
+    "identidadlatina.com": [
+      "https://identidadlatina.com/feed/"
     ],
     "jambalayanews.com": [
       "http://www.jambalayanews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "laconexionusa.com": [
+      "https://laconexionusa.com/feed/"
+    ],
+    "lagacetanewspaper.com": [
+      "https://lagacetanewspaper.com/feed/"
+    ],
+    "lasamericasnews.com": [
+      "https://lasamericasnews.com/index.php/es/?format=feed&type=rss",
+      "https://lasamericasnews.com/index.php/es/?format=feed&type=atom"
+    ],
+    "latimes.com": [
+      "https://www.latimes.com/business.rss",
+      "https://www.latimes.com/business/autos.rss",
+      "https://www.latimes.com/business/autos/rss2.0.xml",
+      "https://www.latimes.com/business/real-estate.rss",
+      "https://www.latimes.com/business/rss2.0.xml",
+      "https://www.latimes.com/business/technology.rss",
+      "https://www.latimes.com/california.rss",
+      "https://www.latimes.com/entertainment-arts.rss",
+      "https://www.latimes.com/entertainment-arts/awards.rss",
+      "https://www.latimes.com/entertainment-arts/awards/rss2.0.xml",
+      "https://www.latimes.com/entertainment-arts/books.rss",
+      "https://www.latimes.com/entertainment-arts/business.rss",
+      "https://www.latimes.com/entertainment-arts/movies.rss",
+      "https://www.latimes.com/entertainment-arts/movies/rss2.0.xml",
+      "https://www.latimes.com/entertainment-arts/music.rss",
+      "https://www.latimes.com/entertainment-arts/tv.rss",
+      "https://www.latimes.com/entertainment-arts/tv/rss2.0.xml",
+      "https://www.latimes.com/entertainment/rss2.0.xml",
+      "https://www.latimes.com/environment.rss",
+      "https://www.latimes.com/environment/rss2.0.xml",
+      "https://www.latimes.com/espanol/entretenimiento.rss",
+      "https://www.latimes.com/espanol/index.rss",
+      "https://www.latimes.com/fashion/rss2.0.xml",
+      "https://www.latimes.com/food.rss",
+      "https://www.latimes.com/food/rss2.0.xml",
+      "https://www.latimes.com/health/rss2.0.xml",
+      "https://www.latimes.com/home/rss2.0.xml",
+      "https://www.latimes.com/homeless-housing.rss",
+      "https://www.latimes.com/index.rss",
+      "https://www.latimes.com/latest.rss",
+      "https://www.latimes.com/lifestyle.rss",
+      "https://www.latimes.com/news/rss2.0.xml",
+      "https://www.latimes.com/obituaries.rss",
+      "https://www.latimes.com/obituaries/rss2.0.xml",
+      "https://www.latimes.com/opinion.rss",
+      "https://www.latimes.com/opinion/rss2.0.xml",
+      "https://www.latimes.com/politics.rss",
+      "https://www.latimes.com/politics/rss2.0.xml",
+      "https://www.latimes.com/rss2.0.xml",
+      "https://www.latimes.com/science.rss",
+      "https://www.latimes.com/science/rss2.0.xml",
+      "https://www.latimes.com/sports.rss",
+      "https://www.latimes.com/sports/rss2.0.xml",
+      "https://www.latimes.com/style/rss2.0.xml",
+      "https://www.latimes.com/topic/arts.rss",
+      "https://www.latimes.com/topic/covid-19-pandemic.rss",
+      "https://www.latimes.com/topic/earthquakes.rss",
+      "https://www.latimes.com/topic/education.rss",
+      "https://www.latimes.com/topic/fashion.rss",
+      "https://www.latimes.com/topic/fires.rss",
+      "https://www.latimes.com/topic/home.rss",
+      "https://www.latimes.com/topic/the-times-daily-podcast.rss",
+      "https://www.latimes.com/topic/the-times-podcast.rss",
+      "https://www.latimes.com/travel.rss",
+      "https://www.latimes.com/travel/rss2.0.xml",
+      "https://www.latimes.com/world-nation/rss2.0.xml"
+    ],
     "latinopinionbaltimore.com": [
       "https://latinopinionbaltimore.com/feed/"
-    ],
-    "washingtonhispanic.com": [
-      "https://washingtonhispanic.com/rss.xml.php"
-    ],
-    "elplaneta.com": [
-      "https://elplaneta.com/rss/"
     ],
     "lavozhispanany.net": [
       "https://lavozhispanany.net/feed/"
     ],
+    "mundonow.com": [
+      "https://www.mundonow.com/rss.xml"
+    ],
+    "orlandosentinel.com": [
+      "https://www.orlandosentinel.com/feed/"
+    ],
     "quepasamedia.com": [
       "https://quepasamedia.com/feed/"
     ],
-    "laconexionusa.com": [
-      "https://laconexionusa.com/feed/"
+    "sun-sentinel.com": [
+      "https://www.sun-sentinel.com/feed/"
     ],
-    "aldianews.com": [
-      "https://aldianews.com/en/rss.xml"
+    "visionhispanausa.com": [
+      "https://visionhispanausa.com/?format=feed&type=rss",
+      "https://visionhispanausa.com/?format=feed&type=atom"
     ],
-    "diario.mx": [
-      "https://diario.mx/rss/feed.xml"
+    "washingtonhispanic.com": [
+      "https://washingtonhispanic.com/rss.xml.php"
     ],
-    "eltiempolatino.com": [
-      "https://eltiempolatino.com/rss/"
+    "webelpuente.com": [
+      "https://www.webelpuente.com/feed/"
     ]
   }
 }

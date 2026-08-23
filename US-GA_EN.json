@@ -1,0 +1,162 @@
+{
+  "country_code": "US-GA",
+  "language_code": "EN",
+  "total_domains": 19,
+  "total_feeds": 116,
+  "feeds": {
+    "apsny.ge": [
+      "https://www.apsny.ge/RSS.xml"
+    ],
+    "civil.ge": [
+      "https://civil.ge/feed"
+    ],
+    "der-postillon.com": [
+      "https://www.der-postillon.com/feeds/posts/default?redirect=false"
+    ],
+    "droni.ge": [
+      "https://droni.ge/rss2.xml"
+    ],
+    "eng.ghn.ge": [
+      "https://eng.ghn.ge/rss",
+      "https://www.eng.ghn.ge/rss"
+    ],
+    "finchannel.com": [
+      "https://finchannel.com/feed/",
+      "https://finchannel.com/home/feed/"
+    ],
+    "georgiatoday.ge": [
+      "https://georgiatoday.ge/feed/"
+    ],
+    "geotimes.ge": [
+      "https://geotimes.ge/feed/"
+    ],
+    "gurianews.com": [
+      "https://gurianews.com/?feed=rss2",
+      "https://gurianews.com/feed/"
+    ],
+    "medianews.ge": [
+      "http://medianews.ge/ge/rss"
+    ],
+    "messenger.com.ge": [
+      "http://www.messenger.com.ge/rss.xml"
+    ],
+    "netgazeti.ge": [
+      "https://netgazeti.ge/feed/"
+    ],
+    "newpress.ge": [
+      "https://newpress.ge/rss/feed",
+      "https://www.newpress.ge/rss/feed",
+      "https://newpress.ge/feed/",
+      "http://newpress.ge/rss/feed"
+    ],
+    "presseportal.de": [
+      "https://www.presseportal.de/rss/auto-verkehr.rss2",
+      "https://www.presseportal.de/rss/bau-immobilien.rss2",
+      "https://www.presseportal.de/rss/bild.rss2",
+      "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+      "https://www.presseportal.de/rss/dienststelle_35235.rss2",
+      "https://www.presseportal.de/rss/dienststelle_35235.rss2?langid=1",
+      "https://www.presseportal.de/rss/dienststelle_4970.rss2",
+      "https://www.presseportal.de/rss/dienststelle_4971.rss2",
+      "https://www.presseportal.de/rss/dienststelle_6337.rss2",
+      "https://www.presseportal.de/rss/fashion-beauty.rss2",
+      "https://www.presseportal.de/rss/finanzen.rss2",
+      "https://www.presseportal.de/rss/gesundheit-medizin.rss2",
+      "https://www.presseportal.de/rss/handel.rss2",
+      "https://www.presseportal.de/rss/medien-kultur.rss2",
+      "https://www.presseportal.de/rss/netzwelt.rss2",
+      "https://www.presseportal.de/rss/panorama.rss2",
+      "https://www.presseportal.de/rss/people.rss2",
+      "https://www.presseportal.de/rss/politik.rss2",
+      "https://www.presseportal.de/rss/polizei.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/1.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/10.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/11.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/13.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/14.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/15.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/16.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/2.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/3.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/4.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/5.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/6.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/7.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/8.rss2",
+      "https://www.presseportal.de/rss/polizei/laender/9.rss2",
+      "https://www.presseportal.de/rss/presseportal.rss2",
+      "https://www.presseportal.de/rss/presseportal.rss2?langid=1",
+      "https://www.presseportal.de/rss/presseschau.rss2",
+      "https://www.presseportal.de/rss/rss2_vts.htx?q=tettnang&langid=1",
+      "https://www.presseportal.de/rss/soziales.rss2",
+      "https://www.presseportal.de/rss/sport.rss2",
+      "https://www.presseportal.de/rss/tourismus-urlaub.rss2",
+      "https://www.presseportal.de/rss/umwelt.rss2",
+      "https://www.presseportal.de/rss/videocast.rss2",
+      "https://www.presseportal.de/rss/wirtschaft.rss2",
+      "https://www.presseportal.de/rss/wissen-bildung.rss2"
+    ],
+    "sputnik-georgia.com": [
+      "https://sputnik-georgia.com/export/rss2/archive/index.xml"
+    ],
+    "tabula.ge": [
+      "http://www.tabula.ge/rss"
+    ],
+    "tagesschau.de": [
+      "http://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/",
+      "http://www.tagesschau.de/newsticker.rdf",
+      "http://www.tagesschau.de/xml/atom/",
+      "http://www.tagesschau.de/xml/rss2",
+      "http://www.tagesschau.de/xml/rss2/",
+      "https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/",
+      "https://www.tagesschau.de/export/video-podcast/webl/bab_https/",
+      "https://www.tagesschau.de/export/video-podcast/webl/nachtmagazin_https/",
+      "https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden_https/",
+      "https://www.tagesschau.de/export/video-podcast/webl/tagesschau-mit-gebaerdensprache_https/",
+      "https://www.tagesschau.de/export/video-podcast/webl/tagesschau-vor-20-jahren_https/",
+      "https://www.tagesschau.de/export/video-podcast/webl/tagesschau/",
+      "https://www.tagesschau.de/export/video-podcast/webl/tagesschau_https/",
+      "https://www.tagesschau.de/export/video-podcast/webl/tagesthemen_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/bab_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/nachtmagazin_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/tagesschau-in-100-sekunden_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/tagesschau-mit-gebaerdensprache_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/tagesschau-vor-20-jahren_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/tagesschau_https/",
+      "https://www.tagesschau.de/export/video-podcast/webm/tagesthemen_https/",
+      "https://www.tagesschau.de/export/video-podcast/webs/bab_https/",
+      "https://www.tagesschau.de/export/video-podcast/webs/nachtmagazin_https/",
+      "https://www.tagesschau.de/export/video-podcast/webs/tagesschau-vor-20-jahren_https/",
+      "https://www.tagesschau.de/export/video-podcast/webs/tagesschau_https/",
+      "https://www.tagesschau.de/export/video-podcast/webs/tagesthemen_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/bab_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/nachtmagazin_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-mit-gebaerdensprache_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-vor-20-jahren_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau_https/",
+      "https://www.tagesschau.de/export/video-podcast/webxl/tagesthemen_https/",
+      "https://www.tagesschau.de/index~atom.xml",
+      "https://www.tagesschau.de/index~rdf.xml",
+      "https://www.tagesschau.de/index~rss2.xml",
+      "https://www.tagesschau.de/infoservices/alle-meldungen-100~atom.xml",
+      "https://www.tagesschau.de/infoservices/alle-meldungen-100~rdf.xml",
+      "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+      "https://www.tagesschau.de/newsticker.rdf",
+      "https://www.tagesschau.de/xml/atom/",
+      "https://www.tagesschau.de/xml/rss2",
+      "https://www.tagesschau.de/xml/rss2/",
+      "https://www.tagesschau.de/xml/rss2_https/"
+    ],
+    "timer.ge": [
+      "https://www.timer.ge/feed/"
+    ],
+    "zdf.de": [
+      "https://www.zdf.de/rss/zdf/comedy/die-anstalt",
+      "https://www.zdf.de/rss/zdf/comedy/heute-show",
+      "https://www.zdf.de/rss/zdf/kinder/logo",
+      "https://www.zdf.de/rss/zdf/nachrichten",
+      "https://www.zdf.de/rss/zdf/verbraucher/wiso"
+    ]
+  }
+}

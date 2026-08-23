@@ -4,12 +4,55 @@
   "total_domains": 34,
   "total_feeds": 69,
   "feeds": {
-    "vaartha.com": [
-      "https://vaartha.com/feed/",
-      "https://vaartha.com/web-stories/feed/"
+    "aalmiakhbar.com": [
+      "https://aalmiakhbar.com/feed",
+      "https://aalmiakhbar.com/front-page-demo1/feed"
+    ],
+    "andhrawatch.com": [
+      "https://andhrawatch.com/feed/"
+    ],
+    "avadhnama.com": [
+      "https://avadhnama.com/feed/",
+      "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
+    ],
+    "dailyaag.com": [
+      "http://dailyaag.com/phase2/feed/"
+    ],
+    "dailyhindustanexpress.com": [
+      "https://dailyhindustanexpress.com/feed/"
+    ],
+    "dailysalar.com": [
+      "https://www.dailysalar.com/feed/"
+    ],
+    "dearurban.com": [
+      "https://dearurban.com/feed/"
+    ],
+    "etemaaddaily.com": [
+      "https://www.etemaadweekly.com/rssfeeds.php"
+    ],
+    "kashmiruzma.news": [
+      "https://kashmiruzma.news/feed/"
+    ],
+    "manatelangana.news": [
+      "https://www.manatelangana.news/google_feeds.xml"
+    ],
+    "millattimes.com": [
+      "https://millattimes.com/feed/"
+    ],
+    "navatelangana.com": [
+      "https://navatelangana.com/feed/",
+      "https://navatelangana.com/home/feed/"
     ],
     "ntnews.com": [
       "https://www.ntnews.com/feed"
+    ],
+    "oktelugu.com": [
+      "https://oktelugu.com/feed",
+      "https://oktelugu.com/web-stories/feed/"
+    ],
+    "prabhanews.com": [
+      "https://prabhanews.com/feed/",
+      "https://prabhanews.com/home-three/feed/"
     ],
     "prajasakti.com": [
       "https://prajasakti.com/feeds.news.xml",
@@ -18,19 +61,17 @@
       "https://prajasakti.com/feeds.photo.xml",
       "https://prajasakti.com/feeds.visual.xml"
     ],
-    "manatelangana.news": [
-      "https://www.manatelangana.news/google_feeds.xml"
+    "sahilonline.net": [
+      "https://sahilonline.net/feed/posts"
     ],
-    "navatelangana.com": [
-      "https://navatelangana.com/feed/",
-      "https://navatelangana.com/home/feed/"
+    "taasir.com": [
+      "https://taasir.com/feed/"
     ],
-    "visalaandhra.com": [
-      "https://visalaandhra.com/feed/"
+    "telugu.asianetnews.com": [
+      "https://telugu.asianetnews.com/rss"
     ],
-    "prabhanews.com": [
-      "https://prabhanews.com/feed/",
-      "https://prabhanews.com/home-three/feed/"
+    "telugu.greatandhra.com": [
+      "https://telugu.greatandhra.com/feed"
     ],
     "telugu.gulte.com": [
       "https://telugu.gulte.com/feed"
@@ -38,21 +79,18 @@
     "telugu.news18.com": [
       "https://telugu.news18.com/commonfeeds/v1/tel/rss/latest.xml"
     ],
-    "telugumirchi.com": [
-      "https://www.telugumirchi.com/feed",
-      "https://www.telugumirchi.com/homepage/feed"
+    "telugu.samayam.com": [
+      "https://telugu.samayam.com/langapi/sitemap/gstandrssfeed.xml"
     ],
-    "telugu.greatandhra.com": [
-      "https://telugu.greatandhra.com/feed"
+    "telugu.telugubullet.com": [
+      "https://telugu.telugubullet.com/feed/"
     ],
     "telugu360.com": [
       "https://www.telugu360.com/feed/"
     ],
-    "telugu.samayam.com": [
-      "https://telugu.samayam.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "telugu.asianetnews.com": [
-      "https://telugu.asianetnews.com/rss"
+    "telugumirchi.com": [
+      "https://www.telugumirchi.com/feed",
+      "https://www.telugumirchi.com/homepage/feed"
     ],
     "teluguone.com": [
       "https://www.teluguone.com/news/rss/politics/politics-39.rss",
@@ -81,65 +119,27 @@
       "https://www.teluguone.com/devotional/devotionalrss/punyakshetralutemples-65.rss",
       "https://www.teluguone.com/devotional/devotionalrss/kalagnanam-55.rss"
     ],
-    "tupaki.com": [
-      "https://www.tupaki.com/google_feeds.xml"
-    ],
-    "andhrawatch.com": [
-      "https://andhrawatch.com/feed/"
-    ],
-    "telugu.telugubullet.com": [
-      "https://telugu.telugubullet.com/feed/"
-    ],
     "telugupost.com": [
       "https://www.telugupost.com/google_feeds.xml"
-    ],
-    "dearurban.com": [
-      "https://dearurban.com/feed/"
-    ],
-    "oktelugu.com": [
-      "https://oktelugu.com/feed",
-      "https://oktelugu.com/web-stories/feed/"
-    ],
-    "urdu.siasat.com": [
-      "https://urdu.siasat.com/feed/"
-    ],
-    "etemaaddaily.com": [
-      "https://www.etemaadweekly.com/rssfeeds.php"
-    ],
-    "kashmiruzma.news": [
-      "https://kashmiruzma.news/feed/"
-    ],
-    "dailyhindustanexpress.com": [
-      "https://dailyhindustanexpress.com/feed/"
-    ],
-    "avadhnama.com": [
-      "https://avadhnama.com/feed/",
-      "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
-    ],
-    "taasir.com": [
-      "https://taasir.com/feed/"
-    ],
-    "dailysalar.com": [
-      "https://www.dailysalar.com/feed/"
-    ],
-    "dailyaag.com": [
-      "http://dailyaag.com/phase2/feed/"
-    ],
-    "sahilonline.net": [
-      "https://sahilonline.net/feed/posts"
-    ],
-    "aalmiakhbar.com": [
-      "https://aalmiakhbar.com/feed",
-      "https://aalmiakhbar.com/front-page-demo1/feed"
     ],
     "thewireurdu.com": [
       "https://thewireurdu.com/feed/"
     ],
+    "tupaki.com": [
+      "https://www.tupaki.com/google_feeds.xml"
+    ],
     "urdu.news18.com": [
       "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
     ],
-    "millattimes.com": [
-      "https://millattimes.com/feed/"
+    "urdu.siasat.com": [
+      "https://urdu.siasat.com/feed/"
+    ],
+    "vaartha.com": [
+      "https://vaartha.com/feed/",
+      "https://vaartha.com/web-stories/feed/"
+    ],
+    "visalaandhra.com": [
+      "https://visalaandhra.com/feed/"
     ]
   }
 }

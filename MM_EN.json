@@ -1,0 +1,20 @@
+{
+  "country_code": "MM",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 6,
+  "feeds": {
+    "frontiermyanmar.net": [
+      "https://www.frontiermyanmar.net/feed/",
+      "https://www.frontiermyanmar.net/en/category/news-feed-mm/feed/",
+      "https://www.frontiermyanmar.net/en/category/news/news-feed/feed/"
+    ],
+    "irrawaddy.com": [
+      "https://www.irrawaddy.com/feed"
+    ],
+    "popularmyanmar.com": [
+      "https://www.popularmyanmar.com/feed/",
+      "https://www.popularmyanmar.com/homepage/feed/"
+    ]
+  }
+}

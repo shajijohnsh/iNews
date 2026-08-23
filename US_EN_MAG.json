@@ -2,43 +2,103 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 12,
-  "total_feeds": 12,
+  "total_feeds": 72,
   "feeds": {
     "allure.com": [
       "https://www.allure.com/feed/rss"
     ],
-    "scoutlife.org": [
-      "https://scoutlife.org/feed/"
-    ],
-    "si.com": [
-      "https://www.si.com/feed"
-    ],
-    "billboard.com": [
-      "https://www.billboard.com/feed/rss/"
-    ],
     "americanliteraryreview.com": [
       "https://americanliteraryreview.com/feed/"
     ],
-    "macworld.com": [
-      "https://www.macworld.com/feed"
+    "artforum.com": [
+      "https://www.artforum.com/c/news/feed/",
+      "https://www.artforum.com/feed/",
+      "https://www.artforum.com/film/rss",
+      "https://www.artforum.com/news/feed/",
+      "https://www.artforum.com/news/rss",
+      "https://www.artforum.com/rss",
+      "https://www.artforum.com/rss.xml"
+    ],
+    "billboard.com": [
+      "https://www.billboard.com/c/business/feed/",
+      "https://www.billboard.com/c/business/radio/feed/",
+      "https://www.billboard.com/c/business/touring/feed/",
+      "https://www.billboard.com/c/media/feed/",
+      "https://www.billboard.com/c/music/features/feed/",
+      "https://www.billboard.com/c/music/feed/",
+      "https://www.billboard.com/c/music/music-news/feed/",
+      "https://www.billboard.com/c/music/pop/feed/",
+      "https://www.billboard.com/c/music/rb-hip-hop/feed/",
+      "https://www.billboard.com/feed/",
+      "https://www.billboard.com/pro/feed/",
+      "https://www.billboard.com/t/es-podcasts/feed/",
+      "https://www.billboard.com/t/greatest-pop-stars-of-21st-century-podcast/feed/",
+      "https://www.billboard.com/t/greatest-pop-stars-podcast/feed/",
+      "https://www.billboard.com/t/pop-shop-podcast/feed/"
     ],
     "chiefexecutive.net": [
       "https://chiefexecutive.net/feed/"
-    ],
-    "popsci.com": [
-      "https://www.popsci.com/feed/"
-    ],
-    "scientificamerican.com": [
-      "https://www.scientificamerican.com/platform/syndication/rss/"
-    ],
-    "artforum.com": [
-      "https://www.artforum.com/feed/rss/"
     ],
     "cntraveler.com": [
       "https://www.cntraveler.com/feed/rss"
     ],
     "edweek.org": [
       "https://www.edweek.org/index.rss"
+    ],
+    "macworld.com": [
+      "https://www.macworld.com/feed"
+    ],
+    "popsci.com": [
+      "https://www.popsci.com/category/animals/feed/",
+      "https://www.popsci.com/category/ask-us-anything/feed/",
+      "https://www.popsci.com/category/biology/feed/",
+      "https://www.popsci.com/category/environment/feed/",
+      "https://www.popsci.com/category/science/feed/",
+      "https://www.popsci.com/category/weirdest-thing-i-learned-this-week/feed/",
+      "https://www.popsci.com/category/whales/feed/",
+      "https://www.popsci.com/feed/"
+    ],
+    "scientificamerican.com": [
+      "http://www.scientificamerican.com/platform/syndication/rss/",
+      "https://www.scientificamerican.com/platform/syndication/rss/",
+      "https://www.scientificamerican.com/syndication/60secondscience.xml"
+    ],
+    "scoutlife.org": [
+      "https://scoutlife.org/feed/"
+    ],
+    "si.com": [
+      "https://www.si.com/.rss/full",
+      "https://www.si.com/.rss/full/",
+      "https://www.si.com/.rss/full/author/pat-forde",
+      "https://www.si.com/.rss/full/college/college-football",
+      "https://www.si.com/.rss/full/tag/beyond-the-baseline-podcast",
+      "https://www.si.com/.rss/full/tag/nba-podcasts",
+      "https://www.si.com/.rss/full/tag/nfl-podcasts",
+      "https://www.si.com/.rss/full/tag/si-podcasts",
+      "https://www.si.com/college/georgia/.rss/full",
+      "https://www.si.com/college/georgia/.rss/full/",
+      "https://www.si.com/college/tennessee/.rss/full",
+      "https://www.si.com/college/tennessee/.rss/full/",
+      "https://www.si.com/college/virginia/.rss/full",
+      "https://www.si.com/college/virginia/.rss/full/",
+      "https://www.si.com/curling/.rss/full/",
+      "https://www.si.com/golf/.rss/full",
+      "https://www.si.com/golf/.rss/full/",
+      "https://www.si.com/golf/.rss/full/tag/course-of-life-podcast",
+      "https://www.si.com/golf/.rss/full/tag/in-the-grill-room-podcast",
+      "https://www.si.com/hockey/.rss/full/",
+      "https://www.si.com/hockey/.rss/full/tag/prospect-podcast",
+      "https://www.si.com/hockey/.rss/full/tag/stanley-cup-preview-podcast",
+      "https://www.si.com/mlb/rangers/.rss/full",
+      "https://www.si.com/mlb/rangers/.rss/full/",
+      "https://www.si.com/nfl/browns/.rss/full",
+      "https://www.si.com/nfl/browns/.rss/full/",
+      "https://www.si.com/nfl/browns/.rss/full/browns-podcasts",
+      "https://www.si.com/nfl/draft/.rss/full",
+      "https://www.si.com/nfl/draft/.rss/full/",
+      "https://www.si.com/nfl/ravens/.rss/full",
+      "https://www.si.com/nfl/ravens/.rss/full/",
+      "https://www.si.com/soccer/manchestercity/.rss/full/"
     ]
   }
 }

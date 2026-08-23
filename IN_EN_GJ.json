@@ -2,8 +2,21 @@
   "country_code": "IN",
   "language_code": "EN",
   "total_domains": 14,
-  "total_feeds": 23,
+  "total_feeds": 84,
   "feeds": {
+    "aaspassepaper.com": [
+      "https://aaspassepaper.com/feed/"
+    ],
+    "deshgujarat.com": [
+      "https://deshgujarat.com/feed/"
+    ],
+    "eaglenews.in": [
+      "https://eaglenews.in/feed/",
+      "https://eaglenews.in/news/feed/"
+    ],
+    "gujaratguardian.com": [
+      "https://gujaratguardian.com/feed/"
+    ],
     "gujaratmitra.in": [
       "https://gujaratmitra.in/feed/",
       "https://gujaratmitra.in/feed/atom/",
@@ -12,6 +25,86 @@
     "gujarattoday.in": [
       "https://gujarattoday.in/feed/"
     ],
+    "gujaratvaibhav.com": [
+      "https://gujaratvaibhav.com/feed/"
+    ],
+    "iamgujarat.com": [
+      "https://www.iamgujarat.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "loksansar.in": [
+      "https://www.loksansar.in/feed/"
+    ],
+    "muslimsandesh.wordpress.com": [
+      "https://muslimsandesh.wordpress.com/feed/"
+    ],
+    "news18.com": [
+      "https://www.news18.com/commonfeeds/v1/eng/rss/astrology.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/auto.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/badminton.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/books.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/breaking-news.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/business.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/buzz.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/cricketnext.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/education-career.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/entertainment.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/explainers.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/explainers.xml?Access-Control-Allow-Origin=*&Access-Control-Allow-Methods=GET&Access-Control-Allow-Headers=Content-Type&Access-Control-Max-Age=3600&User-Agent=Mozilla/5.0%20(X11%3B%20Ubuntu%3B%20Linux%20x86_64%3B%20rv:52.0)%20Gecko/20100101%20Firefox/52.0",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/football.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/hockey.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/judiciary.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/markets.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/movies.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/opinion.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/politics.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/sports.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/tech.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/tv.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/viral.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/web-series.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
+      "https://www.news18.com/commonfeeds/v1/eng/rss/world.xml",
+      "https://www.news18.com/rss/astrology-news.xml",
+      "https://www.news18.com/rss/auto.xml",
+      "https://www.news18.com/rss/badminton.xml",
+      "https://www.news18.com/rss/books.xml",
+      "https://www.news18.com/rss/breaking-news.xml",
+      "https://www.news18.com/rss/business.xml",
+      "https://www.news18.com/rss/buzz.xml",
+      "https://www.news18.com/rss/citizen-journalist.xml",
+      "https://www.news18.com/rss/cricketnext.xml",
+      "https://www.news18.com/rss/cryptocurrency.xml",
+      "https://www.news18.com/rss/education-career.xml",
+      "https://www.news18.com/rss/explainers.xml",
+      "https://www.news18.com/rss/football.xml",
+      "https://www.news18.com/rss/formula-one.xml",
+      "https://www.news18.com/rss/gaming.xml",
+      "https://www.news18.com/rss/hockey.xml",
+      "https://www.news18.com/rss/india.xml",
+      "https://www.news18.com/rss/ivideos.xml",
+      "https://www.news18.com/rss/judiciary.xml",
+      "https://www.news18.com/rss/latest.xml",
+      "https://www.news18.com/rss/lifestyle.xml",
+      "https://www.news18.com/rss/markets.xml",
+      "https://www.news18.com/rss/movies.xml",
+      "https://www.news18.com/rss/music.xml",
+      "https://www.news18.com/rss/opinion.xml",
+      "https://www.news18.com/rss/politics.xml",
+      "https://www.news18.com/rss/reviews.xml",
+      "https://www.news18.com/rss/savings-and-investments.xml",
+      "https://www.news18.com/rss/south-cinema.xml",
+      "https://www.news18.com/rss/sports.xml",
+      "https://www.news18.com/rss/tax.xml",
+      "https://www.news18.com/rss/tech.xml",
+      "https://www.news18.com/rss/tv.xml",
+      "https://www.news18.com/rss/web-series.xml",
+      "https://www.news18.com/rss/world.xml"
+    ],
     "rakhewaldaily.com": [
       "https://rakhewaldaily.com/feed.xml"
     ],
@@ -19,41 +112,9 @@
       "https://sunvillasamachar.com/feed/",
       "https://sunvillasamachar.com/home-2/feed/"
     ],
-    "loksansar.in": [
-      "https://www.loksansar.in/feed/"
-    ],
-    "gujaratvaibhav.com": [
-      "https://gujaratvaibhav.com/feed/"
-    ],
-    "news18.com": [
-      "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
-      "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
-    ],
-    "aaspassepaper.com": [
-      "https://aaspassepaper.com/feed/"
-    ],
-    "gujaratguardian.com": [
-      "https://gujaratguardian.com/feed/"
-    ],
-    "eaglenews.in": [
-      "https://eaglenews.in/feed/",
-      "https://eaglenews.in/news/feed/"
-    ],
-    "muslimsandesh.wordpress.com": [
-      "https://muslimsandesh.wordpress.com/feed/"
-    ],
     "tv9gujarati.com": [
       "https://tv9gujarati.com/feed",
       "https://www.tv9hindi.com/feed/gn"
-    ],
-    "deshgujarat.com": [
-      "https://deshgujarat.com/feed/"
-    ],
-    "iamgujarat.com": [
-      "https://www.iamgujarat.com/langapi/sitemap/gstandrssfeed.xml"
     ]
   }
 }

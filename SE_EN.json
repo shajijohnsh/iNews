@@ -1,0 +1,388 @@
+{
+  "country_code": "SE",
+  "language_code": "EN",
+  "total_domains": 82,
+  "total_feeds": 216,
+  "feeds": {
+    "8sidor.se": [
+      "https://8sidor.se/feed/"
+    ],
+    "abcnyheter.se": [
+      "https://www.abcnyheter.se/feed/"
+    ],
+    "aftonbladet.se": [
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/nyheter",
+      "https://rss.aftonbladet.se/rss2/small/collections?tags=sweden-s-news-in-english",
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/kultur",
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/ledare",
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/sportbladet",
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/aftonbladet",
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/nojesbladet",
+      "https://podcast.stream.schibsted.media/ab/1172"
+    ],
+    "alekuriren.se": [
+      "https://www.alekuriren.se/feed/",
+      "http://www.alekuriren.se/feed/"
+    ],
+    "allehanda.se": [
+      "http://www.allehanda.se/feed",
+      "https://www.allehanda.se/ettan.xml",
+      "https://www.allehanda.se/feed",
+      "https://www.allehanda.se/feeds/feed.xml",
+      "https://www.allehanda.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "arbetarbladet.se": [
+      "https://www.arbetarbladet.se/feeds/feed.xml"
+    ],
+    "arbetaren.se": [
+      "https://www.arbetaren.se/feed/",
+      "https://www.arbetaren.se/kategori/podcast/feed/"
+    ],
+    "avestatidning.com": [
+      "https://www.avestatidning.com/ettan.xml",
+      "https://www.avestatidning.com/feed",
+      "https://www.avestatidning.com/feeds/feed.xml"
+    ],
+    "barometern.se": [
+      "https://www.barometern.se/feeds/feed.xml"
+    ],
+    "bblat.se": [
+      "https://www.bblat.se/feeds/feed.xml"
+    ],
+    "blekingeposten.se": [
+      "https://www.blekingeposten.se/feed/"
+    ],
+    "blt.se": [
+      "http://www.blt.se/feed",
+      "https://www.blt.se/feed",
+      "https://www.blt.se/feed/",
+      "https://www.blt.se/feeds/feed.xml"
+    ],
+    "bt.se": [
+      "http://www.bt.se/feed",
+      "https://www.bt.se/feed",
+      "https://www.bt.se/feed/",
+      "https://www.bt.se/feeds/feed.xml"
+    ],
+    "corren.se": [
+      "https://corren.se/rss/nyheter",
+      "https://www.corren.se/kultur-noje/rss/",
+      "https://www.corren.se/nyheter/atvidaberg/rss/",
+      "https://www.corren.se/nyheter/boxholm/rss/",
+      "https://www.corren.se/nyheter/kinda/rss/",
+      "https://www.corren.se/nyheter/linkoping/rss/",
+      "https://www.corren.se/nyheter/mjolby/rss/",
+      "https://www.corren.se/nyheter/motala/rss/",
+      "https://www.corren.se/nyheter/odeshog/rss/",
+      "https://www.corren.se/nyheter/ostergotland/rss/",
+      "https://www.corren.se/nyheter/rss/",
+      "https://www.corren.se/nyheter/sverige/rss/",
+      "https://www.corren.se/nyheter/vadstena/rss/",
+      "https://www.corren.se/nyheter/varlden/rss/",
+      "https://www.corren.se/rss/nyheter",
+      "https://www.corren.se/rss/utan/",
+      "https://www.corren.se/sport/lhc/rss/",
+      "https://www.corren.se/sport/rss/"
+    ],
+    "dagen.se": [
+      "https://www.dagen.se/arc/outboundfeeds/rss/",
+      "https://www.dagen.se/rss",
+      "https://www.dagen.se/rss-allt?lab_viewport=rss"
+    ],
+    "dagenshandel.se": [
+      "https://www.dagenshandel.se/xml/rss2/articles",
+      "https://www.dagenshandel.se/xml/rss2/jobs"
+    ],
+    "dalabygden.se": [
+      "https://dalabygden.se/feed/"
+    ],
+    "dalademokraten.se": [
+      "http://www.dalademokraten.se/rss/?channel=Ledare",
+      "https://www.dalademokraten.se/ettan.xml",
+      "https://www.dalademokraten.se/feed",
+      "https://www.dalademokraten.se/feeds/feed.xml",
+      "https://www.dalademokraten.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "di.se": [
+      "https://www.di.se/rss"
+    ],
+    "dn.se": [
+      "https://www.dn.se/rss/",
+      "https://www.dn.se/rss/debatt/",
+      "https://www.dn.se/rss/ekonomi/",
+      "https://www.dn.se/rss/kultur/",
+      "https://www.dn.se/rss/ledare/",
+      "https://www.dn.se/rss/om/dn-podcast/"
+    ],
+    "ekuriren.se": [
+      "https://ekuriren.se/rss/nyheter",
+      "https://www.ekuriren.se/nyheter/rss/",
+      "https://www.ekuriren.se/rss/nyheter",
+      "https://www.ekuriren.se/sport/rss/",
+      "https://www.ekuriren.se/strangnas/rss/"
+    ],
+    "eposten.se": [
+      "https://eposten.se/rss/",
+      "https://www.eposten.se/rss/"
+    ],
+    "expressen.se": [
+      "https://feeds.expressen.se",
+      "https://feeds.expressen.se/nyheter/",
+      "https://feeds.expressen.se/sport/",
+      "https://feeds.expressen.se/noje/",
+      "https://feeds.expressen.se/kultur/",
+      "https://feeds.expressen.se/ledare/"
+    ],
+    "fagersta-posten.se": [
+      "https://www.fagersta-posten.se/feeds/feed.xml"
+    ],
+    "falkopingstidning.se": [
+      "https://www.falkopingstidning.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "flamman.se": [
+      "https://www.flamman.se/feed/"
+    ],
+    "friatider.se": [
+      "https://www.friatider.se/rss.xml"
+    ],
+    "gd.se": [
+      "https://www.gd.se/ettan.xml",
+      "https://www.gd.se/feed",
+      "https://www.gd.se/feeds/feed.xml",
+      "https://www.gd.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "gp.se": [
+      "https://www.gp.se/?rss"
+    ],
+    "hd.se": [
+      "https://www.hd.se/feeds/feed.xml?via=rss-autodiscovery",
+      "https://www.hd.se/rss/ettan/senaste.xml"
+    ],
+    "helagotland.se": [
+      "https://helagotland.se/rss/nyheter",
+      "https://www.helagotland.se/kultur/rss/",
+      "https://www.helagotland.se/lokala-nyheter/rss/",
+      "https://www.helagotland.se/nyheter/rss/",
+      "https://www.helagotland.se/rss/nyheter",
+      "https://www.helagotland.se/sport/rss/"
+    ],
+    "hoglandsnytt.se": [
+      "http://www.hoglandsnytt.se/feed/",
+      "https://hoglandsnytt.se/feed/"
+    ],
+    "jp.se": [
+      "https://www.jp.se/feeds/feed.xml",
+      "https://www.jp.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "kkuriren.se": [
+      "https://kkuriren.se/rss/nyheter",
+      "https://www.kkuriren.se/nyheter/rss/",
+      "https://www.kkuriren.se/rss/nyheter",
+      "https://www.kkuriren.se/sport/rss/"
+    ],
+    "kristianstadsbladet.se": [
+      "http://www.kristianstadsbladet.se/feed",
+      "https://www.kristianstadsbladet.se/feed",
+      "https://www.kristianstadsbladet.se/feed/",
+      "https://www.kristianstadsbladet.se/feeds/feed.xml"
+    ],
+    "kt-kuriren.se": [
+      "https://www.kt-kuriren.se/feeds/feed.xml"
+    ],
+    "kuriren.nu": [
+      "https://www.kuriren.nu/noje/rss/"
+    ],
+    "lt.se": [
+      "https://www.lt.se/ettan.xml",
+      "https://www.lt.se/feed",
+      "https://www.lt.se/feeds/feed.xml",
+      "https://www.lt.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "ltz.se": [
+      "https://www.ltz.se/feeds/feed.xml"
+    ],
+    "lysekilsposten.se": [
+      "https://www.lysekilsposten.se/feed/",
+      "https://www.lysekilsposten.se/nyheter/feed/"
+    ],
+    "magazin24.se": [
+      "https://magazin24.se/feed/"
+    ],
+    "mariestadstidningen.se": [
+      "https://www.mariestadstidningen.se/feeds/feed.xml"
+    ],
+    "na.se": [
+      "https://www.na.se/ettan.xml",
+      "https://www.na.se/feed",
+      "https://www.na.se/feeds/feed.xml",
+      "https://www.na.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "nlt.se": [
+      "https://www.nlt.se/feeds/feed.xml"
+    ],
+    "norrahalland.se": [
+      "https://norrahalland.se/feed/"
+    ],
+    "norran.se": [
+      "https://www.norran.se/feed/asikter/ledare/",
+      "https://www.norran.se/feed/ekonomi/",
+      "https://www.norran.se/feed/hockeybloggen/",
+      "https://www.norran.se/feed/noje-kultur/",
+      "https://www.norran.se/feed/sport/"
+    ],
+    "nsd.se": [
+      "https://nsd.se/rss",
+      "https://www.nsd.se/rss"
+    ],
+    "nsk.se": [
+      "https://www.nsk.se/feeds/feed.xml"
+    ],
+    "nvp.se": [
+      "http://www.nvp.se/rss",
+      "https://www.nvp.se/RSS",
+      "https://www.nvp.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "nwt.se": [
+      "https://www.nwt.se/feed/"
+    ],
+    "nyheteridag.se": [
+      "https://nyheteridag.se/feed/",
+      "https://nyheteridag.se/feed/atom/",
+      "https://nyheteridag.se/feed/"
+    ],
+    "nynashamnsposten.se": [
+      "https://www.nynashamnsposten.se/feeds/feed.xml"
+    ],
+    "olandsbladet.se": [
+      "https://www.olandsbladet.se/feed",
+      "https://www.olandsbladet.se/feed/",
+      "https://www.olandsbladet.se/feeds/feed.xml"
+    ],
+    "omni.se": [
+      "https://omni.se/rss"
+    ],
+    "op.se": [
+      "http://www.op.se/feed",
+      "https://www.op.se/ettan.xml",
+      "https://www.op.se/feed",
+      "https://www.op.se/feeds/feed.xml",
+      "https://www.op.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "privataaffarer.se": [
+      "https://www.privataaffarer.se/feed/",
+      "https://www.privataaffarer.se/rss.xml"
+    ],
+    "proletaren.se": [
+      "http://proletaren.se/feed/",
+      "https://proletaren.se/feed/"
+    ],
+    "skaraborgslanstidning.se": [
+      "https://www.skaraborgslanstidning.se/feeds/feed.xml"
+    ],
+    "skovdenyheter.se": [
+      "http://www.skovdenyheter.se/rss",
+      "https://www.skovdenyheter.se/feeds/feed.xml"
+    ],
+    "sla.se": [
+      "https://www.sla.se/feed/"
+    ],
+    "smalanningen.se": [
+      "https://www.smalanningen.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "smp.se": [
+      "http://www.smp.se/feed",
+      "https://www.smp.se/feed",
+      "https://www.smp.se/feed/",
+      "https://www.smp.se/feeds/feed.xml"
+    ],
+    "smt.se": [
+      "https://www.smt.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "sn.se": [
+      "https://sn.se/rss/nyheter",
+      "https://www.sn.se/nyheter/rss/",
+      "https://www.sn.se/rss/nyheter",
+      "https://www.sn.se/sport/rss/"
+    ],
+    "st.nu": [
+      "http://www.st.nu/feed",
+      "https://www.st.nu/ettan.xml",
+      "https://www.st.nu/feed",
+      "https://www.st.nu/feeds/feed.xml",
+      "https://www.st.nu/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "svd.se": [
+      "https://www.svd.se/?service=rss&type=senastenytt",
+      "https://www.svd.se/feed/articles.rss"
+    ],
+    "sydsvenskan.se": [
+      "https://www.sydsvenskan.se/feeds/feed.xml?via=rss-autodiscovery",
+      "https://www.sydsvenskan.se/feeds/section/sport/feed.xml?via=rss-autodiscovery-section",
+      "https://www.sydsvenskan.se/rss/senastenytt"
+    ],
+    "thelocal.se": [
+      "https://feeds.thelocal.com/rss/builder/se"
+    ],
+    "tidningenharjedalen.se": [
+      "https://www.tidningenharjedalen.se/feeds/feed.xml"
+    ],
+    "tranastidning.se": [
+      "https://www.tranastidning.se/feeds/feed.xml"
+    ],
+    "trelleborgsallehanda.se": [
+      "http://www.trelleborgsallehanda.se/feed",
+      "https://www.trelleborgsallehanda.se/feed",
+      "https://www.trelleborgsallehanda.se/feed/",
+      "https://www.trelleborgsallehanda.se/feeds/feed.xml"
+    ],
+    "ttela.se": [
+      "https://ttela.libsyn.com/rss"
+    ],
+    "unt.se": [
+      "https://unt.se/rss/lokalt",
+      "https://www.unt.se/nyheter/uppsala/rss-uppsala/",
+      "https://www.unt.se/rss/lokalt"
+    ],
+    "vastgotabladet.se": [
+      "https://www.vastgotabladet.se/feeds/feed.xml"
+    ],
+    "vetlandaposten.se": [
+      "https://www.vetlandaposten.se/feeds/feed.xml"
+    ],
+    "vf.se": [
+      "https://www.vf.se/feed/"
+    ],
+    "vimmerbytidning.se": [
+      "https://vimmerbytidning.se/rss/nyheter",
+      "https://www.vimmerbytidning.se/nyheter/rss/",
+      "https://www.vimmerbytidning.se/rss/nyheter",
+      "https://www.vimmerbytidning.se/sport/rss/"
+    ],
+    "vk.se": [
+      "https://feedern.vkmedia.se/vk/latest?page=0&format=rss"
+    ],
+    "vlt.se": [
+      "https://www.vlt.se/ettan.xml",
+      "https://www.vlt.se/feed",
+      "https://www.vlt.se/feeds/feed.xml",
+      "https://www.vlt.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "vn.se": [
+      "https://www.vn.se/feeds/feed.xml?via=rss-autodiscovery"
+    ],
+    "vt.se": [
+      "https://vt.se/rss/nyheter",
+      "https://www.vt.se/nyheter/rss/",
+      "https://www.vt.se/rss/nyheter",
+      "https://www.vt.se/sport/rss/",
+      "https://www.vt.se/asikter/rss/",
+      "https://www.vt.se/kultur-noje/rss/"
+    ],
+    "ystadsallehanda.se": [
+      "http://www.ystadsallehanda.se/feed",
+      "https://www.ystadsallehanda.se/feed",
+      "https://www.ystadsallehanda.se/feed/",
+      "https://www.ystadsallehanda.se/feeds/feed.xml"
+    ]
+  }
+}

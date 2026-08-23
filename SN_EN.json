@@ -1,0 +1,132 @@
+{
+  "country_code": "SN",
+  "language_code": "EN",
+  "total_domains": 32,
+  "total_feeds": 60,
+  "feeds": {
+    "actusen.sn": [
+      "https://actusen.sn/feed/"
+    ],
+    "aps.sn": [
+      "http://www.aps.sn/spip.php?page=backend",
+      "https://aps.sn/feed/"
+    ],
+    "dakaractu.com": [
+      "https://www.dakaractu.com/index.php?preaction=rss",
+      "https://www.dakaractu.com/xml/atom.xml",
+      "https://www.dakaractu.com/xml/syndication.rss"
+    ],
+    "dakarmatin.com": [
+      "https://www.dakarmatin.com/feed/"
+    ],
+    "dakarmidi.net": [
+      "https://dakarmidi.net/feed/"
+    ],
+    "enqueteplus.com": [
+      "https://enqueteplus.com/rss.xml"
+    ],
+    "igfm.sn": [
+      "https://www.igfm.sn/feed"
+    ],
+    "kewoulo.info": [
+      "https://kewoulo.info/feed/"
+    ],
+    "koldanews.com": [
+      "https://www.koldanews.com/feed"
+    ],
+    "laviesenegalaise.com": [
+      "https://laviesenegalaise.com/feed/",
+      "https://laviesenegalaise.com/homepage/feed/"
+    ],
+    "lejecos.com": [
+      "https://www.lejecos.com/xml/syndication.rss",
+      "https://www.lejecos.com/xml/atom.xml"
+    ],
+    "lequotidien.sn": [
+      "http://lequotidien.sn/feed/",
+      "http://www.lequotidien.sn/feed/",
+      "https://lequotidien.sn/feed/",
+      "https://www.lequotidien.sn/feed/"
+    ],
+    "leral.net": [
+      "https://www.leral.net/xml/syndication.rss"
+    ],
+    "lesoleil.sn": [
+      "http://lesoleil.sn/feed/"
+    ],
+    "metrodakar.net": [
+      "https://www.metrodakar.net/feed/"
+    ],
+    "ndarinfo.com": [
+      "https://www.ndarinfo.com/xml/syndication.rss",
+      "https://www.ndarinfo.com/xml/atom.xml"
+    ],
+    "pressafrik.com": [
+      "https://www.pressafrik.com/index.php?preaction=rss",
+      "https://www.pressafrik.com/xml/atom.xml",
+      "https://www.pressafrik.com/xml/syndication.rss"
+    ],
+    "rewmi.com": [
+      "https://www.rewmi.com/feed/"
+    ],
+    "rts.sn": [
+      "http://www.rts.sn/feed/"
+    ],
+    "senegal7.com": [
+      "https://senegal7.com/feed/"
+    ],
+    "senegaldirect.com": [
+      "https://senegaldirect.com/feed/"
+    ],
+    "senego.com": [
+      "https://senego.com/feed"
+    ],
+    "senenews.com": [
+      "https://www.senenews.com/feed",
+      "https://www.senenews.com/partagez-lactualite-de-senenews-sur-votre-site-web-ou-votre-blog/feed",
+      "https://www.senenews.com/rss/rss-all.xml",
+      "https://www.senenews.com/rssgen/rss-all.xml"
+    ],
+    "seneplus.com": [
+      "https://www.seneplus.com/femmes/rss.xml",
+      "https://www.seneplus.com/rss.xml"
+    ],
+    "seneweb.com": [
+      "https://www.seneweb.com/feed/"
+    ],
+    "setal.net": [
+      "https://www.setal.net/xml/syndication.rss",
+      "https://www.setal.net/xml/atom.xml"
+    ],
+    "socialnetlink.org": [
+      "http://www.socialnetlink.org/feed/",
+      "https://www.socialnetlink.org/feed/",
+      "https://www.socialnetlink.org/feed/atom/"
+    ],
+    "teranganews.sn": [
+      "https://teranganews.sn/feed/"
+    ],
+    "vipeoples.net": [
+      "https://www.vipeoples.net/xml/syndication.rss",
+      "https://www.vipeoples.net/xml/atom.xml"
+    ],
+    "walf-groupe.com": [
+      "https://walf-groupe.com/feed/",
+      "https://walf-groupe.com/blog/category/societe/feed/",
+      "http://www.walf-groupe.com/feed/",
+      "https://walf-groupe.com/blog/tag/parrainage/feed/",
+      "https://walf-groupe.com/blog/category/derniere-minute/feed/",
+      "https://walf-groupe.com/blog/tag/election-presidentielle/feed/",
+      "https://walf-groupe.com/blog/tag/listes-electorales/feed/",
+      "https://walf-groupe.com/blog/tag/macky-sall/feed/",
+      "https://walf-groupe.com/blog/tag/ousmane-sonko/feed/"
+    ],
+    "wiwsport.com": [
+      "https://wiwsport.com/feed/"
+    ],
+    "xalimasn.com": [
+      "https://xalimasn.com/feed/",
+      "https://xalimasn.com/web-stories/feed/"
+    ]
+  }
+}

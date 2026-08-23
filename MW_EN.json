@@ -1,0 +1,45 @@
+{
+  "country_code": "MW",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 13,
+  "feeds": {
+    "bizmalawi.com": [
+      "https://bizmalawi.com/feed/"
+    ],
+    "businessmalawi.com": [
+      "https://www.businessmalawi.com/feed/"
+    ],
+    "capitalradiomalawi.com": [
+      "https://www.capitalradiomalawi.com/feed/"
+    ],
+    "faceofmalawi.com": [
+      "https://www.faceofmalawi.com/feed/"
+    ],
+    "malawi24.com": [
+      "https://malawi24.com/feed/"
+    ],
+    "malawifreedomnetwork.com": [
+      "https://malawifreedomnetwork.com/feed/"
+    ],
+    "malawivoice.com": [
+      "https://www.malawivoice.com/feed/",
+      "https://www.malawivoice.com/home/feed/"
+    ],
+    "maraviexpress.com": [
+      "https://www.maraviexpress.com/feed/"
+    ],
+    "maravipost.com": [
+      "https://www.maravipost.com/feed/"
+    ],
+    "mwnation.com": [
+      "https://mwnation.com/feed/"
+    ],
+    "nyasatimes.com": [
+      "https://www.nyasatimes.com/feed/"
+    ],
+    "times.mw": [
+      "https://times.mw/feed/"
+    ]
+  }
+}

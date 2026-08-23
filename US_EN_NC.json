@@ -4,29 +4,27 @@
   "total_domains": 44,
   "total_feeds": 47,
   "feeds": {
-    "courier-tribune.com": [
-      "http://www.courier-tribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "ashepostandtimes.com": [
+      "http://www.ashepostandtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "thetimesnews.com": [
-      "http://www.thetimesnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "brnow.org": [
+      "https://www.brnow.org/feed/",
+      "https://www.brnow.org/news/feed/"
+    ],
+    "carolinacoastonline.com": [
+      "http://www.carolinacoastonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "chathamjournal.com": [
+      "https://chathamjournal.com/feed/"
     ],
     "clintonnc.com": [
       "https://www.clintonnc.com/feed"
     ],
-    "mydailyrecord.com": [
-      "http://www.mydailyrecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thedigitalcourier.com": [
-      "http://www.thedigitalcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "newsargus.com": [
-      "http://www.newsargus.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "courier-tribune.com": [
+      "http://www.courier-tribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "greensboro.com": [
       "http://greensboro.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "reflector.com": [
-      "http://www.reflector.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "hendersondispatch.com": [
       "http://www.hendersondispatch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -34,8 +32,17 @@
     "hickoryrecord.com": [
       "http://hickoryrecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "hokenews.com": [
+      "https://www.hokenews.com/index.php/feed/"
+    ],
+    "independenttribune.com": [
+      "http://independenttribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "jdnews.com": [
       "http://www.jdnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "journalnow.com": [
+      "http://journalnow.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "kinston.com": [
       "http://www.kinston.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -43,101 +50,94 @@
     "laurinburgexchange.com": [
       "https://laurinburgexchange.com/feed"
     ],
-    "the-dispatch.com": [
-      "http://www.the-dispatch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "robesonian.com": [
-      "https://www.robesonian.com/feed"
-    ],
     "mcdowellnews.com": [
       "http://mcdowellnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "morganton.com": [
       "http://morganton.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "mountolivetribune.com": [
+      "https://www.mountolivetribune.com/feed/"
+    ],
     "mtairynews.com": [
       "http://www.mtairynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mydailyrecord.com": [
+      "http://www.mydailyrecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "newbernsj.com": [
       "http://www.newbernsj.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "newsargus.com": [
+      "http://www.newsargus.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "observernewsonline.com": [
       "http://www.observernewsonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "personcountylife.com": [
+      "http://www.personcountylife.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "reflector.com": [
+      "http://www.reflector.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "robesonian.com": [
+      "https://www.robesonian.com/feed"
     ],
     "rrdailyherald.com": [
       "http://www.rrdailyherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "yourdailyjournal.com": [
-      "https://www.yourdailyjournal.com/feed"
-    ],
     "sanfordherald.com": [
       "http://www.sanfordherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "smokymountainnews.com": [
+      "https://smokymountainnews.com/feed/"
     ],
     "statesville.com": [
       "http://statesville.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "journalnow.com": [
-      "http://journalnow.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "taylorsvilletimes.com": [
+      "https://www.taylorsvilletimes.com/feed/"
     ],
-    "thesnaponline.com": [
-      "https://stanlynewsjournal.com/feed/"
+    "the-dispatch.com": [
+      "http://www.the-dispatch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "theappalachianonline.com": [
       "https://theappalachianonline.com/feed/",
       "https://theappalachianonline.com/feed/atom/"
     ],
-    "wataugademocrat.com": [
-      "http://www.wataugademocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "thebluebanner.net": [
+      "https://thebluebanner.net/feed/",
+      "https://thebluebanner.net/feed/atom/"
     ],
-    "transylvaniatimes.com": [
-      "http://www.transylvaniatimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "brnow.org": [
-      "https://www.brnow.org/feed/",
-      "https://www.brnow.org/news/feed/"
-    ],
-    "independenttribune.com": [
-      "http://independenttribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "yesweekly.com": [
-      "http://www.yesweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "carolinacoastonline.com": [
-      "http://www.carolinacoastonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "mountolivetribune.com": [
-      "https://www.mountolivetribune.com/feed/"
-    ],
-    "chathamjournal.com": [
-      "https://chathamjournal.com/feed/"
-    ],
-    "thepilot.com": [
-      "http://www.thepilot.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thesylvaherald.com": [
-      "http://www.thesylvaherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "hokenews.com": [
-      "https://www.hokenews.com/index.php/feed/"
-    ],
-    "personcountylife.com": [
-      "http://www.personcountylife.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "smokymountainnews.com": [
-      "https://smokymountainnews.com/feed/"
-    ],
-    "taylorsvilletimes.com": [
-      "https://www.taylorsvilletimes.com/feed/"
+    "thedigitalcourier.com": [
+      "http://www.thedigitalcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "themountaineer.com": [
       "http://www.themountaineer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "ashepostandtimes.com": [
-      "http://www.ashepostandtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "thepilot.com": [
+      "http://www.thepilot.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "thebluebanner.net": [
-      "https://thebluebanner.net/feed/",
-      "https://thebluebanner.net/feed/atom/"
+    "thesnaponline.com": [
+      "https://stanlynewsjournal.com/feed/"
+    ],
+    "thesylvaherald.com": [
+      "http://www.thesylvaherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thetimesnews.com": [
+      "http://www.thetimesnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "transylvaniatimes.com": [
+      "http://www.transylvaniatimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wataugademocrat.com": [
+      "http://www.wataugademocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "yesweekly.com": [
+      "http://www.yesweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "yourdailyjournal.com": [
+      "https://www.yourdailyjournal.com/feed"
     ]
   }
 }

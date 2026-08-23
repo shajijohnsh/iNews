@@ -1,0 +1,146 @@
+{
+  "country_code": "LV",
+  "language_code": "EN",
+  "total_domains": 36,
+  "total_feeds": 66,
+  "feeds": {
+    "apollo.lv": [
+      "https://www.apollo.lv/rss"
+    ],
+    "aprinkis.lv": [
+      "https://www.aprinkis.lv/index.php?format=feed&type=atom",
+      "https://www.aprinkis.lv/index.php?format=feed&type=rss"
+    ],
+    "baltictimes.com": [
+      "https://www.baltictimes.com/rss/"
+    ],
+    "bb.lv": [
+      "https://bb.lv/feed"
+    ],
+    "d-fakti.lv": [
+      "http://www.d-fakti.lv/lv/export/"
+    ],
+    "db.lv": [
+      "https://db.lv/rss"
+    ],
+    "delfi.lv": [
+      "https://www.delfi.lv/bizness/rss/index.xml",
+      "https://www.delfi.lv/rss.php",
+      "https://www.delfi.lv/rss/?channel=bizness",
+      "https://www.delfi.lv/rss/index.xml"
+    ],
+    "diena.lv": [
+      "https://www.diena.lv/rss/"
+    ],
+    "dzirkstele.lv": [
+      "https://dzirkstele.lv/feed/",
+      "https://www.dzirkstele.lv/site_feed.xml"
+    ],
+    "edruva.lv": [
+      "https://edruva.lv/feed/",
+      "http://edruva.lv/feed/"
+    ],
+    "gorod.lv": [
+      "https://www.gorod.lv/rss"
+    ],
+    "grani.lv": [
+      "https://www.grani.lv/rss.xml"
+    ],
+    "ir.lv": [
+      "https://ir.lv/feed/"
+    ],
+    "jauns.lv": [
+      "https://jauns.lv/rss"
+    ],
+    "kompromat.lv": [
+      "https://www.kompromat.lv/rss/"
+    ],
+    "la.lv": [
+      "https://www.la.lv/feed"
+    ],
+    "latviansonline.com": [
+      "https://latviansonline.com/feed/"
+    ],
+    "mixnews.lv": [
+      "https://mixnews.lv/feed/",
+      "https://mixnews.lv/feed/gn/"
+    ],
+    "mklat.lv": [
+      "https://mklat.lv/?format=feed&type=rss",
+      "https://mklat.lv/?format=feed&type=atom"
+    ],
+    "news.lv": [
+      "https://news.lv/rss.xml",
+      "http://news.lv/rss.xml"
+    ],
+    "novaja.lv": [
+      "http://www.novaja.lv/index.rss"
+    ],
+    "nra.lv": [
+      "https://nra.lv/rss/jaunakas-zinas/"
+    ],
+    "ntz.lv": [
+      "https://www.ntz.lv/feed/"
+    ],
+    "panorama-rezekne.lv": [
+      "https://www.panorama-rezekne.lv/feed/",
+      "http://www.panorama-rezekne.lv/feed/",
+      "http://www.panorama-rezekne.lv/rss.xml"
+    ],
+    "pietiek.com": [
+      "https://pietiek.com/rss/"
+    ],
+    "press.lv": [
+      "https://press.lv/rss",
+      "https://press.lv/lat/rss"
+    ],
+    "puaro.lv": [
+      "https://puaro.lv/feed/",
+      "https://puaro.lv/rakstu-arhivs-2/feed/"
+    ],
+    "rekurzeme.lv": [
+      "https://rekurzeme.lv/feed/"
+    ],
+    "retalsi.lv": [
+      "https://retalsi.lv/feed/"
+    ],
+    "rv.lv": [
+      "http://www.rv.lv/feed/"
+    ],
+    "subbota.com": [
+      "https://press.lv/rss",
+      "https://press.lv/lat/rss",
+      "http://www.subbota.com/feed/",
+      "http://www.subbota.com/category/s18-blogs/c330-linderman/feed/",
+      "http://www.subbota.com/category/s18-blogs/c331-zadornov/feed/",
+      "http://www.subbota.com/category/s18-blogs/c333-hudenko/feed/",
+      "http://www.subbota.com/category/s18-blogs/c342-troshkina/feed/",
+      "http://www.subbota.com/category/s18-blogs/c356-bil-fifilin/feed/",
+      "http://www.subbota.com/category/s18-blogs/feed/",
+      "http://www.subbota.com/category/s18-blogs/mark-dubovskij/feed/"
+    ],
+    "tvnet.lv": [
+      "https://www.tvnet.lv/rss"
+    ],
+    "ventspils.lv": [
+      "https://www.ventspils.lv/lat/pilseta_parvalde/rss",
+      "https://www.ventspils.lv/rus/gorod_upravlenie/rss",
+      "https://www.ventspils.lv/lat/ekonomika/rss",
+      "https://www.ventspils.lv/lat/sports/rss",
+      "https://www.ventspils.lv/rus/razvlecenia_kul_tura/rss",
+      "https://www.ventspils.lv/lat/izklaide_kultura/rss",
+      "https://www.ventspils.lv/rus/ekonomika/rss",
+      "https://www.ventspils.lv/rus/sport/rss"
+    ],
+    "vestnesis.lv": [
+      "https://www.vestnesis.lv/feed/JL",
+      "https://www.vestnesis.lv/feed/OP/319/"
+    ],
+    "ziemellatvija.lv": [
+      "https://ziemellatvija.lv/feed/"
+    ],
+    "zz.lv": [
+      "https://zz.lv/feed/"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "country_code": "SO",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 20,
+  "feeds": {
+    "allbanaadir.org": [
+      "https://www.allbanaadir.org/?feed=rss2",
+      "https://www.allbanaadir.org/feed/"
+    ],
+    "allsbc.com": [
+      "https://allsbc.com/feed/"
+    ],
+    "boramanews.com": [
+      "https://boramanews.com/feed/"
+    ],
+    "caasimada.net": [
+      "https://www.caasimada.net/feed/"
+    ],
+    "dayniiile.com": [
+      "https://www.dayniiile.com/feed/",
+      "https://www.dayniiile.com/home/feed/"
+    ],
+    "goobjoog.com": [
+      "https://goobjoog.com/feed/",
+      "https://goobjoog.com/english/feed/",
+      "https://en.goobjoog.com/feed/",
+      "http://goobjoog.com/english/feed/"
+    ],
+    "hiiraan.com": [
+      "https://hiiraan.com/news.xml"
+    ],
+    "horseedmedia.net": [
+      "https://horseedmedia.net/feed/"
+    ],
+    "jowhar.com": [
+      "https://jowhar.com/feed/",
+      "https://jowhar.com/home/feed/"
+    ],
+    "puntlandpost.net": [
+      "https://puntlandpost.net/feed/"
+    ],
+    "radiomuqdisho.so": [
+      "https://radiomuqdisho.so/feed/"
+    ],
+    "simbanews.net": [
+      "https://www.simbanews.net/feed/"
+    ],
+    "somalilandtoday.com": [
+      "https://somalilandtoday.com/feed/"
+    ],
+    "wardheernews.com": [
+      "https://wardheernews.com/feed/"
+    ]
+  }
+}

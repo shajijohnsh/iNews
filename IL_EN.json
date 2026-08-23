@@ -1,0 +1,208 @@
+{
+  "country_code": "IL",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 156,
+  "feeds": {
+    "972mag.com": [
+      "https://www.972mag.com/feed/",
+      "https://www.972mag.com/writer/972blog/feed/"
+    ],
+    "defense-update.com": [
+      "https://defense-update.com/feed",
+      "https://defense-update.com/category/0-news/podcasts/feed"
+    ],
+    "einayim.com": [
+      "https://www.einayim.com/feed/"
+    ],
+    "eretzstore.com": [
+      "https://www.eretzstore.com/feed/",
+      "https://www.eretzstore.com/eretz-magazine-online-store/feed/"
+    ],
+    "fashionforward.mako.co.il": [
+      "https://fashionforward.mako.co.il/feed"
+    ],
+    "fathomjournal.org": [
+      "https://fathomjournal.org/feed/",
+      "http://fathomjournal.org/feed/"
+    ],
+    "haaretz.com": [
+      "http://www.haaretz.com/cmlink/1.4605045",
+      "http://www.haaretz.com/cmlink/1.4605102",
+      "http://www.haaretz.com/cmlink/1.4849991",
+      "http://www.haaretz.com/cmlink/1.4850006",
+      "http://www.haaretz.com/cmlink/1.4850015",
+      "https://www.haaretz.com/srv/archaeology-rss",
+      "https://www.haaretz.com/srv/books-rss",
+      "https://www.haaretz.com/srv/business-rss",
+      "https://www.haaretz.com/srv/food-rss",
+      "https://www.haaretz.com/srv/haaretz-latest-headlines",
+      "https://www.haaretz.com/srv/haaretz-podcasts-rss",
+      "https://www.haaretz.com/srv/israel-news-rss",
+      "https://www.haaretz.com/srv/jewish-world-rss",
+      "https://www.haaretz.com/srv/life-&-culture-rss",
+      "https://www.haaretz.com/srv/middle-east-news-rss",
+      "https://www.haaretz.com/srv/opinion-rss",
+      "https://www.haaretz.com/srv/science-&-health-rss",
+      "https://www.haaretz.com/srv/security-&-aviation-rss",
+      "https://www.haaretz.com/srv/u.s.-news-rss",
+      "https://www.haaretz.com/srv/world-news-rss"
+    ],
+    "hadassahmagazine.org": [
+      "https://www.hadassahmagazine.org/feed/",
+      "https://www.hadassahmagazine.org/home/feed/"
+    ],
+    "hagada.org.il": [
+      "https://hagada.org.il/feed/",
+      "https://hagada.org.il/feed/atom/"
+    ],
+    "israelbetweenthelines.com": [
+      "https://israelbetweenthelines.com/feed/"
+    ],
+    "israeliartmarket.com": [
+      "https://www.israeliartmarket.com/shop/feed/"
+    ],
+    "israelmyglory.org": [
+      "https://israelmyglory.org/feed/"
+    ],
+    "israeltoday.co.il": [
+      "https://www.israeltoday.co.il/tag/video-podcast/feed/",
+      "https://www.israeltoday.co.il/read/video-podcast-israel-needs-a-strategy-to-confront-turkey/feed/",
+      "https://www.israeltoday.co.il/read/video-podcast-gaza-deal-or-deception/feed/"
+    ],
+    "iton77.com": [
+      "https://iton77.com/feed/"
+    ],
+    "jpost.com": [
+      "http://www.jpost.com/Rss/RssFeedsFrontPage.aspx",
+      "http://www.jpost.com/Rss/RssFeedsHeadlines.aspx",
+      "http://www.jpost.com/Rss/RssFeedsIsraelNews.aspx",
+      "http://www.jpost.com/Rss/RssFeedsMiddleEastNews.aspx",
+      "http://www.jpost.com/Rss/RssFeedsOpinion.aspx",
+      "https://www.jpost.com/Rss/RssCoronavirus",
+      "https://www.jpost.com/Rss/RssCoronavirusUpdates",
+      "https://www.jpost.com/Rss/RssFeedsAntisemitism",
+      "https://www.jpost.com/Rss/RssFeedsArabIsraeliConflict.aspx",
+      "https://www.jpost.com/Rss/RssFeedsBDSTHREAT.aspx",
+      "https://www.jpost.com/Rss/RssFeedsBenjaminNetanyahu",
+      "https://www.jpost.com/Rss/RssFeedsChristianNews",
+      "https://www.jpost.com/Rss/RssFeedsCulture.aspx",
+      "https://www.jpost.com/Rss/RssFeedsDiaspora.aspx",
+      "https://www.jpost.com/Rss/RssFeedsFrontPage.aspx",
+      "https://www.jpost.com/Rss/RssFeedsGaza.aspx",
+      "https://www.jpost.com/Rss/RssFeedsGreenIsrael.aspx",
+      "https://www.jpost.com/Rss/RssFeedsHeadlines.aspx",
+      "https://www.jpost.com/Rss/RssFeedsISISThreat",
+      "https://www.jpost.com/Rss/RssFeedsInternational",
+      "https://www.jpost.com/Rss/RssFeedsIran",
+      "https://www.jpost.com/Rss/RssFeedsIslamicTerrorism",
+      "https://www.jpost.com/Rss/RssFeedsIsraelNews.aspx",
+      "https://www.jpost.com/Rss/RssFeedsIsraeliFood",
+      "https://www.jpost.com/Rss/RssFeedsJ-Spot",
+      "https://www.jpost.com/Rss/RssFeedsJerusalem.aspx",
+      "https://www.jpost.com/Rss/RssFeedsJewishHolidays",
+      "https://www.jpost.com/Rss/RssFeedsJpostTech",
+      "https://www.jpost.com/Rss/RssFeedsJpostTechBusinessAndInnovation",
+      "https://www.jpost.com/Rss/RssFeedsJpostTechEnvironment",
+      "https://www.jpost.com/Rss/RssFeedsJudaism",
+      "https://www.jpost.com/Rss/RssFeedsMiddleEastNews.aspx",
+      "https://www.jpost.com/Rss/RssFeedsNotJustNews.aspx",
+      "https://www.jpost.com/Rss/RssFeedsOMG",
+      "https://www.jpost.com/Rss/RssFeedsOpinion.aspx",
+      "https://www.jpost.com/Rss/RssFeedsPoliticsDiplomacy.aspx",
+      "https://www.jpost.com/Rss/RssFeedsSports.aspx",
+      "https://www.jpost.com/Rss/RssFeedsTorahPortion",
+      "https://www.jpost.com/rss/rssarchaeology",
+      "https://www.jpost.com/rss/rsscoronavirus",
+      "https://www.jpost.com/rss/rsscoronavirusupdates",
+      "https://www.jpost.com/rss/rssfeed-israel-pfizer-news",
+      "https://www.jpost.com/rss/rssfeedsaliyahwithnbn",
+      "https://www.jpost.com/rss/rssfeedsamerican-politics",
+      "https://www.jpost.com/rss/rssfeedsantisemitism",
+      "https://www.jpost.com/rss/rssfeedsarabisraeliconflict.aspx",
+      "https://www.jpost.com/rss/rssfeedsbdsthreat.aspx",
+      "https://www.jpost.com/rss/rssfeedsbenjaminnetanyahu",
+      "https://www.jpost.com/rss/rssfeedschristiannews",
+      "https://www.jpost.com/rss/rssfeedsculture.aspx",
+      "https://www.jpost.com/rss/rssfeedsdiaspora.aspx",
+      "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+      "https://www.jpost.com/rss/rssfeedsgaza.aspx",
+      "https://www.jpost.com/rss/rssfeedsgeneralassembly",
+      "https://www.jpost.com/rss/rssfeedsgreenisrael.aspx",
+      "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
+      "https://www.jpost.com/rss/rssfeedshealth",
+      "https://www.jpost.com/rss/rssfeedsinternational",
+      "https://www.jpost.com/rss/rssfeedsiran",
+      "https://www.jpost.com/rss/rssfeedsisisthreat",
+      "https://www.jpost.com/rss/rssfeedsislamicterrorism",
+      "https://www.jpost.com/rss/rssfeedsisraelelections.aspx",
+      "https://www.jpost.com/rss/rssfeedsisraelifood",
+      "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
+      "https://www.jpost.com/rss/rssfeedsj-spot",
+      "https://www.jpost.com/rss/rssfeedsjerusalem.aspx",
+      "https://www.jpost.com/rss/rssfeedsjewishholidays",
+      "https://www.jpost.com/rss/rssfeedsjposttech",
+      "https://www.jpost.com/rss/rssfeedsjposttechbusinessandinnovation",
+      "https://www.jpost.com/rss/rssfeedsjposttechenvironment",
+      "https://www.jpost.com/rss/rssfeedsjudaism",
+      "https://www.jpost.com/rss/rssfeedsmiddleeastnews.aspx",
+      "https://www.jpost.com/rss/rssfeedsnotjustnews.aspx",
+      "https://www.jpost.com/rss/rssfeedsomg",
+      "https://www.jpost.com/rss/rssfeedsopinion.aspx",
+      "https://www.jpost.com/rss/rssfeedspoliticsdiplomacy.aspx",
+      "https://www.jpost.com/rss/rssfeedssports.aspx",
+      "https://www.jpost.com/rss/rssfeedstorahportion",
+      "https://www.jpost.com/rss/rssfoodandrecipes",
+      "https://www.jpost.com/rss/rsskabbalah",
+      "https://www.jpost.com/rss/rssuselections"
+    ],
+    "maayanmagazine.com": [
+      "https://maayanmagazine.com/rss"
+    ],
+    "mida.org.il": [
+      "https://mida.org.il/feed/"
+    ],
+    "mishpacha.com": [
+      "https://mishpacha.com/podcasts/power-politics/feed/",
+      "https://mishpacha.com/feed/",
+      "https://mishpacha.com/podcasts/home-front/feed/",
+      "https://feed.podbean.com/mishpachaveiledreference/feed.xml",
+      "https://mishpacha.com/podcasts/behind-the-times/feed/",
+      "https://mishpacha.com/podcasts/fourcast/feed/",
+      "https://mishpacha.com/podcasts/good-vibes/feed/",
+      "https://mishpacha.com/podcasts/lie-of-the-land/feed/",
+      "https://mishpacha.com/podcasts/makeshift/feed/",
+      "https://mishpacha.com/podcasts/money-talks/feed/",
+      "https://mishpacha.com/podcasts/take-2/feed/",
+      "https://mishpacha.com/podcasts/the-builders/feed/",
+      "https://mishpacha.com/podcasts/the-learning-curve/feed/",
+      "https://mishpacha.com/podcasts/veiled-reference/feed/",
+      "https://mishpacha.com/podcasts/votenotes/feed/"
+    ],
+    "nocamels.com": [
+      "https://nocamels.com/feed/",
+      "https://nocamels.com/feed/atom/"
+    ],
+    "the7eye.org.il": [
+      "https://www.the7eye.org.il/feed",
+      "https://www.the7eye.org.il/feed?filtered",
+      "https://www.the7eye.org.il/topic/the-seventh-eye-in-english/feed"
+    ],
+    "timeout.co.il": [
+      "https://timeout.co.il/feed/"
+    ],
+    "ynet.co.il": [
+      "http://www.ynet.co.il/Integration/StoryRss1854.xml",
+      "http://www.ynet.co.il/Integration/StoryRss2.xml",
+      "http://www.ynet.co.il/Integration/StoryRss3082.xml",
+      "http://www.ynet.co.il/Integration/StoryRss3254.xml",
+      "http://www.ynet.co.il/Integration/StoryRss544.xml",
+      "http://www.ynet.co.il/Integration/StoryRss6.xml",
+      "https://www.ynet.co.il/Integration/StoryRss1854.xml",
+      "https://www.ynet.co.il/Integration/StoryRss2.xml",
+      "https://www.ynet.co.il/Integration/StoryRss3082.xml",
+      "https://www.ynet.co.il/Integration/StoryRss544.xml",
+      "https://www.ynet.co.il/Integration/StoryRss6.xml"
+    ]
+  }
+}

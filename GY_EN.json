@@ -1,0 +1,60 @@
+{
+  "country_code": "GY",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 22,
+  "feeds": {
+    "demerarawaves.com": [
+      "http://demerarawaves.com/feed/",
+      "https://demerarawaves.com/feed/"
+    ],
+    "exploreguyana.org": [
+      "https://exploreguyana.org/feed/"
+    ],
+    "guyanachronicle.com": [
+      "https://guyanachronicle.com/feed/"
+    ],
+    "guyanagraphic.com": [
+      "https://guyanagraphic.com/feed/",
+      "https://guyanagraphic.com/home/feed/"
+    ],
+    "guyanainquirer.com": [
+      "http://guyanainquirer.com/feed/",
+      "https://guyanainquirer.com/feed/"
+    ],
+    "guyanapress.com": [
+      "https://guyanapress.com/feed/"
+    ],
+    "guyanatimesgy.com": [
+      "https://guyanatimesgy.com/feed/",
+      "https://guyanatimesgy.com/home/feed/"
+    ],
+    "hgptv.com": [
+      "https://www.hgptv.com/feed/",
+      "https://www.hgptv.com/home-2/feed/"
+    ],
+    "inewsguyana.com": [
+      "https://inewsguyana.com/feed/"
+    ],
+    "kaieteurnewsonline.com": [
+      "https://kaieteurnewsonline.com/feed/"
+    ],
+    "mtvgy.com": [
+      "https://www.mtvgy.com/blog-feed.xml"
+    ],
+    "ncnguyana.com": [
+      "https://ncnguyana.com/2023/feed/"
+    ],
+    "newsroom.gy": [
+      "https://newsroom.gy/feed/",
+      "http://newsroom.gy/feed/"
+    ],
+    "newssourcegy.com": [
+      "https://newssourcegy.com/feed/"
+    ],
+    "stabroeknews.com": [
+      "https://www.stabroeknews.com/feed/",
+      "http://www.stabroeknews.com/feed/"
+    ]
+  }
+}

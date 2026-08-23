@@ -1,0 +1,54 @@
+{
+  "country_code": "PY",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 18,
+  "feeds": {
+    "5dias.com.py": [
+      "http://www.5dias.com.py/feed/"
+    ],
+    "abc.com.py": [
+      "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/?outputType=xml",
+      "https://www.abc.com.py/arcio/rss/category/nacionales/"
+    ],
+    "adndigital.com.py": [
+      "https://www.adndigital.com.py/feed/"
+    ],
+    "asunciontimes.com": [
+      "https://asunciontimes.com/feed/"
+    ],
+    "extra.com.py": [
+      "https://www.extra.com.py/actualidad.atom"
+    ],
+    "hoy.com.py": [
+      "https://www.hoy.com.py/feed"
+    ],
+    "latribuna.com.py": [
+      "https://www.latribuna.com.py/feed"
+    ],
+    "mercopress.com": [
+      "https://en.mercopress.com/rss/"
+    ],
+    "paraguay.com": [
+      "http://www.paraguay.com/feed.rss",
+      "http://www.paraguay.com/feed"
+    ],
+    "popular.com.py": [
+      "https://www.popular.com.py/feed/"
+    ],
+    "telefuturo.com.py": [
+      "https://www.telefuturo.com.py/index.atom"
+    ],
+    "television.com.py": [
+      "https://television.com.py/feed"
+    ],
+    "tnpress.com.py": [
+      "https://www.tnpress.com.py/feed/",
+      "https://www.tnpress.com.py/feed/atom/",
+      "https://www.tnpress.com.py/feed/"
+    ],
+    "ultimahora.com": [
+      "https://www.ultimahora.com/rss/UltimoMomento.xml"
+    ]
+  }
+}

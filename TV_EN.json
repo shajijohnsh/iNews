@@ -1,0 +1,20 @@
+{
+  "country_code": "TV",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 4,
+  "feeds": {
+    "aljazeera.com": [
+      "https://www.aljazeera.com/xml/rss/all.xml"
+    ],
+    "finance.gov.tv": [
+      "https://finance.gov.tv/feed/"
+    ],
+    "ict.gov.tv": [
+      "https://ict.gov.tv/feed/"
+    ],
+    "timelesstuvalu.com": [
+      "https://www.timelesstuvalu.com/feed/"
+    ]
+  }
+}

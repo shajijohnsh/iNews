@@ -4,8 +4,23 @@
   "total_domains": 15,
   "total_feeds": 15,
   "feeds": {
+    "carriagetownenews.com": [
+      "http://www.carriagetownenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "conwaydailysun.com": [
       "http://www.conwaydailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dartreview.com": [
+      "https://dartreview.com/feed/"
+    ],
+    "derrynews.com": [
+      "http://www.derrynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "hippopress.com": [
+      "https://hippopress.com/feed/"
+    ],
+    "intertownrecord.com": [
+      "https://www.intertownrecord.com/blog-feed.xml"
     ],
     "keenesentinel.com": [
       "http://www.keenesentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -13,29 +28,11 @@
     "laconiadailysun.com": [
       "http://www.laconiadailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "unionleader.com": [
-      "http://www.unionleader.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "theconcordinsider.com": [
-      "https://www.theconcordinsider.com/feed/"
-    ],
-    "derrynews.com": [
-      "http://www.derrynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "carriagetownenews.com": [
-      "http://www.carriagetownenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "londonderrytimes.net": [
       "https://londonderrytimes.net/feed/"
     ],
-    "hippopress.com": [
-      "https://hippopress.com/feed/"
-    ],
     "nhbr.com": [
       "https://www.nhbr.com/feed/"
-    ],
-    "intertownrecord.com": [
-      "https://www.intertownrecord.com/blog-feed.xml"
     ],
     "nhgazette.com": [
       "https://www.nhgazette.com/feed/"
@@ -43,11 +40,14 @@
     "raymondareanews.com": [
       "https://raymondareanews.com/feed/"
     ],
+    "theconcordinsider.com": [
+      "https://www.theconcordinsider.com/feed/"
+    ],
+    "unionleader.com": [
+      "http://www.unionleader.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "vnews.com": [
       "https://vnews.com/feed/"
-    ],
-    "dartreview.com": [
-      "https://dartreview.com/feed/"
     ]
   }
 }

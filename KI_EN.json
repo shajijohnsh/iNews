@@ -1,0 +1,11 @@
+{
+  "country_code": "KI",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "kiribatitourism.gov.ki": [
+      "https://www.kiribatitourism.gov.ki/feed/"
+    ]
+  }
+}

@@ -4,26 +4,26 @@
   "total_domains": 7,
   "total_feeds": 7,
   "feeds": {
+    "farragomagazine.com": [
+      "https://farragomagazine.com/news/rss/7797/subtree/"
+    ],
     "honisoit.com": [
       "https://honisoit.com/feed/"
-    ],
-    "tertangala.net": [
-      "https://tertangala.net/feed/"
-    ],
-    "semperfloreat.com.au": [
-      "https://www.semperfloreat.com.au/feed/"
     ],
     "ontherecordunisa.com": [
       "https://ontherecordau.com/feed/"
     ],
+    "pelicanmagazine.com.au": [
+      "https://www.pelicanmagazine.com.au/blog-feed.xml"
+    ],
     "rmitcatalyst.com": [
       "https://rmitcatalyst.com/feed/"
     ],
-    "farragomagazine.com": [
-      "https://farragomagazine.com/news/rss/7797/subtree/"
+    "semperfloreat.com.au": [
+      "https://www.semperfloreat.com.au/feed/"
     ],
-    "pelicanmagazine.com.au": [
-      "https://www.pelicanmagazine.com.au/blog-feed.xml"
+    "tertangala.net": [
+      "https://tertangala.net/feed/"
     ]
   }
 }

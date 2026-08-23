@@ -4,76 +4,58 @@
   "total_domains": 30,
   "total_feeds": 32,
   "feeds": {
-    "billingsgazette.com": [
-      "http://billingsgazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "bozemandailychronicle.com": [
-      "https://www.bozemandailychronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "mtstandard.com": [
-      "http://mtstandard.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "ravallirepublic.com": [
-      "http://ravallirepublic.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "helenair.com": [
-      "http://helenair.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "milescitystar.com": [
-      "http://www.milescitystar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "missoulian.com": [
-      "http://missoulian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "agupdate.com": [
+      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "belgrade-news.com": [
       "http://www.belgrade-news.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "explorebigsky.com": [
-      "https://www.explorebigsky.com/feed"
+    "bighorncountynews.com": [
+      "http://www.bighorncountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "bigtimberpioneer.net": [
       "http://www.bigtimberpioneer.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "billingsgazette.com": [
+      "http://billingsgazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "billingsthriftynickel.com": [
       "http://billingsthriftynickel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "bitterrootstar.com": [
+      "https://bitterrootstar.com/feed/"
     ],
     "boulder-monitor.com": [
       "https://jcmonitor.com/feed/",
       "https://jcmonitor.com/homepage/feed/"
     ],
+    "bozemandailychronicle.com": [
+      "https://www.bozemandailychronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "carboncountynews.com": [
+      "http://www.carboncountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "charkoosta.com": [
+      "http://www.charkoosta.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "choteauacantha.com": [
       "http://www.choteauacantha.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "stillwatercountynews.com": [
-      "http://www.stillwatercountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "dillontribune.com": [
       "http://www.dillontribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "madisoniannews.com": [
-      "https://madisoniannews.com/rss.xml"
-    ],
-    "tobaccovalleynews.com": [
-      "https://tobaccovalleynews.com/feed/"
+    "explorebigsky.com": [
+      "https://www.explorebigsky.com/feed"
     ],
     "fairfieldsuntimes.com": [
       "http://www.fairfieldsuntimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "rangerreview.com": [
-      "http://www.rangerreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "agupdate.com": [
-      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "bighorncountynews.com": [
-      "http://www.bighorncountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "yellowstonecountynews.com": [
-      "https://www.yellowstonecountynews.com/feed/"
-    ],
     "flatheadbeacon.com": [
-      "https://flatheadbeacon.com/feed/",
-      "https://flatheadbeacon.com/home/feed/"
+      "http://flatheadbeacon.com/section/police-blotter/feed/",
+      "https://flatheadbeacon.com/feed/"
+    ],
+    "helenair.com": [
+      "http://helenair.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "laureloutlook.com": [
       "http://www.laureloutlook.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -81,20 +63,38 @@
     "lewistownnews.com": [
       "http://www.lewistownnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "charkoosta.com": [
-      "http://www.charkoosta.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "madisoniannews.com": [
+      "https://madisoniannews.com/rss.xml"
     ],
-    "carboncountynews.com": [
-      "http://www.carboncountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "milescitystar.com": [
+      "http://www.milescitystar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "missoulian.com": [
+      "http://missoulian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "montanakaimin.com": [
+      "http://www.montanakaimin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mtstandard.com": [
+      "http://mtstandard.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "rangerreview.com": [
+      "http://www.rangerreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ravallirepublic.com": [
+      "http://ravallirepublic.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "sidneyherald.com": [
       "https://www.sidneyherald.com/index.rss"
     ],
-    "bitterrootstar.com": [
-      "https://bitterrootstar.com/feed/"
+    "stillwatercountynews.com": [
+      "http://www.stillwatercountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "montanakaimin.com": [
-      "http://www.montanakaimin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "tobaccovalleynews.com": [
+      "https://tobaccovalleynews.com/feed/"
+    ],
+    "yellowstonecountynews.com": [
+      "https://www.yellowstonecountynews.com/feed/"
     ]
   }
 }

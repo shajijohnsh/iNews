@@ -1,0 +1,95 @@
+{
+  "country_code": "DK",
+  "language_code": "EN",
+  "total_domains": 26,
+  "total_feeds": 35,
+  "feeds": {
+    "altomdata.dk": [
+      "https://www.computerworld.dk/rss/all"
+    ],
+    "andeby.dk": [
+      "https://www.andeby.dk/feed/"
+    ],
+    "billedbladet.dk": [
+      "https://www.billedbladet.dk/rss/kongelige.xml",
+      "https://www.billedbladet.dk/rss/kendte.xml",
+      "https://www.billedbladet.dk/rss/mary.xml"
+    ],
+    "bilmagasinet.dk": [
+      "https://bilmagasinet.dk/feed/rss"
+    ],
+    "bobedre.dk": [
+      "https://bobedre.dk/feed/rss"
+    ],
+    "bryllupsmagasinet.dk": [
+      "https://bryllupsmagasinet.dk/feed/",
+      "https://bryllupsmagasinet.dk/feed/"
+    ],
+    "computerworld.dk": [
+      "https://www.computerworld.dk/rss/all"
+    ],
+    "costume.dk": [
+      "https://costume.dk/feed"
+    ],
+    "danfil.dk": [
+      "https://danfil.dk/feed/"
+    ],
+    "dendanskehistoriskeforening.dk": [
+      "https://dendanskehistoriskeforening.dk/index.php?format=feed&type=rss",
+      "https://dendanskehistoriskeforening.dk/index.php?format=feed&type=atom"
+    ],
+    "fdm.dk": [
+      "https://fdm.dk/rssfeeds/1"
+    ],
+    "gear-online.dk": [
+      "https://gear-online.dk/feed"
+    ],
+    "goerdetselv.dk": [
+      "https://goerdetselv.dk/feed/rss"
+    ],
+    "helse.dk": [
+      "https://www.helse.dk/feed/"
+    ],
+    "idenyt.dk": [
+      "https://idenyt.dk/rss"
+    ],
+    "iform.dk": [
+      "https://iform.dk/feed/rss"
+    ],
+    "illvid.dk": [
+      "https://illvid.dk/feed/rss"
+    ],
+    "jvv.dk": [
+      "https://jvv.dk/feed/",
+      "https://jvv.dk/homepage/feed/"
+    ],
+    "kendte.dk": [
+      "https://kendte.dk/feed/"
+    ],
+    "komputer.dk": [
+      "https://komputer.dk/feed/rss"
+    ],
+    "lastbilmagasinet.dk": [
+      "https://www.lastbilmagasinet.dk/xml/rss2/articles",
+      "https://www.lastbilmagasinet.dk/xml/rss2/advertisements?typeId=1&typeId=2",
+      "https://www.lastbilmagasinet.dk/xml/rss2/competences",
+      "https://www.lastbilmagasinet.dk/xml/rss2/jobs",
+      "https://www.lastbilmagasinet.dk/xml/rss2/courses"
+    ],
+    "tipsbladet.dk": [
+      "https://www.tipsbladet.dk/news/feed"
+    ],
+    "tjeck.dk": [
+      "https://tjeck.dk/feed"
+    ],
+    "ugebrev.dk": [
+      "https://ugebrev.dk/feed/"
+    ],
+    "viforaeldre.dk": [
+      "https://viforaeldre.dk/feed/"
+    ],
+    "woman.dk": [
+      "https://woman.dk/feed/rss"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "country_code": "UA",
   "language_code": "UK",
-  "total_domains": 404,
-  "total_feeds": 2633,
+  "total_domains": 270,
+  "total_feeds": 1093,
   "feeds": {
     "0352.ua": [
       "https://www.0352.ua/rss"
@@ -43,10 +43,6 @@
     "acc.cv.ua": [
       "https://acc.cv.ua/news/feed.rss"
     ],
-    "accessibility.blog.gov.uk": [
-      "https://accessibility.blog.gov.uk/author/alice-dryden-senior-content-designer-home-office/feed/",
-      "https://accessibility.blog.gov.uk/feed/"
-    ],
     "agravery.com": [
       "https://agravery.com/uk/rss"
     ],
@@ -81,9 +77,6 @@
     ],
     "antikor.com.ua": [
       "https://antikor.com.ua/rss.xml"
-    ],
-    "aphascience.blog.gov.uk": [
-      "https://aphascience.blog.gov.uk/feed/"
     ],
     "armyinform.com.ua": [
       "https://armyinform.com.ua/feed/"
@@ -125,18 +118,6 @@
     ],
     "bazilik.media": [
       "https://bazilik.media/feed/"
-    ],
-    "bbc.co.uk": [
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml"
-    ],
-    "bbc.com": [
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
     ],
     "bestin.ua": [
       "https://bestin.ua/feed/"
@@ -304,16 +285,6 @@
       "https://blog.allo.ua/top-10-televizorov-2025-rejting-luchshih-modelej-kotorye-stoit-kupit_2025-11-68/feed/",
       "https://blog.allo.ua/ua/feed/"
     ],
-    "blog.anchor.fm": [
-      "https://blog.anchor.fm/create/rss.xml",
-      "https://blog.anchor.fm/grow/rss.xml",
-      "https://blog.anchor.fm/hip/rss.xml",
-      "https://blog.anchor.fm/share/rss.xml",
-      "https://blog.anchor.fm/updates/rss.xml"
-    ],
-    "blog.iono.fm": [
-      "https://blog.iono.fm/rss/"
-    ],
     "blog.poltava.to": [
       "https://blog.poltava.to/rss/belashov.xml",
       "https://blog.poltava.to/rss/blogs.xml",
@@ -344,56 +315,8 @@
       "https://blog.poltava.to/rss/zahyst-derzhavy.xml",
       "https://blog.poltava.to/rss/zolotuhin.xml"
     ],
-    "blog.spreaker.com": [
-      "https://blog.spreaker.com/3-pieces-of-gear-for-starting-your-podcast/feed/",
-      "https://blog.spreaker.com/category/marketing/feed/",
-      "https://blog.spreaker.com/category/monetization/feed/",
-      "https://blog.spreaker.com/feed/",
-      "https://blog.spreaker.com/how-to-get-podcast-sponsors-the-ultimate-guide/feed/",
-      "https://blog.spreaker.com/how-to-power-up-your-marketing-funnel-with-podcasting/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-a-beginners-guide/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-website/feed/"
-    ],
-    "blogs.fcdo.gov.uk": [
-      "https://blogs.fcdo.gov.uk/aidanliddle/2022/06/02/disarmament-blog-space-and-cluster-munitions/feed/",
-      "https://blogs.fcdo.gov.uk/ar/feed/",
-      "https://blogs.fcdo.gov.uk/author/amitsengupta/feed/",
-      "https://blogs.fcdo.gov.uk/author/leighturner/feed/",
-      "https://blogs.fcdo.gov.uk/author/mattfield/feed/",
-      "https://blogs.fcdo.gov.uk/bs/feed/",
-      "https://blogs.fcdo.gov.uk/de/feed/",
-      "https://blogs.fcdo.gov.uk/feed/",
-      "https://blogs.fcdo.gov.uk/hy/feed/",
-      "https://blogs.fcdo.gov.uk/it/feed/",
-      "https://blogs.fcdo.gov.uk/lt/feed/",
-      "https://blogs.fcdo.gov.uk/mattfield/2022/01/24/an-end-to-bihs-consequence-free-environment/feed/",
-      "https://blogs.fcdo.gov.uk/mattfield/2022/03/24/the-marvellous-miss-irby/feed/",
-      "https://blogs.fcdo.gov.uk/pl/feed/",
-      "https://blogs.fcdo.gov.uk/pt/feed/",
-      "https://blogs.fcdo.gov.uk/uk/feed/"
-    ],
     "blogs.pravda.com.ua": [
       "https://blogs.pravda.com.ua/rss/"
-    ],
-    "blogs.unicef.org": [
-      "https://blogs.unicef.org/blog/author/ljones/feed/",
-      "https://blogs.unicef.org/blog/author/niloufarpourzand/feed/",
-      "https://blogs.unicef.org/blog/category/big-picture/feed/",
-      "https://blogs.unicef.org/blog/category/experts-speak/feed/",
-      "https://blogs.unicef.org/blog/category/impact/feed/",
-      "https://blogs.unicef.org/blog/category/uncategorized/feed/",
-      "https://blogs.unicef.org/evidence-for-action/can-broadcast-media-foster-equitable-learning-amid-the-covid-19-pandemic/feed/",
-      "https://blogs.unicef.org/evidence-for-action/feed/",
-      "https://blogs.unicef.org/feed/",
-      "https://blogs.unicef.org/fr/feed/"
-    ],
-    "br.blog.anchor.fm": [
-      "https://br.blog.anchor.fm/create/rss.xml",
-      "https://br.blog.anchor.fm/grow/rss.xml",
-      "https://br.blog.anchor.fm/share/rss.xml"
-    ],
-    "brexitfacts.blog.gov.uk": [
-      "https://brexitfacts.blog.gov.uk/feed/"
     ],
     "btu.org.ua": [
       "https://btu.org.ua/live-blog/rss.xml",
@@ -407,26 +330,10 @@
     "burshtyn-rada.gov.ua": [
       "https://burshtyn-rada.gov.ua/feed/"
     ],
-    "buyingforschools.blog.gov.uk": [
-      "https://buyingforschools.blog.gov.uk/author/cherise-heavey-from-the-schools-resource-management-team/feed/",
-      "https://buyingforschools.blog.gov.uk/feed/",
-      "https://buyingforschools.blog.gov.uk/tag/recruiment/feed/"
-    ],
     "bzh.life": [
       "http://bzh.life/static/rss/all.rus.rss.xml?format=rss",
       "https://bzh.life/static/rss/all.rus.rss.xml?format=rss",
       "https://bzh.life/static/rss/all.ukr.rss.xml"
-    ],
-    "cdei.blog.gov.uk": [
-      "https://cdei.blog.gov.uk/author/ghazi-ahamat/feed/",
-      "https://cdei.blog.gov.uk/category/algorithms/feed/",
-      "https://cdei.blog.gov.uk/category/artificial-intelligence/feed/",
-      "https://cdei.blog.gov.uk/category/cdei-reviews/feed/",
-      "https://cdei.blog.gov.uk/category/equity/feed/",
-      "https://cdei.blog.gov.uk/feed/",
-      "https://cdei.blog.gov.uk/tag/algorithms/feed/",
-      "https://cdei.blog.gov.uk/tag/privacy/feed/",
-      "https://cdei.blog.gov.uk/tag/transparency/feed/"
     ],
     "censor.net": [
       "https://assets.censor.net/rss/censor.net/rss_ru_blogs.xml",
@@ -493,14 +400,6 @@
     "champion.com.ua": [
       "https://champion.com.ua/ukr/rss/"
     ],
-    "charitycommission.blog.gov.uk": [
-      "https://charitycommission.blog.gov.uk/2021/11/01/trustees-week-encouraging-different-perspectives/feed/",
-      "https://charitycommission.blog.gov.uk/category/charities-bill/feed/",
-      "https://charitycommission.blog.gov.uk/category/news/feed/",
-      "https://charitycommission.blog.gov.uk/category/registration/feed/",
-      "https://charitycommission.blog.gov.uk/category/regulation/feed/",
-      "https://charitycommission.blog.gov.uk/feed/"
-    ],
     "chaszmin.com.ua": [
       "https://chaszmin.com.ua/feed/"
     ],
@@ -520,31 +419,8 @@
       "https://city-izyum.pp.ua/category/news/feed/",
       "https://city-izyum.pp.ua/uk/feed/"
     ],
-    "civilservice.blog.gov.uk": [
-      "https://civilservice.blog.gov.uk/author/angela-macdonald/feed/",
-      "https://civilservice.blog.gov.uk/author/joe-smith/feed/",
-      "https://civilservice.blog.gov.uk/category/civil-service-leaders/feed/",
-      "https://civilservice.blog.gov.uk/category/uncategorized/feed/",
-      "https://civilservice.blog.gov.uk/feed/"
-    ],
     "ck-oda.gov.ua": [
       "https://ck-oda.gov.ua/feed/"
-    ],
-    "coindesk.com": [
-      "https://www.coindesk.com/arc/outboundfeeds/rss",
-      "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "https://www.coindesk.com/arc/outboundfeeds/rss/?_gl=1*uoasoa*_up*MQ..*_ga*MTA4NDYyMzU0LjE3MDYxNzY2Nzg.*_ga_VM3STRYVN8*MTcwNjE3NjY3Ni4xLjAuMTcwNjE3NjY3Ni4wLjAuMA...com",
-      "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
-      "https://www.coindesk.com/arc/outboundfeeds/rss?_gl=1*1280679*_up*MQ..*_ga*NTA1MTk2NzI4LjE3Mzg0MDczMjM.*_ga_VM3STRYVN8*MTczODc2NTI1Mi4yLjAuMTczODc2NTI1Mi4wLjAuMTc1NDA1NzgxNw..",
-      "https://www.coindesk.com/arc/outboundfeeds/rss?_gl=1*uoasoa*_up*MQ..*_ga*MTA4NDYyMzU0LjE3MDYxNzY2Nzg.*_ga_VM3STRYVN8*MTcwNjE3NjY3Ni4xLjAuMTcwNjE3NjY3Ni4wLjAuMA...com",
-      "https://www.coindesk.com/arc/outboundfeeds/rss?outputType=xml",
-      "https://www.coindesk.com/feed",
-      "https://www.coindesk.com/feed/author?author=ogodbole"
-    ],
-    "companieshouse.blog.gov.uk": [
-      "https://companieshouse.blog.gov.uk/author/katie-jones-recruitment-manager/feed/",
-      "https://companieshouse.blog.gov.uk/category/companies-house-transformation/feed/",
-      "https://companieshouse.blog.gov.uk/feed/"
     ],
     "crime-ua.com": [
       "http://crime-ua.com/rssfeed.xml",
@@ -571,57 +447,11 @@
       "https://dancor.sumy.ua/news.rss",
       "https://www.dancor.sumy.ua/all.rss"
     ],
-    "dcmslibraries.blog.gov.uk": [
-      "https://dcmslibraries.blog.gov.uk/author/ryan-johnson-business-engagement-marketing-manager-oxfordshire-county-council/feed/",
-      "https://dcmslibraries.blog.gov.uk/category/events/feed/",
-      "https://dcmslibraries.blog.gov.uk/feed/"
-    ],
-    "de.blog.anchor.fm": [
-      "https://de.blog.anchor.fm/create/rss.xml",
-      "https://de.blog.anchor.fm/grow/rss.xml",
-      "https://de.blog.anchor.fm/hip/rss.xml",
-      "https://de.blog.anchor.fm/share/rss.xml"
-    ],
     "defence-ua.com": [
       "https://defence-ua.com/rss/feed.xml"
     ],
-    "defradigital.blog.gov.uk": [
-      "https://defradigital.blog.gov.uk/2021/11/10/all-in-a-days-work-the-life-of-a-delivery-manager-in-defra-digital/feed/",
-      "https://defradigital.blog.gov.uk/author/alice-wilson/feed/",
-      "https://defradigital.blog.gov.uk/author/catherine-flack/feed/",
-      "https://defradigital.blog.gov.uk/author/graeme-claridge/feed/",
-      "https://defradigital.blog.gov.uk/author/jenny-rogal/feed/",
-      "https://defradigital.blog.gov.uk/author/lauren-stopps/feed/",
-      "https://defradigital.blog.gov.uk/author/louisa-mallon/feed/",
-      "https://defradigital.blog.gov.uk/author/melinda-twigg/feed/",
-      "https://defradigital.blog.gov.uk/author/sandeep-dhaliwal/feed/",
-      "https://defradigital.blog.gov.uk/category/transformation/feed/",
-      "https://defradigital.blog.gov.uk/category/user-centred-design/feed/",
-      "https://defradigital.blog.gov.uk/feed/",
-      "https://defradigital.blog.gov.uk/tag/digital/feed/",
-      "https://defradigital.blog.gov.uk/tag/user-needs/feed/"
-    ],
-    "defrafarming.blog.gov.uk": [
-      "https://defrafarming.blog.gov.uk/author/phil-stocker/feed/",
-      "https://defrafarming.blog.gov.uk/category/environmental-land-management-schemes/feed/",
-      "https://defrafarming.blog.gov.uk/category/payments-to-improve-animal-health-and-welfare/feed/",
-      "https://defrafarming.blog.gov.uk/feed/"
-    ],
-    "deframedia.blog.gov.uk": [
-      "https://deframedia.blog.gov.uk/feed/",
-      "https://deframedia.blog.gov.uk/tag/coastal-communities/feed/",
-      "https://deframedia.blog.gov.uk/tag/flood-defences/feed/"
-    ],
     "delo.ua": [
       "https://delo.ua/rss/posts-short/"
-    ],
-    "designnotes.blog.gov.uk": [
-      "https://designnotes.blog.gov.uk/author/design-system-team/feed/",
-      "https://designnotes.blog.gov.uk/author/timpaul/feed/",
-      "https://designnotes.blog.gov.uk/feed/"
-    ],
-    "despatch.blog.gov.uk": [
-      "https://despatch.blog.gov.uk/feed/"
     ],
     "detector.media": [
       "https://detector.media/rss/",
@@ -630,35 +460,8 @@
     "dev.ua": [
       "https://dev.ua/rss"
     ],
-    "dfedigital.blog.gov.uk": [
-      "https://dfedigital.blog.gov.uk/author/courtney-brightwell/feed/",
-      "https://dfedigital.blog.gov.uk/author/laura-croft/feed/",
-      "https://dfedigital.blog.gov.uk/author/nataliya-mykhalchenko/feed/",
-      "https://dfedigital.blog.gov.uk/author/robert-gammon/feed/",
-      "https://dfedigital.blog.gov.uk/category/accessibility/feed/",
-      "https://dfedigital.blog.gov.uk/category/multidisciplinary-teams/feed/",
-      "https://dfedigital.blog.gov.uk/category/neurodiversity/feed/",
-      "https://dfedigital.blog.gov.uk/category/service-design/feed/",
-      "https://dfedigital.blog.gov.uk/feed/"
-    ],
-    "digitaltrade.blog.gov.uk": [
-      "https://digitaltrade.blog.gov.uk/author/jonathan-anderson-employee-experience-portfolio-lead/feed/",
-      "https://digitaltrade.blog.gov.uk/author/miranda-pottinger-programme-lead/feed/",
-      "https://digitaltrade.blog.gov.uk/category/flexible-working/feed/",
-      "https://digitaltrade.blog.gov.uk/feed/",
-      "https://digitaltrade.blog.gov.uk/tag/international-volunteer-day/feed/"
-    ],
     "divoche.media": [
       "https://divoche.media/feed/"
-    ],
-    "dluhcdigital.blog.gov.uk": [
-      "https://dluhcdigital.blog.gov.uk/author/umar-sani/feed/",
-      "https://dluhcdigital.blog.gov.uk/category/epb/feed/",
-      "https://dluhcdigital.blog.gov.uk/category/funding-service-design/feed/",
-      "https://dluhcdigital.blog.gov.uk/category/local-digital/local-digital-training/feed/",
-      "https://dluhcdigital.blog.gov.uk/feed/",
-      "https://dluhcdigital.blog.gov.uk/tag/digital-planning-software/feed/",
-      "https://dluhcdigital.blog.gov.uk/tag/digital-planning/feed/"
     ],
     "dnipro.tv": [
       "https://dnipro.tv/feed/"
@@ -667,16 +470,9 @@
       "https://dp.informator.ua/feed/",
       "https://dp.informator.ua/feed/atom/"
     ],
-    "dronexl.co": [
-      "https://dronexl.co/feed/"
-    ],
     "dumskaya.net": [
       "https://dumskaya.net/rssarticles/",
       "https://dumskaya.net/rssnews"
-    ],
-    "dvladigital.blog.gov.uk": [
-      "https://dvladigital.blog.gov.uk/author/tom-collins/feed/",
-      "https://dvladigital.blog.gov.uk/feed/"
     ],
     "dyvys.info": [
       "https://dyvys.info/feed/"
@@ -684,29 +480,11 @@
     "dzvin.media": [
       "https://dzvin.media/news-category/blogs/feed/"
     ],
-    "educationhub.blog.gov.uk": [
-      "https://educationhub.blog.gov.uk/author/hollieborland/feed/",
-      "https://educationhub.blog.gov.uk/category/attendance/feed/",
-      "https://educationhub.blog.gov.uk/category/condition-improvement-fund/feed/",
-      "https://educationhub.blog.gov.uk/category/schools/feed/",
-      "https://educationhub.blog.gov.uk/category/universities/feed/",
-      "https://educationhub.blog.gov.uk/feed/"
-    ],
     "elevatorist.com": [
       "https://elevatorist.com/rss/novosti"
     ],
     "elle.ua": [
       "https://elle.ua/rss/rss.php"
-    ],
-    "eng.obozrevatel.com": [
-      "https://eng.obozrevatel.com/api/media/out/rss/lastnews.xml"
-    ],
-    "environmentagency.blog.gov.uk": [
-      "https://environmentagency.blog.gov.uk/category/water/feed/",
-      "https://environmentagency.blog.gov.uk/feed/",
-      "https://environmentagency.blog.gov.uk/tag/flood-defences/feed/",
-      "https://environmentagency.blog.gov.uk/tag/medmerry/feed/",
-      "https://environmentagency.blog.gov.uk/tag/water-2/feed/"
     ],
     "epravda.com.ua": [
       "https://epravda.com.ua/rss/",
@@ -736,13 +514,6 @@
       "https://www.epravda.com.ua/rus/rss/id_434/",
       "https://www.epravda.com.ua/rus/rss/id_477/"
     ],
-    "es.blog.anchor.fm": [
-      "https://es.blog.anchor.fm/create/rss.xml",
-      "https://es.blog.anchor.fm/grow/rss.xml",
-      "https://es.blog.anchor.fm/hip/rss.xml",
-      "https://es.blog.anchor.fm/share/rss.xml",
-      "https://es.blog.anchor.fm/updates/rss.xml"
-    ],
     "espreso.tv": [
       "https://espreso.tv/rss"
     ],
@@ -760,81 +531,8 @@
       "https://www.eurointegration.com.ua/rss/view_pubs/",
       "https://www.eurointegration.com.ua/rus/rss/"
     ],
-    "eurojust.europa.eu": [
-      "https://www.eurojust.europa.eu/rss/events.xml",
-      "https://www.eurojust.europa.eu/rss/news.xml",
-      "https://www.eurojust.europa.eu/rss/press-releases.xml",
-      "https://www.eurojust.europa.eu/rss/publications.xml"
-    ],
-    "eurojust.europa.eu:443": [
-      "https://www.eurojust.europa.eu:443/rss/events.xml",
-      "https://www.eurojust.europa.eu:443/rss/news.xml",
-      "https://www.eurojust.europa.eu:443/rss/press-releases.xml",
-      "https://www.eurojust.europa.eu:443/rss/publications.xml"
-    ],
-    "extremismcommission.blog.gov.uk": [
-      "https://extremismcommission.blog.gov.uk/category/blog/feed/",
-      "https://extremismcommission.blog.gov.uk/category/reactive-statements/feed/",
-      "https://extremismcommission.blog.gov.uk/category/speeches/feed/",
-      "https://extremismcommission.blog.gov.uk/feed/"
-    ],
     "fakty.com.ua": [
       "https://fakty.com.ua/ua/feed/"
-    ],
-    "feeds.bbci.co.uk": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml"
-    ],
-    "feeds.captivate.fm": [
-      "https://feeds.captivate.fm/culture-of-everything/",
-      "https://feeds.captivate.fm/epravda/",
-      "https://feeds.captivate.fm/golovna-observatoria/",
-      "https://feeds.captivate.fm/savecountry/",
-      "https://feeds.captivate.fm/svit-not-sweet/",
-      "https://feeds.captivate.fm/temperature-normal/",
-      "https://feeds.captivate.fm/temperature_normal/",
-      "https://feeds.captivate.fm/up-chat/",
-      "https://feeds.captivate.fm/up2/"
-    ],
-    "feeds.feedburner.com": [
-      "http://feeds.feedburner.com/informer_od_ua",
-      "https://feeds.feedburner.com/itcua",
-      "https://feeds.feedburner.com/vctr/feed"
-    ],
-    "feeds.simplecast.com": [
-      "https://feeds.simplecast.com/k_MKzWy1"
     ],
     "financy.24tv.ua": [
       "https://24tv.ua/rss/all.xml"
@@ -847,35 +545,12 @@
       "https://focus.ua/modules/rss.php",
       "https://focus.ua/uk/modules/rss.php"
     ],
-    "food.blog.gov.uk": [
-      "https://food.blog.gov.uk/feed/"
-    ],
     "football24.ua": [
       "https://football24.ua/feed/showRss.do"
-    ],
-    "foresightprojects.blog.gov.uk": [
-      "https://foresightprojects.blog.gov.uk/author/melissajackson/feed/",
-      "https://foresightprojects.blog.gov.uk/author/stephen-bennett/feed/",
-      "https://foresightprojects.blog.gov.uk/category/fast-facts/feed/",
-      "https://foresightprojects.blog.gov.uk/category/outreach/feed/",
-      "https://foresightprojects.blog.gov.uk/feed/"
-    ],
-    "forestrycommission.blog.gov.uk": [
-      "https://forestrycommission.blog.gov.uk/author/kate-tobin/feed/",
-      "https://forestrycommission.blog.gov.uk/author/sir-william-worsley/feed/",
-      "https://forestrycommission.blog.gov.uk/category/ancient-woodland/feed/",
-      "https://forestrycommission.blog.gov.uk/feed/"
     ],
     "fostylen.com": [
       "https://fostylen.com/feed/",
       "https://fostylen.com/feed/rdf/"
-    ],
-    "fr.blog.anchor.fm": [
-      "https://fr.blog.anchor.fm/create/rss.xml",
-      "https://fr.blog.anchor.fm/grow/rss.xml",
-      "https://fr.blog.anchor.fm/hip/rss.xml",
-      "https://fr.blog.anchor.fm/share/rss.xml",
-      "https://fr.blog.anchor.fm/updates/rss.xml"
     ],
     "galinfo.com.ua": [
       "https://galinfo.com.ua/api/news-rss",
@@ -897,20 +572,6 @@
       "https://gazeta.ua/ru/rss",
       "https://m.gazeta.ua/ru/rss"
     ],
-    "gds.blog.gov.uk": [
-      "https://gds.blog.gov.uk/2011/02/15/right-to-data-and-the-protection-of-freedoms-bill/feed/",
-      "https://gds.blog.gov.uk/author/gds-digital-engagement-team/feed/",
-      "https://gds.blog.gov.uk/author/gds/feed/",
-      "https://gds.blog.gov.uk/author/jane-van-de-ban-lead-content-designer-for-gov-uk-government-digital-service/feed/",
-      "https://gds.blog.gov.uk/author/jon-kirwan-front-end-developer-gds/feed/",
-      "https://gds.blog.gov.uk/author/natalie-jones-director-of-digital-identity-government-digital-service/feed/",
-      "https://gds.blog.gov.uk/author/tom-read/feed/",
-      "https://gds.blog.gov.uk/author/tomread/feed/",
-      "https://gds.blog.gov.uk/author/vanessaschneider/feed/",
-      "https://gds.blog.gov.uk/category/digital-data-and-technology/technology/feed/",
-      "https://gds.blog.gov.uk/category/digital-strategy/feed/",
-      "https://gds.blog.gov.uk/feed/"
-    ],
     "glavcom.ua": [
       "https://glavcom.ua/xml/content/6694.xml",
       "https://glavcom.ua/xml/rss.xml"
@@ -924,49 +585,6 @@
     ],
     "golossokal.com.ua": [
       "https://golossokal.com.ua/feed"
-    ],
-    "gordonua.com": [
-      "https://gordonua.com/ukr/xml/rss.html",
-      "https://gordonua.com/ukr/xml/rss.xml",
-      "https://gordonua.com/xml/rss.html",
-      "https://gordonua.com/xml/rss.xml",
-      "https://gordonua.com/xml/rss_category/politics.html",
-      "https://gordonua.com/xml/rss_category/top.html"
-    ],
-    "gott.blog.gov.uk": [
-      "https://gott.blog.gov.uk/feed/"
-    ],
-    "gov.uk": [
-      "https://www.gov.uk/foreign-travel-advice.atom",
-      "https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories.atom",
-      "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy.atom",
-      "https://www.gov.uk/government/organisations/department-for-business-innovation-skills.atom",
-      "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport.atom",
-      "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs.atom",
-      "https://www.gov.uk/government/organisations/department-for-international-development.atom",
-      "https://www.gov.uk/government/organisations/department-for-international-trade.atom",
-      "https://www.gov.uk/government/organisations/department-for-transport.atom",
-      "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency.atom",
-      "https://www.gov.uk/government/organisations/foreign-commonwealth-office.atom",
-      "https://www.gov.uk/government/organisations/hm-treasury.atom",
-      "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
-      "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government.atom",
-      "https://www.gov.uk/government/organisations/morecambe-bay-investigation.atom",
-      "https://www.gov.uk/government/organisations/northern-ireland-office.atom",
-      "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland.atom",
-      "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland.atom",
-      "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales.atom",
-      "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street.atom",
-      "https://www.gov.uk/government/organisations/uk-visas-and-immigration.atom",
-      "https://www.gov.uk/search/all.atom",
-      "https://www.gov.uk/search/news-and-communications.atom"
-    ],
-    "governmentscienceandengineering.blog.gov.uk": [
-      "https://governmentscienceandengineering.blog.gov.uk/author/gse-profession/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/diversity-inclusion/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/our-people-and-deep-dives/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/tag/science/feed/"
     ],
     "greenpost.ua": [
       "https://greenpost.ua/rssfeed/rss.xml",
@@ -989,29 +607,6 @@
     "happymonday.ua": [
       "https://happymonday.ua/feed"
     ],
-    "healthmedia.blog.gov.uk": [
-      "https://healthmedia.blog.gov.uk/feed/"
-    ],
-    "healthtech.blog.gov.uk": [
-      "https://healthtech.blog.gov.uk/author/mary-hudson/feed/",
-      "https://healthtech.blog.gov.uk/author/matt-hancock-mp/feed/",
-      "https://healthtech.blog.gov.uk/category/covid-19/feed/",
-      "https://healthtech.blog.gov.uk/category/ethics/feed/",
-      "https://healthtech.blog.gov.uk/feed/"
-    ],
-    "history.blog.gov.uk": [
-      "https://history.blog.gov.uk/2016/09/21/redesigning-no-10-downing-street/feed/",
-      "https://history.blog.gov.uk/2016/11/09/rethinking-no-10-downing-street/feed/",
-      "https://history.blog.gov.uk/author/dr-dan-lomas/feed/",
-      "https://history.blog.gov.uk/category/cabinet-confidential/feed/",
-      "https://history.blog.gov.uk/category/cabinet-secretaries/feed/",
-      "https://history.blog.gov.uk/category/defence-and-conflict/intelligence-services-defence-and-conflict/feed/",
-      "https://history.blog.gov.uk/category/no-10-guest-historian-series/feed/",
-      "https://history.blog.gov.uk/category/past-prime-ministers/feed/",
-      "https://history.blog.gov.uk/category/prime-ministers-and-no-10/feed/",
-      "https://history.blog.gov.uk/category/the-national-archives/feed/",
-      "https://history.blog.gov.uk/feed/"
-    ],
     "hmarochos.kiev.ua": [
       "https://hmarochos.kiev.ua/feed/",
       "https://hmarochos.kiev.ua/feed/gn"
@@ -1019,13 +614,6 @@
     "holosameryky.com": [
       "https://www.holosameryky.com/api/",
       "https://www.holosameryky.com/api/zroymeukym"
-    ],
-    "homeofficemedia.blog.gov.uk": [
-      "https://homeofficemedia.blog.gov.uk/author/cthomas/feed/",
-      "https://homeofficemedia.blog.gov.uk/category/leading-stories/feed/",
-      "https://homeofficemedia.blog.gov.uk/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/english-channel/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/net-migration/feed/"
     ],
     "hromadske.radio": [
       "https://hromadske.radio/feed"
@@ -1036,17 +624,6 @@
     "hvylya.net": [
       "https://hvylya.net/feed/rss2.xml"
     ],
-    "icds.ee": [
-      "https://icds.ee/en/feed/",
-      "https://icds.ee/feed/"
-    ],
-    "id.blog.anchor.fm": [
-      "https://id.blog.anchor.fm/create/rss.xml",
-      "https://id.blog.anchor.fm/grow/rss.xml",
-      "https://id.blog.anchor.fm/hip/rss.xml",
-      "https://id.blog.anchor.fm/share/rss.xml",
-      "https://id.blog.anchor.fm/updates/rss.xml"
-    ],
     "imi.org.ua": [
       "https://imi.org.ua/blogs/feed",
       "https://imi.org.ua/en/blogs/feed",
@@ -1056,10 +633,6 @@
     ],
     "imzo.gov.ua": [
       "https://imzo.gov.ua/feed/"
-    ],
-    "incrypted.com": [
-      "https://incrypted.com/feed/",
-      "https://incrypted.com/news/feed/"
     ],
     "inforesist.org": [
       "https://inforesist.org/feed/"
@@ -1075,63 +648,6 @@
     "inshe.tv": [
       "https://inshe.tv/feed/",
       "https://inshe.tv/feed/atom/"
-    ],
-    "insidedio.blog.gov.uk": [
-      "https://insidedio.blog.gov.uk/2022/03/28/sanctuary-awards-2021-celebrating-30-years-of-achievements-in-conservation-and-sustainability/feed/",
-      "https://insidedio.blog.gov.uk/author/lieutenant-colonel-adrian-hunter-mbe/feed/",
-      "https://insidedio.blog.gov.uk/category/armed-forces/feed/",
-      "https://insidedio.blog.gov.uk/category/commercial/feed/",
-      "https://insidedio.blog.gov.uk/category/environment-and-ecology/sanctuary-awards/feed/",
-      "https://insidedio.blog.gov.uk/category/facilities-management/feed/",
-      "https://insidedio.blog.gov.uk/category/inclusion/feed/",
-      "https://insidedio.blog.gov.uk/category/royal-navy/glen-mallan-jetty/feed/",
-      "https://insidedio.blog.gov.uk/category/sustainability/feed/",
-      "https://insidedio.blog.gov.uk/category/united-states-visiting-forces-infrastructure-programme/feed/",
-      "https://insidedio.blog.gov.uk/category/united-states-visiting-forces-infrastructure-programme/raf-lakenheath/feed/",
-      "https://insidedio.blog.gov.uk/feed/",
-      "https://insidedio.blog.gov.uk/tag/british-army/feed/",
-      "https://insidedio.blog.gov.uk/tag/raf-lakenheath/feed/",
-      "https://insidedio.blog.gov.uk/tag/salisbury-plain-training-area/feed/"
-    ],
-    "insidedvla.blog.gov.uk": [
-      "https://insidedvla.blog.gov.uk/author/amy-taafe-evans/feed/",
-      "https://insidedvla.blog.gov.uk/author/andrew-lees/feed/",
-      "https://insidedvla.blog.gov.uk/author/donna-wright/feed/",
-      "https://insidedvla.blog.gov.uk/author/dr-nick-jenkins/feed/",
-      "https://insidedvla.blog.gov.uk/author/dvla-external-comms/feed/",
-      "https://insidedvla.blog.gov.uk/author/harry-harding/feed/",
-      "https://insidedvla.blog.gov.uk/author/karen-pitt/feed/",
-      "https://insidedvla.blog.gov.uk/author/lucy-whitaker/feed/",
-      "https://insidedvla.blog.gov.uk/author/nathan-morris/feed/",
-      "https://insidedvla.blog.gov.uk/author/paul-davies/feed/",
-      "https://insidedvla.blog.gov.uk/author/robia-ali/feed/",
-      "https://insidedvla.blog.gov.uk/author/tom-pritchard/feed/",
-      "https://insidedvla.blog.gov.uk/category/driver-licensing/feed/",
-      "https://insidedvla.blog.gov.uk/category/drivers-medical/feed/",
-      "https://insidedvla.blog.gov.uk/category/enforcement/feed/",
-      "https://insidedvla.blog.gov.uk/category/features/feed/",
-      "https://insidedvla.blog.gov.uk/category/sustainability/feed/",
-      "https://insidedvla.blog.gov.uk/category/vehicle-tax/feed/",
-      "https://insidedvla.blog.gov.uk/feed/"
-    ],
-    "insidehmcts.blog.gov.uk": [
-      "https://insidehmcts.blog.gov.uk/author/ester-franklin-smith/feed/",
-      "https://insidehmcts.blog.gov.uk/author/laura-connor/feed/",
-      "https://insidehmcts.blog.gov.uk/author/nick-goodwin-chief-executive-hmcts/feed/",
-      "https://insidehmcts.blog.gov.uk/author/olivia-jorgensen-aitchison/feed/",
-      "https://insidehmcts.blog.gov.uk/author/tim-britten-programme-director-crime-programme/feed/",
-      "https://insidehmcts.blog.gov.uk/author/william-slade/feed/",
-      "https://insidehmcts.blog.gov.uk/category/court-and-tribunal-reform/feed/",
-      "https://insidehmcts.blog.gov.uk/category/covid-19/feed/",
-      "https://insidehmcts.blog.gov.uk/category/digital-services/feed/",
-      "https://insidehmcts.blog.gov.uk/category/general/feed/",
-      "https://insidehmcts.blog.gov.uk/category/tribunals/feed/",
-      "https://insidehmcts.blog.gov.uk/category/user-experience-and-research/feed/",
-      "https://insidehmcts.blog.gov.uk/feed/"
-    ],
-    "insolvencyservice.blog.gov.uk": [
-      "https://insolvencyservice.blog.gov.uk/category/working-for-the-insolvency-service/feed/",
-      "https://insolvencyservice.blog.gov.uk/feed/"
     ],
     "intent.press": [
       "https://intent.press/en/rss/",
@@ -1150,19 +666,9 @@
     "investory.news": [
       "https://investory.news/feed/"
     ],
-    "iono.fm": [
-      "https://iono.fm/rss/chan/7367"
-    ],
     "ipress.ua": [
       "http://ipress.ua/rss/export.rss",
       "https://ipress.ua/rss/export.rss"
-    ],
-    "it.blog.anchor.fm": [
-      "https://it.blog.anchor.fm/create/rss.xml",
-      "https://it.blog.anchor.fm/grow/rss.xml",
-      "https://it.blog.anchor.fm/hip/rss.xml",
-      "https://it.blog.anchor.fm/share/rss.xml",
-      "https://it.blog.anchor.fm/updates/rss.xml"
     ],
     "itc.ua": [
       "https://feeds.feedburner.com/itcua",
@@ -1195,13 +701,6 @@
     "itukraine.org.ua": [
       "https://itukraine.org.ua/feed/"
     ],
-    "ja.blog.anchor.fm": [
-      "https://ja.blog.anchor.fm/create/rss.xml",
-      "https://ja.blog.anchor.fm/grow/rss.xml",
-      "https://ja.blog.anchor.fm/hip/rss.xml",
-      "https://ja.blog.anchor.fm/share/rss.xml",
-      "https://ja.blog.anchor.fm/updates/rss.xml"
-    ],
     "kanaldim.tv": [
       "https://kanaldim.tv/category/news-uk/feed/",
       "https://kanaldim.tv/category/opinions-uk/feed/",
@@ -1220,20 +719,11 @@
     "khmnu.edu.ua": [
       "https://khmnu.edu.ua/feed/"
     ],
-    "kingsawards.blog.gov.uk": [
-      "https://kingsawards.blog.gov.uk/feed/"
-    ],
     "km-oblrada.gov.ua": [
       "https://km-oblrada.gov.ua/feed/"
     ],
     "knuba.edu.ua": [
       "https://www.knuba.edu.ua/feed/"
-    ],
-    "ko.blog.anchor.fm": [
-      "https://ko.blog.anchor.fm/create/rss.xml",
-      "https://ko.blog.anchor.fm/grow/rss.xml",
-      "https://ko.blog.anchor.fm/share/rss.xml",
-      "https://ko.blog.anchor.fm/updates/rss.xml"
     ],
     "kontrakty.ua": [
       "http://kontrakty.ua/feed/.ukrnet",
@@ -1298,56 +788,8 @@
     "lexinform.com.ua": [
       "https://lexinform.com.ua/feed/"
     ],
-    "life.obozrevatel.com": [
-      "https://life.obozrevatel.com/api/media/out/rss/lastnews.xml",
-      "https://life.obozrevatel.com/ukr/api/media/out/rss/lastnews.xml"
-    ],
     "life.pravda.com.ua": [
       "https://life.pravda.com.ua/rss/"
-    ],
-    "liga.net": [
-      "https://www.liga.net/biz/all/rss.xml",
-      "https://www.liga.net/biz/articles/rss.xml",
-      "https://www.liga.net/biz/interview/rss.xml",
-      "https://www.liga.net/biz/news/rss.xml",
-      "https://www.liga.net/biz/opinion/rss.xml",
-      "https://www.liga.net/biz/photo/rss.xml",
-      "https://www.liga.net/biz/top/rss.xml",
-      "https://www.liga.net/biz/video/rss.xml",
-      "https://www.liga.net/fin/crypto/rss.xml",
-      "https://www.liga.net/fin/export/all.xml",
-      "https://www.liga.net/fin/export/bank.xml",
-      "https://www.liga.net/fin/export/funds.xml",
-      "https://www.liga.net/fin/export/insurance.xml",
-      "https://www.liga.net/fin/export/top.xml",
-      "https://www.liga.net/fin/opinion/rss.xml",
-      "https://www.liga.net/life/all/rss.xml",
-      "https://www.liga.net/news/all/rss.xml",
-      "https://www.liga.net/news/articles/rss.xml",
-      "https://www.liga.net/news/capital/rss.xml",
-      "https://www.liga.net/news/culture/rss.xml",
-      "https://www.liga.net/news/economics/rss.xml",
-      "https://www.liga.net/news/health/rss.xml",
-      "https://www.liga.net/news/interview/rss.xml",
-      "https://www.liga.net/news/photo/rss.xml",
-      "https://www.liga.net/news/politics/rss.xml",
-      "https://www.liga.net/news/rss.xml",
-      "https://www.liga.net/news/society/rss.xml",
-      "https://www.liga.net/news/sport/rss.xml",
-      "https://www.liga.net/news/top/rss.xml",
-      "https://www.liga.net/news/video/rss.xml",
-      "https://www.liga.net/news/world/rss.xml",
-      "https://www.liga.net/newsua/all/rss.xml",
-      "https://www.liga.net/newsua/top/rss.xml",
-      "https://www.liga.net/rss/blog.xml",
-      "https://www.liga.net/tech/all/rss.xml",
-      "https://www.liga.net/tech/battles/rss.xml",
-      "https://www.liga.net/tech/gadgets/rss.xml",
-      "https://www.liga.net/tech/own-business/rss.xml",
-      "https://www.liga.net/tech/technology/rss.xml",
-      "https://www.liga.net/tech/telecom/rss.xml",
-      "https://www.liga.net/tech/top/rss.xml",
-      "https://www.liga.net/tech/vlog/rss.xml"
     ],
     "lmn.in.ua": [
       "https://www.lmn.in.ua/blogs/iryna-yaremchuk/feed/",
@@ -1373,9 +815,6 @@
     "marieclaire.ua": [
       "https://marieclaire.ua/rss-feed-common"
     ],
-    "marinedevelopments.blog.gov.uk": [
-      "https://marinedevelopments.blog.gov.uk/feed/"
-    ],
     "mc.today": [
       "https://mc.today/category/marketing/feed/",
       "https://mc.today/feed/",
@@ -1387,24 +826,6 @@
     "mepr.gov.ua": [
       "https://mepr.gov.ua/feed/"
     ],
-    "mezha.media": [
-      "https://mezha.media/en/feed/",
-      "https://mezha.media/feed/",
-      "https://mezha.ua/en/feed/",
-      "https://mezha.ua/feed/"
-    ],
-    "mhrainspectorate.blog.gov.uk": [
-      "https://mhrainspectorate.blog.gov.uk/author/amirahhussain/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/ewannorton/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/joanneparkin/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/lisacampbell2/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/rachel-mead/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/clinical-trials/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/good-manufacturing-practice/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/good-pharmacovigilance-practice/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/inside-the-inspectorate/feed/",
-      "https://mhrainspectorate.blog.gov.uk/feed/"
-    ],
     "mil.in.ua": [
       "https://mil.in.ua/en/blogs/feed/",
       "https://mil.in.ua/en/news/feed/",
@@ -1412,10 +833,6 @@
       "https://mil.in.ua/pl/blogs/feed/",
       "https://mil.in.ua/uk/blogs/feed/",
       "https://mil.in.ua/uk/news/feed/"
-    ],
-    "militarnyi.com": [
-      "https://militarnyi.com/en/blogs/feed/",
-      "https://militarnyi.com/uk/blogs/feed/"
     ],
     "mind.ua": [
       "https://s.mind.ua/rss/en/all.xml",
@@ -1435,22 +852,8 @@
     "mmr.ua": [
       "https://mmr.ua/feed/"
     ],
-    "moderncivilservice.blog.gov.uk": [
-      "https://moderncivilservice.blog.gov.uk/feed/"
-    ],
-    "mojdigital.blog.gov.uk": [
-      "https://mojdigital.blog.gov.uk/author/jennifer-logan/feed/",
-      "https://mojdigital.blog.gov.uk/author/joanne-lumsden/feed/",
-      "https://mojdigital.blog.gov.uk/category/collaboration/feed/",
-      "https://mojdigital.blog.gov.uk/category/covid-19/feed/",
-      "https://mojdigital.blog.gov.uk/category/our-people/feed/",
-      "https://mojdigital.blog.gov.uk/feed/"
-    ],
     "ms.detector.media": [
       "https://ms.detector.media/rss/"
-    ],
-    "musique.rfi.fr": [
-      "https://musique.rfi.fr/actu-musique/rss"
     ],
     "nachasi.com": [
       "https://nachasi.com/feed"
@@ -1469,28 +872,6 @@
     ],
     "nashreporter.com": [
       "https://nashreporter.com/feed"
-    ],
-    "nato.int": [
-      "https://www.nato.int/cps/rss/en/natohq/rssFeed.xsl/rssFeed.xml",
-      "https://www.nato.int/cps/rss/en/natolive/rssFeed.xsl/rssFeed.xml"
-    ],
-    "nda.blog.gov.uk": [
-      "https://nda.blog.gov.uk/author/ashleigh-williamson/feed/",
-      "https://nda.blog.gov.uk/author/mark-wareing-nda-major-projects-and-programmes-manager/feed/",
-      "https://nda.blog.gov.uk/author/martin-chown/feed/",
-      "https://nda.blog.gov.uk/category/safety-and-wellbeing/diversity/feed/",
-      "https://nda.blog.gov.uk/category/supply-chain/feed/",
-      "https://nda.blog.gov.uk/feed/",
-      "https://nda.blog.gov.uk/tag/cumbria/feed/",
-      "https://nda.blog.gov.uk/tag/innovation/feed/",
-      "https://nda.blog.gov.uk/tag/social-impact/feed/",
-      "https://nda.blog.gov.uk/tag/stem/feed/"
-    ],
-    "news.bitcoin.com": [
-      "https://news.bitcoin.com/category/blockchain/feed/",
-      "https://news.bitcoin.com/feed/",
-      "https://news.bitcoin.com/ru/feed/",
-      "https://news.bitcoin.com/tag/cosmos-atom/feed/"
     ],
     "news.dtkt.ua": [
       "https://news.dtkt.ua/rss"
@@ -1576,21 +957,6 @@
       "https://www.liga.net/ua/opinion/rss.xml",
       "https://www.liga.net/ua/rss/blog.xml"
     ],
-    "news.samsung.com": [
-      "https://news.samsung.com/de/feed",
-      "https://news.samsung.com/global/category/press-resources/press-release/feed",
-      "https://news.samsung.com/global/category/products/mobile/feed",
-      "https://news.samsung.com/global/feed",
-      "https://news.samsung.com/in/feed",
-      "https://news.samsung.com/ru/feed",
-      "https://news.samsung.com/us/feed/"
-    ],
-    "news.sap.com": [
-      "http://news.sap.com/germany/tags/digitalisierung/feed/",
-      "http://news.sap.com/germany/topics/cloud/feed/",
-      "https://news.sap.com/feed/",
-      "https://news.sap.com/france/feed/"
-    ],
     "news.telegraf.com.ua": [
       "https://telegraf.com.ua/rss",
       "https://telegraf.com.ua/ukr/rss"
@@ -1604,11 +970,6 @@
     "niss.gov.ua": [
       "https://www.niss.gov.ua/rss.xml"
     ],
-    "no10media.blog.gov.uk": [
-      "https://no10media.blog.gov.uk/author/number-10-media-team/feed/",
-      "https://no10media.blog.gov.uk/category/uncategorized/feed/",
-      "https://no10media.blog.gov.uk/feed/"
-    ],
     "noc-ukr.org": [
       "https://noc-ukr.org/news/rss/"
     ],
@@ -1617,9 +978,6 @@
       "https://novynarnia.com/feed/"
     ],
     "novyny.live": [
-      "https://novyny.live/rss/feed_en.rss",
-      "https://novyny.live/rss/feed_ru.rss",
-      "https://novyny.live/rss/feed_ua.rss",
       "https://novyny.live/rss/news_ua.rss"
     ],
     "nsju.org": [
@@ -1632,23 +990,8 @@
       "https://nv.ua/rss/all.xml",
       "https://nv.ua/ukr/rss/all.xml"
     ],
-    "obozrevatel.com": [
-      "https://www.obozrevatel.com/out/rss/lastnews.xml",
-      "https://www.obozrevatel.com/rss.xml",
-      "https://www.obozrevatel.com/ukr/out/rss/lastnews.xml"
-    ],
     "oda.zht.gov.ua": [
       "https://oda.zht.gov.ua/feed/"
-    ],
-    "ofqual.blog.gov.uk": [
-      "https://ofqual.blog.gov.uk/author/tom-bell/feed/",
-      "https://ofqual.blog.gov.uk/feed/"
-    ],
-    "ofsi.blog.gov.uk": [
-      "https://ofsi.blog.gov.uk/category/implementation/feed/",
-      "https://ofsi.blog.gov.uk/category/ofac/feed/",
-      "https://ofsi.blog.gov.uk/category/statistics/feed/",
-      "https://ofsi.blog.gov.uk/feed/"
     ],
     "okhtyrka.online": [
       "https://okhtyrka.online/feed/",
@@ -1658,9 +1001,6 @@
       "https://open4business.com.ua/de/feed/",
       "https://open4business.com.ua/en/feed/",
       "https://open4business.com.ua/feed/"
-    ],
-    "orthodoxtimes.com": [
-      "https://orthodoxtimes.com/feed/"
     ],
     "osvita-omr.gov.ua": [
       "https://osvita-omr.gov.ua/feed/"
@@ -1701,9 +1041,6 @@
       "https://podrobnosti.ua/rss/feed/?category=obschestvo",
       "https://podrobnosti.ua/rss/feed/?category=tehno",
       "https://podrobnosti.ua/rss/feed/?category=zdorove"
-    ],
-    "pol.obozrevatel.com": [
-      "https://pol.obozrevatel.com/api/media/out/rss/lastnews.xml"
     ],
     "poltava.to": [
       "https://blog.poltava.to/rss/belashov.xml",
@@ -1779,15 +1116,6 @@
     "presspoint.in.ua": [
       "https://presspoint.in.ua/feed/"
     ],
-    "prisonjobs.blog.gov.uk": [
-      "https://prisonjobs.blog.gov.uk/feed/"
-    ],
-    "prisonleaversproject.blog.gov.uk": [
-      "https://prisonleaversproject.blog.gov.uk/feed/"
-    ],
-    "projects.liga.net": [
-      "https://projects.liga.net/feed/"
-    ],
     "prostir.ua": [
       "https://www.prostir.ua/feed/?post_type=blogs",
       "https://www.prostir.ua/feed/?post_type=grants"
@@ -1795,14 +1123,6 @@
     "provce.ck.ua": [
       "https://provce.ck.ua/category/blogs/feed/",
       "https://provce.ck.ua/feed/"
-    ],
-    "publichealthinsider.com": [
-      "https://publichealthinsider.com/feed/"
-    ],
-    "quarterly.blog.gov.uk": [
-      "https://quarterly.blog.gov.uk/author/emma-lindsell/feed/",
-      "https://quarterly.blog.gov.uk/author/gemmaine-walsh/feed/",
-      "https://quarterly.blog.gov.uk/feed/"
     ],
     "rada.gov.ua": [
       "https://www.rada.gov.ua/rss/news",
@@ -1830,41 +1150,12 @@
       "https://www.rbc.ua/static/rss/all.ukr.rss.xml",
       "https://www.rbc.ua/static/rss/topnews.rus.rss.xml"
     ],
-    "recruitment.eurojust.europa.eu": [
-      "https://recruitment.eurojust.europa.eu/rss.php"
-    ],
     "redcross.org.ua": [
       "https://redcross.org.ua/feed/"
     ],
     "report.if.ua": [
       "http://report.if.ua/feed/",
       "https://report.if.ua/feed/"
-    ],
-    "rfi.fr": [
-      "http://www.rfi.fr/fr/%C3%A9conomie/rss",
-      "http://www.rfi.fr/fr/afrique-foot/rss",
-      "http://www.rfi.fr/fr/afrique/rss",
-      "http://www.rfi.fr/fr/am%C3%A9riques/rss",
-      "http://www.rfi.fr/fr/asie-pacifique/rss",
-      "http://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
-      "http://www.rfi.fr/fr/europe/rss",
-      "http://www.rfi.fr/fr/france/rss",
-      "http://www.rfi.fr/fr/moyen-orient/rss",
-      "http://www.rfi.fr/fr/rss",
-      "http://www.rfi.fr/fr/sciences/rss",
-      "http://www.rfi.fr/fr/sports/rss",
-      "https://www.rfi.fr/fr/%C3%A9conomie/rss",
-      "https://www.rfi.fr/fr/afrique-foot/rss",
-      "https://www.rfi.fr/fr/afrique/rss",
-      "https://www.rfi.fr/fr/am%C3%A9riques/rss",
-      "https://www.rfi.fr/fr/asie-pacifique/rss",
-      "https://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
-      "https://www.rfi.fr/fr/europe/rss",
-      "https://www.rfi.fr/fr/france/rss",
-      "https://www.rfi.fr/fr/moyen-orient/rss",
-      "https://www.rfi.fr/fr/rss",
-      "https://www.rfi.fr/fr/sciences/rss",
-      "https://www.rfi.fr/fr/sports/rss"
     ],
     "rivnepost.rv.ua": [
       "http://rivnepost.rv.ua/rss.xml",
@@ -1882,82 +1173,8 @@
       "https://root-nation.com/vi/ua/feed/",
       "https://root-nation.com/zh-TW/ua/feed/"
     ],
-    "rss.art19.com": [
-      "https://rss.art19.com/coindesk-reports",
-      "https://rss.art19.com/coindesks-money-reimagined",
-      "https://rss.art19.com/crypto-crooks",
-      "https://rss.art19.com/gen-c",
-      "https://rss.art19.com/hard-problems-with-bram-cohen",
-      "https://rss.art19.com/late-confirmation",
-      "https://rss.art19.com/mapping-out-eth-20",
-      "https://rss.art19.com/markets-daily",
-      "https://rss.art19.com/new-money-with-spencer-and-solo",
-      "https://rss.art19.com/nft-all-stars",
-      "https://rss.art19.com/on-purpose-with-tyrone-ross",
-      "https://rss.art19.com/opinionated",
-      "https://rss.art19.com/road-to-consensus-by-coindesk",
-      "https://rss.art19.com/the-hash",
-      "https://rss.art19.com/the-protocol",
-      "https://rss.art19.com/women-who-web3"
-    ],
-    "rss.dw.com": [
-      "https://rss.dw.com/rdf/rss-en-all",
-      "https://rss.dw.com/rdf/rss-fre-all",
-      "https://rss.dw.com/rdf/rss-tur-all",
-      "https://rss.dw.com/xml/DKpodcast_alltagsdeutsch_de",
-      "https://rss.dw.com/xml/DKpodcast_audiotrainer_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_videoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_video_de",
-      "https://rss.dw.com/xml/DKpodcast_dassagtmanso_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlaborUT_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlabor_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlehrerinfo_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_en",
-      "https://rss.dw.com/xml/DKpodcast_jojo2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo_de",
-      "https://rss.dw.com/xml/DKpodcast_lehrerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lernerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lgn_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_en",
-      "https://rss.dw.com/xml/DKpodcast_misjakrakow_en",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_de",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_en",
-      "https://rss.dw.com/xml/DKpodcast_missionparis_en",
-      "https://rss.dw.com/xml/DKpodcast_radiod1_de",
-      "https://rss.dw.com/xml/DKpodcast_radiod2_de",
-      "https://rss.dw.com/xml/DKpodcast_sprachbar_de",
-      "https://rss.dw.com/xml/DKpodcast_ticket_de",
-      "https://rss.dw.com/xml/DKpodcast_topthemamitvokabeln_de",
-      "https://rss.dw.com/xml/DKpodcast_wiesonicht_en",
-      "https://rss.dw.com/xml/DKpodcast_wortderwoche_de",
-      "https://rss.dw.com/xml/Dkpodcast_videothema_de"
-    ],
     "rss.knuba.edu.ua": [
       "https://rss.knuba.edu.ua/feed/"
-    ],
-    "rss.unian.net": [
-      "https://rss.unian.net/site/news_ukr.rss"
-    ],
-    "rsshub.app": [
-      "https://rsshub.app/bbc/chinese"
-    ],
-    "ru.euronews.com": [
-      "https://ru.euronews.com/rss",
-      "https://ru.euronews.com/rss?level=program&name=economy",
-      "https://ru.euronews.com/rss?level=theme&name=business",
-      "https://ru.euronews.com/rss?level=theme&name=culture-news"
     ],
     "ru.osvita.ua": [
       "http://ru.osvita.ua/rss/news/",
@@ -1966,31 +1183,16 @@
     "ru.osvita.ua:443": [
       "https://ru.osvita.ua:443/rss/news/"
     ],
-    "ruralpayments.blog.gov.uk": [
-      "https://ruralpayments.blog.gov.uk/feed/"
-    ],
     "s.mind.ua": [
       "https://s.mind.ua/rss/en/all.xml",
       "https://s.mind.ua/rss/ru/all.xml",
       "https://s.mind.ua/rss/ua/all.xml"
-    ],
-    "samsungmagazine.eu": [
-      "https://samsungmagazine.eu/feed/"
-    ],
-    "securities.io": [
-      "https://www.securities.io/feed/"
-    ],
-    "securityprofession.blog.gov.uk": [
-      "https://securityprofession.blog.gov.uk/feed/"
     ],
     "sensatsiya.com": [
       "https://sensatsiya.com/feed"
     ],
     "sensormedia.com.ua": [
       "https://sensormedia.com.ua/feed/"
-    ],
-    "setantasports.com": [
-      "https://setantasports.com/feed/"
     ],
     "shotam.info": [
       "https://shotam.info/feed/"
@@ -2004,58 +1206,6 @@
     ],
     "slukh.media": [
       "https://slukh.media/feed/"
-    ],
-    "socialcare.blog.gov.uk": [
-      "https://socialcare.blog.gov.uk/2021/11/04/a-workforce-made-with-care/feed/",
-      "https://socialcare.blog.gov.uk/author/clare-shard/feed/",
-      "https://socialcare.blog.gov.uk/author/mark-osterloh/feed/",
-      "https://socialcare.blog.gov.uk/author/mike-jacobs/feed/",
-      "https://socialcare.blog.gov.uk/author/victoria-hamilton/feed/",
-      "https://socialcare.blog.gov.uk/category/care-and-support-2/feed/",
-      "https://socialcare.blog.gov.uk/category/coronavirus/feed/",
-      "https://socialcare.blog.gov.uk/category/leadership/feed/",
-      "https://socialcare.blog.gov.uk/category/mental-health-2/feed/",
-      "https://socialcare.blog.gov.uk/category/recognition/feed/",
-      "https://socialcare.blog.gov.uk/category/viewpoint/feed/",
-      "https://socialcare.blog.gov.uk/category/workforce/feed/",
-      "https://socialcare.blog.gov.uk/feed/",
-      "https://socialcare.blog.gov.uk/tag/chief-nurse-for-adult-social-care-awards/feed/",
-      "https://socialcare.blog.gov.uk/tag/oakleaf/feed/",
-      "https://socialcare.blog.gov.uk/tag/social-care-nursing/feed/",
-      "https://socialcare.blog.gov.uk/tag/social-care/feed/",
-      "https://socialcare.blog.gov.uk/tag/vaccination/feed/"
-    ],
-    "socialcareinspection.blog.gov.uk": [
-      "https://socialcareinspection.blog.gov.uk/2019/10/11/kinship-care-what-are-the-issues/feed/",
-      "https://socialcareinspection.blog.gov.uk/2021/09/15/applying-to-register-a-childrens-home-top-tips/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/care-experienced/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/care-leavers/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/childminders/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/children-looked-after/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/childrens-services/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/early-intervention/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/education/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/fostering/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/kinship-care/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/looked-after-children/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/mental-health/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/partnership-working/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/social-care-professionals/feed/",
-      "https://socialcareinspection.blog.gov.uk/feed/"
-    ],
-    "socialworkwithadults.blog.gov.uk": [
-      "https://socialworkwithadults.blog.gov.uk/author/liz-howard/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/communities/feed/",
-      "https://socialworkwithadults.blog.gov.uk/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/sarah-mcclinton/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/social-work/feed/"
-    ],
-    "sortiraparis.com": [
-      "https://www.sortiraparis.com/de/rss/sortir",
-      "https://www.sortiraparis.com/pl/rss/sortir",
-      "https://www.sortiraparis.com/rss/sap",
-      "https://www.sortiraparis.com/rss/sortir",
-      "https://www.sortiraparis.com/sk/rss/sortir"
     ],
     "speka.media": [
       "https://speka.ua/rss"
@@ -2076,23 +1226,6 @@
     ],
     "sportnews.24tv.ua": [
       "https://24tv.ua/rss/all.xml"
-    ],
-    "spreaker.com": [
-      "https://www.spreaker.com/show/2321086/episodes/feed",
-      "https://www.spreaker.com/show/2873428/episodes/feed",
-      "https://www.spreaker.com/show/3101278/episodes/feed",
-      "https://www.spreaker.com/show/3647242/episodes/feed",
-      "https://www.spreaker.com/show/4167903/episodes/feed",
-      "https://www.spreaker.com/show/4186920/episodes/feed",
-      "https://www.spreaker.com/show/4540074/episodes/feed",
-      "https://www.spreaker.com/show/4697880/episodes/feed",
-      "https://www.spreaker.com/show/4834164/episodes/feed",
-      "https://www.spreaker.com/show/4839697/episodes/feed",
-      "https://www.spreaker.com/show/4909975/episodes/feed",
-      "https://www.spreaker.com/show/5100773/episodes/feed",
-      "https://www.spreaker.com/show/5190470/episodes/feed",
-      "https://www.spreaker.com/show/5686560/episodes/feed",
-      "https://www.spreaker.com/show/5928697/episodes/feed"
     ],
     "static.censor.net": [
       "https://static.censor.net/censornet/rss/rss_ru_blogs.xml",
@@ -2138,30 +1271,12 @@
       "https://sumy.today/author/743-ivanushtenkogennadiy.feed",
       "https://sumy.today/author/745-bukinandpiy.feed"
     ],
-    "supportingfamilies.blog.gov.uk": [
-      "https://supportingfamilies.blog.gov.uk/author/emmataylor/feed/",
-      "https://supportingfamilies.blog.gov.uk/author/ola-wojnowska/feed/",
-      "https://supportingfamilies.blog.gov.uk/category/education/feed/",
-      "https://supportingfamilies.blog.gov.uk/category/evaluation/feed/",
-      "https://supportingfamilies.blog.gov.uk/category/health/feed/",
-      "https://supportingfamilies.blog.gov.uk/feed/"
-    ],
-    "sustainableict.blog.gov.uk": [
-      "https://sustainableict.blog.gov.uk/feed/"
-    ],
     "svetlovodsk.com.ua": [
       "https://svetlovodsk.com.ua/blogs/rss.xml",
       "https://svetlovodsk.com.ua/rss.xml"
     ],
     "tabloid.pravda.com.ua": [
       "https://tabloid.pravda.com.ua/rss/"
-    ],
-    "taxagents.blog.gov.uk": [
-      "https://taxagents.blog.gov.uk/2015/08/24/agent-online-self-serve-aoss-private-beta-testing-update/feed/",
-      "https://taxagents.blog.gov.uk/feed/",
-      "https://taxagents.blog.gov.uk/tag/agent-bulk-appeal-form/feed/",
-      "https://taxagents.blog.gov.uk/tag/online/feed/",
-      "https://taxagents.blog.gov.uk/tag/sa370/feed/"
     ],
     "telegraf.com.ua": [
       "https://telegraf.com.ua/ukr/rss"
@@ -2175,9 +1290,6 @@
       "https://texty.org.ua/articles/feed.xml",
       "https://texty.org.ua/fragments/feed.xml",
       "https://texty.org.ua/mod/news/?view=rss"
-    ],
-    "theportugalnews.com": [
-      "https://www.theportugalnews.com/rss"
     ],
     "topgir.com.ua": [
       "http://topgir.com.ua/feed/",
@@ -2231,11 +1343,6 @@
     "ukrainky.com.ua": [
       "https://ukrainky.com.ua/feed/"
     ],
-    "ukranews.com": [
-      "http://ukranews.com/rss/all_ru.xml",
-      "https://ukranews.com/rss/all_ru.xml",
-      "https://ukranews.com/rss/all_uk.xml"
-    ],
     "ukrinform.ua": [
       "https://www.ukrinform.ua/rss/block-blogs",
       "https://www.ukrinform.ua/rss/block-lastnews",
@@ -2248,16 +1355,8 @@
     "uman24.org.ua": [
       "https://uman24.org.ua/feed/"
     ],
-    "unite.ai": [
-      "https://www.unite.ai/feed/"
-    ],
     "unn.ua": [
       "https://unn.ua/rss/news_uk.xml"
-    ],
-    "userresearch.blog.gov.uk": [
-      "https://userresearch.blog.gov.uk/author/ariana-mihoc/feed/",
-      "https://userresearch.blog.gov.uk/category/user-research/covid-19/feed/",
-      "https://userresearch.blog.gov.uk/feed/"
     ],
     "usionline.com": [
       "https://usionline.com/feed/"
@@ -2268,14 +1367,6 @@
     "uzr.com.ua": [
       "https://uzr.com.ua/feed/"
     ],
-    "vaticannews.va": [
-      "https://www.vaticannews.va/en.rss.xml",
-      "https://www.vaticannews.va/es.rss.xml",
-      "https://www.vaticannews.va/fr.rss.xml",
-      "https://www.vaticannews.va/it.rss.xml",
-      "https://www.vaticannews.va/pt.rss.xml",
-      "https://www.vaticannews.va/sk.rss.xml"
-    ],
     "vctr.media": [
       "https://feeds.feedburner.com/vctr/feed",
       "https://vctr.media/feed/",
@@ -2284,31 +1375,11 @@
     "vechirniy.kyiv.ua": [
       "https://vechirniy.kyiv.ua/rss"
     ],
-    "veteranstoday.blog.gov.uk": [
-      "https://veteranstoday.blog.gov.uk/category/armed-forces-charities/feed/",
-      "https://veteranstoday.blog.gov.uk/category/armed-forces-covenant/feed/",
-      "https://veteranstoday.blog.gov.uk/category/armed-forces-pensions/feed/",
-      "https://veteranstoday.blog.gov.uk/category/charities/feed/",
-      "https://veteranstoday.blog.gov.uk/feed/"
-    ],
-    "vets.blog.gov.uk": [
-      "https://vets.blog.gov.uk/author/anna-la-rocca/feed/",
-      "https://vets.blog.gov.uk/category/policy-work/feed/",
-      "https://vets.blog.gov.uk/feed/",
-      "https://vets.blog.gov.uk/tag/brexit/feed/"
-    ],
     "vgoru.org": [
       "https://vgoru.org/rss-google.xml"
     ],
     "video.detector.media": [
       "https://video.detector.media/rss.xml"
-    ],
-    "videosurveillance.blog.gov.uk": [
-      "https://videosurveillance.blog.gov.uk/author/tony-gleason/feed/",
-      "https://videosurveillance.blog.gov.uk/category/body-worn-video/feed/",
-      "https://videosurveillance.blog.gov.uk/category/dna/feed/",
-      "https://videosurveillance.blog.gov.uk/category/ico/feed/",
-      "https://videosurveillance.blog.gov.uk/feed/"
     ],
     "village.com.ua": [
       "https://www.village.com.ua/feeds/posts.atom"
@@ -2347,179 +1418,10 @@
     "www.avtomir.ua": [
       "https://www.avtomir.ua/feed/"
     ],
-    "www.bbc.com": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml",
-      "https://rsshub.app/bbc/chinese",
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
-    ],
-    "www.coindesk.com": [
-      "https://feeds.megaphone.fm/CDI4354797246",
-      "https://feeds.megaphone.fm/CDI5080916373",
-      "https://feeds.megaphone.fm/CDI6162904347",
-      "https://rss.art19.com/coindesk-reports",
-      "https://rss.art19.com/coindesks-money-reimagined",
-      "https://rss.art19.com/crypto-crooks",
-      "https://rss.art19.com/gen-c",
-      "https://rss.art19.com/hard-problems-with-bram-cohen",
-      "https://rss.art19.com/late-confirmation",
-      "https://rss.art19.com/mapping-out-eth-20",
-      "https://rss.art19.com/markets-daily",
-      "https://rss.art19.com/new-money-with-spencer-and-solo",
-      "https://rss.art19.com/nft-all-stars",
-      "https://rss.art19.com/on-purpose-with-tyrone-ross",
-      "https://rss.art19.com/opinionated",
-      "https://rss.art19.com/road-to-consensus-by-coindesk",
-      "https://rss.art19.com/the-hash",
-      "https://rss.art19.com/the-protocol",
-      "https://rss.art19.com/women-who-web3",
-      "https://www.coindesk.com/arc/outboundfeeds/rss",
-      "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "https://www.coindesk.com/arc/outboundfeeds/rss/?_gl=1*uoasoa*_up*MQ..*_ga*MTA4NDYyMzU0LjE3MDYxNzY2Nzg.*_ga_VM3STRYVN8*MTcwNjE3NjY3Ni4xLjAuMTcwNjE3NjY3Ni4wLjAuMA...com",
-      "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
-      "https://www.coindesk.com/arc/outboundfeeds/rss?_gl=1*1280679*_up*MQ..*_ga*NTA1MTk2NzI4LjE3Mzg0MDczMjM.*_ga_VM3STRYVN8*MTczODc2NTI1Mi4yLjAuMTczODc2NTI1Mi4wLjAuMTc1NDA1NzgxNw..",
-      "https://www.coindesk.com/arc/outboundfeeds/rss?_gl=1*uoasoa*_up*MQ..*_ga*MTA4NDYyMzU0LjE3MDYxNzY2Nzg.*_ga_VM3STRYVN8*MTcwNjE3NjY3Ni4xLjAuMTcwNjE3NjY3Ni4wLjAuMA...com",
-      "https://www.coindesk.com/arc/outboundfeeds/rss?outputType=xml",
-      "https://www.coindesk.com/feed",
-      "https://www.coindesk.com/feed/author?author=ogodbole"
-    ],
     "www.crime-ua.com": [
       "http://crime-ua.com/rssfeed.xml",
       "https://crime-ua.com/rss.xml",
       "https://crime-ua.com/rssfeed.xml"
-    ],
-    "www.dw.com": [
-      "https://blog.iono.fm/rss/",
-      "https://blog.spreaker.com/3-pieces-of-gear-for-starting-your-podcast/feed/",
-      "https://blog.spreaker.com/category/marketing/feed/",
-      "https://blog.spreaker.com/category/monetization/feed/",
-      "https://blog.spreaker.com/feed/",
-      "https://blog.spreaker.com/how-to-get-podcast-sponsors-the-ultimate-guide/feed/",
-      "https://blog.spreaker.com/how-to-power-up-your-marketing-funnel-with-podcasting/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-a-beginners-guide/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-website/feed/",
-      "https://feeds.simplecast.com/k_MKzWy1",
-      "https://iono.fm/rss/chan/7367",
-      "https://rss.dw.com/atom/rss-de-all",
-      "https://rss.dw.com/atom/rss-de-cul",
-      "https://rss.dw.com/atom/rss-de-cul-buch",
-      "https://rss.dw.com/atom/rss-de-cul-film",
-      "https://rss.dw.com/atom/rss-de-cul-musik",
-      "https://rss.dw.com/atom/rss-de-deutschlandentdecken",
-      "https://rss.dw.com/atom/rss-de-eco",
-      "https://rss.dw.com/atom/rss-de-news",
-      "https://rss.dw.com/atom/rss-de-sport",
-      "https://rss.dw.com/atom/rss-de-top",
-      "https://rss.dw.com/atom/rss-de-wissenschaft",
-      "https://rss.dw.com/atom/rss-en-all",
-      "https://rss.dw.com/rdf/rss-en-all",
-      "https://rss.dw.com/rdf/rss-fre-all",
-      "https://rss.dw.com/rdf/rss-tur-all",
-      "https://rss.dw.com/xml/DKpodcast_alltagsdeutsch_de",
-      "https://rss.dw.com/xml/DKpodcast_audiotrainer_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_videoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_video_de",
-      "https://rss.dw.com/xml/DKpodcast_dassagtmanso_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlaborUT_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlabor_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlehrerinfo_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_en",
-      "https://rss.dw.com/xml/DKpodcast_jojo2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo_de",
-      "https://rss.dw.com/xml/DKpodcast_lehrerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lernerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lgn_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_en",
-      "https://rss.dw.com/xml/DKpodcast_misjakrakow_en",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_de",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_en",
-      "https://rss.dw.com/xml/DKpodcast_missionparis_en",
-      "https://rss.dw.com/xml/DKpodcast_radiod1_de",
-      "https://rss.dw.com/xml/DKpodcast_radiod2_de",
-      "https://rss.dw.com/xml/DKpodcast_sprachbar_de",
-      "https://rss.dw.com/xml/DKpodcast_ticket_de",
-      "https://rss.dw.com/xml/DKpodcast_topthemamitvokabeln_de",
-      "https://rss.dw.com/xml/DKpodcast_wiesonicht_en",
-      "https://rss.dw.com/xml/DKpodcast_wortderwoche_de",
-      "https://rss.dw.com/xml/Dkpodcast_videothema_de",
-      "https://rss.dw.com/xml/rss-de-all",
-      "https://rss.dw.com/xml/rss-de-cul",
-      "https://rss.dw.com/xml/rss-de-cul-buch",
-      "https://rss.dw.com/xml/rss-de-cul-film",
-      "https://rss.dw.com/xml/rss-de-cul-musik",
-      "https://rss.dw.com/xml/rss-de-deutschlandentdecken",
-      "https://rss.dw.com/xml/rss-de-eco",
-      "https://rss.dw.com/xml/rss-de-news",
-      "https://rss.dw.com/xml/rss-de-sport",
-      "https://rss.dw.com/xml/rss-de-top",
-      "https://rss.dw.com/xml/rss-de-wissenschaft",
-      "https://www.spreaker.com/show/2321086/episodes/feed",
-      "https://www.spreaker.com/show/2873428/episodes/feed",
-      "https://www.spreaker.com/show/3101278/episodes/feed",
-      "https://www.spreaker.com/show/3647242/episodes/feed",
-      "https://www.spreaker.com/show/4167903/episodes/feed",
-      "https://www.spreaker.com/show/4186920/episodes/feed",
-      "https://www.spreaker.com/show/4540074/episodes/feed",
-      "https://www.spreaker.com/show/4697880/episodes/feed",
-      "https://www.spreaker.com/show/4834164/episodes/feed",
-      "https://www.spreaker.com/show/4839697/episodes/feed",
-      "https://www.spreaker.com/show/4909975/episodes/feed",
-      "https://www.spreaker.com/show/5100773/episodes/feed",
-      "https://www.spreaker.com/show/5190470/episodes/feed",
-      "https://www.spreaker.com/show/5686560/episodes/feed",
-      "https://www.spreaker.com/show/5928697/episodes/feed"
     ],
     "www.eurointegration.com.ua": [
       "https://www.eurointegration.com.ua/rss/",
@@ -2528,564 +1430,9 @@
       "https://www.eurointegration.com.ua/rss/view_pubs/",
       "https://www.eurointegration.com.ua/rus/rss/"
     ],
-    "www.eurojust.europa.eu": [
-      "https://recruitment.eurojust.europa.eu/rss.php",
-      "https://www.eurojust.europa.eu/rss/events.xml",
-      "https://www.eurojust.europa.eu/rss/news.xml",
-      "https://www.eurojust.europa.eu/rss/press-releases.xml",
-      "https://www.eurojust.europa.eu/rss/publications.xml",
-      "https://www.eurojust.europa.eu:443/rss/events.xml",
-      "https://www.eurojust.europa.eu:443/rss/news.xml",
-      "https://www.eurojust.europa.eu:443/rss/press-releases.xml",
-      "https://www.eurojust.europa.eu:443/rss/publications.xml"
-    ],
-    "www.facebook.com": [
-      "https://www.facebook.com/business/news/rss/"
-    ],
     "www.golos.com.ua": [
       "http://www.golos.com.ua/rss/golos_ukraine.xml",
       "https://www.golos.com.ua/rss/golos_ukraine.xml"
-    ],
-    "www.gov.uk": [
-      "https://accessibility.blog.gov.uk/author/alice-dryden-senior-content-designer-home-office/feed/",
-      "https://accessibility.blog.gov.uk/author/faye-gardner-accessibility-specialist-hm-revenue-and-customs/feed/",
-      "https://accessibility.blog.gov.uk/author/joshuamarshall/feed/",
-      "https://accessibility.blog.gov.uk/author/richard-morton/feed/",
-      "https://accessibility.blog.gov.uk/author/samantha-merrett-accessibility-lead-food-standards-agency/feed/",
-      "https://accessibility.blog.gov.uk/author/sophie-yeomans-smith-digital-product-manager-met-office/feed/",
-      "https://accessibility.blog.gov.uk/category/accessibility-monitoring/feed/",
-      "https://accessibility.blog.gov.uk/category/bsl/feed/",
-      "https://accessibility.blog.gov.uk/category/design/feed/",
-      "https://accessibility.blog.gov.uk/category/events/feed/",
-      "https://accessibility.blog.gov.uk/category/quiz/feed/",
-      "https://accessibility.blog.gov.uk/category/unlocking-accessibility/feed/",
-      "https://accessibility.blog.gov.uk/feed/",
-      "https://aphascience.blog.gov.uk/author/christina-papadopoulou/feed/",
-      "https://aphascience.blog.gov.uk/author/kerry-blamire/feed/",
-      "https://aphascience.blog.gov.uk/author/phil-jones/feed/",
-      "https://aphascience.blog.gov.uk/author/rudolf-reichel/feed/",
-      "https://aphascience.blog.gov.uk/author/samantha-holland/feed/",
-      "https://aphascience.blog.gov.uk/category/surveillance/feed/",
-      "https://aphascience.blog.gov.uk/feed/",
-      "https://blogs.fcdo.gov.uk/aidanliddle/2022/06/02/disarmament-blog-space-and-cluster-munitions/feed/",
-      "https://blogs.fcdo.gov.uk/ar/feed/",
-      "https://blogs.fcdo.gov.uk/author/amitsengupta/feed/",
-      "https://blogs.fcdo.gov.uk/author/leighturner/feed/",
-      "https://blogs.fcdo.gov.uk/author/mattfield/feed/",
-      "https://blogs.fcdo.gov.uk/bs/feed/",
-      "https://blogs.fcdo.gov.uk/de/feed/",
-      "https://blogs.fcdo.gov.uk/feed/",
-      "https://blogs.fcdo.gov.uk/hy/feed/",
-      "https://blogs.fcdo.gov.uk/it/feed/",
-      "https://blogs.fcdo.gov.uk/lt/feed/",
-      "https://blogs.fcdo.gov.uk/mattfield/2022/01/24/an-end-to-bihs-consequence-free-environment/feed/",
-      "https://blogs.fcdo.gov.uk/mattfield/2022/03/24/the-marvellous-miss-irby/feed/",
-      "https://blogs.fcdo.gov.uk/pl/feed/",
-      "https://blogs.fcdo.gov.uk/pt/feed/",
-      "https://blogs.fcdo.gov.uk/uk/feed/",
-      "https://brexitfacts.blog.gov.uk/feed/",
-      "https://buyingforschools.blog.gov.uk/author/cherise-heavey-from-the-schools-resource-management-team/feed/",
-      "https://buyingforschools.blog.gov.uk/feed/",
-      "https://buyingforschools.blog.gov.uk/tag/recruiment/feed/",
-      "https://cdei.blog.gov.uk/author/ghazi-ahamat/feed/",
-      "https://cdei.blog.gov.uk/category/algorithms/feed/",
-      "https://cdei.blog.gov.uk/category/artificial-intelligence/feed/",
-      "https://cdei.blog.gov.uk/category/cdei-reviews/feed/",
-      "https://cdei.blog.gov.uk/category/equity/feed/",
-      "https://cdei.blog.gov.uk/feed/",
-      "https://cdei.blog.gov.uk/tag/algorithms/feed/",
-      "https://cdei.blog.gov.uk/tag/privacy/feed/",
-      "https://cdei.blog.gov.uk/tag/transparency/feed/",
-      "https://charitycommission.blog.gov.uk/2021/11/01/trustees-week-encouraging-different-perspectives/feed/",
-      "https://charitycommission.blog.gov.uk/author/joint-chairs-of-the-charities-sorp-committee/feed/",
-      "https://charitycommission.blog.gov.uk/category/charities-bill/feed/",
-      "https://charitycommission.blog.gov.uk/category/investment/feed/",
-      "https://charitycommission.blog.gov.uk/category/news/feed/",
-      "https://charitycommission.blog.gov.uk/category/registration/feed/",
-      "https://charitycommission.blog.gov.uk/category/regulation/feed/",
-      "https://charitycommission.blog.gov.uk/category/trustees/feed/",
-      "https://charitycommission.blog.gov.uk/feed/",
-      "https://civilservice.blog.gov.uk/author/angela-macdonald/feed/",
-      "https://civilservice.blog.gov.uk/author/brian-stanislas/feed/",
-      "https://civilservice.blog.gov.uk/author/civil-service/feed/",
-      "https://civilservice.blog.gov.uk/author/dan-sorensen/feed/",
-      "https://civilservice.blog.gov.uk/author/dawn-lennie/feed/",
-      "https://civilservice.blog.gov.uk/author/joe-smith/feed/",
-      "https://civilservice.blog.gov.uk/author/max-bazeley/feed/",
-      "https://civilservice.blog.gov.uk/author/peter-cunningham/feed/",
-      "https://civilservice.blog.gov.uk/author/simon-baugh/feed/",
-      "https://civilservice.blog.gov.uk/category/a-great-place-to-work/feed/",
-      "https://civilservice.blog.gov.uk/category/civil-service-leaders/feed/",
-      "https://civilservice.blog.gov.uk/category/uncategorized/feed/",
-      "https://civilservice.blog.gov.uk/feed/",
-      "https://companieshouse.blog.gov.uk/author/katie-jones-recruitment-manager/feed/",
-      "https://companieshouse.blog.gov.uk/category/companies-house-transformation/feed/",
-      "https://companieshouse.blog.gov.uk/feed/",
-      "https://dcmslibraries.blog.gov.uk/author/ryan-johnson-business-engagement-marketing-manager-oxfordshire-county-council/feed/",
-      "https://dcmslibraries.blog.gov.uk/category/events/feed/",
-      "https://dcmslibraries.blog.gov.uk/feed/",
-      "https://defradigital.blog.gov.uk/2021/11/10/all-in-a-days-work-the-life-of-a-delivery-manager-in-defra-digital/feed/",
-      "https://defradigital.blog.gov.uk/author/alice-wilson/feed/",
-      "https://defradigital.blog.gov.uk/author/catherine-flack/feed/",
-      "https://defradigital.blog.gov.uk/author/graeme-claridge/feed/",
-      "https://defradigital.blog.gov.uk/author/jenn-brookbanks/feed/",
-      "https://defradigital.blog.gov.uk/author/jenny-rogal/feed/",
-      "https://defradigital.blog.gov.uk/author/kiril-korzikovas/feed/",
-      "https://defradigital.blog.gov.uk/author/lauren-stopps/feed/",
-      "https://defradigital.blog.gov.uk/author/louisa-mallon/feed/",
-      "https://defradigital.blog.gov.uk/author/melinda-twigg/feed/",
-      "https://defradigital.blog.gov.uk/author/sandeep-dhaliwal/feed/",
-      "https://defradigital.blog.gov.uk/author/tom-metcalf/feed/",
-      "https://defradigital.blog.gov.uk/category/transformation/feed/",
-      "https://defradigital.blog.gov.uk/category/user-centred-design/feed/",
-      "https://defradigital.blog.gov.uk/feed/",
-      "https://defradigital.blog.gov.uk/tag/content-design/feed/",
-      "https://defradigital.blog.gov.uk/tag/digital/feed/",
-      "https://defradigital.blog.gov.uk/tag/user-needs/feed/",
-      "https://defrafarming.blog.gov.uk/author/phil-stocker/feed/",
-      "https://defrafarming.blog.gov.uk/author/sarah-kaya/feed/",
-      "https://defrafarming.blog.gov.uk/category/countryside-stewardship/feed/",
-      "https://defrafarming.blog.gov.uk/category/environmental-land-management-schemes/feed/",
-      "https://defrafarming.blog.gov.uk/category/payments-for-equipment-technology-and-infrastructure/feed/",
-      "https://defrafarming.blog.gov.uk/category/payments-to-improve-animal-health-and-welfare/feed/",
-      "https://defrafarming.blog.gov.uk/feed/",
-      "https://defrafarming.blog.gov.uk/tag/innovate-uk/feed/",
-      "https://defrafarming.blog.gov.uk/tag/innovation-in-farming/feed/",
-      "https://defrafarming.blog.gov.uk/tag/precision-breeding/feed/",
-      "https://deframedia.blog.gov.uk/feed/",
-      "https://deframedia.blog.gov.uk/tag/coastal-communities/feed/",
-      "https://deframedia.blog.gov.uk/tag/flood-defences/feed/",
-      "https://designnotes.blog.gov.uk/author/design-system-team/feed/",
-      "https://designnotes.blog.gov.uk/author/timpaul/feed/",
-      "https://designnotes.blog.gov.uk/feed/",
-      "https://despatch.blog.gov.uk/feed/",
-      "https://dfedigital.blog.gov.uk/author/courtney-brightwell/feed/",
-      "https://dfedigital.blog.gov.uk/author/laura-croft/feed/",
-      "https://dfedigital.blog.gov.uk/author/nataliya-mykhalchenko/feed/",
-      "https://dfedigital.blog.gov.uk/author/robert-gammon/feed/",
-      "https://dfedigital.blog.gov.uk/category/accessibility/feed/",
-      "https://dfedigital.blog.gov.uk/category/multidisciplinary-teams/feed/",
-      "https://dfedigital.blog.gov.uk/category/neurodiversity/feed/",
-      "https://dfedigital.blog.gov.uk/category/service-design/feed/",
-      "https://dfedigital.blog.gov.uk/category/service-ownership/feed/",
-      "https://dfedigital.blog.gov.uk/feed/",
-      "https://digitaltrade.blog.gov.uk/author/jonathan-anderson-employee-experience-portfolio-lead/feed/",
-      "https://digitaltrade.blog.gov.uk/author/miranda-pottinger-programme-lead/feed/",
-      "https://digitaltrade.blog.gov.uk/category/flexible-working/feed/",
-      "https://digitaltrade.blog.gov.uk/feed/",
-      "https://digitaltrade.blog.gov.uk/tag/international-volunteer-day/feed/",
-      "https://dluhcdigital.blog.gov.uk/author/umar-sani/feed/",
-      "https://dluhcdigital.blog.gov.uk/category/epb/feed/",
-      "https://dluhcdigital.blog.gov.uk/category/funding-service-design/feed/",
-      "https://dluhcdigital.blog.gov.uk/category/local-digital/local-digital-training/feed/",
-      "https://dluhcdigital.blog.gov.uk/feed/",
-      "https://dluhcdigital.blog.gov.uk/tag/digital-planning-software/feed/",
-      "https://dluhcdigital.blog.gov.uk/tag/digital-planning/feed/",
-      "https://dvladigital.blog.gov.uk/author/tom-collins/feed/",
-      "https://dvladigital.blog.gov.uk/feed/",
-      "https://educationhub.blog.gov.uk/author/hollieborland/feed/",
-      "https://educationhub.blog.gov.uk/category/attendance/feed/",
-      "https://educationhub.blog.gov.uk/category/climate-change/feed/",
-      "https://educationhub.blog.gov.uk/category/condition-improvement-fund/feed/",
-      "https://educationhub.blog.gov.uk/category/early-years/feed/",
-      "https://educationhub.blog.gov.uk/category/families/feed/",
-      "https://educationhub.blog.gov.uk/category/schools/feed/",
-      "https://educationhub.blog.gov.uk/category/universal-credit/feed/",
-      "https://educationhub.blog.gov.uk/category/universities/feed/",
-      "https://educationhub.blog.gov.uk/feed/",
-      "https://educationhub.blog.gov.uk/tag/family-services/feed/",
-      "https://educationhub.blog.gov.uk/tag/regional-improvement-teams-education/feed/",
-      "https://educationhub.blog.gov.uk/tag/rise-education/feed/",
-      "https://environmentagency.blog.gov.uk/category/water/feed/",
-      "https://environmentagency.blog.gov.uk/feed/",
-      "https://environmentagency.blog.gov.uk/tag/flood-defences/feed/",
-      "https://environmentagency.blog.gov.uk/tag/medmerry/feed/",
-      "https://environmentagency.blog.gov.uk/tag/water-2/feed/",
-      "https://extremismcommission.blog.gov.uk/category/blog/feed/",
-      "https://extremismcommission.blog.gov.uk/category/reactive-statements/feed/",
-      "https://extremismcommission.blog.gov.uk/category/speeches/feed/",
-      "https://extremismcommission.blog.gov.uk/feed/",
-      "https://food.blog.gov.uk/feed/",
-      "https://foresightprojects.blog.gov.uk/author/kelsydyer/feed/",
-      "https://foresightprojects.blog.gov.uk/author/melissajackson/feed/",
-      "https://foresightprojects.blog.gov.uk/author/stephen-bennett/feed/",
-      "https://foresightprojects.blog.gov.uk/category/fast-facts/feed/",
-      "https://foresightprojects.blog.gov.uk/category/futures/feed/",
-      "https://foresightprojects.blog.gov.uk/category/outreach/feed/",
-      "https://foresightprojects.blog.gov.uk/feed/",
-      "https://forestrycommission.blog.gov.uk/author/kate-tobin/feed/",
-      "https://forestrycommission.blog.gov.uk/author/sir-william-worsley/feed/",
-      "https://forestrycommission.blog.gov.uk/category/ancient-woodland/feed/",
-      "https://forestrycommission.blog.gov.uk/feed/",
-      "https://gds.blog.gov.uk/2011/02/15/right-to-data-and-the-protection-of-freedoms-bill/feed/",
-      "https://gds.blog.gov.uk/author/arindra-das-lead-designer/feed/",
-      "https://gds.blog.gov.uk/author/clara-barnett/feed/",
-      "https://gds.blog.gov.uk/author/eleanor-stephens-service-owner-gds/feed/",
-      "https://gds.blog.gov.uk/author/gds-digital-engagement-team/feed/",
-      "https://gds.blog.gov.uk/author/gds/feed/",
-      "https://gds.blog.gov.uk/author/jane-van-de-ban-lead-content-designer-for-gov-uk-government-digital-service/feed/",
-      "https://gds.blog.gov.uk/author/joanna-davinson-executive-director-central-digital-and-data-office-cddo/feed/",
-      "https://gds.blog.gov.uk/author/jon-kirwan-front-end-developer-gds/feed/",
-      "https://gds.blog.gov.uk/author/natalie-jones-director-of-digital-identity-government-digital-service/feed/",
-      "https://gds.blog.gov.uk/author/paul-willmott-co-chair-of-the-advisory-board-for-the-digital-centre-of-government-design-non-executive-director-at-the-department-of-science-innovation-and-technology-and-chief-digital-advisor-at/feed/",
-      "https://gds.blog.gov.uk/author/simon-king-director-public-sector-ai-adoption/feed/",
-      "https://gds.blog.gov.uk/author/tom-read/feed/",
-      "https://gds.blog.gov.uk/author/tomread/feed/",
-      "https://gds.blog.gov.uk/author/vanessaschneider/feed/",
-      "https://gds.blog.gov.uk/category/digital-data-and-technology/technology/feed/",
-      "https://gds.blog.gov.uk/category/digital-strategy/feed/",
-      "https://gds.blog.gov.uk/category/gds-team/feed/",
-      "https://gds.blog.gov.uk/category/govuk-onelogin/feed/",
-      "https://gds.blog.gov.uk/feed/",
-      "https://gott.blog.gov.uk/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/author/gse-profession/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/author/gseprofession/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/author/lucy-hurford/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/blog-series/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/capability-skills/learning-development/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/collaborating-networking/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/diversity-inclusion/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/gse-profession-updates/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/our-people-and-deep-dives/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/category/talent-and-leadership/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/tag/basking-shark/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/tag/gse-offer/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/tag/gse/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/tag/science/feed/",
-      "https://governmentscienceandengineering.blog.gov.uk/tag/sharks/feed/",
-      "https://healthmedia.blog.gov.uk/feed/",
-      "https://healthtech.blog.gov.uk/author/mary-hudson/feed/",
-      "https://healthtech.blog.gov.uk/author/matt-hancock-mp/feed/",
-      "https://healthtech.blog.gov.uk/category/covid-19/feed/",
-      "https://healthtech.blog.gov.uk/category/ethics/feed/",
-      "https://healthtech.blog.gov.uk/feed/",
-      "https://history.blog.gov.uk/2016/09/21/redesigning-no-10-downing-street/feed/",
-      "https://history.blog.gov.uk/2016/11/09/rethinking-no-10-downing-street/feed/",
-      "https://history.blog.gov.uk/author/andrew-seaton/feed/",
-      "https://history.blog.gov.uk/author/dr-dan-lomas/feed/",
-      "https://history.blog.gov.uk/author/matthew-johnson/feed/",
-      "https://history.blog.gov.uk/category/cabinet-confidential/feed/",
-      "https://history.blog.gov.uk/category/cabinet-office/feed/",
-      "https://history.blog.gov.uk/category/cabinet-secretaries/feed/",
-      "https://history.blog.gov.uk/category/defence-and-conflict/feed/",
-      "https://history.blog.gov.uk/category/defence-and-conflict/intelligence-services-defence-and-conflict/feed/",
-      "https://history.blog.gov.uk/category/foreign-affairs-and-diplomacy/feed/",
-      "https://history.blog.gov.uk/category/national-health-service/feed/",
-      "https://history.blog.gov.uk/category/no-10-guest-historian-series/feed/",
-      "https://history.blog.gov.uk/category/past-prime-ministers/feed/",
-      "https://history.blog.gov.uk/category/prime-ministers-and-no-10/feed/",
-      "https://history.blog.gov.uk/category/the-national-archives/feed/",
-      "https://history.blog.gov.uk/category/uncategorized/feed/",
-      "https://history.blog.gov.uk/feed/",
-      "https://history.blog.gov.uk/tag/anglo-us-relations/feed/",
-      "https://history.blog.gov.uk/tag/franklin-d-roosevelt/feed/",
-      "https://history.blog.gov.uk/tag/secret-intelligence/feed/",
-      "https://history.blog.gov.uk/tag/the-atlantic-charter/feed/",
-      "https://history.blog.gov.uk/tag/the-special-relationship/feed/",
-      "https://history.blog.gov.uk/tag/winston-churchill/feed/",
-      "https://homeofficemedia.blog.gov.uk/author/cthomas/feed/",
-      "https://homeofficemedia.blog.gov.uk/category/leading-stories/feed/",
-      "https://homeofficemedia.blog.gov.uk/category/reactive-statements/feed/",
-      "https://homeofficemedia.blog.gov.uk/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/drugs/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/english-channel/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/evisas/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/home-office-in-news/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/martyns-law/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/net-migration/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/new-plan-for-immigration/feed/",
-      "https://homeofficemedia.blog.gov.uk/tag/small-boats/feed/",
-      "https://insidedio.blog.gov.uk/2022/03/28/sanctuary-awards-2021-celebrating-30-years-of-achievements-in-conservation-and-sustainability/feed/",
-      "https://insidedio.blog.gov.uk/author/brigadier-jonathan-bartholomew-obe/feed/",
-      "https://insidedio.blog.gov.uk/author/chris-moore/feed/",
-      "https://insidedio.blog.gov.uk/author/colonel-rob-guest/feed/",
-      "https://insidedio.blog.gov.uk/author/lieutenant-colonel-adrian-hunter-mbe/feed/",
-      "https://insidedio.blog.gov.uk/author/oluwadamilare-akinola/feed/",
-      "https://insidedio.blog.gov.uk/author/sharnie-fisher/feed/",
-      "https://insidedio.blog.gov.uk/category/armed-forces/feed/",
-      "https://insidedio.blog.gov.uk/category/canada/batus/feed/",
-      "https://insidedio.blog.gov.uk/category/commercial/feed/",
-      "https://insidedio.blog.gov.uk/category/environment-and-ecology/sanctuary-awards/feed/",
-      "https://insidedio.blog.gov.uk/category/estates/feed/",
-      "https://insidedio.blog.gov.uk/category/facilities-management/feed/",
-      "https://insidedio.blog.gov.uk/category/inclusion/feed/",
-      "https://insidedio.blog.gov.uk/category/royal-navy/glen-mallan-jetty/feed/",
-      "https://insidedio.blog.gov.uk/category/sustainability/feed/",
-      "https://insidedio.blog.gov.uk/category/united-states-visiting-forces-infrastructure-programme/feed/",
-      "https://insidedio.blog.gov.uk/category/united-states-visiting-forces-infrastructure-programme/raf-lakenheath/feed/",
-      "https://insidedio.blog.gov.uk/category/working-at-dio/feed/",
-      "https://insidedio.blog.gov.uk/category/worthy-down/feed/",
-      "https://insidedio.blog.gov.uk/feed/",
-      "https://insidedio.blog.gov.uk/tag/british-army/feed/",
-      "https://insidedio.blog.gov.uk/tag/defence-infrastructure-organisation/feed/",
-      "https://insidedio.blog.gov.uk/tag/military-training-2/feed/",
-      "https://insidedio.blog.gov.uk/tag/ministry-of-defence/feed/",
-      "https://insidedio.blog.gov.uk/tag/raf-lakenheath/feed/",
-      "https://insidedio.blog.gov.uk/tag/salisbury-plain-training-area/feed/",
-      "https://insidedvla.blog.gov.uk/author/amy-taafe-evans/feed/",
-      "https://insidedvla.blog.gov.uk/author/andrew-lees/feed/",
-      "https://insidedvla.blog.gov.uk/author/donna-wright/feed/",
-      "https://insidedvla.blog.gov.uk/author/dr-nick-jenkins/feed/",
-      "https://insidedvla.blog.gov.uk/author/dvla-external-comms/feed/",
-      "https://insidedvla.blog.gov.uk/author/harry-harding/feed/",
-      "https://insidedvla.blog.gov.uk/author/karen-pitt/feed/",
-      "https://insidedvla.blog.gov.uk/author/lucy-whitaker/feed/",
-      "https://insidedvla.blog.gov.uk/author/nathan-morris/feed/",
-      "https://insidedvla.blog.gov.uk/author/paul-davies/feed/",
-      "https://insidedvla.blog.gov.uk/author/robia-ali/feed/",
-      "https://insidedvla.blog.gov.uk/author/tom-pritchard/feed/",
-      "https://insidedvla.blog.gov.uk/category/driver-licensing/feed/",
-      "https://insidedvla.blog.gov.uk/category/drivers-medical/feed/",
-      "https://insidedvla.blog.gov.uk/category/enforcement/feed/",
-      "https://insidedvla.blog.gov.uk/category/features/feed/",
-      "https://insidedvla.blog.gov.uk/category/sustainability/feed/",
-      "https://insidedvla.blog.gov.uk/category/vehicle-tax/feed/",
-      "https://insidedvla.blog.gov.uk/feed/",
-      "https://insidehmcts.blog.gov.uk/author/ester-franklin-smith/feed/",
-      "https://insidehmcts.blog.gov.uk/author/laura-connor/feed/",
-      "https://insidehmcts.blog.gov.uk/author/nick-goodwin-chief-executive-hmcts/feed/",
-      "https://insidehmcts.blog.gov.uk/author/olivia-jorgensen-aitchison/feed/",
-      "https://insidehmcts.blog.gov.uk/author/tim-britten-programme-director-crime-programme/feed/",
-      "https://insidehmcts.blog.gov.uk/author/william-slade/feed/",
-      "https://insidehmcts.blog.gov.uk/category/court-and-tribunal-reform/feed/",
-      "https://insidehmcts.blog.gov.uk/category/covid-19/feed/",
-      "https://insidehmcts.blog.gov.uk/category/digital-services/feed/",
-      "https://insidehmcts.blog.gov.uk/category/general/feed/",
-      "https://insidehmcts.blog.gov.uk/category/tribunals/feed/",
-      "https://insidehmcts.blog.gov.uk/category/user-experience-and-research/feed/",
-      "https://insidehmcts.blog.gov.uk/feed/",
-      "https://insolvencyservice.blog.gov.uk/category/individual-voluntary-arrangement/feed/",
-      "https://insolvencyservice.blog.gov.uk/category/working-for-the-insolvency-service/feed/",
-      "https://insolvencyservice.blog.gov.uk/feed/",
-      "https://kingsawards.blog.gov.uk/feed/",
-      "https://marinedevelopments.blog.gov.uk/author/sophia-yakoob-offshore-wind-advisor-strategic-renewables-unit-sru/feed/",
-      "https://marinedevelopments.blog.gov.uk/category/marine-science/feed/",
-      "https://marinedevelopments.blog.gov.uk/feed/",
-      "https://marinedevelopments.blog.gov.uk/tag/marine-planning/feed/",
-      "https://mhclgdigital.blog.gov.uk/feed/",
-      "https://mhclgdigital.blog.gov.uk/tag/digital-planning/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/amirahhussain/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/ewannorton/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/joanneparkin/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/lisacampbell2/feed/",
-      "https://mhrainspectorate.blog.gov.uk/author/rachel-mead/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/clinical-trials/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/good-manufacturing-practice/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/good-pharmacovigilance-practice/feed/",
-      "https://mhrainspectorate.blog.gov.uk/category/inside-the-inspectorate/feed/",
-      "https://mhrainspectorate.blog.gov.uk/feed/",
-      "https://moderncivilservice.blog.gov.uk/feed/",
-      "https://mojdigital.blog.gov.uk/author/jennifer-logan/feed/",
-      "https://mojdigital.blog.gov.uk/author/joanne-lumsden/feed/",
-      "https://mojdigital.blog.gov.uk/author/lindsay-hancock/feed/",
-      "https://mojdigital.blog.gov.uk/author/sumiti-hamilton/feed/",
-      "https://mojdigital.blog.gov.uk/category/collaboration/feed/",
-      "https://mojdigital.blog.gov.uk/category/covid-19/feed/",
-      "https://mojdigital.blog.gov.uk/category/diversity-and-inclusion/international-womens-day/feed/",
-      "https://mojdigital.blog.gov.uk/category/our-people/feed/",
-      "https://mojdigital.blog.gov.uk/category/women-in-digital-tech/feed/",
-      "https://mojdigital.blog.gov.uk/category/women-in-tech/feed/",
-      "https://mojdigital.blog.gov.uk/feed/",
-      "https://nda.blog.gov.uk/author/ashleigh-williamson/feed/",
-      "https://nda.blog.gov.uk/author/mark-wareing-nda-major-projects-and-programmes-manager/feed/",
-      "https://nda.blog.gov.uk/author/martin-chown/feed/",
-      "https://nda.blog.gov.uk/category/safety-and-wellbeing/diversity/feed/",
-      "https://nda.blog.gov.uk/category/supply-chain/feed/",
-      "https://nda.blog.gov.uk/feed/",
-      "https://nda.blog.gov.uk/tag/cumbria/feed/",
-      "https://nda.blog.gov.uk/tag/innovation/feed/",
-      "https://nda.blog.gov.uk/tag/social-impact/feed/",
-      "https://nda.blog.gov.uk/tag/stem/feed/",
-      "https://no10media.blog.gov.uk/author/number-10-media-team/feed/",
-      "https://no10media.blog.gov.uk/category/spokesperson-statements/feed/",
-      "https://no10media.blog.gov.uk/category/uncategorized/feed/",
-      "https://no10media.blog.gov.uk/feed/",
-      "https://ofqual.blog.gov.uk/author/tom-bell/feed/",
-      "https://ofqual.blog.gov.uk/feed/",
-      "https://ofsi.blog.gov.uk/author/giles-thomson/feed/",
-      "https://ofsi.blog.gov.uk/author/ofsi/feed/",
-      "https://ofsi.blog.gov.uk/category/implementation/feed/",
-      "https://ofsi.blog.gov.uk/category/ofac/feed/",
-      "https://ofsi.blog.gov.uk/category/statistics/feed/",
-      "https://ofsi.blog.gov.uk/feed/",
-      "https://ofsi.blog.gov.uk/tag/engagement/feed/",
-      "https://ofsi.blog.gov.uk/tag/forum/feed/",
-      "https://ofsi.blog.gov.uk/tag/sanctions/feed/",
-      "https://prisonjobs.blog.gov.uk/category/operational-support-grade/feed/",
-      "https://prisonjobs.blog.gov.uk/category/osg/feed/",
-      "https://prisonjobs.blog.gov.uk/feed/",
-      "https://prisonjobs.blog.gov.uk/tag/osg/feed/",
-      "https://prisonjobs.blog.gov.uk/tag/personal-story/feed/",
-      "https://prisonjobs.blog.gov.uk/tag/recruitment/feed/",
-      "https://prisonleaversproject.blog.gov.uk/author/amanda-smith/feed/",
-      "https://prisonleaversproject.blog.gov.uk/category/prison-leavers-innovation-challenge/feed/",
-      "https://prisonleaversproject.blog.gov.uk/category/project-background/feed/",
-      "https://prisonleaversproject.blog.gov.uk/category/service-communities/feed/",
-      "https://prisonleaversproject.blog.gov.uk/feed/",
-      "https://quarterly.blog.gov.uk/author/emma-lindsell/feed/",
-      "https://quarterly.blog.gov.uk/author/gemmaine-walsh/feed/",
-      "https://quarterly.blog.gov.uk/author/john-pullinger/feed/",
-      "https://quarterly.blog.gov.uk/author/matthew-coats/feed/",
-      "https://quarterly.blog.gov.uk/category/interviews/feed/",
-      "https://quarterly.blog.gov.uk/feed/",
-      "https://quarterly.blog.gov.uk/tag/cabinet-office/feed/",
-      "https://rtau.blog.gov.uk/category/artificial-intelligence/feed/",
-      "https://rtau.blog.gov.uk/tag/algorithms/feed/",
-      "https://ruralpayments.blog.gov.uk/category/external-engagement/feed/",
-      "https://ruralpayments.blog.gov.uk/category/grants/feed/",
-      "https://ruralpayments.blog.gov.uk/feed/",
-      "https://ruralpayments.blog.gov.uk/tag/environmental-stewardship/feed/",
-      "https://ruralpayments.blog.gov.uk/tag/rpa/feed/",
-      "https://ruralpayments.blog.gov.uk/tag/rural-payments-agency/feed/",
-      "https://securityprofession.blog.gov.uk/author/angelaf/feed/",
-      "https://securityprofession.blog.gov.uk/author/ben-rexworthy/feed/",
-      "https://securityprofession.blog.gov.uk/author/jon-ashton/feed/",
-      "https://securityprofession.blog.gov.uk/author/jonathan-lloyd-white/feed/",
-      "https://securityprofession.blog.gov.uk/category/general/feed/",
-      "https://securityprofession.blog.gov.uk/category/guestblog/feed/",
-      "https://securityprofession.blog.gov.uk/category/jobs/feed/",
-      "https://securityprofession.blog.gov.uk/category/security-and-diversity/feed/",
-      "https://securityprofession.blog.gov.uk/category/skillsandprofessionalism/feed/",
-      "https://securityprofession.blog.gov.uk/category/training/feed/",
-      "https://securityprofession.blog.gov.uk/feed/",
-      "https://socialcare.blog.gov.uk/2021/11/04/a-workforce-made-with-care/feed/",
-      "https://socialcare.blog.gov.uk/author/clare-shard/feed/",
-      "https://socialcare.blog.gov.uk/author/deborah-sturdy/feed/",
-      "https://socialcare.blog.gov.uk/author/mark-osterloh/feed/",
-      "https://socialcare.blog.gov.uk/author/mike-jacobs/feed/",
-      "https://socialcare.blog.gov.uk/author/olu-ogunbuyide/feed/",
-      "https://socialcare.blog.gov.uk/author/prof-richard-harding/feed/",
-      "https://socialcare.blog.gov.uk/author/victoria-hamilton/feed/",
-      "https://socialcare.blog.gov.uk/category/care-and-support-2/feed/",
-      "https://socialcare.blog.gov.uk/category/communities/feed/",
-      "https://socialcare.blog.gov.uk/category/coronavirus/feed/",
-      "https://socialcare.blog.gov.uk/category/digital-skills-and-technologies/feed/",
-      "https://socialcare.blog.gov.uk/category/events/feed/",
-      "https://socialcare.blog.gov.uk/category/information-sharing/feed/",
-      "https://socialcare.blog.gov.uk/category/leadership/feed/",
-      "https://socialcare.blog.gov.uk/category/mental-health-2/feed/",
-      "https://socialcare.blog.gov.uk/category/public-health/feed/",
-      "https://socialcare.blog.gov.uk/category/recognition/feed/",
-      "https://socialcare.blog.gov.uk/category/viewpoint/feed/",
-      "https://socialcare.blog.gov.uk/category/workforce/feed/",
-      "https://socialcare.blog.gov.uk/feed/",
-      "https://socialcare.blog.gov.uk/tag/care-workforce/feed/",
-      "https://socialcare.blog.gov.uk/tag/chief-nurse-for-adult-social-care-awards/feed/",
-      "https://socialcare.blog.gov.uk/tag/oakleaf/feed/",
-      "https://socialcare.blog.gov.uk/tag/social-care-nursing/feed/",
-      "https://socialcare.blog.gov.uk/tag/social-care/feed/",
-      "https://socialcare.blog.gov.uk/tag/tlap/feed/",
-      "https://socialcare.blog.gov.uk/tag/vaccination/feed/",
-      "https://socialcareinspection.blog.gov.uk/2019/10/11/kinship-care-what-are-the-issues/feed/",
-      "https://socialcareinspection.blog.gov.uk/2021/09/15/applying-to-register-a-childrens-home-top-tips/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/care-experienced/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/care-leavers/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/care-review/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/childminders/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/children-looked-after/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/childrens-homes/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/childrens-services/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/early-intervention/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/education/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/foster-care-fortnight/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/fostering/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/inspectors/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/joint-inspection/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/kinship-care/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/local-authorities/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/looked-after-children/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/mental-health/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/multi-agency/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/partnership-working/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/secure-training-centres/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/social-care-professionals/feed/",
-      "https://socialcareinspection.blog.gov.uk/category/social-care-regulation/feed/",
-      "https://socialcareinspection.blog.gov.uk/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/beverley-tarka/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/caroline-bald/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/elaine-james/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/jak-savage-mbe/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/kenny-thompson/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/liz-howard/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/mark-nicholas/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/rob-mitchell/feed/",
-      "https://socialworkwithadults.blog.gov.uk/author/robert-lewis/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/ageing/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/communities/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/consultation-and-engagement/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/knowledge-and-skills/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/learning-disabilities/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/personalisation/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/recognition/feed/",
-      "https://socialworkwithadults.blog.gov.uk/category/society/feed/",
-      "https://socialworkwithadults.blog.gov.uk/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/chief-social-worker/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/disabilities/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/hospitals/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/sarah-mcclinton/feed/",
-      "https://socialworkwithadults.blog.gov.uk/tag/social-work/feed/",
-      "https://supportingfamilies.blog.gov.uk/author/emmataylor/feed/",
-      "https://supportingfamilies.blog.gov.uk/author/ola-wojnowska/feed/",
-      "https://supportingfamilies.blog.gov.uk/category/education/feed/",
-      "https://supportingfamilies.blog.gov.uk/category/evaluation/feed/",
-      "https://supportingfamilies.blog.gov.uk/category/health/feed/",
-      "https://supportingfamilies.blog.gov.uk/feed/",
-      "https://sustainableict.blog.gov.uk/category/planetary-impact/feed/",
-      "https://sustainableict.blog.gov.uk/feed/",
-      "https://taxagents.blog.gov.uk/2015/08/24/agent-online-self-serve-aoss-private-beta-testing-update/feed/",
-      "https://taxagents.blog.gov.uk/feed/",
-      "https://taxagents.blog.gov.uk/tag/agent-bulk-appeal-form/feed/",
-      "https://taxagents.blog.gov.uk/tag/online/feed/",
-      "https://taxagents.blog.gov.uk/tag/sa370/feed/",
-      "https://userresearch.blog.gov.uk/author/argyrios-christakopoulos-performance-analyst-dvsa/feed/",
-      "https://userresearch.blog.gov.uk/author/ariana-mihoc/feed/",
-      "https://userresearch.blog.gov.uk/author/nichole-browne-senior-user-researcher-dvsa/feed/",
-      "https://userresearch.blog.gov.uk/category/ethics/feed/",
-      "https://userresearch.blog.gov.uk/category/user-research/covid-19/feed/",
-      "https://userresearch.blog.gov.uk/feed/",
-      "https://veteranstoday.blog.gov.uk/category/armed-forces-charities/feed/",
-      "https://veteranstoday.blog.gov.uk/category/armed-forces-covenant/feed/",
-      "https://veteranstoday.blog.gov.uk/category/armed-forces-pensions/feed/",
-      "https://veteranstoday.blog.gov.uk/category/charities/feed/",
-      "https://veteranstoday.blog.gov.uk/feed/",
-      "https://vets.blog.gov.uk/author/anna-la-rocca/feed/",
-      "https://vets.blog.gov.uk/category/jobs-and-experiences/feed/",
-      "https://vets.blog.gov.uk/category/policy-work/feed/",
-      "https://vets.blog.gov.uk/feed/",
-      "https://vets.blog.gov.uk/tag/brexit/feed/",
-      "https://vets.blog.gov.uk/tag/oie/feed/",
-      "https://vets.blog.gov.uk/tag/veterinary-medicines-directorate/feed/",
-      "https://vets.blog.gov.uk/tag/weybridge/feed/",
-      "https://vets.blog.gov.uk/tag/working-abroad/feed/",
-      "https://videosurveillance.blog.gov.uk/author/tony-gleason/feed/",
-      "https://videosurveillance.blog.gov.uk/category/body-worn-video/feed/",
-      "https://videosurveillance.blog.gov.uk/category/dna/feed/",
-      "https://videosurveillance.blog.gov.uk/category/ico/feed/",
-      "https://videosurveillance.blog.gov.uk/feed/",
-      "https://www.gov.uk/foreign-travel-advice.atom",
-      "https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories.atom",
-      "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy.atom",
-      "https://www.gov.uk/government/organisations/department-for-business-innovation-skills.atom",
-      "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport.atom",
-      "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs.atom",
-      "https://www.gov.uk/government/organisations/department-for-international-development.atom",
-      "https://www.gov.uk/government/organisations/department-for-international-trade.atom",
-      "https://www.gov.uk/government/organisations/department-for-transport.atom",
-      "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency.atom",
-      "https://www.gov.uk/government/organisations/foreign-commonwealth-office.atom",
-      "https://www.gov.uk/government/organisations/hm-treasury.atom",
-      "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
-      "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government.atom",
-      "https://www.gov.uk/government/organisations/morecambe-bay-investigation.atom",
-      "https://www.gov.uk/government/organisations/northern-ireland-office.atom",
-      "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland.atom",
-      "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland.atom",
-      "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales.atom",
-      "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street.atom",
-      "https://www.gov.uk/government/organisations/uk-visas-and-immigration.atom",
-      "https://www.gov.uk/search/all.atom",
-      "https://www.gov.uk/search/news-and-communications.atom"
     ],
     "www.holosameryky.com": [
       "https://www.holosameryky.com/api/",
@@ -3102,81 +1449,6 @@
     "www.kyivpost.com": [
       "https://www.kyivpost.com/feed"
     ],
-    "www.liga.net": [
-      "https://projects.liga.net/feed/",
-      "https://www.liga.net/biz/all/rss.xml",
-      "https://www.liga.net/biz/articles/rss.xml",
-      "https://www.liga.net/biz/interview/rss.xml",
-      "https://www.liga.net/biz/news/rss.xml",
-      "https://www.liga.net/biz/opinion/rss.xml",
-      "https://www.liga.net/biz/photo/rss.xml",
-      "https://www.liga.net/biz/top/rss.xml",
-      "https://www.liga.net/biz/video/rss.xml",
-      "https://www.liga.net/fin/crypto/rss.xml",
-      "https://www.liga.net/fin/export/all.xml",
-      "https://www.liga.net/fin/export/bank.xml",
-      "https://www.liga.net/fin/export/funds.xml",
-      "https://www.liga.net/fin/export/insurance.xml",
-      "https://www.liga.net/fin/export/top.xml",
-      "https://www.liga.net/fin/opinion/rss.xml",
-      "https://www.liga.net/life/all/rss.xml",
-      "https://www.liga.net/news/all/rss.xml",
-      "https://www.liga.net/news/articles/rss.xml",
-      "https://www.liga.net/news/capital/rss.xml",
-      "https://www.liga.net/news/culture/rss.xml",
-      "https://www.liga.net/news/economics/rss.xml",
-      "https://www.liga.net/news/health/rss.xml",
-      "https://www.liga.net/news/interview/rss.xml",
-      "https://www.liga.net/news/photo/rss.xml",
-      "https://www.liga.net/news/politics/rss.xml",
-      "https://www.liga.net/news/rss.xml",
-      "https://www.liga.net/news/society/rss.xml",
-      "https://www.liga.net/news/sport/rss.xml",
-      "https://www.liga.net/news/top/rss.xml",
-      "https://www.liga.net/news/video/rss.xml",
-      "https://www.liga.net/news/world/rss.xml",
-      "https://www.liga.net/newsua/all/rss.xml",
-      "https://www.liga.net/newsua/top/rss.xml",
-      "https://www.liga.net/rss/blog.xml",
-      "https://www.liga.net/tech/all/rss.xml",
-      "https://www.liga.net/tech/battles/rss.xml",
-      "https://www.liga.net/tech/gadgets/rss.xml",
-      "https://www.liga.net/tech/own-business/rss.xml",
-      "https://www.liga.net/tech/technology/rss.xml",
-      "https://www.liga.net/tech/telecom/rss.xml",
-      "https://www.liga.net/tech/top/rss.xml",
-      "https://www.liga.net/tech/vlog/rss.xml",
-      "https://www.liga.net/ua/biz/all/rss.xml",
-      "https://www.liga.net/ua/biz/articles/rss.xml",
-      "https://www.liga.net/ua/biz/interview/rss.xml",
-      "https://www.liga.net/ua/biz/news/rss.xml",
-      "https://www.liga.net/ua/biz/photo/rss.xml",
-      "https://www.liga.net/ua/biz/top/rss.xml",
-      "https://www.liga.net/ua/biz/video/rss.xml",
-      "https://www.liga.net/ua/fin/crypto/rss.xml",
-      "https://www.liga.net/ua/fin/export/all.xml",
-      "https://www.liga.net/ua/fin/export/bank.xml",
-      "https://www.liga.net/ua/fin/export/funds.xml",
-      "https://www.liga.net/ua/fin/export/insurance.xml",
-      "https://www.liga.net/ua/fin/export/top.xml",
-      "https://www.liga.net/ua/news/all/rss.xml",
-      "https://www.liga.net/ua/news/articles/rss.xml",
-      "https://www.liga.net/ua/news/capital/rss.xml",
-      "https://www.liga.net/ua/news/culture/rss.xml",
-      "https://www.liga.net/ua/news/economics/rss.xml",
-      "https://www.liga.net/ua/news/health/rss.xml",
-      "https://www.liga.net/ua/news/interview/rss.xml",
-      "https://www.liga.net/ua/news/photo/rss.xml",
-      "https://www.liga.net/ua/news/politics/rss.xml",
-      "https://www.liga.net/ua/news/rss.xml",
-      "https://www.liga.net/ua/news/society/rss.xml",
-      "https://www.liga.net/ua/news/sport/rss.xml",
-      "https://www.liga.net/ua/news/top/rss.xml",
-      "https://www.liga.net/ua/news/video/rss.xml",
-      "https://www.liga.net/ua/news/world/rss.xml",
-      "https://www.liga.net/ua/opinion/rss.xml",
-      "https://www.liga.net/ua/rss/blog.xml"
-    ],
     "www.lmn.in.ua": [
       "https://www.lmn.in.ua/blogs/iryna-yaremchuk/feed/",
       "https://www.lmn.in.ua/blogs/lvivska-manufaktura/feed/",
@@ -3184,19 +1456,6 @@
       "https://www.lmn.in.ua/feed/",
       "https://www.lmn.in.ua/rsslatest.xml",
       "https://www.lmn.in.ua/sample-page/feed/"
-    ],
-    "www.nato.int": [
-      "https://www.nato.int/cps/rss/en/natohq/rssFeed.xsl/rssFeed.xml",
-      "https://www.nato.int/cps/rss/en/natolive/rssFeed.xsl/rssFeed.xml"
-    ],
-    "www.obozrevatel.com": [
-      "https://eng.obozrevatel.com/api/media/out/rss/lastnews.xml",
-      "https://life.obozrevatel.com/api/media/out/rss/lastnews.xml",
-      "https://life.obozrevatel.com/ukr/api/media/out/rss/lastnews.xml",
-      "https://pol.obozrevatel.com/api/media/out/rss/lastnews.xml",
-      "https://www.obozrevatel.com/out/rss/lastnews.xml",
-      "https://www.obozrevatel.com/rss.xml",
-      "https://www.obozrevatel.com/ukr/out/rss/lastnews.xml"
     ],
     "www.overclockers.ua": [
       "https://www.overclockers.ua/rss.xml",
@@ -3308,52 +1567,8 @@
       "https://www.rbc.ua/static/rss/all.ukr.rss.xml",
       "https://www.rbc.ua/static/rss/topnews.rus.rss.xml"
     ],
-    "www.rfi.fr": [
-      "http://www.rfi.fr/fr/%C3%A9conomie/rss",
-      "http://www.rfi.fr/fr/afrique-foot/rss",
-      "http://www.rfi.fr/fr/afrique/rss",
-      "http://www.rfi.fr/fr/am%C3%A9riques/rss",
-      "http://www.rfi.fr/fr/asie-pacifique/rss",
-      "http://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
-      "http://www.rfi.fr/fr/europe/rss",
-      "http://www.rfi.fr/fr/france/rss",
-      "http://www.rfi.fr/fr/moyen-orient/rss",
-      "http://www.rfi.fr/fr/rss",
-      "http://www.rfi.fr/fr/sciences/rss",
-      "http://www.rfi.fr/fr/sports/rss",
-      "https://musique.rfi.fr/actu-musique/rss",
-      "https://www.rfi.fr/en/rss",
-      "https://www.rfi.fr/fr/%C3%A9conomie/rss",
-      "https://www.rfi.fr/fr/afrique-foot/rss",
-      "https://www.rfi.fr/fr/afrique/rss",
-      "https://www.rfi.fr/fr/am%C3%A9riques/rss",
-      "https://www.rfi.fr/fr/asie-pacifique/rss",
-      "https://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
-      "https://www.rfi.fr/fr/europe/rss",
-      "https://www.rfi.fr/fr/france/rss",
-      "https://www.rfi.fr/fr/moyen-orient/rss",
-      "https://www.rfi.fr/fr/rss",
-      "https://www.rfi.fr/fr/sciences/rss",
-      "https://www.rfi.fr/fr/sports/rss",
-      "https://www.rfi.fr/fr/tag/lgbt/rss",
-      "https://www.rfi.fr/km/rss",
-      "https://www.rfi.fr/ru/rss"
-    ],
-    "www.securities.io": [
-      "https://www.securities.io/feed/"
-    ],
     "www.slidstvo.info": [
       "https://www.slidstvo.info/feed/"
-    ],
-    "www.sortiraparis.com": [
-      "https://www.sortiraparis.com/de/rss/sortir",
-      "https://www.sortiraparis.com/pl/rss/sortir",
-      "https://www.sortiraparis.com/rss/sap",
-      "https://www.sortiraparis.com/rss/sortir",
-      "https://www.sortiraparis.com/sk/rss/sortir"
-    ],
-    "www.theportugalnews.com": [
-      "https://www.theportugalnews.com/rss"
     ],
     "www.ukrinform.ua": [
       "https://www.ukrinform.ua/rss/block-blogs",
@@ -3363,29 +1578,6 @@
     "www.unian.ua": [
       "https://rss.unian.net/site/news_ukr.rss",
       "https://rss.unian.ua/site/gplay_119_ukr.rss"
-    ],
-    "www.unicef.org": [
-      "https://blogs.unicef.org/blog/author/ljones/feed/",
-      "https://blogs.unicef.org/blog/author/niloufarpourzand/feed/",
-      "https://blogs.unicef.org/blog/category/big-picture/feed/",
-      "https://blogs.unicef.org/blog/category/experts-speak/feed/",
-      "https://blogs.unicef.org/blog/category/impact/feed/",
-      "https://blogs.unicef.org/blog/category/uncategorized/feed/",
-      "https://blogs.unicef.org/evidence-for-action/can-broadcast-media-foster-equitable-learning-amid-the-covid-19-pandemic/feed/",
-      "https://blogs.unicef.org/evidence-for-action/feed/",
-      "https://blogs.unicef.org/feed/",
-      "https://blogs.unicef.org/fr/feed/"
-    ],
-    "www.unite.ai": [
-      "https://www.unite.ai/feed/"
-    ],
-    "www.vaticannews.va": [
-      "https://www.vaticannews.va/en.rss.xml",
-      "https://www.vaticannews.va/es.rss.xml",
-      "https://www.vaticannews.va/fr.rss.xml",
-      "https://www.vaticannews.va/it.rss.xml",
-      "https://www.vaticannews.va/pt.rss.xml",
-      "https://www.vaticannews.va/sk.rss.xml"
     ],
     "www.village.com.ua": [
       "https://www.village.com.ua/feeds/posts.atom"

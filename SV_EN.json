@@ -1,0 +1,82 @@
+{
+  "country_code": "SV",
+  "language_code": "EN",
+  "total_domains": 21,
+  "total_feeds": 32,
+  "feeds": {
+    "contrapunto.com.sv": [
+      "https://www.contrapunto.com.sv/feed/"
+    ],
+    "croniosv.com": [
+      "https://croniosv.com/feed/"
+    ],
+    "diario1.com": [
+      "https://diario1.com/feed/",
+      "https://diario1.com/feed/atom/",
+      "https://diario1.com/feed/"
+    ],
+    "diariocolatino.com": [
+      "http://www.diariocolatino.com/feed/",
+      "https://www.diariocolatino.com/feed/"
+    ],
+    "diarioelsalvador.com": [
+      "https://diarioelsalvador.com/rss.xml"
+    ],
+    "diariolahuella.com": [
+      "https://diariolahuella.com/feed/"
+    ],
+    "diariolatino.net": [
+      "https://diariolatino.net/feed/"
+    ],
+    "elblog.com": [
+      "https://elblog.com/feed/",
+      "https://elblog.com/category/blogs/feed/",
+      "https://elblog.com/category/noticias/feed/"
+    ],
+    "elcenit.com.sv": [
+      "https://elcenit.com.sv/feed/"
+    ],
+    "elgrafico.com": [
+      "https://www.elgrafico.com/feed/"
+    ],
+    "elmetropolitanodigital.com": [
+      "https://www.elmetropolitanodigital.com/feed/"
+    ],
+    "elsalvador.com": [
+      "https://app-assets.elsalvador.com/rss/elsalvador.com/category/noticias.xml",
+      "https://app-assets.elsalvador.com/rss/elsalvador.com/portada/index.txt",
+      "https://app-assets.elsalvador.com/rss/elsalvador.com/portada/index.xml"
+    ],
+    "elsalvadorinenglish.com": [
+      "https://elsalvadorinenglish.com/feed/"
+    ],
+    "elsalvadortimes.com": [
+      "https://www.elsalvadortimes.com/rss/"
+    ],
+    "lapagina.com.sv": [
+      "https://lapagina.com.sv/feed/"
+    ],
+    "laprensagrafica.com": [
+      "https://www.laprensagrafica.com/Generales/RSS?rss=Departamentos",
+      "https://www.laprensagrafica.com/Generales/RSS?rss=Judicial",
+      "https://www.laprensagrafica.com/Generales/RSS?rss=Portada",
+      "https://www.laprensagrafica.com/feed/",
+      "https://www.laprensagrafica.com/feed/index.html"
+    ],
+    "newsmillenium.com": [
+      "https://www.newsmillenium.com/index.php/feed/"
+    ],
+    "ofertasahora.com": [
+      "https://ofertasahora.com/feed/"
+    ],
+    "periodicoequilibrium.com": [
+      "https://www.periodicoequilibrium.com/feed/"
+    ],
+    "revistafactum.com": [
+      "https://www.revistafactum.com/feed/"
+    ],
+    "ultimahora.sv": [
+      "https://ultimahora.sv/feed/"
+    ]
+  }
+}

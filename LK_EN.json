@@ -1,0 +1,41 @@
+{
+  "country_code": "LK",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 15,
+  "feeds": {
+    "brideandgroom.lk": [
+      "https://brideandgroom.lk/feed/",
+      "https://brideandgroom.lk/blog/feed/"
+    ],
+    "echelon.lk": [
+      "https://www.echelon.lk/feed/",
+      "https://www.echelon.lk/category/shamindras-blog/feed/"
+    ],
+    "exploresrilanka.lk": [
+      "https://exploresrilanka.lk/feed/"
+    ],
+    "lmd.lk": [
+      "https://lmd.lk/feed/"
+    ],
+    "mahamegha.lk": [
+      "https://mahamegha.lk/feed/"
+    ],
+    "navaliya.lk": [
+      "https://www.navaliya.lk/feed/"
+    ],
+    "sarasaviya.lk": [
+      "https://sarasaviya.lk/feed/atom/",
+      "https://sarasaviya.lk/feed/"
+    ],
+    "scientist.lk": [
+      "https://scientist.lk/feed/"
+    ],
+    "vidusara.lk": [
+      "https://www.vidusara.lk/feed/atom/",
+      "https://www.vidusara.lk/feed/",
+      "http://www.vidusara.lk/feed/atom/",
+      "http://www.vidusara.lk/feed/"
+    ]
+  }
+}

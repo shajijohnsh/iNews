@@ -1,0 +1,23 @@
+{
+  "country_code": "GQ",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 7,
+  "feeds": {
+    "asodeguesegundaetapa.org": [
+      "http://www.asodeguesegundaetapa.org/feed/"
+    ],
+    "diariorombe.es": [
+      "https://diariorombe.es/feed/"
+    ],
+    "geconfidencial.blogspot.com": [
+      "https://geconfidencial.blogspot.com/feeds/posts/default",
+      "https://geconfidencial.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/5684325313630825224/posts/default"
+    ],
+    "guineainfomarket.com": [
+      "https://www.guineainfomarket.com/feed/",
+      "https://www.guineainfomarket.com/noticias-economicas-y-oportunidades-de-inversion-en-guinea-ecuatorial-guineamarket/feed/"
+    ]
+  }
+}

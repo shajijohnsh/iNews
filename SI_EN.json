@@ -1,0 +1,126 @@
+{
+  "country_code": "SI",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 74,
+  "feeds": {
+    "24ur.com": [
+      "https://www.24ur.com/rss"
+    ],
+    "delo.si": [
+      "http://www.delo.si/rss",
+      "https://www.delo.si/rss"
+    ],
+    "demokracija.si": [
+      "http://www.demokracija.si/?format=feed&type=atom",
+      "http://www.demokracija.si/?format=feed&type=rss",
+      "https://demokracija.si/feed/"
+    ],
+    "dnevnik.si": [
+      "https://www.dnevnik.si/rss"
+    ],
+    "drugisvet.com": [
+      "http://www.drugisvet.com/feed",
+      "https://www.drugisvet.com/category/in-blog-veritas/feed",
+      "https://www.drugisvet.com/feed"
+    ],
+    "druzina.si": [
+      "http://www.druzina.si/icd/spletnastran.nsf/feed.xml?Open",
+      "https://www.druzina.si/rss"
+    ],
+    "ekipa.svet24.si": [
+      "https://ekipa.svet24.si/rss/site.xml"
+    ],
+    "finance.si": [
+      "https://www.finance.si/xml-servis/finance.rss"
+    ],
+    "gorenjskiglas.si": [
+      "http://www.gorenjskiglas.si/rss",
+      "https://www.gorenjskiglas.si/rss"
+    ],
+    "ljnovice.si": [
+      "https://ljnovice.si/feed/"
+    ],
+    "mladina.si": [
+      "https://www.mladina.si/media/rss/rss-fb-mladina.xml"
+    ],
+    "nepujsag.net": [
+      "https://nepujsag.net/?format=feed&type=rss",
+      "https://nepujsag.net/?format=feed&type=atom"
+    ],
+    "pozareport.si": [
+      "https://pozareport.si/feed.xml",
+      "https://pozareport.si/?View=rss",
+      "https://pozareport.si/rss",
+      "https://publishwall.si/pozareport/rss"
+    ],
+    "primorski.eu": [
+      "https://www.primorski.eu/rss/goriska",
+      "https://www.primorski.eu/rss/kolumne",
+      "https://www.primorski.eu/rss/kultura",
+      "https://www.primorski.eu/rss/se",
+      "https://www.primorski.eu/rss/sport",
+      "https://www.primorski.eu/rss/trzaska"
+    ],
+    "reporter.si": [
+      "https://reporter.si/rss/site.xml"
+    ],
+    "rtvslo.si": [
+      "https://img.rtvslo.si/feeds/00.xml",
+      "https://img.rtvslo.si/feeds/01.xml",
+      "https://img.rtvslo.si/feeds/03.xml",
+      "https://img.rtvslo.si/feeds/02.xml",
+      "https://img.rtvslo.si/feeds/05.xml",
+      "https://img.rtvslo.si/feeds/06.xml",
+      "https://img.rtvslo.si/feeds/04.xml",
+      "https://img.rtvslo.si/_up/export/rss/all/16.xml",
+      "https://img.rtvslo.si/feeds/08.xml",
+      "https://img.rtvslo.si/feeds/09.xml",
+      "https://img.rtvslo.si/feeds/12.xml",
+      "https://img.rtvslo.si/feeds/16.xml",
+      "https://img.rtvslo.si/feeds/28.xml"
+    ],
+    "si21.com": [
+      "https://www.si21.com/rss/Dogodki/",
+      "https://www.si21.com/rss/Film/",
+      "https://www.si21.com/rss/Glasba/",
+      "https://www.si21.com/rss/Gospodarstvo/",
+      "https://www.si21.com/rss/INTERVJU/",
+      "https://www.si21.com/rss/IT/",
+      "https://www.si21.com/rss/Sport/",
+      "https://www.si21.com/rss/Svet/",
+      "https://www.si21.com/rss/sl/"
+    ],
+    "sloveniatimes.com": [
+      "https://sloveniatimes.com/feed/",
+      "https://sloveniatimes.com/feed/?category_id=1"
+    ],
+    "slovenskenovice.si": [
+      "https://www.slovenskenovice.si/rss"
+    ],
+    "sta.si": [
+      "https://www.sta.si/rss-0",
+      "https://www.sta.si/rss-4",
+      "https://www.sta.si/rss-3",
+      "https://www.sta.si/rss-1",
+      "https://www.sta.si/rss-2",
+      "https://www.sta.si/rss-10",
+      "https://www.sta.si/rss-5",
+      "https://www.sta.si/rss-11",
+      "https://www.sta.si/rss-15",
+      "https://www.sta.si/rss-7",
+      "https://www.sta.si/rss-16",
+      "https://www.sta.si/rss-8",
+      "https://www.sta.si/rss-9",
+      "https://www.sta.si/rss-14",
+      "https://www.sta.si/rss-13",
+      "https://www.sta.si/rss-6"
+    ],
+    "times.si": [
+      "https://www.times.si/rss.xml"
+    ],
+    "zurnal24.si": [
+      "https://www.zurnal24.si/feeds/latest"
+    ]
+  }
+}

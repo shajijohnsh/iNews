@@ -4,32 +4,14 @@
   "total_domains": 22,
   "total_feeds": 24,
   "feeds": {
-    "cadillacnews.com": [
-      "http://www.cadillacnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "grandhaventribune.com": [
-      "http://www.grandhaventribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "shorelinemedia.net": [
-      "http://www.shorelinemedia.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "macombdaily.com": [
-      "https://www.macombdaily.com/feed/"
-    ],
-    "theoaklandpress.com": [
-      "https://www.theoaklandpress.com/feed/"
-    ],
-    "heraldpalladium.com": [
-      "http://www.heraldpalladium.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "record-eagle.com": [
-      "http://www.record-eagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wilcoxnewspapers.com": [
-      "https://wilcoxnewspapers.com/feed/"
-    ],
     "antrimreview.net": [
       "https://antrimreview.net/rss.xml"
+    ],
+    "baymillsnews.com": [
+      "https://www.baymillsnews.com/blog-feed.xml"
+    ],
+    "bcrnews.net": [
+      "https://bcrnews.net/feed/"
     ],
     "bellevilleareaindependent.com": [
       "https://bellevilleareaindependent.com/feed/"
@@ -37,40 +19,58 @@
     "boynegazette.com": [
       "https://www.boynegazette.com/feed/"
     ],
-    "baymillsnews.com": [
-      "https://www.baymillsnews.com/blog-feed.xml"
+    "cadillacnews.com": [
+      "http://www.cadillacnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "theexponent.com": [
-      "https://theexponent.com/feed",
-      "https://theexponent.com/home-2/feed"
+    "everythreeweekly.com": [
+      "https://everythreeweekly.com/feed/"
     ],
-    "bcrnews.net": [
-      "https://bcrnews.net/feed/"
+    "grandhaventribune.com": [
+      "http://www.grandhaventribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "tuscolatoday.com": [
-      "http://www.tuscolatoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "leaderpub.com": [
-      "http://www.heraldpalladium.com/search/?f=rss&t=article&c=leaderpub&l=50&s=start_time&sd=desc"
-    ],
-    "thenewsherald.com": [
-      "https://www.thenewsherald.com/feed/"
+    "heraldpalladium.com": [
+      "http://www.heraldpalladium.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "lanthorn.com": [
       "https://lanthorn.com/feed/",
       "https://lanthorn.com/feed/atom/"
     ],
-    "everythreeweekly.com": [
-      "https://everythreeweekly.com/feed/"
+    "leaderpub.com": [
+      "http://www.heraldpalladium.com/search/?f=rss&t=article&c=leaderpub&l=50&s=start_time&sd=desc"
+    ],
+    "macombdaily.com": [
+      "https://www.macombdaily.com/feed/"
+    ],
+    "michiganpress.org": [
+      "https://michiganpress.org/feed/"
     ],
     "michiganreview.com": [
       "https://michiganreview.substack.com/feed"
     ],
+    "record-eagle.com": [
+      "http://www.record-eagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "shorelinemedia.net": [
+      "http://www.shorelinemedia.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theexponent.com": [
+      "https://theexponent.com/feed",
+      "https://theexponent.com/home-2/feed"
+    ],
+    "thenewsherald.com": [
+      "https://www.thenewsherald.com/feed/"
+    ],
+    "theoaklandpress.com": [
+      "https://www.theoaklandpress.com/feed/"
+    ],
     "thesouthend.wayne.edu": [
       "http://www.thesouthend.wayne.edu/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "michiganpress.org": [
-      "https://michiganpress.org/feed/"
+    "tuscolatoday.com": [
+      "http://www.tuscolatoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wilcoxnewspapers.com": [
+      "https://wilcoxnewspapers.com/feed/"
     ]
   }
 }

@@ -1,0 +1,17 @@
+{
+  "country_code": "DZ",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "actuel-dz.com": [
+      "https://actuel-dz.com/feed/"
+    ],
+    "lesoirdalgerie.com": [
+      "https://www.lesoirdalgerie.com/article/feed"
+    ],
+    "new.anasr.org": [
+      "https://www.new.anasr.org/feed/"
+    ]
+  }
+}

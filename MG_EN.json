@@ -1,0 +1,42 @@
+{
+  "country_code": "MG",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 16,
+  "feeds": {
+    "2424.mg": [
+      "https://2424.mg/feed/"
+    ],
+    "latribune.cyber-diego.com": [
+      "https://latribune.cyber-diego.com/?format=feed&type=rss",
+      "https://latribune.cyber-diego.com/?format=feed&type=atom"
+    ],
+    "lexpress.mg": [
+      "https://www.lexpress.mg/feeds/posts/default",
+      "https://www.lexpress.mg/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/4737517494033053260/posts/default"
+    ],
+    "madagascar-tribune.com": [
+      "https://madagascar-tribune.com/spip.php?page=backend"
+    ],
+    "madagate.org": [
+      "https://www.madagate.org/index.php?format=feed&type=rss",
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCh2YTSGKTcDKR9qax18cCEw"
+    ],
+    "madonline.com": [
+      "http://www.madonline.com/feed/"
+    ],
+    "matv.mg": [
+      "https://matv.mg/feed/",
+      "http://matv.mg/feed/"
+    ],
+    "midi-madagasikara.mg": [
+      "http://www.midi-madagasikara.mg/feed/",
+      "https://midi-madagasikara.mg/feed/"
+    ],
+    "newsmada.com": [
+      "https://newsmada.com/feed/",
+      "https://www.newsmada.com/feed/"
+    ]
+  }
+}

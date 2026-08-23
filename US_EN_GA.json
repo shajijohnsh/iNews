@@ -2,81 +2,82 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 24,
-  "total_feeds": 26,
+  "total_feeds": 27,
   "feeds": {
-    "thebrunswicknews.com": [
-      "http://thebrunswicknews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "daily-tribune.com": [
-      "http://www.daily-tribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "rockdalenewtoncitizen.com": [
-      "http://www.rockdalenewtoncitizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "griffindailynews.com": [
-      "http://www.griffindailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "news-daily.com": [
-      "http://www.news-daily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "henryherald.com": [
-      "http://www.henryherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "gwinnettdailypost.com": [
-      "http://www.gwinnettdailypost.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "mdjonline.com": [
-      "http://www.mdjonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "times-herald.com": [
-      "http://www.times-herald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "northwestgeorgianews.com": [
-      "http://www.northwestgeorgianews.com/search/?f=rss&t=article&c=rome&l=50&s=start_time&sd=desc"
-    ],
-    "thewiregrassfarmer.com": [
-      "https://www.thewiregrassfarmer.com/feed/"
-    ],
     "barnesville.com": [
       "https://barnesville.com/feed/"
     ],
     "baxleynewsbanner.com": [
       "https://www.baxleynewsbanner.com/feed/"
     ],
-    "mainstreetnews.com": [
-      "http://www.mainstreetnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "roughdraftatlanta.com": [
-      "https://roughdraftatlanta.com/feed/",
-      "https://roughdraftatlanta.com/web-stories/feed/"
-    ],
-    "thecitizen.com": [
-      "https://thecitizen.com/feed/"
-    ],
-    "herald-leader.net": [
-      "https://www.herald-leader.net/feed/"
-    ],
-    "pickensprogress.com": [
-      "https://pickensprogress.com/feed/"
-    ],
-    "gwinnettcitizen.com": [
-      "https://gwinnettcitizen.com/feed/"
-    ],
-    "waltontribune.com": [
-      "https://www.waltontribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "oconeeenterprise.com": [
-      "http://www.oconeeenterprise.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "redandblack.com": [
-      "http://www.redandblack.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thewestgeorgian.com": [
-      "https://thewestgeorgian.com/feed/"
+    "daily-tribune.com": [
+      "http://www.daily-tribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "gapress.org": [
       "https://gapress.org/feed/",
       "https://gapress.org/home/feed/"
+    ],
+    "griffindailynews.com": [
+      "https://www.griffindailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "gwinnettcitizen.com": [
+      "https://gwinnettcitizen.com/feed/"
+    ],
+    "gwinnettdailypost.com": [
+      "http://www.gwinnettdailypost.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "henryherald.com": [
+      "http://www.henryherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "herald-leader.net": [
+      "https://www.herald-leader.net/feed/"
+    ],
+    "mainstreetnews.com": [
+      "https://www.mainstreetnews.com/search/?f=rss&t=article&c=jackson/public_safety&l=50&s=start_time&sd=desc"
+    ],
+    "mdjonline.com": [
+      "http://www.mdjonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "news-daily.com": [
+      "http://www.news-daily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "northwestgeorgianews.com": [
+      "http://www.northwestgeorgianews.com/search/?f=rss&t=article&c=rome&l=50&s=start_time&sd=desc"
+    ],
+    "oconeeenterprise.com": [
+      "http://www.oconeeenterprise.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pickensprogress.com": [
+      "https://pickensprogress.com/feed/"
+    ],
+    "redandblack.com": [
+      "http://www.redandblack.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "rockdalenewtoncitizen.com": [
+      "http://www.rockdalenewtoncitizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "roughdraftatlanta.com": [
+      "https://roughdraftatlanta.com/category/buckhead/feed/",
+      "https://roughdraftatlanta.com/feed/",
+      "https://roughdraftatlanta.com/web-stories/feed/"
+    ],
+    "thebrunswicknews.com": [
+      "http://thebrunswicknews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecitizen.com": [
+      "https://thecitizen.com/feed/"
+    ],
+    "thewestgeorgian.com": [
+      "https://thewestgeorgian.com/feed/"
+    ],
+    "thewiregrassfarmer.com": [
+      "https://www.thewiregrassfarmer.com/feed/"
+    ],
+    "times-herald.com": [
+      "http://www.times-herald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "waltontribune.com": [
+      "https://www.waltontribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

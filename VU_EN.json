@@ -1,0 +1,20 @@
+{
+  "country_code": "VU",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 6,
+  "feeds": {
+    "dailypost.vu": [
+      "http://www.dailypost.vu/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "rnz.co.nz": [
+      "https://www.rnz.co.nz/oggcasts/nzwars-tainui.rss",
+      "https://www.rnz.co.nz/rss/national.xml"
+    ],
+    "vanuatu.travel": [
+      "https://www.vanuatu.travel/en/blog/categories/uncategorized?format=feed&type=atom",
+      "https://www.vanuatu.travel/en/blog/blogger/impartmedia?format=feed&type=rss",
+      "https://www.vanuatu.travel/en/blog/categories/food-drink?format=feed&type=rss"
+    ]
+  }
+}

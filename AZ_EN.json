@@ -1,0 +1,12 @@
+{
+  "country_code": "AZ",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 2,
+  "feeds": {
+    "azerbaijantoday.az": [
+      "https://azerbaijantoday.az/feed/",
+      "https://azerbaijantoday.az/feed/"
+    ]
+  }
+}

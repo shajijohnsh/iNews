@@ -4,26 +4,8 @@
   "total_domains": 43,
   "total_feeds": 49,
   "feeds": {
-    "dailypostathenian.com": [
-      "http://www.dailypostathenian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "clevelandbanner.com": [
-      "http://www.clevelandbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "herald-citizen.com": [
-      "http://www.herald-citizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "stategazette.com": [
-      "http://www.stategazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "greenevillesun.com": [
-      "http://www.greenevillesun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thedailytimes.com": [
-      "http://www.thedailytimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "citizentribune.com": [
-      "https://www.citizentribune.com/feed/"
+    "advocateanddemocrat.com": [
+      "http://www.advocateanddemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "bartlett-express.com": [
       "https://bartlett-express.com/feed/"
@@ -31,21 +13,20 @@
     "bulletintimesnews.com": [
       "https://www.bulletintimesnews.com/rss.xml"
     ],
-    "heraldcourier.com": [
-      "http://heraldcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "cannoncourier.com": [
+      "https://www.cannoncourier.com/feeds"
     ],
     "carthagecourier.com": [
       "https://www.carthagecourier.com/feed/"
     ],
-    "dalehollowhorizon.com": [
-      "https://dalehollowhorizon.com/feed/"
-    ],
     "chattanoogan.com": [
       "https://www.chattanoogan.com/Breaking-News/feed"
     ],
-    "theallstate.org": [
-      "https://theallstate.org/feed/",
-      "https://theallstate.org/feed/atom/"
+    "citizentribune.com": [
+      "https://www.citizentribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "clevelandbanner.com": [
+      "http://www.clevelandbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "covingtonleader.com": [
       "https://covingtonleader.com/feed/"
@@ -53,33 +34,46 @@
     "crossville-chronicle.com": [
       "http://www.crossville-chronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "rheaheraldnews.com": [
-      "http://www.rheaheraldnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "dailypostathenian.com": [
+      "http://www.dailypostathenian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "elkvalleytimes.com": [
-      "https://www.elkvalleytimes.com/feed/"
-    ],
-    "lebanondemocrat.com": [
-      "http://www.lebanondemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "dalehollowhorizon.com": [
+      "https://dalehollowhorizon.com/feed/"
     ],
     "easttennessean.com": [
       "https://easttennessean.com/feed/",
       "https://easttennessean.com/home/feed/"
     ],
-    "themountainpress.com": [
-      "http://www.themountainpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "elkvalleytimes.com": [
+      "https://www.elkvalleytimes.com/feed/"
     ],
-    "maconcountychronicle.com": [
-      "https://www.maconcountychronicle.com/feed/"
+    "greenevillesun.com": [
+      "http://www.greenevillesun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "grundycountyherald.com": [
+      "https://www.grundycountyherald.com/feed/"
+    ],
+    "herald-citizen.com": [
+      "http://www.herald-citizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "heraldchronicle.com": [
+      "https://www.heraldchronicle.com/feed/"
+    ],
+    "heraldcourier.com": [
+      "http://heraldcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "indherald.com": [
+      "https://independentherald.net/feed/",
+      "https://independentherald.net/home/feed/"
+    ],
+    "lebanondemocrat.com": [
+      "http://www.lebanondemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "lexingtonprogress.com": [
       "https://www.lexingtonprogress.com/feed/"
     ],
-    "overtoncountynews.com": [
-      "http://www.overtoncountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "themoorecountynews.com": [
-      "https://www.themoorecountynews.com/feed/"
+    "maconcountychronicle.com": [
+      "https://www.maconcountychronicle.com/feed/"
     ],
     "manchestertimes.com": [
       "https://www.manchestertimes.com/feed/"
@@ -89,6 +83,10 @@
     ],
     "milanmirrorexchange.com": [
       "https://www.milanmirrorexchange.com/feed/"
+    ],
+    "milliganstampede.com": [
+      "https://www.milliganstampede.com/feed/",
+      "https://www.milliganstampede.com/feed/?post_type=jm_breaking_news"
     ],
     "millington-news.com": [
       "https://millington-news.com/feed/"
@@ -100,44 +98,46 @@
     "newportplaintalk.com": [
       "http://www.newportplaintalk.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "indherald.com": [
-      "https://independentherald.net/feed/",
-      "https://independentherald.net/home/feed/"
+    "overtoncountynews.com": [
+      "http://www.overtoncountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "thebledsonian-banner.com": [
-      "https://www.thebledsonian-banner.com/feed/"
-    ],
-    "therogersvillereview.com": [
-      "http://www.therogersvillereview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "rheaheraldnews.com": [
+      "http://www.rheaheraldnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "smithvillereview.com": [
       "http://www.herald-citizen.com/search/?f=rss&t=article&c=smithville&l=50&s=start_time&sd=desc"
     ],
-    "advocateanddemocrat.com": [
-      "http://www.advocateanddemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "stategazette.com": [
+      "http://www.stategazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "grundycountyherald.com": [
-      "https://www.grundycountyherald.com/feed/"
+    "theallstate.org": [
+      "https://theallstate.org/feed/",
+      "https://theallstate.org/feed/atom/"
+    ],
+    "thebledsonian-banner.com": [
+      "https://www.thebledsonian-banner.com/feed/"
+    ],
+    "thedailytimes.com": [
+      "https://www.thedailytimes.com/search/?f=rss&t=article&c=public_records/realty_transfers&l=50&s=start_time&sd=desc"
+    ],
+    "themoorecountynews.com": [
+      "https://www.themoorecountynews.com/feed/"
+    ],
+    "themountainpress.com": [
+      "http://www.themountainpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "therogersvillereview.com": [
+      "http://www.therogersvillereview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tnpress.com": [
+      "https://tnpress.com/feed/"
     ],
     "tullahomanews.com": [
       "https://www.tullahomanews.com/feed/"
     ],
-    "heraldchronicle.com": [
-      "https://www.heraldchronicle.com/feed/"
-    ],
-    "cannoncourier.com": [
-      "https://www.cannoncourier.com/feeds"
-    ],
     "utdailybeacon.com": [
       "https://utdailybeacon.com/feed/",
       "https://utdailybeacon.com/feed/atom/"
-    ],
-    "milliganstampede.com": [
-      "https://www.milliganstampede.com/feed/",
-      "https://www.milliganstampede.com/feed/?post_type=jm_breaking_news"
-    ],
-    "tnpress.com": [
-      "https://tnpress.com/feed/"
     ]
   }
 }

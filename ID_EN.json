@@ -1,0 +1,46 @@
+{
+  "country_code": "ID",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 20,
+  "feeds": {
+    "daman.co.id": [
+      "https://daman.co.id/feed/",
+      "https://daman.co.id/tag/fashion-blog/feed/"
+    ],
+    "dewimagazine.com": [
+      "https://www.dewimagazine.com/feed/"
+    ],
+    "indonesiaexpat.id": [
+      "https://indonesiaexpat.id/feed/",
+      "https://indonesiaexpat.id/tag/indonesia-in-depth-podcast/feed/"
+    ],
+    "insideindonesia.org": [
+      "https://www.insideindonesia.org/?format=feed&type=rss",
+      "https://www.insideindonesia.org/?format=feed&type=atom"
+    ],
+    "nowjakarta.co.id": [
+      "https://www.nowjakarta.co.id/feed/"
+    ],
+    "prestigeonline.com": [
+      "https://www.prestigeonline.com/hk/feed/"
+    ],
+    "sinyalmagz.com": [
+      "https://www.sinyalmagz.com/feed/"
+    ],
+    "swa.co.id": [
+      "https://swa.co.id/feed"
+    ],
+    "tempo.co": [
+      "http://rss.tempo.co",
+      "https://pustaka-api.tempo.co/single-brand/rss/free/",
+      "https://pustaka-api.tempo.co/single-brand/rss/vip/",
+      "http://rss.tempo.co/nasional",
+      "https://rss.tempo.co/",
+      "http://rss.tempo.co/bisnis",
+      "https://rss.tempo.co/nasional",
+      "https://rss.tempo.co/bisnis",
+      "https://pustaka-api.tempo.co/single-brand/rss/free/digital"
+    ]
+  }
+}

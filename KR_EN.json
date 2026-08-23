@@ -1,0 +1,138 @@
+{
+  "country_code": "KR",
+  "language_code": "EN",
+  "total_domains": 24,
+  "total_feeds": 82,
+  "feeds": {
+    "10mag.com": [
+      "https://10mag.com/feed/"
+    ],
+    "ctjournal.kr": [
+      "http://www.ctjournal.kr/?feed=rss2"
+    ],
+    "datanet.co.kr": [
+      "https://www.datanet.co.kr/rss/allArticle.xml",
+      "https://www.datanet.co.kr/rss/S1N1.xml",
+      "http://www.datanet.co.kr/rss/allArticle.xml",
+      "https://www.datanet.co.kr/rss/clickTop.xml",
+      "http://www.datanet.co.kr/rss/S1N1.xml",
+      "https://www.datanet.co.kr/rss/S1N2.xml",
+      "https://www.datanet.co.kr/rss/S1N3.xml",
+      "https://www.datanet.co.kr/rss/S1N4.xml",
+      "https://www.datanet.co.kr/rss/S1N5.xml",
+      "http://www.datanet.co.kr/rss/clickTop.xml",
+      "http://www.datanet.co.kr/rss/S1N4.xml"
+    ],
+    "dazedkorea.com": [
+      "https://dazedkorea.com/feed/"
+    ],
+    "gqkorea.co.kr": [
+      "https://www.gqkorea.co.kr/feed/"
+    ],
+    "gwangjunewsgic.com": [
+      "https://gwangjunewsgic.com/feed/"
+    ],
+    "h21.hani.co.kr": [
+      "https://h21.hani.co.kr/rss",
+      "https://h21.hani.co.kr/rss/cover",
+      "https://h21.hani.co.kr/rss/culture",
+      "https://h21.hani.co.kr/rss/economy",
+      "https://h21.hani.co.kr/rss/politics",
+      "https://h21.hani.co.kr/rss/society",
+      "https://h21.hani.co.kr/rss/special"
+    ],
+    "hapskorea.com": [
+      "https://www.hapskorea.com/feed/"
+    ],
+    "ilovepc.co.kr": [
+      "http://www.ilovepc.co.kr/rss/allArticle.xml",
+      "http://www.ilovepc.co.kr/rss/clickTop.xml",
+      "http://www.ilovepc.co.kr/rss/S2N18.xml",
+      "http://www.ilovepc.co.kr/rss/S2N19.xml"
+    ],
+    "itdaily.kr": [
+      "http://www.itdaily.kr/rss/allArticle.xml"
+    ],
+    "jejuweekly.com": [
+      "https://www.jejuweekly.com/rss/allArticle.xml"
+    ],
+    "koreapost.com": [
+      "https://www.koreapost.com/rss/gns_allArticle.xml",
+      "https://www.koreapost.com/rss/gns_S1N2.xml",
+      "https://www.koreapost.com/rss/gns_S1N5.xml",
+      "https://www.koreapost.com/rss/gns_S1N12.xml",
+      "https://www.koreapost.com/rss/gns_S1N14.xml"
+    ],
+    "lady.khan.co.kr": [
+      "https://lady.khan.co.kr/rss/rssdata/total_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/living_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/wellness_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/culture_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/education_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/issue_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/style_news.xml",
+      "https://lady.khan.co.kr/rss/rssdata/travel_news.xml"
+    ],
+    "magazine.seoulselection.com": [
+      "https://magazine.seoulselection.com/feed/",
+      "https://magazine.seoulselection.com/feed/"
+    ],
+    "mdesign.designhouse.co.kr": [
+      "https://design.co.kr/feed",
+      "https://design.co.kr/feed/"
+    ],
+    "mediatoday.co.kr": [
+      "http://www.mediatoday.co.kr/rss/S1N2.xml",
+      "http://www.mediatoday.co.kr/rss/S1N3.xml",
+      "http://www.mediatoday.co.kr/rss/S1N4.xml",
+      "http://www.mediatoday.co.kr/rss/S1N6.xml",
+      "http://www.mediatoday.co.kr/rss/allArticle.xml",
+      "http://www.mediatoday.co.kr/rss/clickTop.xml"
+    ],
+    "monthly.chosun.com": [
+      "https://cdn.monthly.chosun.com/rss/gn_rss_allArticle.xml"
+    ],
+    "outdoornews.co.kr": [
+      "http://www.outdoornews.co.kr/rss/allArticle.xml"
+    ],
+    "queen.co.kr": [
+      "http://www.queen.co.kr/rss/allArticle.xml",
+      "http://www.queen.co.kr/rss/clickTop.xml"
+    ],
+    "sisajournal.com": [
+      "http://www.sisajournal.com/rss/S1N47.xml",
+      "http://www.sisajournal.com/rss/S1N54.xml",
+      "http://www.sisajournal.com/rss/S1N56.xml",
+      "http://www.sisajournal.com/rss/S1N57.xml",
+      "http://www.sisajournal.com/rss/S1N58.xml",
+      "http://www.sisajournal.com/rss/S1N59.xml",
+      "http://www.sisajournal.com/rss/S1N64.xml",
+      "http://www.sisajournal.com/rss/S1N65.xml",
+      "http://www.sisajournal.com/rss/S2N106.xml",
+      "http://www.sisajournal.com/rss/S2N107.xml",
+      "http://www.sisajournal.com/rss/allArticle.xml",
+      "http://www.sisajournal.com/rss/clickTop.xml"
+    ],
+    "tennis.co.kr": [
+      "https://cdn.tennis.co.kr/rss/gn_rss_allArticle.xml"
+    ],
+    "travie.com": [
+      "http://www.travie.com/rss/allArticle.xml"
+    ],
+    "vogue.co.kr": [
+      "https://www.vogue.co.kr/feed/"
+    ],
+    "weekly.khan.co.kr": [
+      "https://weekly.khan.co.kr/rss/rssdata/total_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/culture-science_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/economy_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/national_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/politics_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/coverstory_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/opinion_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/special_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/sports_news.xml",
+      "https://weekly.khan.co.kr/rss/rssdata/world_news.xml"
+    ]
+  }
+}

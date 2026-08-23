@@ -1,0 +1,288 @@
+{
+  "country_code": "SA",
+  "language_code": "EN",
+  "total_domains": 34,
+  "total_feeds": 212,
+  "feeds": {
+    "aawsat.com": [
+      "https://aawsat.com/feed",
+      "https://aawsat.com/feed/arab-world",
+      "https://aawsat.com/feed/economy",
+      "https://aawsat.com/feed/facebook?xmlns=1",
+      "https://aawsat.com/feed/gulf",
+      "https://aawsat.com/feed/information-technology",
+      "https://aawsat.com/feed/sport",
+      "https://aawsat.com/taxonomy/term/36/feed",
+      "https://english.aawsat.com//feed/en-data?xmlns=1"
+    ],
+    "afifnp.com": [
+      "https://www.afifnp.com/?feed=rss2"
+    ],
+    "al-jazirah.com": [
+      "http://www.al-jazirah.com/rss/du.xml",
+      "http://www.al-jazirah.com/rss/ec.xml",
+      "http://www.al-jazirah.com/rss/fe.xml",
+      "http://www.al-jazirah.com/rss/ln.xml",
+      "http://www.al-jazirah.com/rss/ln.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+      "http://www.al-jazirah.com/rss/lp.xml",
+      "http://www.al-jazirah.com/rss/ms.xml",
+      "http://www.al-jazirah.com/rss/sp.xml",
+      "http://www.al-jazirah.com/rss/sp.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+      "http://www.al-jazirah.com/rss/writers_rai.xml",
+      "http://www.al-jazirah.com/rss/writers_zawaya.xml",
+      "https://al-jazirah.com/rss/du.xml",
+      "https://al-jazirah.com/rss/ec.xml",
+      "https://al-jazirah.com/rss/fe.xml",
+      "https://al-jazirah.com/rss/ln.xml",
+      "https://al-jazirah.com/rss/lp.xml",
+      "https://al-jazirah.com/rss/ms.xml",
+      "https://al-jazirah.com/rss/sp.xml",
+      "https://al-jazirah.com/rss/writers_rai.xml",
+      "https://al-jazirah.com/rss/writers_zawaya.xml",
+      "https://www.al-jazirah.com/rss/du.xml",
+      "https://www.al-jazirah.com/rss/ec.xml",
+      "https://www.al-jazirah.com/rss/ec.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+      "https://www.al-jazirah.com/rss/fe.xml",
+      "https://www.al-jazirah.com/rss/ln.xml",
+      "https://www.al-jazirah.com/rss/ln.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+      "https://www.al-jazirah.com/rss/lp.xml",
+      "https://www.al-jazirah.com/rss/ms.xml",
+      "https://www.al-jazirah.com/rss/sp.xml",
+      "https://www.al-jazirah.com/rss/sp.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+      "https://www.al-jazirah.com/rss/writers_rai.xml",
+      "https://www.al-jazirah.com/rss/writers_rai.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+      "https://www.al-jazirah.com/rss/writers_zawaya.xml"
+    ],
+    "al-jazirahonline.com": [
+      "https://www.al-jazirahonline.com/feed/"
+    ],
+    "al-madina.com": [
+      "https://www.al-madina.com/rssFeed/190",
+      "https://www.al-madina.com/rssFeed/193",
+      "https://www.al-madina.com/rssFeed/197"
+    ],
+    "alarabiya.net": [
+      "https://www.alarabiya.net/.mrss/ar.xml",
+      "https://www.alarabiya.net/.mrss/ar/arab-and-world.xml",
+      "https://www.alarabiya.net/.mrss/ar/culture-and-art.xml",
+      "https://www.alarabiya.net/.mrss/ar/last-page.xml",
+      "https://www.alarabiya.net/.mrss/ar/medicine-and-health.xml",
+      "https://www.alarabiya.net/.mrss/ar/sport.xml",
+      "https://www.alarabiya.net/.mrss/ar/technology.xml",
+      "https://www.alarabiya.net/feed/rss2/ar.xml",
+      "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml",
+      "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml",
+      "https://www.alarabiya.net/feed/rss2/ar/technology.xml",
+      "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
+    ],
+    "albiladdaily.com": [
+      "https://albiladdaily.com/feed/"
+    ],
+    "aleqt.com": [
+      "https://www.aleqt.com/feed/rss_section/aswaq",
+      "https://www.aleqt.com/feed/rss_section/frontpage",
+      "https://www.aleqt.com/feed/rss_section/online",
+      "https://www.aleqt.com/feed/rss_section/realestate",
+      "https://www.aleqt.com/feed/rss_section/sport"
+    ],
+    "aljamila.com": [
+      "https://www.aljamila.com/rss.xml"
+    ],
+    "almowaten.net": [
+      "https://www.almowaten.net/feed/"
+    ],
+    "alriyadh.com": [
+      "http://www.alriyadh.com/section.art.xml",
+      "http://www.alriyadh.com/section.clinic.xml",
+      "http://www.alriyadh.com/section.columns.xml",
+      "http://www.alriyadh.com/section.comic.xml",
+      "http://www.alriyadh.com/section.culture.xml",
+      "http://www.alriyadh.com/section.econ.xml",
+      "http://www.alriyadh.com/section.foll.xml",
+      "http://www.alriyadh.com/section.graphicnews.xml",
+      "http://www.alriyadh.com/section.inter.xml",
+      "http://www.alriyadh.com/section.last.xml",
+      "http://www.alriyadh.com/section.local.xml",
+      "http://www.alriyadh.com/section.main.xml",
+      "http://www.alriyadh.com/section.news.econ.xml",
+      "http://www.alriyadh.com/section.news.inter.xml",
+      "http://www.alriyadh.com/section.news.local.xml",
+      "http://www.alriyadh.com/section.news.misc.xml",
+      "http://www.alriyadh.com/section.news.sport.xml",
+      "http://www.alriyadh.com/section.news.xml",
+      "http://www.alriyadh.com/section.opi.xml",
+      "http://www.alriyadh.com/section.photo.xml",
+      "http://www.alriyadh.com/section.sport.xml",
+      "https://alriyadh.com/section.art.xml",
+      "https://alriyadh.com/section.clinic.xml",
+      "https://alriyadh.com/section.columns.xml",
+      "https://alriyadh.com/section.comic.xml",
+      "https://alriyadh.com/section.culture.xml",
+      "https://alriyadh.com/section.econ.xml",
+      "https://alriyadh.com/section.foll.xml",
+      "https://alriyadh.com/section.graphicnews.xml",
+      "https://alriyadh.com/section.inter.xml",
+      "https://alriyadh.com/section.last.xml",
+      "https://alriyadh.com/section.local.xml",
+      "https://alriyadh.com/section.main.xml",
+      "https://alriyadh.com/section.news.econ.xml",
+      "https://alriyadh.com/section.news.inter.xml",
+      "https://alriyadh.com/section.news.local.xml",
+      "https://alriyadh.com/section.news.misc.xml",
+      "https://alriyadh.com/section.news.sport.xml",
+      "https://alriyadh.com/section.news.xml",
+      "https://alriyadh.com/section.opi.xml",
+      "https://alriyadh.com/section.photo.xml",
+      "https://alriyadh.com/section.sport.xml",
+      "https://www.alriyadh.com/section.clinic.xml",
+      "https://www.alriyadh.com/section.columns.xml",
+      "https://www.alriyadh.com/section.comic.xml",
+      "https://www.alriyadh.com/section.culture.xml",
+      "https://www.alriyadh.com/section.econ.xml",
+      "https://www.alriyadh.com/section.foll.xml",
+      "https://www.alriyadh.com/section.graphicnews.xml",
+      "https://www.alriyadh.com/section.inter.xml",
+      "https://www.alriyadh.com/section.last.xml",
+      "https://www.alriyadh.com/section.local.xml",
+      "https://www.alriyadh.com/section.main.xml",
+      "https://www.alriyadh.com/section.news.econ.xml",
+      "https://www.alriyadh.com/section.news.inter.xml",
+      "https://www.alriyadh.com/section.news.local.xml",
+      "https://www.alriyadh.com/section.news.misc.xml",
+      "https://www.alriyadh.com/section.news.sport.xml",
+      "https://www.alriyadh.com/section.news.xml",
+      "https://www.alriyadh.com/section.opi.xml",
+      "https://www.alriyadh.com/section.photo.xml",
+      "https://www.alriyadh.com/section.sport.xml"
+    ],
+    "alwatan.com.sa": [
+      "https://www.alwatan.com.sa/rssFeed/1",
+      "https://www.alwatan.com.sa/rssFeed/4"
+    ],
+    "alweeam.com.sa": [
+      "https://www.alweeam.com.sa/feed/"
+    ],
+    "alyaum.com": [
+      "https://www.alyaum.com/rssFeed/0",
+      "https://www.alyaum.com/rssFeed/1005/92"
+    ],
+    "arab-eng.org": [
+      "https://arab-eng.org/forums/-/index.rss"
+    ],
+    "arabnews.com": [
+      "https://www.arabnews.com/cat/1/rss.xml",
+      "https://www.arabnews.com/cat/2/rss.xml",
+      "https://www.arabnews.com/cat/3/rss.xml",
+      "https://www.arabnews.com/cat/4/rss.xml",
+      "https://www.arabnews.com/cat/47/rss.xml",
+      "https://www.arabnews.com/cat/5/rss.xml",
+      "https://www.arabnews.com/cat/8/rss.xml",
+      "https://www.arabnews.com/rss.xml"
+    ],
+    "arriyadiyah.com": [
+      "https://arriyadiyah.com/rss/"
+    ],
+    "bab.com": [
+      "https://bab.com/news/feed",
+      "https://www.bab.com/news/feed",
+      "https://bab.com/sports/feed",
+      "https://www.bab.com/sports/feed",
+      "https://bab.com/ksa/feed",
+      "https://www.bab.com/ksa/feed",
+      "https://bab.com/articles/feed",
+      "https://bab.com/cars/feed",
+      "https://bab.com/hwaa-world/feed",
+      "https://bab.com/islamics/feed",
+      "https://bab.com/technology/feed",
+      "https://bab.com/trektoday/feed",
+      "https://bab.com/varieties/feed",
+      "https://bab.com/wafiat/feed",
+      "https://www.bab.com/articles/feed",
+      "https://www.bab.com/cars/feed",
+      "https://www.bab.com/hwaa-world/feed",
+      "https://www.bab.com/islamics/feed",
+      "https://www.bab.com/technology/feed",
+      "https://www.bab.com/trektoday/feed",
+      "https://www.bab.com/varieties/feed",
+      "https://www.bab.com/wafiat/feed",
+      "https://bab.com/health/feed",
+      "https://www.bab.com/health/feed"
+    ],
+    "english.aawsat.com": [
+      "https://english.aawsat.com//feed/en-data?xmlns=1"
+    ],
+    "english.alarabiya.net": [
+      "https://english.alarabiya.net/.mrss/en.xml"
+    ],
+    "fsc.org.sa": [
+      "https://fsc.org.sa/feed/"
+    ],
+    "goal.com": [
+      "https://www.goal.com/feeds/en/news"
+    ],
+    "graaam.com": [
+      "https://www.graaam.com/rss.xml",
+      "https://www.graaam.com/atom.xml"
+    ],
+    "kooora.com": [
+      "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick"
+    ],
+    "makkahnewspaper.com": [
+      "https://makkahnewspaper.com/rss-feed/11",
+      "https://makkahnewspaper.com/rss-feed/13",
+      "https://makkahnewspaper.com/rss-feed/26",
+      "https://makkahnewspaper.com/rss-feed/28",
+      "https://makkahnewspaper.com/rss-feed/29",
+      "https://makkahnewspaper.com/rss-feed/3",
+      "https://makkahnewspaper.com/rss-feed/30",
+      "https://makkahnewspaper.com/rss-feed/31",
+      "https://makkahnewspaper.com/rss-feed/32",
+      "https://makkahnewspaper.com/rss-feed/35",
+      "https://makkahnewspaper.com/rss-feed/39",
+      "https://makkahnewspaper.com/rss-feed/40",
+      "https://makkahnewspaper.com/rss-feed/41",
+      "https://makkahnewspaper.com/rss-feed/42",
+      "https://makkahnewspaper.com/rss-feed/5",
+      "https://makkahnewspaper.com/rss-feed/55",
+      "https://makkahnewspaper.com/rss-feed/6",
+      "https://makkahnewspaper.com/rssFeed/0"
+    ],
+    "mz-mz.net": [
+      "https://mz-mz.net/feed/"
+    ],
+    "okaz.com.sa": [
+      "https://www.okaz.com.sa/rssFeed/0"
+    ],
+    "sabq.org": [
+      "https://sabq.org/rss"
+    ],
+    "saudigazette.com.sa": [
+      "https://saudigazette.com.sa/rssFeed/74"
+    ],
+    "sauress.com": [
+      "https://www.sauress.com/rss"
+    ],
+    "sayidaty.net": [
+      "https://www.sayidaty.net/rss.xml",
+      "https://www.sayidaty.net/snapchat/rss.xml"
+    ],
+    "slaati.com": [
+      "http://slaati.com/feed",
+      "http://www.slaati.com/feed",
+      "https://slaati.com/feed"
+    ],
+    "spa.gov.sa": [
+      "https://www.spa.gov.sa/rss.xml",
+      "https://www.spa.gov.sa/rss3.xml",
+      "https://www.spa.gov.sa/rss4.xml",
+      "https://www.spa.gov.sa/rss5.xml",
+      "https://www.spa.gov.sa/rss6.xml",
+      "https://www.spa.gov.sa/rss7.xml",
+      "https://www.spa.gov.sa/rss8.xml"
+    ],
+    "zawya.com": [
+      "https://www.zawya.com/rssfeeds/regional.xml",
+      "https://www.zawya.com/sitemaps/en/rss"
+    ]
+  }
+}

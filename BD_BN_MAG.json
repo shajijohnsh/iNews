@@ -7,52 +7,52 @@
     "anannya.com.bd": [
       "https://anannya.com.bd/feed.xml"
     ],
-    "kaliokalam.com": [
-      "https://www.kaliokalam.com/feed/"
-    ],
     "asiaticsociety.org.bd": [
       "https://asiaticsociety.org.bd/feed/"
     ],
-    "kishorebangla.com": [
-      "https://kishorebangla.com/feed/"
-    ],
-    "parjatanbichitra.com": [
-      "https://www.parjatanbichitra.com/feed"
-    ],
     "canvasmagazine.com.bd": [
       "https://canvasmagazine.com.bd/feed"
-    ],
-    "icetoday.net": [
-      "https://icetoday.net/feed/"
-    ],
-    "pakistangulfeconomist.com": [
-      "https://www.pakistangulfeconomist.com/feed/",
-      "https://www.pakistangulfeconomist.com/rsslatest.xml"
-    ],
-    "fashioncentral.pk": [
-      "https://www.fashioncentral.pk/feed/"
-    ],
-    "phool.com.pk": [
-      "https://phool.com.pk/rss",
-      "https://phool.com.pk/sitemap.xml"
     ],
     "centreline.com.pk": [
       "https://centreline.com.pk/feed/",
       "https://centreline.com.pk/home/feed/"
     ],
+    "economicoutlook.pk": [
+      "https://economicoutlook.pk/feed/"
+    ],
     "engineeringreview.com.pk": [
       "https://engineeringreview.com.pk/feed/",
       "https://engineeringreview.com.pk/home/feed/"
     ],
-    "southasia.com.pk": [
-      "https://southasia.com.pk/feed/"
+    "fashioncentral.pk": [
+      "https://www.fashioncentral.pk/feed/"
     ],
-    "economicoutlook.pk": [
-      "https://economicoutlook.pk/feed/"
+    "icetoday.net": [
+      "https://icetoday.net/feed/"
+    ],
+    "kaliokalam.com": [
+      "https://www.kaliokalam.com/feed/"
+    ],
+    "kishorebangla.com": [
+      "https://kishorebangla.com/feed/"
+    ],
+    "pakistangulfeconomist.com": [
+      "https://www.pakistangulfeconomist.com/feed/",
+      "https://www.pakistangulfeconomist.com/rsslatest.xml"
     ],
     "pakpassion.net": [
       "https://pakpassion.com/?format=feed&type=rss",
       "https://pakpassion.com/?format=feed&type=atom"
+    ],
+    "parjatanbichitra.com": [
+      "https://www.parjatanbichitra.com/feed"
+    ],
+    "phool.com.pk": [
+      "https://phool.com.pk/rss",
+      "https://phool.com.pk/sitemap.xml"
+    ],
+    "southasia.com.pk": [
+      "https://southasia.com.pk/feed/"
     ],
     "weeklycuttingedge.com": [
       "https://weeklycuttingedge.com/feed/"

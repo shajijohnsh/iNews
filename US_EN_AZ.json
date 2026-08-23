@@ -2,68 +2,28 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 35,
-  "total_feeds": 37,
+  "total_feeds": 46,
   "feeds": {
-    "tucson.com": [
-      "https://tucson.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "eastvalleytribune.com": [
-      "http://www.eastvalleytribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "dcourier.com": [
-      "http://www.dcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "azdailysun.com": [
       "http://azdailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "yumasun.com": [
-      "http://www.yumasun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "mohavedailynews.com": [
-      "http://www.mohavedailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "myheraldreview.com": [
-      "http://www.myheraldreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "kdminer.com": [
-      "http://www.kdminer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "havasunews.com": [
-      "http://www.havasunews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "westvalleyview.com": [
-      "http://www.westvalleyview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thebisbeeobserver.com": [
-      "https://thebisbeeobserver.com/feed/"
-    ],
-    "pvvt.com": [
-      "http://www.pvvt.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "journalaz.com": [
-      "https://journalaz.com/feed/",
-      "https://journalaz.com/home/feed/"
-    ],
-    "pinalcentral.com": [
-      "http://www.pinalcentral.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "robsonranchviews.com": [
-      "https://robsonranchviews.com/feed/"
+    "azmedia.org": [
+      "https://azmedia.org/feed/"
     ],
     "chandlernews.com": [
       "http://www.chandlernews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "sunbirdnews.com": [
-      "https://sunbirdnews.com/feed/"
+    "dcourier.com": [
+      "http://www.dcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "verdenews.com": [
-      "http://www.verdenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "eacourier.com": [
+      "http://www.eacourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "eastvalleytribune.com": [
+      "http://www.eastvalleytribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "flagstaffbusinessnews.com": [
       "https://www.flagstaffbusinessnews.com/feed/"
-    ],
-    "nhonews.com": [
-      "http://www.nhonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "glendalestar.com": [
       "http://www.glendalestar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -71,23 +31,30 @@
     "gvnews.com": [
       "http://www.gvnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "quailcreekcrossing.com": [
-      "https://quailcreekcrossing.com/feed/"
+    "havasunews.com": [
+      "https://www.havasunews.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=news,news/*&f=rss"
     ],
     "inmaricopa.com": [
       "https://inmaricopa.com/feed/"
     ],
-    "thefoothillsfocus.com": [
-      "http://www.thefoothillsfocus.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "jackcentral.org": [
+      "http://www.jackcentral.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "eacourier.com": [
-      "http://www.eacourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "journalaz.com": [
+      "https://journalaz.com/feed/",
+      "https://journalaz.com/home/feed/"
     ],
-    "redrocknews.com": [
-      "https://www.redrocknews.com/feed/"
+    "kdminer.com": [
+      "http://www.kdminer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "tucsonlocalmedia.com": [
-      "http://www.tucsonlocalmedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "mohavedailynews.com": [
+      "http://www.mohavedailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "myheraldreview.com": [
+      "http://www.myheraldreview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nhonews.com": [
+      "http://www.nhonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "parkerpioneer.net": [
       "http://www.havasunews.com/search/?f=rss&t=article&c=parker_pioneer&l=50&s=start_time&sd=desc"
@@ -98,6 +65,51 @@
     "peoriatimes.com": [
       "http://www.peoriatimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "pinalcentral.com": [
+      "http://www.pinalcentral.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "pvvt.com": [
+      "http://www.pvvt.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "quailcreekcrossing.com": [
+      "https://quailcreekcrossing.com/feed/"
+    ],
+    "redrocknews.com": [
+      "https://www.redrocknews.com/feed/"
+    ],
+    "robsonranchviews.com": [
+      "https://robsonranchviews.com/feed/"
+    ],
+    "sunbirdnews.com": [
+      "https://sunbirdnews.com/feed/"
+    ],
+    "thebisbeeobserver.com": [
+      "https://thebisbeeobserver.com/feed/"
+    ],
+    "thefoothillsfocus.com": [
+      "http://www.thefoothillsfocus.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tucson.com": [
+      "https://feed.cdnstream1.com/zjb/feed/download/13/a4/a6/13a4a67a-1da0-4149-a08f-0349d2063c56.xml",
+      "https://feed.cdnstream1.com/zjb/feed/download/16/e7/fb/16e7fb52-7362-4ea0-9a2c-a567d099759b.xml",
+      "https://feed.cdnstream1.com/zjb/feed/download/20/08/f6/2008f6eb-0250-4ab0-9a7a-bd1ce234053e.xml",
+      "https://feed.cdnstream1.com/zjb/feed/download/43/b1/cb/43b1cb7f-8382-49f0-a2b6-bff3663f2cf5.xml",
+      "https://feed.cdnstream1.com/zjb/feed/download/bd/ff/52/bdff52d8-e122-4b29-a3eb-b8358ed163ed.xml",
+      "https://feed.cdnstream1.com/zjb/feed/download/ff/c2/4f/ffc24fc5-fb08-4000-afe8-a53cd9fcd6cb.xml",
+      "https://tucson.com/search/?f=rss&t=article&c=lifestyles/health-med-fit&l=50&s=start_time&sd=desc",
+      "https://tucson.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+      "https://tucson.com/search/?f=rss&t=article&c=news/local/subscriber&l=50&s=start_time&sd=desc",
+      "https://tucson.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tucsonlocalmedia.com": [
+      "http://www.tucsonlocalmedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "verdenews.com": [
+      "http://www.verdenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "westvalleyview.com": [
+      "http://www.westvalleyview.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "wickenburgsun.com": [
       "http://www.wickenburgsun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
@@ -105,11 +117,8 @@
       "https://wildcat.arizona.edu/feed/",
       "https://wildcat.arizona.edu/feed/atom/"
     ],
-    "jackcentral.org": [
-      "http://www.jackcentral.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "azmedia.org": [
-      "https://azmedia.org/feed/"
+    "yumasun.com": [
+      "http://www.yumasun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

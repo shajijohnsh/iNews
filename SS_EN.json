@@ -1,0 +1,25 @@
+{
+  "country_code": "SS",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 7,
+  "feeds": {
+    "hotinjuba.com": [
+      "https://hotinjuba.com/feed/atom/",
+      "https://hotinjuba.com/feed/"
+    ],
+    "pachodo.org": [
+      "https://pachodo.org/?format=feed&type=rss",
+      "https://pachodo.org/?format=feed&type=atom"
+    ],
+    "ssnanews.com": [
+      "https://ssnanews.com/feed/"
+    ],
+    "ssnewsnow.com": [
+      "https://ssnewsnow.com/feed/"
+    ],
+    "talkofjuba.com": [
+      "https://www.talkofjuba.com/feed/"
+    ]
+  }
+}

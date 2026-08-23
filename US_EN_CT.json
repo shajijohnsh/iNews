@@ -4,17 +4,21 @@
   "total_domains": 14,
   "total_feeds": 16,
   "feeds": {
+    "bridgeportdiocese.org": [
+      "https://www.bridgeportdiocese.org/feed/"
+    ],
     "bristolpress.com": [
       "http://www.bristolpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "commercialrecord.com": [
+      "https://commercialrecord.com/feed/",
+      "https://commercialrecord.com/landing/feed/"
     ],
     "courant.com": [
       "https://www.courant.com/feed/"
     ],
-    "thechronicle.com": [
-      "http://www.thechronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "bridgeportdiocese.org": [
-      "https://www.bridgeportdiocese.org/feed/"
+    "dailycampus.com": [
+      "https://dailycampus.com/feed/"
     ],
     "glcitizen.com": [
       "https://glcitizen.com/feed/"
@@ -22,31 +26,27 @@
     "granbydrummer.com": [
       "https://granbydrummer.com/feed/"
     ],
-    "quchronicle.com": [
-      "https://quchronicle.com/feed/",
-      "https://quchronicle.com/feed/atom/"
-    ],
-    "commercialrecord.com": [
-      "https://commercialrecord.com/feed/",
-      "https://commercialrecord.com/landing/feed/"
-    ],
     "identidadlatina.com": [
       "https://identidadlatina.com/feed/"
     ],
+    "nenpa.com": [
+      "https://www.nenpa.com/feed/"
+    ],
     "newbritainherald.com": [
-      "http://www.newbritainherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      "http://www.newbritainherald.com/rss/category/id/941"
     ],
     "primepublishers.com": [
       "http://www.primepublishers.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "quchronicle.com": [
+      "https://quchronicle.com/feed/",
+      "https://quchronicle.com/feed/atom/"
+    ],
+    "thechronicle.com": [
+      "http://www.thechronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "whvoice.com": [
       "https://www.whvoice.com/feed/"
-    ],
-    "dailycampus.com": [
-      "https://dailycampus.com/feed/"
-    ],
-    "nenpa.com": [
-      "https://www.nenpa.com/feed/"
     ]
   }
 }

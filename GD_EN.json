@@ -1,0 +1,38 @@
+{
+  "country_code": "GD",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 12,
+  "feeds": {
+    "grenadabroadcast.com": [
+      "https://www.grenadabroadcast.com/feed/"
+    ],
+    "grenadachronicle.com": [
+      "https://grenadachronicle.com/feed/",
+      "http://grenadachronicle.com/feed/"
+    ],
+    "nowgrenada.com": [
+      "https://nowgrenada.com/feed/"
+    ],
+    "spiceislander.com": [
+      "https://spiceislander.com/feed/"
+    ],
+    "spicevibes.com": [
+      "https://www.spicevibes.com/blog-feed.xml"
+    ],
+    "thebarnaclenews.com": [
+      "https://www.thebarnaclenews.com/feed/",
+      "https://thebarnaclenews.com/feed/"
+    ],
+    "thegrenadainformer.com": [
+      "https://thegrenadainformer.com/feed/"
+    ],
+    "thenewtodaygrenada.com": [
+      "https://www.thenewtodaygrenada.com/feed/"
+    ],
+    "weefmgrenada.com": [
+      "https://weefmgrenada.com/feed/",
+      "https://weefmgrenada.com/home/feed/"
+    ]
+  }
+}

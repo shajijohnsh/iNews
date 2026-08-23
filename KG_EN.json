@@ -1,0 +1,83 @@
+{
+  "country_code": "KG",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 45,
+  "feeds": {
+    "24.kg": [
+      "https://24.kg/agent_024/rss/",
+      "https://24.kg/bishkek_24/rss/",
+      "https://24.kg/biznes_info/rss/",
+      "https://24.kg/eaes/rss/",
+      "https://24.kg/ekonomika/rss/",
+      "https://24.kg/finansy/rss/",
+      "https://24.kg/kadry/rss/",
+      "https://24.kg/kriminal/rss/",
+      "https://24.kg/kultura/rss/",
+      "https://24.kg/ljudi_i_sudby/rss/",
+      "https://24.kg/obschestvo/rss/",
+      "https://24.kg/parlament/rss/",
+      "https://24.kg/politika/rss/",
+      "https://24.kg/pro_kino/rss/",
+      "https://24.kg/proisshestvija/rss/",
+      "https://24.kg/reportazhi/rss/",
+      "https://24.kg/rss/all/",
+      "https://24.kg/sng/rss/",
+      "https://24.kg/spetsproekty/rss/",
+      "https://24.kg/sport/rss/",
+      "https://24.kg/tehnoblog/rss/",
+      "https://24.kg/tsentralnaja_azija/rss/",
+      "https://24.kg/v_mire/rss/",
+      "https://24.kg/velikaja_pobeda/rss/",
+      "https://24.kg/vlast/rss/",
+      "https://24.kg/vybory/rss/",
+      "https://24.kg/zdorove/rss/"
+    ],
+    "akipress.com": [
+      "https://akipress.com/rss/en.rss"
+    ],
+    "azattyk.org": [
+      "https://www.azattyk.org/api/",
+      "https://www.azattyk.org/sitemap.xml"
+    ],
+    "ca-news.org": [
+      "https://centralasia.media/rss/"
+    ],
+    "for.kg": [
+      "https://for.kg/action/rss/rss_for_kg_news_last.php"
+    ],
+    "gazeta.kg": [
+      "https://gazeta.kg/rss.xml"
+    ],
+    "internews.kg": [
+      "https://internewskg.blogspot.com/feeds/posts/default",
+      "https://internewskg.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/7318709713364881118/posts/default"
+    ],
+    "kabar.kg": [
+      "https://kabar.kg/rss.xml"
+    ],
+    "kloop.kg": [
+      "https://kloop.kg/feed/"
+    ],
+    "knews.kg": [
+      "https://knews.kg/feed/"
+    ],
+    "kyrgyztuusu.kg": [
+      "http://kyrgyztuusu.kg/?feed=rss2"
+    ],
+    "msn.kg": [
+      "https://msn.kg/rss.xml"
+    ],
+    "super.kg": [
+      "https://super.kg/kabar/xml",
+      "https://www.super.kg/kabar/xml"
+    ],
+    "timesca.com": [
+      "https://timesca.com/feed/"
+    ],
+    "vb.kg": [
+      "https://www.vb.kg/?rss"
+    ]
+  }
+}

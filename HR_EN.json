@@ -1,0 +1,500 @@
+{
+  "country_code": "HR",
+  "language_code": "EN",
+  "total_domains": 50,
+  "total_feeds": 392,
+  "feeds": {
+    "034portal.hr": [
+      "https://034portal.hr/rss.xml"
+    ],
+    "057info.hr": [
+      "https://www.057info.hr/feed/",
+      "https://www.057info.hr/rss/gospodarstvo.xml",
+      "https://www.057info.hr/rss/info.xml",
+      "https://www.057info.hr/rss/kultura.xml",
+      "https://www.057info.hr/rss/sport.xml",
+      "https://www.057info.hr/rss/vijesti.xml"
+    ],
+    "24sata.hr": [
+      "https://www.24sata.hr/feeds/najnovije.xml",
+      "https://www.24sata.hr/feeds/news.xml",
+      "https://www.24sata.hr/feeds/aktualno.xml",
+      "https://www.24sata.hr/feeds/sport.xml",
+      "https://www.24sata.hr/feeds/show.xml",
+      "https://www.24sata.hr/feeds/lifestyle.xml",
+      "https://www.24sata.hr/feeds/tech.xml",
+      "https://www.24sata.hr/feeds/fun.xml"
+    ],
+    "bug.hr": [
+      "https://www.bug.hr/rss",
+      "https://www.bug.hr/rss/",
+      "https://www.bug.hr/rss/?ch=it",
+      "https://forum.bug.hr/forum/rss/?tid=302462",
+      "http://www.bug.hr/rss/?ch=it",
+      "https://www.bug.hr/rss/igre"
+    ],
+    "croatiaweek.com": [
+      "https://www.croatiaweek.com/feed/"
+    ],
+    "dalmacijadanas.hr": [
+      "https://www.dalmacijadanas.hr/feed/json/",
+      "https://www.dalmacijadanas.hr/feed/"
+    ],
+    "dalmacijanews.hr": [
+      "https://dalmacijanews.hr/feed/",
+      "https://www.dalmacijanews.hr/feed/"
+    ],
+    "dalmatinskiportal.hr": [
+      "https://dalmatinskiportal.hr/sadrzaj/rss/vijesti.xml",
+      "https://dalmatinskiportal.hr/sadrzaj/rss/hajduk.xml"
+    ],
+    "direktno.hr": [
+      "https://direktno.hr/rss/publish/latest/",
+      "https://direktno.hr/rss/publish/latest/domovina-10/",
+      "https://direktno.hr/rss/publish/latest/direkt-50/",
+      "https://direktno.hr/rss/publish/latest/eu_svijet/",
+      "https://direktno.hr/rss/publish/latest/sport-60/",
+      "https://direktno.hr/rss/publish/latest/zivot-70/",
+      "https://direktno.hr/rss/publish/latest/razvoj-110/",
+      "https://direktno.hr/rss/publish/latest/direktnotv-100/",
+      "https://direktno.hr/rss/publish/latest/kolumne-80/",
+      "https://direktno.hr/rss/publish/latest/medijski-partneri-90/",
+      "https://direktno.hr/rss/publish/latest/zagreb-15/"
+    ],
+    "dnevnik.hr": [
+      "https://dnevnik.hr/assets/feed/articles"
+    ],
+    "dnevno.hr": [
+      "https://www.dnevno.hr/feed/"
+    ],
+    "dubrovacki.slobodnadalmacija.hr": [
+      "https://slobodnadalmacija.hr/feed",
+      "https://slobodnadalmacija.hr/feed/category/246",
+      "https://slobodnadalmacija.hr/feed/category/255",
+      "https://slobodnadalmacija.hr/feed/category/254",
+      "https://slobodnadalmacija.hr/feed/category/119",
+      "https://slobodnadalmacija.hr/feed/category/142",
+      "https://slobodnadalmacija.hr/feed/category/241",
+      "https://slobodnadalmacija.hr/feed/category/242",
+      "https://slobodnadalmacija.hr/feed/category/243",
+      "https://slobodnadalmacija.hr/feed/category/244",
+      "https://slobodnadalmacija.hr/feed/category/245",
+      "https://slobodnadalmacija.hr/feed/category/253",
+      "https://slobodnadalmacija.hr/feed/category/256",
+      "https://slobodnadalmacija.hr/feed/category/258",
+      "https://slobodnadalmacija.hr/feed/category/260",
+      "https://slobodnadalmacija.hr/feed/category/262",
+      "https://slobodnadalmacija.hr/feed/category/263",
+      "https://slobodnadalmacija.hr/feed/category/264",
+      "https://slobodnadalmacija.hr/feed/category/265",
+      "https://slobodnadalmacija.hr/feed/category/266",
+      "https://slobodnadalmacija.hr/feed/category/267",
+      "https://slobodnadalmacija.hr/feed/category/268",
+      "https://slobodnadalmacija.hr/feed/category/269",
+      "https://slobodnadalmacija.hr/feed/category/270",
+      "https://slobodnadalmacija.hr/feed/category/271",
+      "https://slobodnadalmacija.hr/feed/category/272",
+      "https://slobodnadalmacija.hr/feed/category/273",
+      "https://slobodnadalmacija.hr/feed/category/274",
+      "https://slobodnadalmacija.hr/feed/category/275",
+      "https://slobodnadalmacija.hr/feed/category/276",
+      "https://slobodnadalmacija.hr/feed/category/277",
+      "https://slobodnadalmacija.hr/feed/category/278",
+      "https://slobodnadalmacija.hr/feed/category/279",
+      "https://slobodnadalmacija.hr/feed/category/280",
+      "https://slobodnadalmacija.hr/feed/category/281",
+      "https://slobodnadalmacija.hr/feed/category/282",
+      "https://slobodnadalmacija.hr/feed/category/283",
+      "https://slobodnadalmacija.hr/feed/category/284",
+      "https://slobodnadalmacija.hr/feed/category/285",
+      "https://slobodnadalmacija.hr/feed/category/286",
+      "https://slobodnadalmacija.hr/feed/category/287",
+      "https://slobodnadalmacija.hr/feed/category/288",
+      "https://slobodnadalmacija.hr/feed/category/289",
+      "https://slobodnadalmacija.hr/feed/category/290",
+      "https://slobodnadalmacija.hr/feed/category/291",
+      "https://slobodnadalmacija.hr/feed/category/295",
+      "https://slobodnadalmacija.hr/feed/category/296",
+      "https://slobodnadalmacija.hr/feed/category/297",
+      "https://slobodnadalmacija.hr/feed/category/298",
+      "https://slobodnadalmacija.hr/feed/category/299",
+      "https://slobodnadalmacija.hr/feed/category/300",
+      "https://slobodnadalmacija.hr/feed/category/375",
+      "https://slobodnadalmacija.hr/feed/category/378"
+    ],
+    "dubrovackidnevnik.net.hr": [
+      "https://dubrovackidnevnik.net.hr/rss",
+      "http://dubrovackidnevnik.net.hr/rss/"
+    ],
+    "dubrovnikportal.com": [
+      "https://dubrovnikportal.com/feed/",
+      "http://www.dubrovnikportal.com/feed/"
+    ],
+    "glas-koncila.hr": [
+      "https://www.glas-koncila.hr/feed/",
+      "https://www.glas-koncila.hr/tag/podcast/feed/"
+    ],
+    "glas-slavonije.hr": [
+      "http://www.glas-slavonije.hr/rss.xml",
+      "http://glas-slavonije.hr/Rss",
+      "http://www.glas-slavonije.hr/Rss",
+      "https://www.glas-slavonije.hr/rss.xml",
+      "http://www.glas-slavonije.hr/Rss/Ekonomija"
+    ],
+    "glasistre.hr": [
+      "http://www.glasistre.hr/rss.xml",
+      "https://www.glasistre.hr/rss.xml"
+    ],
+    "gloria.hr": [
+      "https://www.gloria.hr/gl/feed",
+      "http://www.gloria.hr/gl/feed/"
+    ],
+    "hrt.hr": [
+      "https://feed.hrt.hr/vijesti/hrvatska.xml",
+      "https://feed.hrt.hr/vijesti/svijet.xml",
+      "https://feed.hrt.hr/sport/ostali-sportovi.xml",
+      "https://feed.hrt.hr/sport/medunarodni-nogomet.xml",
+      "https://feed.hrt.hr/magazin/page.xml",
+      "https://feed.hrt.hr/sport/hrvatski-nogomet.xml",
+      "https://feed.hrt.hr/rijeka/latest.xml",
+      "https://feed.hrt.hr/vijesti/eu.xml",
+      "https://feed.hrt.hr/vijesti/gospodarstvo.xml",
+      "https://feed.hrt.hr/magazin/price-iz-hrvatske.xml",
+      "https://feed.hrt.hr/sljeme/latest.xml",
+      "https://feed.hrt.hr/magazin/kultura.xml",
+      "https://feed.hrt.hr/magazin/zabava.xml",
+      "https://feed.hrt.hr/osijek/latest.xml",
+      "https://feed.hrt.hr/sport/tenis.xml",
+      "https://feed.hrt.hr/zadar/latest.xml",
+      "https://feed.hrt.hr/sport/page.xml",
+      "https://feed.hrt.hr/vijesti/page.xml",
+      "https://feed.hrt.hr/magazin/sretni-i-zdravi.xml",
+      "https://feed.hrt.hr/magazin/znanost-i-tehnologija.xml",
+      "https://feed.hrt.hr/sport/kosarka.xml",
+      "https://feed.hrt.hr/dubrovnik/latest.xml",
+      "https://feed.hrt.hr/glazba/latest.xml",
+      "https://feed.hrt.hr/hrtprikazuje/page.xml",
+      "https://feed.hrt.hr/knin/latest.xml",
+      "https://feed.hrt.hr/magazin/mladi.xml",
+      "https://feed.hrt.hr/pula/latest.xml",
+      "https://feed.hrt.hr/split/latest.xml",
+      "https://feed.hrt.hr/sport/rukomet.xml",
+      "https://feed.hrt.hr/vijesti/manjine.xml"
+    ],
+    "index.hr": [
+      "https://www.index.hr/rss/najcitanije",
+      "https://www.index.hr/rss",
+      "https://www.index.hr/rss/vijesti",
+      "https://www.index.hr/rss/sport",
+      "https://www.index.hr/rss/sport-nogomet",
+      "https://www.index.hr/rss/vijesti-hrvatska",
+      "https://www.index.hr/rss/magazin",
+      "https://www.index.hr/rss/vijesti-svijet",
+      "https://www.index.hr/rss/magazin-showbiz",
+      "https://www.index.hr/rss/vijesti-nesrece-i-kriminal",
+      "https://www.index.hr/rss/shopping",
+      "https://www.index.hr/rss/vijesti-crna-kronika",
+      "https://www.index.hr/rss/rouge",
+      "https://www.index.hr/rss/sport-ostali-sportovi",
+      "https://www.index.hr/rss/chill",
+      "https://www.index.hr/rss/fit",
+      "https://www.index.hr/rss/auto",
+      "https://www.index.hr/rss/food",
+      "https://www.index.hr/rss/ljubimci",
+      "https://www.index.hr/rss/fit-zdrav-zivot",
+      "https://www.index.hr/rss/mame",
+      "https://www.index.hr/rss/horoskop",
+      "https://www.index.hr/rss/mame-zabava",
+      "https://www.index.hr/rss/vijesti-regija",
+      "https://www.index.hr/rss/ljubimci-psi-i-macke",
+      "https://www.index.hr/rss/rouge-moda-shopping",
+      "https://www.index.hr/rss/vijesti-zagreb",
+      "https://www.index.hr/rss/fit-prehranadijete",
+      "https://www.index.hr/rss/ljubimci-zabava",
+      "https://www.index.hr/rss/rouge-buzz",
+      "https://www.index.hr/rss/rouge-lifestyle",
+      "https://www.index.hr/rss/sport-borilacki-sportovi",
+      "https://www.index.hr/rss/vijesti-znanost",
+      "https://www.index.hr/rss/rouge-domace-vijesti",
+      "https://www.index.hr/rss/rouge-ljepota-zdravlje",
+      "https://www.index.hr/rss/sport-tenis",
+      "https://www.index.hr/rss/ljubimci-vijesti",
+      "https://www.index.hr/rss/rouge-ljubav-itd",
+      "https://www.index.hr/rss/sport-kosarka",
+      "https://www.index.hr/rss/auto-hrvatska",
+      "https://www.index.hr/rss/auto-predstavljamo",
+      "https://www.index.hr/rss/auto-testovi",
+      "https://www.index.hr/rss/fit-celebrity-inspiracije",
+      "https://www.index.hr/rss/fit-fitness",
+      "https://www.index.hr/rss/gaming",
+      "https://www.index.hr/rss/ljubimci-male-zivotinje",
+      "https://www.index.hr/rss/ljubimci-teraristika-i-akvaristika",
+      "https://www.index.hr/rss/magazin-glazba",
+      "https://www.index.hr/rss/magazin-lifestyle",
+      "https://www.index.hr/rss/magazin-tech-gadget",
+      "https://www.index.hr/rss/magazin-tv-film",
+      "https://www.index.hr/rss/magazin-zanimljivosti",
+      "https://www.index.hr/rss/mame-bebe",
+      "https://www.index.hr/rss/mame-recepti",
+      "https://www.index.hr/rss/mame-skola",
+      "https://www.index.hr/rss/mame-trudnoca",
+      "https://www.index.hr/rss/mame-vrtic",
+      "https://www.index.hr/rss/rouge-frajeri",
+      "https://www.index.hr/rss/rouge-insta-price",
+      "https://www.index.hr/rss/sport-e-sport",
+      "https://www.index.hr/rss/sport-komentari",
+      "https://www.index.hr/rss/sport-regija",
+      "https://www.index.hr/rss/vijesti-eu",
+      "https://www.index.hr/rss/vijesti-komentari",
+      "https://www.index.hr/rss/vijesti-novac"
+    ],
+    "jutarnji.hr": [
+      "https://www.jutarnji.hr/feed"
+    ],
+    "krizevci.info": [
+      "https://www.krizevci.info/feed/"
+    ],
+    "lidermedia.hr": [
+      "https://lidermedia.hr/feed/"
+    ],
+    "lika-online.hr": [
+      "https://www.lika-online.hr/feed/",
+      "http://www.lika-online.com/feed/"
+    ],
+    "lokalnahrvatska.hr": [
+      "https://lokalnahrvatska.hr/3854/feed",
+      "https://lokalnahrvatska.hr/kontinentalna/feed",
+      "http://lokalnahrvatska.hr/kontinentalna/feed",
+      "https://lokalnahrvatska.hr/3851/feed",
+      "https://lokalnahrvatska.hr/3852/feed",
+      "https://lokalnahrvatska.hr/3857/feed",
+      "https://lokalnahrvatska.hr/danas",
+      "https://lokalnahrvatska.hr/3855/feed",
+      "https://lokalnahrvatska.hr/otocna/feed",
+      "https://lokalnahrvatska.hr/3856/feed",
+      "https://lokalnahrvatska.hr/3853/feed",
+      "https://lokalnahrvatska.hr/udruga/feed",
+      "http://lokalnahrvatska.hr/3857/feed",
+      "http://lokalnahrvatska.hr/otocna/feed",
+      "http://lokalnahrvatska.hr/3854/feed",
+      "http://lokalnahrvatska.hr/3856/feed",
+      "http://lokalnahrvatska.hr/3853/feed"
+    ],
+    "metro-portal.hr": [
+      "https://metro-portal.hr/feed/index/galleryphoto",
+      "https://metro-portal.hr/feed/index/news",
+      "http://metro-portal.hr/feed/index/galleryphoto",
+      "http://metro-portal.hr/feed/index/news",
+      "https://metro-portal.hr/feed/index/video",
+      "http://metro-portal.hr/feed/index/video"
+    ],
+    "monitor.hr": [
+      "https://www.monitor.hr/feed/"
+    ],
+    "n1info.hr": [
+      "https://n1info.hr/feed/"
+    ],
+    "nacional.hr": [
+      "https://www.nacional.hr/feed/"
+    ],
+    "narod.hr": [
+      "https://narod.hr/feed",
+      "https://narod.hr/gospodarstvo/feed"
+    ],
+    "net.hr": [
+      "https://net.hr/feed/najnovije"
+    ],
+    "novilist.hr": [
+      "https://www.novilist.hr/feed/"
+    ],
+    "osijek031.com": [
+      "https://www.osijek031.com/feed/",
+      "https://www.osijek031.com/news_rss.php",
+      "http://www.osijek031.com/news_rss.php"
+    ],
+    "podravski.hr": [
+      "https://podravski.hr/feed/"
+    ],
+    "poslovni.hr": [
+      "https://www.poslovni.hr/feed"
+    ],
+    "regionalni.com": [
+      "https://regionalni.com/feed/"
+    ],
+    "rijekadanas.com": [
+      "https://www.rijekadanas.com/feed/"
+    ],
+    "rtl.hr": [
+      "https://www.rtl.hr/feed",
+      "https://www.rtl.hr/feed/",
+      "https://www.rtl.hr/rss"
+    ],
+    "scena.hr": [
+      "https://www.scena.hr/feed/atom/",
+      "https://www.scena.hr/feed/",
+      "https://feeds.feedburner.com/Scenahr"
+    ],
+    "slobodnadalmacija.hr": [
+      "https://slobodnadalmacija.hr/feed",
+      "https://slobodnadalmacija.hr/feed/category/246",
+      "https://slobodnadalmacija.hr/feed/category/255",
+      "https://slobodnadalmacija.hr/feed/category/254",
+      "https://slobodnadalmacija.hr/feed/category/119",
+      "https://slobodnadalmacija.hr/feed/category/277",
+      "https://slobodnadalmacija.hr/feed/category/262",
+      "https://slobodnadalmacija.hr/feed/category/275",
+      "https://slobodnadalmacija.hr/feed/category/142",
+      "https://slobodnadalmacija.hr/feed/category/253",
+      "https://slobodnadalmacija.hr/feed/category/241",
+      "https://slobodnadalmacija.hr/feed/category/245",
+      "https://slobodnadalmacija.hr/feed/category/264",
+      "https://slobodnadalmacija.hr/feed/category/276",
+      "https://slobodnadalmacija.hr/feed/category/283",
+      "https://slobodnadalmacija.hr/feed/category/284",
+      "https://slobodnadalmacija.hr/feed/category/243",
+      "https://slobodnadalmacija.hr/feed/category/256",
+      "https://slobodnadalmacija.hr/feed/category/258",
+      "https://slobodnadalmacija.hr/feed/category/263",
+      "https://slobodnadalmacija.hr/feed/category/265",
+      "https://slobodnadalmacija.hr/feed/category/244",
+      "https://slobodnadalmacija.hr/feed/category/278",
+      "https://slobodnadalmacija.hr/feed/category/279",
+      "https://slobodnadalmacija.hr/feed/category/286",
+      "https://slobodnadalmacija.hr/feed/category/299",
+      "https://slobodnadalmacija.hr/feed/category/242",
+      "https://slobodnadalmacija.hr/feed/category/260",
+      "https://slobodnadalmacija.hr/feed/category/266",
+      "https://slobodnadalmacija.hr/feed/category/267",
+      "https://slobodnadalmacija.hr/feed/category/268",
+      "https://slobodnadalmacija.hr/feed/category/269",
+      "https://slobodnadalmacija.hr/feed/category/270",
+      "https://slobodnadalmacija.hr/feed/category/271",
+      "https://slobodnadalmacija.hr/feed/category/272",
+      "https://slobodnadalmacija.hr/feed/category/273",
+      "https://slobodnadalmacija.hr/feed/category/274",
+      "https://slobodnadalmacija.hr/feed/category/280",
+      "https://slobodnadalmacija.hr/feed/category/281",
+      "https://slobodnadalmacija.hr/feed/category/282",
+      "https://slobodnadalmacija.hr/feed/category/285",
+      "https://slobodnadalmacija.hr/feed/category/287",
+      "https://slobodnadalmacija.hr/feed/category/288",
+      "https://slobodnadalmacija.hr/feed/category/289",
+      "https://slobodnadalmacija.hr/feed/category/290",
+      "https://slobodnadalmacija.hr/feed/category/291",
+      "https://slobodnadalmacija.hr/feed/category/295",
+      "https://slobodnadalmacija.hr/feed/category/296",
+      "https://slobodnadalmacija.hr/feed/category/297",
+      "https://slobodnadalmacija.hr/feed/category/298",
+      "https://slobodnadalmacija.hr/feed/category/300",
+      "https://slobodnadalmacija.hr/feed/category/375",
+      "https://slobodnadalmacija.hr/feed/category/378"
+    ],
+    "sportske.jutarnji.hr": [
+      "https://sportske.jutarnji.hr/sn/feed",
+      "https://www.jutarnji.hr/sportske/feed"
+    ],
+    "telegram.hr": [
+      "https://www.telegram.hr/feed/"
+    ],
+    "thedubrovniktimes.com": [
+      "https://www.thedubrovniktimes.com/feed?format=feed&type=atom",
+      "https://www.thedubrovniktimes.com/feed?format=feed&type=rss",
+      "https://www.thedubrovniktimes.com/feed?format=feed"
+    ],
+    "total-croatia-news.com": [
+      "https://total-croatia-news.com/feed/",
+      "https://total-croatia-news.com/blog/adventure-tourism/feed/",
+      "https://total-croatia-news.com/blog/dugopolje/feed/",
+      "https://total-croatia-news.com/blog/feed/",
+      "https://total-croatia-news.com/blog/klis/feed/",
+      "https://total-croatia-news.com/blog/sinj-blog/feed/",
+      "https://total-croatia-news.com/destinations/destination-dubrovnik/dubrovnik-blog/history-dubrovnik-blog/feed/",
+      "https://total-croatia-news.com/destinations/destination-split/split-blog/tourism-news/feed/",
+      "https://total-croatia-news.com/destinations/destination-zagreb/zagreb-blog/business-zagreb-blog/deceuninck-donja-bistra/feed/",
+      "https://total-croatia-news.com/destinations/destination-zagreb/zagreb-blog/business-zagreb-blog/feed/",
+      "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/feed/",
+      "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/general-2/culture/feed/",
+      "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/hvar-news/feed/",
+      "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/tourism/feed/",
+      "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/towns-3/vrboska-2/feed/"
+    ],
+    "tportal.hr": [
+      "https://www.tportal.hr/rss-najnovije.xml",
+      "https://www.tportal.hr/rss-vijesti.xml",
+      "https://www.tportal.hr/rss-lifestyle.xml",
+      "https://www.tportal.hr/rss-tehno.xml",
+      "https://www.tportal.hr/rss-kultura.xml"
+    ],
+    "varazdinske-vijesti.hr": [
+      "https://www.varazdinske-vijesti.hr/feed/rss"
+    ],
+    "vecernji.hr": [
+      "https://www.vecernji.hr/feeds/latest",
+      "https://www.vecernji.hr/feeds/section/sport",
+      "https://www.vecernji.hr/feeds/placeholder-head/most_read",
+      "https://blog.vecernji.hr/feeds/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/latest-posts",
+      "https://blog.vecernji.hr/feeds/barinic/latest-posts",
+      "https://blog.vecernji.hr/feeds/bitifit-marko-loncar/latest-posts",
+      "https://blog.vecernji.hr/feeds/bojana-svalina/latest-posts",
+      "https://blog.vecernji.hr/feeds/drevni-tragovi/latest-posts",
+      "https://blog.vecernji.hr/feeds/gordana-holjevac/latest-posts",
+      "https://blog.vecernji.hr/feeds/hir3/latest-posts",
+      "https://blog.vecernji.hr/feeds/jan-bolic/latest-posts",
+      "https://blog.vecernji.hr/feeds/jasmina-hadela/latest-posts",
+      "https://blog.vecernji.hr/feeds/jure-vujic/latest-posts",
+      "https://blog.vecernji.hr/feeds/kristina-gallo/latest-posts",
+      "https://blog.vecernji.hr/feeds/kulturnjaca/latest-posts",
+      "https://blog.vecernji.hr/feeds/magdalena-mesic/latest-posts",
+      "https://blog.vecernji.hr/feeds/mislav-miholek/latest-posts",
+      "https://blog.vecernji.hr/feeds/oaza-dom/latest-posts",
+      "https://blog.vecernji.hr/feeds/olga-horvat/latest-posts",
+      "https://blog.vecernji.hr/feeds/ratko-martinovic/latest-posts",
+      "https://blog.vecernji.hr/feeds/sama-svoj-life-coach/latest-posts",
+      "https://blog.vecernji.hr/feeds/sandra-karabaic/latest-posts",
+      "https://blog.vecernji.hr/feeds/sandra-sabljak/latest-posts",
+      "https://blog.vecernji.hr/feeds/silvija-kolar-fodor/latest-posts",
+      "https://blog.vecernji.hr/feeds/skola-za-5/latest-posts",
+      "https://blog.vecernji.hr/feeds/slavenskrobot/latest-posts",
+      "https://blog.vecernji.hr/feeds/tomislav-hrastovcak/latest-posts",
+      "https://blog.vecernji.hr/feeds/vesna-petrovic/latest-posts",
+      "https://blog.vecernji.hr/feeds/viktor-matic/latest-posts",
+      "https://blog.vecernji.hr/feeds/volim-pivu/latest-posts",
+      "https://blog.vecernji.hr/feeds/zabacraftaca/latest-posts",
+      "https://blog.vecernji.hr/feeds/zvonimir-despot/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/bitifit-marko-loncar/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/bojana-svalina/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/drevni-tragovi/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/gordana-holjevac/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/jan-bolic/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/jasmina-hadela/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/jure-vujic/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/kristina-gallo/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/kulturnjaca/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/magdalena-mesic/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/mislav-miholek/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/oaza-dom/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/olga-horvat/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/sama-svoj-life-coach/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/sandra-karabaic/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/sandra-sabljak/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/silvija-kolar-fodor/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/slavenskrobot/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/tomislav-hrastovcak/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/vesna-petrovic/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/viktor-matic/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/volim-pivu/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/zabacraftaca/latest-posts",
+      "https://m-blog.vecernji.hr/feeds/zvonimir-despot/latest-posts"
+    ],
+    "zadarskilist.novilist.hr": [
+      "https://zadarskilist.novilist.hr/feed/"
+    ],
+    "zagorje.com": [
+      "https://www.zagorje.com/rss"
+    ],
+    "zagreb.info": [
+      "https://www.zagreb.info/feed/"
+    ]
+  }
+}

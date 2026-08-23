@@ -1,0 +1,22 @@
+{
+  "country_code": "PW",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 6,
+  "feeds": {
+    "islandtimes.org": [
+      "https://islandtimes.org/feed/"
+    ],
+    "pacificislandtimes.com": [
+      "https://www.pacificislandtimes.com/blog-feed.xml"
+    ],
+    "pacificnote.com": [
+      "https://www.pacificnote.com/blog-feed.xml",
+      "https://www.pacificnote.com/feed.xml",
+      "https://tornat.io/feed/"
+    ],
+    "palaugov.pw": [
+      "https://www.palaugov.pw/feed/"
+    ]
+  }
+}

@@ -2,179 +2,93 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 59,
-  "total_feeds": 64,
+  "total_feeds": 71,
   "feeds": {
-    "lagniappemobile.com": [
-      "http://www.lagniappemobile.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "PaloAltoOnline.com": [
+      "https://www.paloaltoonline.com/feed/"
     ],
-    "tucsonweekly.com": [
-      "https://www.tucsonweekly.com/feed/"
+    "alibi.com": [
+      "https://alibi.com/feed/",
+      "https://alibi.com/sample-page/feed/"
     ],
     "arktimes.com": [
       "https://arktimes.com/feed"
     ],
+    "athensnews.com": [
+      "http://www.athensmessenger.com/search/?f=rss&t=article&c=anewsarchive&l=50&s=start_time&sd=desc"
+    ],
+    "austinchronicle.com": [
+      "http://www.austinchronicle.com/gyrobase/rss/film.xml",
+      "http://www.austinchronicle.com/gyrobase/rss/issue.xml",
+      "https://www.austinchronicle.com/gyrobase/rss/daily.xml",
+      "https://www.austinchronicle.com/gyrobase/rss/film.xml",
+      "https://www.austinchronicle.com/gyrobase/rss/issue.xml"
+    ],
+    "baltimoresun.com": [
+      "https://www.baltimoresun.com/feed/"
+    ],
+    "bohemian.com": [
+      "https://bohemian.com/feed/"
+    ],
+    "c-ville.com": [
+      "https://c-ville.com/feed/"
+    ],
+    "charlestoncitypaper.com": [
+      "https://charlestoncitypaper.com/feed/"
+    ],
+    "chicagoreader.com": [
+      "https://chicagoreader.com/feed/"
+    ],
+    "citybeat.com": [
+      "https://www.citybeat.com/feed/"
+    ],
+    "clclt.com": [
+      "https://clclt.com/feed/"
+    ],
+    "clevescene.com": [
+      "https://www.clevescene.com/feed/"
+    ],
+    "csindy.com": [
+      "https://socoinsider.com/feed/"
+    ],
+    "digboston.com": [
+      "https://digboston.com/feed/"
+    ],
+    "dmcityview.com": [
+      "https://www.dmcityview.com/feed/"
+    ],
     "eastbayexpress.com": [
       "https://eastbayexpress.com/feed/"
     ],
-    "ocweekly.com": [
-      "https://www.ocweekly.com/feed/"
+    "eugeneweekly.com": [
+      "https://eugeneweekly.com/feed/",
+      "https://eugeneweekly.com/feed/whp/"
     ],
-    "pacificsun.com": [
-      "https://pacificsun.com/feed/"
+    "fwweekly.com": [
+      "https://www.fwweekly.com/feed/"
     ],
-    "PaloAltoOnline.com": [
-      "https://www.paloaltoonline.com/feed/"
+    "hippopress.com": [
+      "https://hippopress.com/feed/"
+    ],
+    "houstonpress.com": [
+      "https://www.houstonpress.com/feed/"
+    ],
+    "hpr1.com": [
+      "https://hpr1.com/feed/"
+    ],
+    "idahopress.com": [
+      "http://www.idahopress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "illinoistimes.com": [
+      "https://www.illinoistimes.com/feed/"
     ],
     "independent.com": [
       "https://www.independent.com/feed/",
       "https://www.independent.com/feed/",
       "https://www.independent.com/front-page/feed/"
     ],
-    "metrosiliconvalley.com": [
-      "https://www.metrosiliconvalley.com/feed/"
-    ],
-    "bohemian.com": [
-      "https://bohemian.com/feed/"
-    ],
-    "newtimesslo.com": [
-      "https://www.newtimesslo.com/feed/"
-    ],
-    "sfweekly.com": [
-      "http://www.sfweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "vcreporter.com": [
-      "http://www.vcreporter.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "csindy.com": [
-      "https://socoinsider.com/feed/"
-    ],
-    "washingtoncitypaper.com": [
-      "https://washingtoncitypaper.com/feed/"
-    ],
-    "orlandoweekly.com": [
-      "https://www.orlandoweekly.com/feed/"
-    ],
-    "idahopress.com": [
-      "http://www.idahopress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "newcity.com": [
-      "https://www.newcity.com/feed/"
-    ],
-    "chicagoreader.com": [
-      "https://chicagoreader.com/feed/"
-    ],
-    "illinoistimes.com": [
-      "https://www.illinoistimes.com/feed/"
-    ],
-    "nuvo.net": [
-      "http://www.nuvo.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "dmcityview.com": [
-      "https://www.dmcityview.com/feed/"
-    ],
-    "leoweekly.com": [
-      "https://www.leoweekly.com/feed/"
-    ],
-    "nola.com": [
-      "http://www.nola.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "baltimoresun.com": [
-      "https://www.baltimoresun.com/feed/"
-    ],
-    "digboston.com": [
-      "https://digboston.com/feed/"
-    ],
-    "valleyadvocate.com": [
-      "https://valleyadvocate.com/feed/"
-    ],
-    "jacksonfreepress.com": [
-      "https://www.jacksonfreepress.com/rss/headlines/"
-    ],
-    "missoulian.com": [
-      "http://missoulian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thereader.com": [
-      "https://thereader.com/feed/"
-    ],
-    "renonr.com": [
-      "https://renonr.com/feed/"
-    ],
-    "hippopress.com": [
-      "https://hippopress.com/feed/"
-    ],
-    "nhgazette.com": [
-      "https://www.nhgazette.com/feed/"
-    ],
-    "theaquarian.com": [
-      "https://www.theaquarian.com/feed/"
-    ],
-    "alibi.com": [
-      "https://alibi.com/feed/",
-      "https://alibi.com/sample-page/feed/"
-    ],
-    "sfreporter.com": [
-      "https://sfreporter.com/api/rss/content.rss"
-    ],
-    "ithaca.com": [
-      "http://www.ithaca.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "villagevoice.com": [
-      "https://www.villagevoice.com/feed/"
-    ],
-    "clclt.com": [
-      "https://clclt.com/feed/"
-    ],
     "indyweek.com": [
       "https://indyweek.com/feed/"
-    ],
-    "yesweekly.com": [
-      "http://www.yesweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "hpr1.com": [
-      "https://hpr1.com/feed/"
-    ],
-    "athensnews.com": [
-      "http://www.athensmessenger.com/search/?f=rss&t=article&c=anewsarchive&l=50&s=start_time&sd=desc"
-    ],
-    "citybeat.com": [
-      "https://www.citybeat.com/feed/"
-    ],
-    "clevescene.com": [
-      "https://www.clevescene.com/feed/"
-    ],
-    "okgazette.com": [
-      "https://www.okgazette.com/feed/"
-    ],
-    "eugeneweekly.com": [
-      "https://eugeneweekly.com/feed/",
-      "https://eugeneweekly.com/feed/whp/"
-    ],
-    "charlestoncitypaper.com": [
-      "https://charlestoncitypaper.com/feed/"
-    ],
-    "postandcourier.com": [
-      "https://www.postandcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "nashvillescene.com": [
-      "http://www.nashvillescene.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "austinchronicle.com": [
-      "https://www.austinchronicle.com/feed/"
-    ],
-    "fwweekly.com": [
-      "https://www.fwweekly.com/feed/"
-    ],
-    "houstonpress.com": [
-      "https://www.houstonpress.com/feed/"
-    ],
-    "sevendaysvt.com": [
-      "https://www.sevendaysvt.com/feed/"
-    ],
-    "c-ville.com": [
-      "https://c-ville.com/feed/"
-    ],
-    "thestranger.com": [
-      "https://www.thestranger.com/feed/"
     ],
     "inlander.com": [
       "http://www.inlander.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -183,8 +97,101 @@
       "https://isthmus.com/api/rss/content.rss",
       "https://isthmus.com/api/rss/flipboard.rss"
     ],
+    "ithaca.com": [
+      "http://www.ithaca.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "jacksonfreepress.com": [
+      "https://www.jacksonfreepress.com/rss/headlines/"
+    ],
+    "lagniappemobile.com": [
+      "http://www.lagniappemobile.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "leoweekly.com": [
+      "https://www.leoweekly.com/feed/"
+    ],
+    "metrosiliconvalley.com": [
+      "https://www.metrosiliconvalley.com/feed/"
+    ],
+    "missoulian.com": [
+      "http://missoulian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nashvillescene.com": [
+      "http://www.nashvillescene.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "newcity.com": [
+      "https://www.newcity.com/feed/"
+    ],
+    "newtimesslo.com": [
+      "https://www.newtimesslo.com/feed/"
+    ],
+    "nhgazette.com": [
+      "https://www.nhgazette.com/feed/"
+    ],
+    "nola.com": [
+      "https://www.nola.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+      "https://www.nola.com/search/?f=rss&t=article&c=sports/saints&l=50&s=start_time&sd=desc"
+    ],
+    "nuvo.net": [
+      "http://www.nuvo.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ocweekly.com": [
+      "https://www.ocweekly.com/feed/"
+    ],
+    "okgazette.com": [
+      "https://www.okgazette.com/feed/"
+    ],
+    "orlandoweekly.com": [
+      "https://www.orlandoweekly.com/feed/"
+    ],
+    "pacificsun.com": [
+      "https://pacificsun.com/feed/"
+    ],
+    "postandcourier.com": [
+      "https://www.postandcourier.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+      "https://www.postandcourier.com/search/?f=rss&t=article&c=our-gazette/community-news&l=50&s=start_time&sd=desc",
+      "https://www.postandcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "renonr.com": [
+      "https://renonr.com/feed/"
+    ],
+    "sevendaysvt.com": [
+      "https://www.sevendaysvt.com/vermont/Rss.xml"
+    ],
+    "sfreporter.com": [
+      "https://sfreporter.com/api/rss/content.rss"
+    ],
+    "sfweekly.com": [
+      "http://www.sfweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "shepherdexpress.com": [
       "https://shepherdexpress.com/api/rss/content.rss"
+    ],
+    "theaquarian.com": [
+      "https://www.theaquarian.com/feed/"
+    ],
+    "thereader.com": [
+      "https://thereader.com/feed/"
+    ],
+    "thestranger.com": [
+      "https://www.thestranger.com/feed/"
+    ],
+    "tucsonweekly.com": [
+      "https://www.tucsonweekly.com/feed/"
+    ],
+    "valleyadvocate.com": [
+      "https://valleyadvocate.com/feed/"
+    ],
+    "vcreporter.com": [
+      "https://vcreporter.com/feed/"
+    ],
+    "villagevoice.com": [
+      "https://www.villagevoice.com/feed/"
+    ],
+    "washingtoncitypaper.com": [
+      "https://washingtoncitypaper.com/feed/"
+    ],
+    "yesweekly.com": [
+      "http://www.yesweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

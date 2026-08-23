@@ -1,0 +1,24 @@
+{
+  "country_code": "LS",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 6,
+  "feeds": {
+    "informativenews.co.ls": [
+      "https://informativenews.co.ls/feed/",
+      "http://informativenews.co.ls/feed/"
+    ],
+    "lestimes.com": [
+      "https://lestimes.com/?feed=rss2"
+    ],
+    "publiceyenews.com": [
+      "https://publiceyenews.com/feed/"
+    ],
+    "sundayexpress.co.ls": [
+      "https://sundayexpress.co.ls/?feed=rss2"
+    ],
+    "thepost.co.ls": [
+      "https://www.thepost.co.ls/feed/"
+    ]
+  }
+}

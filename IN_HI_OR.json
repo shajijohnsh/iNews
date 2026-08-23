@@ -2,76 +2,26 @@
   "country_code": "IN",
   "language_code": "HI",
   "total_domains": 25,
-  "total_feeds": 28,
+  "total_feeds": 30,
   "feeds": {
-    "sambad.in": [
-      "https://sambad.in/rss"
+    "argusnews.in": [
+      "https://argusnews.in/rss"
     ],
     "dharitri.com": [
       "https://www.dharitri.com/feed/"
     ],
-    "pragativadi.com": [
-      "https://pragativadi.com/feed/",
-      "https://pragativadi.com/web-stories/feed/"
-    ],
     "dinalipi.com": [
       "https://www.dinalipi.com/feed/"
-    ],
-    "samayaepaper.com": [
-      "https://www.samayaepaper.com/rss"
-    ],
-    "odishabhaskar.com": [
-      "https://odishabhaskar.com/feed/"
-    ],
-    "orissapost.com": [
-      "https://www.orissapost.com/feed/"
-    ],
-    "odiapua.com": [
-      "https://odiapua.com/feed/"
-    ],
-    "nitidinepaper.com": [
-      "https://www.nitidinepaper.com/rss"
-    ],
-    "sakalaepaper.com": [
-      "https://www.sakalaepaper.com/rss"
-    ],
-    "sarbasadharana.com": [
-      "https://sarbasadharana.com/?feed=rss2"
-    ],
-    "orissadiary.com": [
-      "https://orissadiary.com/feed/"
-    ],
-    "odishareporter.in": [
-      "https://odishareporter.in/rss"
     ],
     "eodishasamachar.com": [
       "https://eodishasamachar.com/?feed=rss2"
     ],
-    "odisha.com": [
-      "https://www.odisha.com/feed/"
-    ],
-    "argusnews.in": [
-      "https://argusnews.in/rss"
-    ],
-    "odishabytes.com": [
-      "https://odishabytes.com/feed/"
-    ],
-    "sambadenglish.com": [
-      "https://sambadenglish.com/rss"
-    ],
-    "odisha.live": [
-      "https://odisha.live/feed/",
-      "https://odisha.live/news-analysis-opinion-entertainment-and-stories-that-matter-odia-news-odisha-news/feed/"
-    ],
-    "odishatv.in": [
-      "https://odishatv.in/rss"
-    ],
-    "kanaknews.com": [
-      "https://kanaknews.com/rss"
-    ],
     "kalingatv.com": [
       "https://kalingatv.com/feed/",
       "https://kalingatv.com/webstories/feed/"
+    ],
+    "kanaknews.com": [
+      "https://kanaknews.com/rss"
     ],
     "nandighoshatv.com": [
       "https://nandighoshatv.com/feed/"
@@ -79,8 +29,60 @@
     "naxatranews.com": [
       "https://naxatranews.com/feed.xml"
     ],
+    "nitidinepaper.com": [
+      "https://www.nitidinepaper.com/rss"
+    ],
     "odia.news18.com": [
       "https://odia.news18.com/commonfeeds/v1/odi/rss/latest.xml"
+    ],
+    "odiapua.com": [
+      "https://odiapua.com/feed/"
+    ],
+    "odisha.com": [
+      "https://www.odisha.com/feed/"
+    ],
+    "odisha.live": [
+      "https://odisha.live/feed/",
+      "https://odisha.live/news-analysis-opinion-entertainment-and-stories-that-matter-odia-news-odisha-news/feed/"
+    ],
+    "odishabhaskar.com": [
+      "https://odishabhaskar.com/feed/"
+    ],
+    "odishabytes.com": [
+      "https://odishabytes.com/feed/"
+    ],
+    "odishareporter.in": [
+      "https://odishareporter.in/rss"
+    ],
+    "odishatv.in": [
+      "https://odishatv.in/feed",
+      "https://odishatv.in/rss"
+    ],
+    "orissadiary.com": [
+      "https://orissadiary.com/feed/"
+    ],
+    "orissapost.com": [
+      "https://www.orissapost.com/feed/"
+    ],
+    "pragativadi.com": [
+      "https://pragativadi.com/category/blog/feed/",
+      "https://pragativadi.com/feed/",
+      "https://pragativadi.com/web-stories/feed/"
+    ],
+    "sakalaepaper.com": [
+      "https://www.sakalaepaper.com/rss"
+    ],
+    "samayaepaper.com": [
+      "https://www.samayaepaper.com/rss"
+    ],
+    "sambad.in": [
+      "https://sambad.in/rss"
+    ],
+    "sambadenglish.com": [
+      "https://sambadenglish.com/rss"
+    ],
+    "sarbasadharana.com": [
+      "https://sarbasadharana.com/?feed=rss2"
     ]
   }
 }

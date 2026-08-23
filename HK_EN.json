@@ -1,0 +1,65 @@
+{
+  "country_code": "HK",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 41,
+  "feeds": {
+    "asialiteraryreview.com": [
+      "https://blog.calameo.com/category/book-club/feed/",
+      "https://blog.calameo.com/category/new/feed/",
+      "https://blog.calameo.com/category/publishing/feed/",
+      "https://blog.calameo.com/category/strategy/feed/",
+      "https://blog.calameo.com/feed/",
+      "https://blog.calameo.com/fr/category/new-fr/feed/",
+      "https://blog.calameo.com/fr/category/publishing-fr/feed/",
+      "https://blog.calameo.com/fr/category/strategy-fr/feed/",
+      "https://blog.calameo.com/fr/feed/"
+    ],
+    "asiancha.com": [
+      "https://www.asiancha.com/wp/feed/"
+    ],
+    "bcmagazine.net": [
+      "https://www.bcmagazine.net/feed/"
+    ],
+    "eastweek.stheadline.com": [
+      "https://eastweek.stheadline.com/rss"
+    ],
+    "edigest.hk": [
+      "https://www.edigest.hk/feed/"
+    ],
+    "financeasia.com": [
+      "https://www.financeasia.com/rss/latest",
+      "https://www.financeasia.com/rss/category/achievement-awards",
+      "https://www.financeasia.com/rss/category/australasia",
+      "https://www.financeasia.com/rss/category/australia-achievement-awards",
+      "https://www.financeasia.com/rss/category/best-managed-companies",
+      "https://www.financeasia.com/rss/category/china-awards",
+      "https://www.financeasia.com/rss/category/country-awards",
+      "https://www.financeasia.com/rss/category/debt",
+      "https://www.financeasia.com/rss/category/debt-research",
+      "https://www.financeasia.com/rss/category/disruption",
+      "https://www.financeasia.com/rss/category/distress",
+      "https://www.financeasia.com/rss/category/equity",
+      "https://www.financeasia.com/rss/category/equity-research",
+      "https://www.financeasia.com/rss/category/finance-ministers",
+      "https://www.financeasia.com/rss/category/m-and-a",
+      "https://www.financeasia.com/rss/category/m-and-a-research",
+      "https://www.financeasia.com/rss/category/markets",
+      "https://www.financeasia.com/rss/category/moves",
+      "https://www.financeasia.com/rss/category/north-asia",
+      "https://www.financeasia.com/rss/category/profiles",
+      "https://www.financeasia.com/rss/category/rest-of-world",
+      "https://www.financeasia.com/rss/category/south-asia",
+      "https://www.financeasia.com/rss/category/southeast-asia",
+      "https://www.financeasia.com/rss/category/startups",
+      "https://www.financeasia.com/rss/category/unicorns"
+    ],
+    "orientalsunday.hk": [
+      "https://www.orientalsunday.hk/feed/",
+      "https://www.orientalsunday.hk/homepage-test/feed/"
+    ],
+    "yes.com.hk": [
+      "https://www.yes.com.hk/blog-feed.xml"
+    ]
+  }
+}

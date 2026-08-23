@@ -1,0 +1,71 @@
+{
+  "country_code": "LY",
+  "language_code": "EN",
+  "total_domains": 20,
+  "total_feeds": 23,
+  "feeds": {
+    "218tv.net": [
+      "https://www.218tv.net/feed/"
+    ],
+    "afrigatenews.net": [
+      "https://www.afrigatenews.net/rss.xml"
+    ],
+    "akhbarlibya24.net": [
+      "https://akhbarlibya24.net/feed"
+    ],
+    "almarsad.co": [
+      "https://almarsad.co/feed/"
+    ],
+    "almukhtaralarabi.com": [
+      "https://almukhtaralarabi.com/feed/"
+    ],
+    "almusallh.ly": [
+      "https://www.almusallh.ly/en/?format=feed&type=atom",
+      "https://www.almusallh.ly/en/?format=feed&type=rss"
+    ],
+    "eanlibya.com": [
+      "https://www.eanlibya.com/feed/"
+    ],
+    "elkhabar.ly": [
+      "https://www.elkhabar.ly/feed/"
+    ],
+    "febp.ly": [
+      "https://febp.ly/feed/"
+    ],
+    "lana.gov.ly": [
+      "https://lana.gov.ly/rss/ar/"
+    ],
+    "libya-businessnews.com": [
+      "https://libya-businessnews.com/feed/",
+      "https://www.libya-businessnews.com/feed/"
+    ],
+    "libya-news.com": [
+      "https://www.libya-news.com/feed/"
+    ],
+    "libyaakhbar.com": [
+      "https://www.libyaakhbar.com/feed"
+    ],
+    "libyaalsalam.net": [
+      "https://libyaalsalam.net/?feed=rss2",
+      "https://libyaalsalam.net/?feed=atom"
+    ],
+    "libyaherald.com": [
+      "https://libyaherald.com/rss.xml"
+    ],
+    "libyamonitor.com": [
+      "https://libyamonitor.com/rss.xml"
+    ],
+    "libyanexpress.com": [
+      "https://www.libyanexpress.com/feed/"
+    ],
+    "libyaobserver.ly": [
+      "https://www.libyaobserver.ly/rss.xml"
+    ],
+    "libyaschannel.com": [
+      "https://libyaschannel.com/feed/"
+    ],
+    "newlibya.net": [
+      "https://www.newlibya.net/?feed=rss2"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "country_code": "MV",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 4,
+  "feeds": {
+    "maldivesindependent.com": [
+      "https://maldivesindependent.com/api/rss",
+      "https://maldivesindependent.com/api/rss/news"
+    ],
+    "maldivestimes.com": [
+      "https://maldivestimes.com/feed/"
+    ],
+    "mvhotels.travel": [
+      "https://www.mvhotels.travel/feed.xml"
+    ]
+  }
+}

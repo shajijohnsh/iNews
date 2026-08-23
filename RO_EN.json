@@ -1,0 +1,136 @@
+{
+  "country_code": "RO",
+  "language_code": "EN",
+  "total_domains": 39,
+  "total_feeds": 50,
+  "feeds": {
+    "amsonline.ro": [
+      "https://amsonline.ro/feed/"
+    ],
+    "avantaje.ro": [
+      "https://www.avantaje.ro/feed"
+    ],
+    "baniinostri.ro": [
+      "https://www.baniinostri.ro/feed/"
+    ],
+    "businessmagazin.ro": [
+      "https://www.businessmagazin.ro/rss-feed.xml?5541"
+    ],
+    "capital.ro": [
+      "https://www.capital.ro/feed"
+    ],
+    "ciao.ro": [
+      "https://ciao.ro/feed/"
+    ],
+    "coolgirl.ro": [
+      "https://coolgirl.ro/feed/",
+      "https://coolgirl.ro/home/feed/"
+    ],
+    "descopera.ro": [
+      "https://www.descopera.ro/feed"
+    ],
+    "dilemaveche.ro": [
+      "https://dilemaveche.ro/rss/index"
+    ],
+    "e-joy.ro": [
+      "https://e-joy.ro/feed/",
+      "https://e-joy.ro/home/feed/"
+    ],
+    "elle.ro": [
+      "https://www.elle.ro/feed"
+    ],
+    "femeia.ro": [
+      "https://www.femeia.ro/feed/"
+    ],
+    "forbes.ro": [
+      "http://www.forbes.ro/feed",
+      "https://www.forbes.ro/feed"
+    ],
+    "formula-as.ro": [
+      "https://www.formula-as.ro/feed/",
+      "https://www.formula-as.ro/home-desktop-mobile/feed/"
+    ],
+    "historia.ro": [
+      "https://historia.ro/rss/index"
+    ],
+    "magazinistoric.ro": [
+      "https://magazinistoric.ro/feed/"
+    ],
+    "observatorcultural.ro": [
+      "https://www.observatorcultural.ro/feed/",
+      "https://www.observatorcultural.ro/numar/nr-1187/feed/",
+      "https://www.observatorcultural.ro/numar/nr-1244/feed/",
+      "https://www.observatorcultural.ro/numar/nr-1257/feed/"
+    ],
+    "okmagazine.ro": [
+      "https://okmagazine.ro/rss/index"
+    ],
+    "opiniastudenteasca.ro": [
+      "https://www.opiniastudenteasca.ro/feed"
+    ],
+    "piatafinanciara.ro": [
+      "http://www.piatafinanciara.ro/feed/",
+      "https://www.piatafinanciara.ro/feed/"
+    ],
+    "promotor.ro": [
+      "https://www.promotor.ro/feed"
+    ],
+    "qmagazine.ro": [
+      "https://www.qmagazine.ro/feed/",
+      "https://www.qmagazine.ro/feed/atom/"
+    ],
+    "revista-apostrof.ro": [
+      "https://www.revista-apostrof.ro/feed/"
+    ],
+    "revistabiz.ro": [
+      "https://www.revistabiz.ro/feed/"
+    ],
+    "revistacultura.ro": [
+      "https://revistacultura.ro/feed/"
+    ],
+    "revistafamilia.ro": [
+      "https://revistafamilia.ro/?feed=rss2"
+    ],
+    "revistaflacara.ro": [
+      "http://feeds.feedburner.com/RevistaFlacara"
+    ],
+    "revistaioana.ro": [
+      "https://revistaioana.ro/feed/"
+    ],
+    "revistateologica.ro": [
+      "https://www.revistateologica.ro/feed/"
+    ],
+    "revistavatra.org": [
+      "https://revistavatra.org/feed/"
+    ],
+    "romanialiterara.com": [
+      "https://romanialiterara.com/feed/"
+    ],
+    "sfin.ro": [
+      "https://www.sfin.ro/feed/"
+    ],
+    "superbebe.ro": [
+      "https://superbebe.ro/feed/"
+    ],
+    "tabu.ro": [
+      "https://www.tabu.ro/feed/",
+      "https://tabu.ro/access/share/feeds/atom/homepage.xml",
+      "https://tabu.ro/access/share/feeds/rss/homepage.xml"
+    ],
+    "thediplomat.ro": [
+      "https://www.thediplomat.ro/feed/"
+    ],
+    "tvmania.ro": [
+      "https://www.tvmania.ro/feed"
+    ],
+    "viata-medicala.ro": [
+      "https://www.viata-medicala.ro/rss.xml"
+    ],
+    "viataromaneasca.eu": [
+      "https://www.viataromaneasca.eu/revista/feed/"
+    ],
+    "viva.ro": [
+      "https://www.viva.ro/feed"
+    ]
+  }
+}

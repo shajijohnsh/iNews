@@ -1,0 +1,91 @@
+{
+  "country_code": "GT",
+  "language_code": "EN",
+  "total_domains": 23,
+  "total_feeds": 37,
+  "feeds": {
+    "canalantigua.tv": [
+      "https://www.canalantigua.tv/feed/",
+      "https://canalantigua.tv/feed/"
+    ],
+    "cmiguate.org": [
+      "https://cmiguate.org/feed/"
+    ],
+    "crnnoticias.com": [
+      "https://crnnoticias.com/feed/"
+    ],
+    "dca.gob.gt": [
+      "https://dca.gob.gt/feed/"
+    ],
+    "deguate.com": [
+      "https://www.deguate.com/sitemap.xml",
+      "https://www.deguate.com/feed/",
+      "https://www.deguate.com/guatemala/feed/"
+    ],
+    "elmetropolitano.com.gt": [
+      "https://elmetropolitano.com.gt/es/feed/"
+    ],
+    "elsiglo.com.gt": [
+      "https://elsiglo.com.gt/feed/"
+    ],
+    "guatefutbol.com": [
+      "https://guatefutbol.com/feed/"
+    ],
+    "guatevision.com": [
+      "https://www.guatevision.com/feed",
+      "https://www.guatevision.com/web-stories/feed/"
+    ],
+    "lahora.gt": [
+      "https://lahora.gt/feed/"
+    ],
+    "lavozdexela.com": [
+      "http://lavozdexela.com/feed/"
+    ],
+    "lookmagazine.com": [
+      "https://www.lookmagazine.com/feed/"
+    ],
+    "mijalapa.com": [
+      "https://mijalapa.com/feed/"
+    ],
+    "noticieroelvigilante.com": [
+      "https://noticieroelvigilante.com/feed/"
+    ],
+    "perspectiva.gt": [
+      "https://perspectiva.gt/feed/",
+      "https://perspectiva.gt/perspectivagt/feed/"
+    ],
+    "plazapublica.com.gt": [
+      "https://plazapublica.com.gt/feed/"
+    ],
+    "prensalibre.com": [
+      "https://www.prensalibre.com/deportes/feed/",
+      "https://www.prensalibre.com/economia/feed/",
+      "https://www.prensalibre.com/feed/",
+      "https://www.prensalibre.com/feed/?rss=Guatemala",
+      "https://www.prensalibre.com/guatemala/feed/",
+      "https://www.prensalibre.com/web-stories/feed/"
+    ],
+    "publicogt.com": [
+      "https://publicogt.com/feed/"
+    ],
+    "publinews.gt": [
+      "https://www.publinews.gt/gt/feed",
+      "https://www.publinews.gt/gt/category/espectaculos/farandula/feed"
+    ],
+    "quepasa.gt": [
+      "https://quepasa.gt/feed/"
+    ],
+    "radiotgw.gob.gt": [
+      "https://radiotgw.gob.gt/feed/"
+    ],
+    "republica.gt": [
+      "https://republica.gt/feed",
+      "https://republica.gt/feed/",
+      "https://republica.com/feed"
+    ],
+    "revuemag.com": [
+      "https://www.revuemag.com/feed/",
+      "http://www.revuemag.com/feed/"
+    ]
+  }
+}

@@ -2,61 +2,73 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 20,
-  "total_feeds": 22,
+  "total_feeds": 82,
   "feeds": {
-    "pantagraph.com": [
-      "http://pantagraph.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thesouthern.com": [
-      "http://thesouthern.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "news-gazette.com": [
-      "http://www.news-gazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "jg-tc.com": [
-      "http://jg-tc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "herald-review.com": [
-      "http://herald-review.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "effinghamdailynews.com": [
-      "http://www.effinghamdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "qconline.com": [
-      "http://qconline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "advantagenews.com": [
       "http://www.advantagenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "leaderunion.com": [
-      "https://www.leaderunion.com/feed/"
     ],
     "annanews.com": [
       "https://annanews.com/rss.xml"
     ],
-    "thecounty-chronicle.com": [
-      "https://www.thecounty-chronicle.com/feed/"
-    ],
-    "chicagotribune.com": [
-      "https://www.chicagotribune.com/feed/"
-    ],
-    "thevoice.us": [
-      "https://thevoice.us/feed/"
-    ],
     "bellevillemessenger.org": [
       "https://bellevillemessenger.org/feed/"
     ],
-    "mississippivalleypublishing.com": [
-      "http://www.mississippivalleypublishing.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thedanishpioneer.com": [
-      "https://thedanishpioneer.com/feed/"
-    ],
-    "oakpark.com": [
-      "https://www.oakpark.com/feed/"
-    ],
-    "newsprogress.com": [
-      "https://newsprogress.com/feed/"
+    "chicagotribune.com": [
+      "https://www.chicagotribune.com/arcio/rss/",
+      "https://www.chicagotribune.com/arcio/rss/category/business/",
+      "https://www.chicagotribune.com/arcio/rss/category/business/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/dining/",
+      "https://www.chicagotribune.com/arcio/rss/category/dining/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/entertainment/",
+      "https://www.chicagotribune.com/arcio/rss/category/entertainment/?query=display_date:%5Bnow-2d+TO+now%5D&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/entertainment/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/entertainment/theater/",
+      "https://www.chicagotribune.com/arcio/rss/category/entertainment/theater/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/lifestyles/",
+      "https://www.chicagotribune.com/arcio/rss/category/lifestyles/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/nation-world/",
+      "https://www.chicagotribune.com/arcio/rss/category/nation-world/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/news/",
+      "https://www.chicagotribune.com/arcio/rss/category/news/?query=display_date:%5Bnow-2d+TO+now%5D&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/news/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/news/breaking/",
+      "https://www.chicagotribune.com/arcio/rss/category/news/breaking/?query=display_date:%5Bnow-2d+TO+now%5D&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/news/breaking/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/opinion/",
+      "https://www.chicagotribune.com/arcio/rss/category/opinion/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/politics/",
+      "https://www.chicagotribune.com/arcio/rss/category/politics/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/real-estate/",
+      "https://www.chicagotribune.com/arcio/rss/category/real-estate/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/?query=display_date:%5Bnow-2d+TO+now%5D&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/bears/",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/bears/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/blackhawks/",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/blackhawks/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/bulls/",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/cubs/",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/cubs/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/white-sox/",
+      "https://www.chicagotribune.com/arcio/rss/category/sports/white-sox/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/aurora-beacon-news/",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/aurora-beacon-news/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/daily-southtown/",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/daily-southtown/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/elgin-courier-news/",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/elgin-courier-news/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/lake-county-news-sun/",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/lake-county-news-sun/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/naperville-sun/",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/naperville-sun/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/post-tribune/",
+      "https://www.chicagotribune.com/arcio/rss/category/suburbs/post-tribune/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc",
+      "https://www.chicagotribune.com/espanol/feed/",
+      "https://www.chicagotribune.com/feed/",
+      "https://www.chicagotribune.com/latest-headlines/feed/",
+      "https://www.chicagotribune.com/news/feed/",
+      "https://www.chicagotribune.com/sports/feed/",
+      "https://www.chicagotribune.com/sports/nhl/chicago-blackhawks/feed/"
     ],
     "dailyegyptian.com": [
       "https://dailyegyptian.com/feed/",
@@ -64,7 +76,55 @@
     ],
     "dailynorthwestern.com": [
       "https://dailynorthwestern.com/feed/",
-      "https://dailynorthwestern.com/feed/atom/"
+      "https://dailynorthwestern.com/feed/atom/",
+      "https://dailynorthwestern.com/feed/cats-corner/",
+      "https://dailynorthwestern.com/feed/theripple/"
+    ],
+    "effinghamdailynews.com": [
+      "http://www.effinghamdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "herald-review.com": [
+      "http://herald-review.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "jg-tc.com": [
+      "http://jg-tc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "leaderunion.com": [
+      "https://www.leaderunion.com/feed/"
+    ],
+    "mississippivalleypublishing.com": [
+      "http://www.mississippivalleypublishing.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "news-gazette.com": [
+      "https://www.news-gazette.com/search/?f=rss&t=article&c=arts-entertainment/books&l=50&s=start_time&sd=desc",
+      "https://www.news-gazette.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+      "https://www.news-gazette.com/search/?f=rss&t=article&c=news/local/courts-police-fire&l=50&s=start_time&sd=desc",
+      "https://www.news-gazette.com/search/?f=rss&t=article&c=news/local/transportation&l=50&s=start_time&sd=desc",
+      "https://www.news-gazette.com/search/?f=rss&t=article&c=opinion/columns&l=50&s=start_time&sd=desc"
+    ],
+    "newsprogress.com": [
+      "https://newsprogress.com/feed/"
+    ],
+    "oakpark.com": [
+      "https://www.oakpark.com/feed/"
+    ],
+    "pantagraph.com": [
+      "http://pantagraph.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "qconline.com": [
+      "http://qconline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecounty-chronicle.com": [
+      "https://www.thecounty-chronicle.com/feed/"
+    ],
+    "thedanishpioneer.com": [
+      "https://thedanishpioneer.com/feed/"
+    ],
+    "thesouthern.com": [
+      "http://thesouthern.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thevoice.us": [
+      "https://thevoice.us/feed/"
     ]
   }
 }

@@ -5,30 +5,30 @@
   "total_feeds": 14,
   "feeds": {
     "algemeiner.com": [
-      "https://www.algemeiner.com/home/feed/"
+      "http://www.algemeiner.com/feed/"
     ],
     "americanisraelite.com": [
       "https://americanisraelite.com/feed/"
     ],
-    "clevelandjewishnews.com": [
-      "http://www.clevelandjewishnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "charlottejewishnews.org": [
       "https://charlottejewishnews.org/feed/"
     ],
-    "thejewishnews.com": [
-      "http://www.thejewishnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "clevelandjewishnews.com": [
+      "http://www.clevelandjewishnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "ijn.com": [
       "https://www.ijn.com/feed/",
       "https://www.ijn.com/home/feed/"
     ],
+    "jewishaz.com": [
+      "http://www.jewishaz.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "jewishchronicle.org": [
+      "https://www.jewishchronicle.org/feed/"
+    ],
     "jewishledger.com": [
       "https://www.jewishledger.com/feed/",
       "https://www.jewishledger.com/home/feed/"
-    ],
-    "jewishaz.com": [
-      "http://www.jewishaz.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "jewishpress.com": [
       "https://jewishpress.com/feed/"
@@ -36,8 +36,8 @@
     "jta.org": [
       "https://www.jta.org/feed"
     ],
-    "jewishchronicle.org": [
-      "https://www.jewishchronicle.org/feed/"
+    "thejewishnews.com": [
+      "http://www.thejewishnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "yated.com": [
       "https://yated.com/feed/"

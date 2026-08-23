@@ -2,22 +2,24 @@
   "country_code": "US",
   "language_code": "FR",
   "total_domains": 4,
-  "total_feeds": 7,
+  "total_feeds": 9,
   "feeds": {
-    "lesoleildelafloride.com": [
-      "https://lesoleildelafloride.com/feed/",
-      "https://lesoleildelafloride.com/accueil/feed/"
-    ],
-    "haitiprogres.com": [
-      "https://haitiprogres.com/feed/",
-      "https://haitiprogres.com/homepage/feed/"
+    "frenchmorning.com": [
+      "https://frenchmorning.com/feed/",
+      "https://www.frenchmorning.com/category/nos-podcast/feed/",
+      "https://www.frenchmorning.com/feed/"
     ],
     "haitienmarche.com": [
       "https://haitienmarche.com/index.php?format=feed&type=rss",
       "https://haitienmarche.com/index.php?format=feed&type=atom"
     ],
-    "frenchmorning.com": [
-      "https://www.frenchmorning.com/feed/"
+    "haitiprogres.com": [
+      "https://haitiprogres.com/feed/",
+      "https://haitiprogres.com/homepage/feed/"
+    ],
+    "lesoleildelafloride.com": [
+      "https://lesoleildelafloride.com/feed/",
+      "https://lesoleildelafloride.com/accueil/feed/"
     ]
   }
 }

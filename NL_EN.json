@@ -1,0 +1,493 @@
+{
+  "country_code": "NL",
+  "language_code": "EN",
+  "total_domains": 57,
+  "total_feeds": 371,
+  "feeds": {
+    "aardschok.com": [
+      "https://aardschok.com/feed/"
+    ],
+    "agconnect.nl": [
+      "https://www.agconnect.nl/feeds/articles.rss?type=news",
+      "https://www.agconnect.nl/feeds/newsletter/whitepapers.rss",
+      "https://www.agconnect.nl/rssfeeds/blogs.xml",
+      "https://www.agconnect.nl/rssfeeds/nieuws.xml",
+      "https://www.agconnect.nl/rssfeeds/whitepapers.xml"
+    ],
+    "archis.org": [
+      "https://archis.org/feed/"
+    ],
+    "autoweek.nl": [
+      "https://www.autoweek.nl/rss/"
+    ],
+    "beaumonde.nl": [
+      "https://beaumonde.nl/feed/",
+      "https://beaumonde.nl/feeds/recent.rss"
+    ],
+    "beleggersbelangen.nl": [
+      "https://www.beleggersbelangen.nl/feed/",
+      "https://www.beleggersbelangen.nl/podcast/feed/"
+    ],
+    "blockmagazine.nl": [
+      "https://www.blockmagazine.nl/feed/"
+    ],
+    "computable.nl": [
+      "https://www.computable.nl/artikelen/artikelen/1444691/achtergrond.html?rss=1",
+      "https://www.computable.nl/artikelen/artikelen/1471081/alle-artikelen.html?rss=1",
+      "https://www.computable.nl/artikelen/artikelen/1508217/praktijkcases.html?rss=1",
+      "https://www.computable.nl/artikelen/artikelen/250449/nieuws.html?rss=1",
+      "https://www.computable.nl/artikelen/artikelen/5933077/opmerkelijk.html?rss=1",
+      "https://www.computable.nl/artikelen/artikelen/5933079/flashback.html?rss=1",
+      "https://www.computable.nl/artikelen/artikelen/6306755/productnieuws.html?rss=1",
+      "https://www.computable.nl/artikelen/community/1509029/opinie.html?rss=1",
+      "https://www.computable.nl/artikelen/community/1509086/columns.html?rss=1",
+      "https://www.computable.nl/artikelen/community/4573221/reviews.html?rss=1",
+      "https://www.computable.nl/artikelen/community/4573232/expertverslag.html?rss=1",
+      "https://www.computable.nl/artikelen/community/5260614/blogs.html?rss=1",
+      "https://www.computable.nl/events/carriere/1589222/agenda.html?rss=1",
+      "https://www.computable.nl/feed/",
+      "https://www.computable.nl/overzicht/carriere/2980766/carriere.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1276896/security.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1276929/zorg.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1276946/outsourcing.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1276992/erp.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277034/mobility.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277145/business-analytics.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277180/development.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277202/overheid.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277214/onderwijs.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277528/fintech.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/1277800/beheer.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2333360/crm.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2333364/cloud-computing.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2379248/infrastructuur.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2379250/management.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2379258/ict-branche.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2380646/smart-logistics.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/2429449/maatschappij.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/3040574/digital-transformation.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/4445906/datamanagement.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/4907128/datacenters.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/5725959/digital-innovation.html?rss=1",
+      "https://www.computable.nl/overzicht/topics/6173040/big-data.html?rss=1"
+    ],
+    "control-online.nl": [
+      "https://www.control-online.nl/feed/",
+      "https://www.control-online.nl/home/feed/"
+    ],
+    "ct.nl": [
+      "https://www.ct.nl/feed/"
+    ],
+    "dasmag.nl": [
+      "https://dasmag.nl/feed/"
+    ],
+    "de-gids.nl": [
+      "https://rss.buzzsprout.com/1038091.rss",
+      "https://rss.buzzsprout.com/1794173.rss"
+    ],
+    "denieuwekoers.nl": [
+      "https://denieuwekoers.nl/feed/"
+    ],
+    "derepublikein.nl": [
+      "https://derepublikein.nl/feed/"
+    ],
+    "elisabethmagazine.nl": [
+      "https://www.elisabethmagazine.nl/feed/",
+      "https://www.elisabethmagazine.nl/feed/atom/",
+      "https://www.elisabethmagazine.nl/feed/"
+    ],
+    "emerce.nl": [
+      "https://www.emerce.nl/achtergrond/vier-op-vijf-bedrijven-verwaarloost-blog-infographic/feed",
+      "https://www.emerce.nl/nieuws/feed",
+      "https://www.emerce.nl/topic-feed",
+      "https://www.emerce.nl/wire/feed"
+    ],
+    "eppostripblad.nl": [
+      "https://eppostripblad.nl/feed/"
+    ],
+    "flair.nl": [
+      "https://www.flair.nl/news/rss.xml",
+      "https://www.flair.nl/popular/rss.xml",
+      "https://www.flair.nl/juice/rss.xml",
+      "https://www.flair.nl/sex-liefde/rss.xml",
+      "https://www.flair.nl/youyouyou/rss.xml",
+      "https://www.flair.nl/columns/rss.xml",
+      "https://www.flair.nl/geld/rss.xml",
+      "https://www.flair.nl/sinterklaas/rss.xml",
+      "https://www.flair.nl/wonen/rss.xml",
+      "https://www.flair.nl/acties/rss.xml",
+      "https://www.flair.nl/astrologie/rss.xml",
+      "https://www.flair.nl/bedgeheimen/rss.xml",
+      "https://www.flair.nl/bij-de-relatietherapeut/rss.xml",
+      "https://www.flair.nl/dagboek-van-een-sugarbaby/rss.xml",
+      "https://www.flair.nl/de-maand-met/rss.xml",
+      "https://www.flair.nl/eindelijk-verlost-van/rss.xml",
+      "https://www.flair.nl/enjoy/rss.xml",
+      "https://www.flair.nl/fashion-beauty/rss.xml",
+      "https://www.flair.nl/fashion/rss.xml",
+      "https://www.flair.nl/food/rss.xml",
+      "https://www.flair.nl/haasten-en-havermelk/rss.xml",
+      "https://www.flair.nl/haasten-havermelk/rss.xml",
+      "https://www.flair.nl/happy-end/rss.xml",
+      "https://www.flair.nl/help/rss.xml",
+      "https://www.flair.nl/horoscoop/rss.xml",
+      "https://www.flair.nl/ik-mis-je/rss.xml",
+      "https://www.flair.nl/korting/rss.xml",
+      "https://www.flair.nl/lieve-lotte/rss.xml",
+      "https://www.flair.nl/lifehacks/rss.xml",
+      "https://www.flair.nl/lil-wil-een-baby/rss.xml",
+      "https://www.flair.nl/maatschappij/rss.xml",
+      "https://www.flair.nl/mama-gaat-scheiden/rss.xml",
+      "https://www.flair.nl/mannengeheimen/rss.xml",
+      "https://www.flair.nl/mijn-leven/rss.xml",
+      "https://www.flair.nl/momlife/rss.xml",
+      "https://www.flair.nl/moord-in-de-molen/rss.xml",
+      "https://www.flair.nl/opgebiecht/rss.xml",
+      "https://www.flair.nl/peptalk-maandag/rss.xml",
+      "https://www.flair.nl/peptalk-soundos/rss.xml",
+      "https://www.flair.nl/podcast-happy-end/rss.xml",
+      "https://www.flair.nl/podcast/rss.xml",
+      "https://www.flair.nl/real-life/rss.xml",
+      "https://www.flair.nl/reizen/rss.xml",
+      "https://www.flair.nl/run-don-t-walk/rss.xml",
+      "https://www.flair.nl/run-dont-walk/rss.xml",
+      "https://www.flair.nl/seksvraag/rss.xml",
+      "https://www.flair.nl/selflove/rss.xml",
+      "https://www.flair.nl/sex-en-liefde/rss.xml",
+      "https://www.flair.nl/swingers/rss.xml",
+      "https://www.flair.nl/today/rss.xml",
+      "https://www.flair.nl/tv-en-series/rss.xml",
+      "https://www.flair.nl/tv-series/rss.xml",
+      "https://www.flair.nl/uit-andere-media/rss.xml",
+      "https://www.flair.nl/uitgelichte-columns/rss.xml",
+      "https://www.flair.nl/video/rss.xml",
+      "https://www.flair.nl/vraag-het-steven/rss.xml",
+      "https://www.flair.nl/vrouwengeheimen/rss.xml",
+      "https://www.flair.nl/waar-doet-ze-het-van/rss.xml",
+      "https://www.flair.nl/waargebeurd/rss.xml",
+      "https://www.flair.nl/weleda/rss.xml",
+      "https://www.flair.nl/zelfontwikkeling/rss.xml",
+      "https://www.flair.nl/health/rss.xml"
+    ],
+    "frameliteraryjournal.com": [
+      "https://www.frameliteraryjournal.com/feed/"
+    ],
+    "freewave-nostalgie.nl": [
+      "https://freewave-nostalgie.nl/feed/",
+      "https://freewave-nostalgie.nl/feed/atom/"
+    ],
+    "groene.nl": [
+      "https://www.groene.nl/feed.atom",
+      "https://www.groene.nl/selectie-van-de-dag.atom"
+    ],
+    "hardgras.nl": [
+      "https://www.hardgras.nl/feed/"
+    ],
+    "historianet.nl": [
+      "https://historianet.nl/feed/rss"
+    ],
+    "hixmagazine.com": [
+      "https://www.hixmagazine.com/feed/"
+    ],
+    "hpdetijd.nl": [
+      "https://www.hpdetijd.nl/rss",
+      "https://www.hpdetijd.nl/feed/"
+    ],
+    "jazzenzo.nl": [
+      "http://jazzenzo.nl/index.php?feed=rss",
+      "http://jazzenzo.nl/index.php?feed=atom"
+    ],
+    "karwansaraypublishers.com": [
+      "https://www.karwansaraypublishers.com/blogs/ancient-history-bibliography.atom",
+      "https://www.karwansaraypublishers.com/blogs/ancient-history-blog.atom",
+      "https://www.karwansaraypublishers.com/blogs/ancient-warfare-blog.atom",
+      "https://www.karwansaraypublishers.com/blogs/book_pr.atom",
+      "https://www.karwansaraypublishers.com/blogs/gary-brueggemans-the-roman-army-ancient-warfare.atom",
+      "https://www.karwansaraypublishers.com/blogs/great-wargaming-survey-blog-wss-magazine.atom",
+      "https://www.karwansaraypublishers.com/blogs/medieval-world-blog.atom",
+      "https://www.karwansaraypublishers.com/blogs/wss-blog.atom",
+      "https://www.karwansaraypublishers.com/blogs/wss-news.atom",
+      "https://www.karwansaraypublishers.com/blogs/wss_online.atom",
+      "https://www.karwansaraypublishers.com/en-au/blogs/ancient-history-bibliography.atom",
+      "https://www.karwansaraypublishers.com/en-au/blogs/ancient-warfare-blog.atom",
+      "https://www.karwansaraypublishers.com/en-au/blogs/wss-news.atom",
+      "https://www.karwansaraypublishers.com/en-ca/blogs/ancient-history-blog.atom",
+      "https://www.karwansaraypublishers.com/en-ca/blogs/wss-news.atom",
+      "https://www.karwansaraypublishers.com/en-gb/blogs/medieval-world-blog.atom",
+      "https://www.karwansaraypublishers.com/en-gb/blogs/wss-news.atom",
+      "https://www.karwansaraypublishers.com/en-gb/blogs/wss_online.atom",
+      "https://www.karwansaraypublishers.com/en-nz/blogs/medieval-world-blog.atom",
+      "https://www.karwansaraypublishers.com/en-nz/blogs/wss_online.atom",
+      "https://www.karwansaraypublishers.com/en-us/blogs/wss-news.atom",
+      "https://www.karwansaraypublishers.com/en-us/blogs/wss_online.atom"
+    ],
+    "kijkmagazine.nl": [
+      "https://www.kijkmagazine.nl/feed/"
+    ],
+    "knipmode.nl": [
+      "https://knipmode.nl/feed/"
+    ],
+    "libelle.nl": [
+      "https://www.libelle.nl/7-jaar-jonger/rss.xml",
+      "https://www.libelle.nl/actueel/rss.xml",
+      "https://www.libelle.nl/anne-wil/rss.xml",
+      "https://www.libelle.nl/boer-tom/rss.xml",
+      "https://www.libelle.nl/columnisten/rss.xml",
+      "https://www.libelle.nl/corona/rss.xml",
+      "https://www.libelle.nl/dagboek-maud-koen/rss.xml",
+      "https://www.libelle.nl/de-dag-nadat/rss.xml",
+      "https://www.libelle.nl/de-oranjes/rss.xml",
+      "https://www.libelle.nl/de-overgang/rss.xml",
+      "https://www.libelle.nl/de-portemonnee/rss.xml",
+      "https://www.libelle.nl/de-stagiair/rss.xml",
+      "https://www.libelle.nl/de-windsors/rss.xml",
+      "https://www.libelle.nl/dietiste-wendy/rss.xml",
+      "https://www.libelle.nl/dossier-breipatronen/rss.xml",
+      "https://www.libelle.nl/dossiers/rss.xml",
+      "https://www.libelle.nl/eten-drinken/rss.xml",
+      "https://www.libelle.nl/europese-royals/rss.xml",
+      "https://www.libelle.nl/feestdagen/rss.xml",
+      "https://www.libelle.nl/geldzaken/rss.xml",
+      "https://www.libelle.nl/gezond-afvallen/rss.xml",
+      "https://www.libelle.nl/gezondheid/rss.xml",
+      "https://www.libelle.nl/het-hospice/rss.xml",
+      "https://www.libelle.nl/horoscoop/rss.xml",
+      "https://www.libelle.nl/interviews/rss.xml",
+      "https://www.libelle.nl/kerstkookboek/rss.xml",
+      "https://www.libelle.nl/koningin-maxima/rss.xml",
+      "https://www.libelle.nl/levensverhalen/rss.xml",
+      "https://www.libelle.nl/libelle-royal/rss.xml",
+      "https://www.libelle.nl/lifehacks/rss.xml",
+      "https://www.libelle.nl/lifestyle/rss.xml",
+      "https://www.libelle.nl/maartje-en-de-meisjes/rss.xml",
+      "https://www.libelle.nl/manon/rss.xml",
+      "https://www.libelle.nl/marktplaats-misere/rss.xml",
+      "https://www.libelle.nl/memoires-van-een-maitresse/rss.xml",
+      "https://www.libelle.nl/mode-beauty/rss.xml",
+      "https://www.libelle.nl/niemand-weet/rss.xml",
+      "https://www.libelle.nl/oude-liefde-roest-niet/rss.xml",
+      "https://www.libelle.nl/persoonlijk/rss.xml",
+      "https://www.libelle.nl/popular/rss.xml",
+      "https://www.libelle.nl/praat-mee/rss.xml",
+      "https://www.libelle.nl/psyche/rss.xml",
+      "https://www.libelle.nl/puzzelen/rss.xml",
+      "https://www.libelle.nl/raarste-ruzies/rss.xml",
+      "https://www.libelle.nl/reizen/rss.xml",
+      "https://www.libelle.nl/royal/rss.xml",
+      "https://www.libelle.nl/schoonmaken/rss.xml",
+      "https://www.libelle.nl/seksvragen/rss.xml",
+      "https://www.libelle.nl/series/rss.xml",
+      "https://www.libelle.nl/shownieuws/rss.xml",
+      "https://www.libelle.nl/sinterklaas/rss.xml",
+      "https://www.libelle.nl/slaapkamergeheimen/rss.xml",
+      "https://www.libelle.nl/slapen/rss.xml",
+      "https://www.libelle.nl/tessel-tindert/rss.xml",
+      "https://www.libelle.nl/tuinieren/rss.xml",
+      "https://www.libelle.nl/uit-andere-media/rss.xml",
+      "https://www.libelle.nl/video/rss.xml",
+      "https://www.libelle.nl/willeke/rss.xml",
+      "https://www.libelle.nl/wonen/rss.xml",
+      "https://www.libelle.nl/wraakvrouw/rss.xml",
+      "https://www.libelle.nl/zorgenzoon/rss.xml"
+    ],
+    "margriet.nl": [
+      "https://www.margriet.nl/60-boven-60/rss.xml",
+      "https://www.margriet.nl/aaf/rss.xml",
+      "https://www.margriet.nl/achter-de-schermen/rss.xml",
+      "https://www.margriet.nl/actualiteit/rss.xml",
+      "https://www.margriet.nl/actueel/rss.xml",
+      "https://www.margriet.nl/angela/rss.xml",
+      "https://www.margriet.nl/annette-adviseert/rss.xml",
+      "https://www.margriet.nl/annette/rss.xml",
+      "https://www.margriet.nl/aow-portemonnee/rss.xml",
+      "https://www.margriet.nl/besparen/rss.xml",
+      "https://www.margriet.nl/columns-series/rss.xml",
+      "https://www.margriet.nl/daghoroscoop/rss.xml",
+      "https://www.margriet.nl/de-affaire/rss.xml",
+      "https://www.margriet.nl/de-prooi/rss.xml",
+      "https://www.margriet.nl/dieren/rss.xml",
+      "https://www.margriet.nl/diy/rss.xml",
+      "https://www.margriet.nl/eten/rss.xml",
+      "https://www.margriet.nl/geen-18-meer/rss.xml",
+      "https://www.margriet.nl/gesprek-van-de-dag/rss.xml",
+      "https://www.margriet.nl/gezondheid/rss.xml",
+      "https://www.margriet.nl/goed-geregeld/rss.xml",
+      "https://www.margriet.nl/helene/rss.xml",
+      "https://www.margriet.nl/horoscoop/rss.xml",
+      "https://www.margriet.nl/jaarhoroscoop/rss.xml",
+      "https://www.margriet.nl/jan-de-hoop/rss.xml",
+      "https://www.margriet.nl/janny/rss.xml",
+      "https://www.margriet.nl/jij-en-je-sterrenbeeld/rss.xml",
+      "https://www.margriet.nl/jose/rss.xml",
+      "https://www.margriet.nl/lifestyle/rss.xml",
+      "https://www.margriet.nl/maanhoroscoop/rss.xml",
+      "https://www.margriet.nl/margriet-museum/rss.xml",
+      "https://www.margriet.nl/maria/rss.xml",
+      "https://www.margriet.nl/marieke/rss.xml",
+      "https://www.margriet.nl/marion/rss.xml",
+      "https://www.margriet.nl/marjan/rss.xml",
+      "https://www.margriet.nl/mijn-lief-palliatief/rss.xml",
+      "https://www.margriet.nl/mode-beauty/rss.xml",
+      "https://www.margriet.nl/nieuws/rss.xml",
+      "https://www.margriet.nl/noraly/rss.xml",
+      "https://www.margriet.nl/oudeliefderoestniet/rss.xml",
+      "https://www.margriet.nl/persoonlijk/rss.xml",
+      "https://www.margriet.nl/popular/rss.xml",
+      "https://www.margriet.nl/praat-mee/rss.xml",
+      "https://www.margriet.nl/puberperikelen/rss.xml",
+      "https://www.margriet.nl/puzzelen/rss.xml",
+      "https://www.margriet.nl/reizen/rss.xml",
+      "https://www.margriet.nl/relaties/rss.xml",
+      "https://www.margriet.nl/rinke/rss.xml",
+      "https://www.margriet.nl/sanne/rss.xml",
+      "https://www.margriet.nl/scheiden-swipen/rss.xml",
+      "https://www.margriet.nl/tanja/rss.xml",
+      "https://www.margriet.nl/tips-tricks/rss.xml",
+      "https://www.margriet.nl/uit-andere-magazines/rss.xml",
+      "https://www.margriet.nl/verzorgingshuisvolliefde/rss.xml",
+      "https://www.margriet.nl/vivian/rss.xml",
+      "https://www.margriet.nl/weekhoroscoop/rss.xml",
+      "https://www.margriet.nl/willy/rss.xml",
+      "https://www.margriet.nl/winnen/rss.xml",
+      "https://www.margriet.nl/winnen85jaar/rss.xml",
+      "https://www.margriet.nl/winterfair/rss.xml",
+      "https://www.margriet.nl/wonen-tuinieren/rss.xml",
+      "https://www.margriet.nl/zomerweek/rss.xml",
+      "https://www.margriet.nl/zusje/rss.xml"
+    ],
+    "marieclaire.nl": [
+      "https://marieclaire.nl/feeds/recent.rss"
+    ],
+    "motor.nl": [
+      "https://www.motor.nl/feed/"
+    ],
+    "natgeojunior.nl": [
+      "https://www.natgeojunior.nl/web-stories/feed/"
+    ],
+    "niw.nl": [
+      "https://niw.nl/feed/"
+    ],
+    "oor.nl": [
+      "https://oor.nl/feed/"
+    ],
+    "opzij.nl": [
+      "https://www.opzij.nl/feed/"
+    ],
+    "pcactive.nl": [
+      "https://www.pcactive.nl/?format=feed&type=atom",
+      "https://www.pcactive.nl/?format=feed&type=rss"
+    ],
+    "plusonline.nl": [
+      "https://www.plusonline.nl/artikelen.xml?ref=mma.nl",
+      "https://www.plusonline.nl/plusonline.xml",
+      "https://www.plusonline.nl/nieuws.xml?ref=mma.nl"
+    ],
+    "pu.nl": [
+      "https://api.reshift.nl/feeds/26/RSS/"
+    ],
+    "quest.nl": [
+      "https://www.quest.nl/rss/all.xml",
+      "https://www.quest.nl/rss/default.xml"
+    ],
+    "quotenet.nl": [
+      "https://www.quotenet.nl/rss/all.xml",
+      "https://www.quotenet.nl/rss/default.xml",
+      "https://www.quotenet.nl/rss/zakelijk.xml"
+    ],
+    "railhobby.nl": [
+      "https://www.railhobby.nl/feed/"
+    ],
+    "railmagazine.nl": [
+      "https://railmagazine.nl/feed/"
+    ],
+    "ravage-webzine.nl": [
+      "https://www.ravage-webzine.nl/feed/"
+    ],
+    "revu.nl": [
+      "https://revu.nl/feeds/recent.rss"
+    ],
+    "skepsis.nl": [
+      "https://skepsis.nl/feed/"
+    ],
+    "terdege.nl": [
+      "http://www.terdege.nl/rss-feed"
+    ],
+    "theoptimist.nl": [
+      "https://optimismewerkt.nl/feed/"
+    ],
+    "topgear.nl": [
+      "https://topgear.nl/feed/"
+    ],
+    "truckstar.nl": [
+      "https://www.truckstar.nl/feed/",
+      "https://truckstar.nl/feed/"
+    ],
+    "tw.nl": [
+      "https://tw.nl/feed/"
+    ],
+    "vi.nl": [
+      "https://www.vi.nl/feed/nieuws",
+      "https://www.vi.nl/feed/news.xml",
+      "https://www.vi.nl/feed/news.xml?functionality=premium",
+      "https://www.vi.nl/feed/news.xml?tag=eredivisie",
+      "https://www.vi.nl/feed/news.xml?tag=premier-league",
+      "https://www.vi.nl/feed/nieuws/eredivisie",
+      "https://www.vi.nl/feed/news.xml?tag=ajax",
+      "https://www.vi.nl/feed/pro",
+      "https://www.vi.nl/feed/news.xml?tag=fc-twente",
+      "https://www.vi.nl/feed/news.xml?tag=psv",
+      "https://www.vi.nl/feed/nieuws/premier-league",
+      "https://www.vi.nl/feed/news.xml?tag=feyenoord",
+      "https://www.vi.nl/feed/news.xml?tag=primera-division",
+      "https://www.vi.nl/feed/nieuws/feyenoord",
+      "https://www.vi.nl/feed/news.xml?tag=fc-utrecht",
+      "https://www.vi.nl/feed/news.xml?tag=willem-ii",
+      "https://www.vi.nl/feed/news.xml?tag=excelsior",
+      "https://www.vi.nl/feed/news.xml?tag=pec-zwolle",
+      "https://www.vi.nl/feed/news.xml?tag=az",
+      "https://www.vi.nl/feed/news.xml?tag=fc-groningen",
+      "https://www.vi.nl/feed/news.xml?tag=sc-heerenveen",
+      "https://www.vi.nl/feed/news.xml?tag=sparta-rotterdam",
+      "https://www.vi.nl/feed/nieuws/psv",
+      "https://www.vi.nl/feed/news.xml?tag=vitesse",
+      "https://www.vi.nl/feed/news.xml?tag=nac-breda",
+      "https://www.vi.nl/feed/news.xml?tag=knvb-beker",
+      "https://www.vi.nl/feed/news.xml?tag=bundesliga",
+      "https://www.vi.nl/feed/news.xml?tag=heracles-almelo",
+      "https://www.vi.nl/feed/news.xml?tag=roda-jc-kerkrade",
+      "https://www.vi.nl/feed/news.xml?tag=vvv-venlo",
+      "https://www.vi.nl/feed/news.xml?tag=ado-den-haag",
+      "https://www.vi.nl/feed/nieuws/knvb-beker",
+      "https://www.vi.nl/feed/nieuws/primera-division",
+      "https://www.vi.nl/feed/nieuws/ajax",
+      "https://www.vi.nl/feed/nieuws/az",
+      "https://www.vi.nl/feed/nieuws/bundesliga",
+      "https://www.vi.nl/feed/nieuws/fc-utrecht",
+      "https://www.vi.nl/feed/nieuws/fc-twente",
+      "https://www.vi.nl/feed/nieuws/nac-breda",
+      "https://www.vi.nl/feed/nieuws/willem-ii",
+      "https://www.vi.nl/feed/nieuws/fc-groningen",
+      "https://www.vi.nl/feed/nieuws/heracles-almelo",
+      "https://www.vi.nl/feed/nieuws/pec-zwolle",
+      "https://www.vi.nl/feed/nieuws/sc-heerenveen",
+      "https://www.vi.nl/feed/nieuws/sparta-rotterdam",
+      "https://www.vi.nl/feed/nieuws/ado-den-haag",
+      "https://www.vi.nl/feed/nieuws/excelsior",
+      "https://www.vi.nl/feed/nieuws/roda-jc-kerkrade",
+      "https://www.vi.nl/feed/nieuws/vitesse",
+      "https://www.vi.nl/feed/nieuws/vvv-venlo"
+    ],
+    "vn.nl": [
+      "https://www.vn.nl/feed/"
+    ],
+    "vriendin.nl": [
+      "https://www.vriendin.nl/feed/"
+    ],
+    "zenitonline.nl": [
+      "https://zenitonline.nl/feed/"
+    ],
+    "zin.nl": [
+      "https://www.zin.nl/2022/02/15/deze-podcasts-mag-je-niet-missen/feed/"
+    ]
+  }
+}

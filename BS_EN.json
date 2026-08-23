@@ -1,0 +1,51 @@
+{
+  "country_code": "BS",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 19,
+  "feeds": {
+    "bahamasb2b.com": [
+      "https://www.bahamasb2b.com/feed/"
+    ],
+    "bahamasnational.com": [
+      "https://bahamasnational.com/home/feed/"
+    ],
+    "bahamasnewsmabey.com": [
+      "https://www.bahamasnewsmabey.com/blog-feed.xml"
+    ],
+    "bahamasspectator.com": [
+      "https://bahamasspectator.com/feed/",
+      "http://www.bahamasspectator.com/feed/"
+    ],
+    "bahamasuncensored.com": [
+      "http://www.bahamasuncensored.com/feed/"
+    ],
+    "jonesbahamas.com": [
+      "https://jonesbahamas.com/feed/",
+      "http://jonesbahamas.com/feed/"
+    ],
+    "nassaupunch.com": [
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://nassaupunch.com/feed/",
+      "http://nassaupunch.com/feed/",
+      "http://feeds.bbci.co.uk/news/world/rss.xml"
+    ],
+    "ournews.bs": [
+      "https://ournews.bs/feed/"
+    ],
+    "thebahamasweekly.com": [
+      "https://www.thebahamasweekly.com/publish/rss.xml",
+      "http://thebahamasweekly.com/publish/rss.xml",
+      "http://www.thebahamasweekly.com/publish/rss.xml"
+    ],
+    "thenassauguardian.com": [
+      "http://www.thenassauguardian.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tribune242.com": [
+      "https://www.tribune242.com/rss/headlines/"
+    ],
+    "znsbahamas.com": [
+      "https://znsbahamas.com/feed/"
+    ]
+  }
+}

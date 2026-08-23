@@ -4,17 +4,17 @@
   "total_domains": 4,
   "total_feeds": 4,
   "feeds": {
-    "thecoast.ca": [
-      "https://www.thecoast.ca/feed/"
-    ],
     "grapevinepublishing.ca": [
       "https://grapevinepublishing.ca/feed"
     ],
-    "voir.ca": [
-      "https://voir.ca/feed/"
-    ],
     "ottawaxpress.ca": [
       "https://www.ottawaxpress.ca/feed/"
+    ],
+    "thecoast.ca": [
+      "https://www.thecoast.ca/feed/"
+    ],
+    "voir.ca": [
+      "https://voir.ca/feed/"
     ]
   }
 }

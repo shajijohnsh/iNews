@@ -4,11 +4,8 @@
   "total_domains": 8,
   "total_feeds": 12,
   "feeds": {
-    "dailykhabrain.com.pk": [
-      "https://dailykhabrain.com.pk/feed/"
-    ],
-    "jehanpakistan.pk": [
-      "https://jehanpakistan.pk/feed/"
+    "aaj.tv": [
+      "https://www.aaj.tv/feeds/home/"
     ],
     "dailyk2.com": [
       "https://dailyk2.com/feed/",
@@ -18,19 +15,22 @@
     "dailykashmirlink.com": [
       "https://dailykashmirlink.com/feed/"
     ],
-    "zamaswat.com": [
-      "https://zamaswat.com/feed/"
+    "dailykhabrain.com.pk": [
+      "https://dailykhabrain.com.pk/feed/"
+    ],
+    "jehanpakistan.pk": [
+      "https://jehanpakistan.pk/feed/"
     ],
     "naibaat.pk": [
       "https://www.naibaat.pk/rss",
       "https://www.naibaat.pk/sitemap.xml"
     ],
-    "aaj.tv": [
-      "https://www.aaj.tv/feeds/home/"
-    ],
     "urduvoa.com": [
       "https://www.urduvoa.com/api/",
       "https://www.urduvoa.com/sitemap.xml"
+    ],
+    "zamaswat.com": [
+      "https://zamaswat.com/feed/"
     ]
   }
 }

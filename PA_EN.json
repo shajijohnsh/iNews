@@ -1,0 +1,102 @@
+{
+  "country_code": "PA",
+  "language_code": "EN",
+  "total_domains": 21,
+  "total_feeds": 52,
+  "feeds": {
+    "bayanodigital.com": [
+      "https://bayanodigital.com/feed/"
+    ],
+    "critica.com.pa": [
+      "https://www.critica.com.pa/rss/recent/index.xml",
+      "https://www.critica.com.pa/feed/nacional",
+      "https://www.critica.com.pa/rss.xml",
+      "http://www.critica.com.pa/rss.xml"
+    ],
+    "diaadia.com.pa": [
+      "https://www.diaadia.com.pa/rss.xml",
+      "http://www.diaadia.com.pa/rss.xml"
+    ],
+    "elcapitalfinanciero.com": [
+      "https://elcapitalfinanciero.com/feed/",
+      "https://elcapitalfinanciero.com/feed/?doing_wp_cron=1639800860.1205348968505859375000"
+    ],
+    "elinformedavid.com": [
+      "https://www.elinformedavid.com/feed/"
+    ],
+    "ensegundos.com.pa": [
+      "https://ensegundos.com.pa/feed/"
+    ],
+    "laestrella.com.pa": [
+      "https://www.laestrella.com.pa/rss/"
+    ],
+    "lagacetadepanama.com": [
+      "https://www.lagacetadepanama.com/rss/"
+    ],
+    "newsroompanama.com": [
+      "https://newsroompanama.com/feed/"
+    ],
+    "nexpanama.com": [
+      "https://nexpanama.com/feed/"
+    ],
+    "noticiasdepanama.com": [
+      "https://noticiasdepanama.com/feed/"
+    ],
+    "panama24horas.com.pa": [
+      "https://www.panama24horas.com.pa/feed/",
+      "http://www.panama24horas.com.pa/feed/"
+    ],
+    "panamaamerica.com.pa": [
+      "https://www.panamaamerica.com.pa/rss/recent/index.xml"
+    ],
+    "panamacrece.com": [
+      "https://panamacrece.com/feed/"
+    ],
+    "panamainforma.com": [
+      "https://www.panamainforma.com/index.php/it/?format=feed&type=atom",
+      "https://www.panamainforma.com/index.php/it/?format=feed&type=rss"
+    ],
+    "prensa.com": [
+      "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.prensa.com/arcio/rss/"
+    ],
+    "prnoticiaspanama.com": [
+      "https://prnoticiaspanama.com/feed/",
+      "https://prnoticiaspanama.com/home/feed/"
+    ],
+    "telemetro.com": [
+      "https://www.telemetro.com/rss/pages/tumanana.xml",
+      "https://www.telemetro.com/rss/pages/ultimas-noticias.xml",
+      "https://www.telemetro.com/rss",
+      "https://www.telemetro.com/rss/",
+      "https://www.telemetro.com/rss/pages/entretenimiento.xml",
+      "https://www.telemetro.com/rss/pages/coronavirus.xml",
+      "https://www.telemetro.com/rss/pages/especiales-treporta.xml",
+      "https://www.telemetro.com/rss/pages/vida-y-estilo.xml",
+      "https://www.telemetro.com/rss/pages/nacionales.xml",
+      "https://www.telemetro.com/rss/pages/deportes.xml",
+      "https://www.telemetro.com/rss/pages/internacionales.xml",
+      "https://www.telemetro.com/rss/pages/a-lo-panameno.xml",
+      "https://www.telemetro.com/rss/pages/actualidad.xml",
+      "https://www.telemetro.com/rss/pages/cara-a-cara.xml",
+      "https://www.telemetro.com/rss/pages/debate-abierto-dominical.xml",
+      "https://www.telemetro.com/rss/pages/economia.xml",
+      "https://www.telemetro.com/rss/pages/entretenimiento-ocio.xml",
+      "https://www.telemetro.com/rss/pages/flor-mizrachi-pregunta.xml",
+      "https://www.telemetro.com/rss/pages/gamers.xml",
+      "https://www.telemetro.com/rss/pages/glosas-de-flor-mizrachi.xml",
+      "https://www.telemetro.com/rss/pages/insolito.xml",
+      "https://www.telemetro.com/rss/pages/senorita-panama.xml",
+      "https://www.telemetro.com/rss/pages/vida-y-estilo-cocina.xml"
+    ],
+    "thebocasbreeze.com": [
+      "https://thebocasbreeze.com/feed/"
+    ],
+    "tucomunidad.com.pa": [
+      "https://tucomunidad.com.pa/?feed=rss2"
+    ],
+    "tvn-2.com": [
+      "https://www.tvn-2.com/rss/"
+    ]
+  }
+}

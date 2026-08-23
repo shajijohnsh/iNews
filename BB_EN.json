@@ -1,0 +1,43 @@
+{
+  "country_code": "BB",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 17,
+  "feeds": {
+    "bajanreporter.com": [
+      "https://www.bajanreporter.com/feed/"
+    ],
+    "barbadosgazette.com": [
+      "https://barbadosgazette.com/feed/",
+      "http://www.barbadosgazette.com/feed/"
+    ],
+    "barbadostoday.bb": [
+      "http://barbadostoday.bb/category/regional/feed/",
+      "http://barbadostoday.bb/feed/",
+      "https://barbadostoday.bb/feed/",
+      "https://barbadostoday.bb/feed/atom/"
+    ],
+    "barbadosunderground.net": [
+      "https://barbadosunderground.net/feed/"
+    ],
+    "businessbarbados.com": [
+      "http://feeds.feedburner.com/businessbarbados/BmUZ"
+    ],
+    "cananewsonline.com": [
+      "https://cananewsonline.com/main/feed/"
+    ],
+    "cbc.bb": [
+      "https://www.cbc.bb/feed/"
+    ],
+    "nationnews.com": [
+      "https://nationnews.com/feed/"
+    ],
+    "starcomnetwork.net": [
+      "https://starcomnetwork.net/feed/",
+      "https://starcomnetwork.net/feed/podcast/starcom-network/",
+      "https://starcomnetwork.net/radio-station-hosted-podcast/hott-fm/feed/",
+      "https://starcomnetwork.net/radio-station-hosted-podcast/life-fm/feed/",
+      "https://starcomnetwork.net/radio-station-hosted-podcast/the-beat-fm/feed/"
+    ]
+  }
+}

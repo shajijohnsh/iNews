@@ -4,61 +4,42 @@
   "total_domains": 24,
   "total_feeds": 27,
   "feeds": {
-    "thegauntlet.ca": [
-      "https://thegauntlet.ca/feed/"
-    ],
-    "themeliorist.ca": [
-      "https://themeliorist.ca/feed/"
-    ],
-    "thereflector.ca": [
-      "https://www.thereflector.ca/feed/"
-    ],
-    "ubyssey.ca": [
-      "https://ubyssey.ca/rss"
+    "brockpress.com": [
+      "https://brockpress.com/feed/"
     ],
     "capilanocourier.com": [
       "https://www.capilanocourier.com/feed/"
     ],
-    "ufvcascade.ca": [
-      "https://ufvcascade.ca/feed/",
-      "https://ufvcascade.ca/home/feed/"
+    "carillonregina.com": [
+      "https://carillonregina.com/feed/"
     ],
-    "runnermag.ca": [
-      "https://runnermag.ca/feed/"
+    "delitfrancais.com": [
+      "https://www.delitfrancais.com/feed/"
     ],
-    "the-peak.ca": [
-      "https://the-peak.ca/feed/"
+    "mcgilldaily.com": [
+      "https://www.mcgilldaily.com/feed/"
     ],
     "nexusnewspaper.com": [
       "https://www.nexusnewspaper.com/newsite/feed/"
     ],
-    "themanitoban.com": [
-      "https://themanitoban.com/feed/"
+    "queensjournal.ca": [
+      "https://www.queensjournal.ca/feed/"
     ],
-    "thebruns.ca": [
-      "https://thebruns.ca/feed/"
+    "runnermag.ca": [
+      "https://runnermag.ca/feed/"
     ],
     "since1872.ca": [
       "https://www.since1872.ca/feed/",
       "https://www.since1872.ca/home-new/feed/"
     ],
-    "themuse.ca": [
-      "https://themuse.ca/feed/"
+    "the-peak.ca": [
+      "https://the-peak.ca/feed/"
     ],
     "theath.ca": [
       "https://theath.ca/feed/"
     ],
-    "brockpress.com": [
-      "https://brockpress.com/feed/"
-    ],
-    "queensjournal.ca": [
-      "https://www.queensjournal.ca/feed/"
-    ],
-    "theontarion.com": [
-      "https://theontarion.com/feed/"
-    ],
-    "westerngazette.ca": [
-      "http://westerngazette.ca/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "thebruns.ca": [
+      "https://thebruns.ca/feed/"
     ],
     "thecord.ca": [
       "https://thecord.ca/feed/",
@@ -67,17 +48,36 @@
     "theeyeopener.com": [
       "https://theeyeopener.com/feed/"
     ],
-    "mcgilldaily.com": [
-      "https://www.mcgilldaily.com/feed/"
+    "thegauntlet.ca": [
+      "https://thegauntlet.ca/feed/"
     ],
     "thelinknewspaper.ca": [
       "https://thelinknewspaper.ca/feed"
     ],
-    "delitfrancais.com": [
-      "https://www.delitfrancais.com/feed/"
+    "themanitoban.com": [
+      "https://themanitoban.com/feed/"
     ],
-    "carillonregina.com": [
-      "https://carillonregina.com/feed/"
+    "themeliorist.ca": [
+      "https://themeliorist.ca/feed/"
+    ],
+    "themuse.ca": [
+      "https://themuse.ca/feed/"
+    ],
+    "theontarion.com": [
+      "https://theontarion.com/feed/"
+    ],
+    "thereflector.ca": [
+      "https://www.thereflector.ca/feed/"
+    ],
+    "ubyssey.ca": [
+      "https://ubyssey.ca/rss"
+    ],
+    "ufvcascade.ca": [
+      "https://ufvcascade.ca/feed/",
+      "https://ufvcascade.ca/home/feed/"
+    ],
+    "westerngazette.ca": [
+      "http://westerngazette.ca/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

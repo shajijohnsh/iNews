@@ -1,0 +1,17 @@
+{
+  "country_code": "VG",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "bvibeacon.com": [
+      "https://www.bvibeacon.com/feed/"
+    ],
+    "bvichamber.org": [
+      "https://www.bvichamber.org/feed/"
+    ],
+    "bvinews.com": [
+      "https://bvinews.com/feed/"
+    ]
+  }
+}

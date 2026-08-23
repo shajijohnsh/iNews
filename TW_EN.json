@@ -1,0 +1,62 @@
+{
+  "country_code": "TW",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 40,
+  "feeds": {
+    "gq.com.tw": [
+      "https://www.gq.com.tw/feed/rss"
+    ],
+    "harpersbazaar.com": [
+      "https://www.harpersbazaar.com/jp/rss/all.xml",
+      "https://www.harpersbazaar.com/jp/rss/celebrity.xml",
+      "https://www.harpersbazaar.com/rss/all.xml",
+      "https://www.harpersbazaar.com/rss/all.xml/?syndication=true",
+      "https://www.harpersbazaar.com/rss/all.xml?syndication=true",
+      "https://www.harpersbazaar.com/rss/celebrity.xml",
+      "https://www.harpersbazaar.com/rss/culture.xml",
+      "https://www.harpersbazaar.com/rss/default.xml",
+      "https://www.harpersbazaar.com/rss/fashion.xml",
+      "https://www.harpersbazaar.com/uk/rss/all.xml",
+      "https://www.harpersbazaar.com/uk/rss/culture.xml",
+      "https://www.harpersbazaar.com/uk/rss/default.xml"
+    ],
+    "issuu.com": [
+      "https://blog.issuu.com/feed/",
+      "https://blog.issuu.com/category/business/feed/",
+      "https://blog.issuu.com/category/editorial/feed/",
+      "https://blog.issuu.com/category/events/feed/",
+      "https://blog.issuu.com/category/featured/feed/",
+      "https://blog.issuu.com/category/product-updates/feed/",
+      "https://blog.issuu.com/category/publisher-spotlight/feed/",
+      "https://blog.issuu.com/category/social-media/feed/",
+      "https://blog.issuu.com/category/tips/feed/",
+      "https://blog.issuu.com/coming-soon-a-new-issuu-stories-experience/feed/",
+      "https://blog.issuu.com/content-marketing-strategy-development/feed/",
+      "https://blog.issuu.com/cross-platform-distribution/feed/",
+      "https://blog.issuu.com/great-finds-publishers-at-generators-summit-2018/feed/",
+      "https://blog.issuu.com/holiday-recipes-thankful/feed/",
+      "https://blog.issuu.com/how_to_start_a_magazine_2020/feed/",
+      "https://blog.issuu.com/issuu-indesign-plugin/feed/",
+      "https://blog.issuu.com/pdf-flipbook-platform-marketing/feed/",
+      "https://blog.issuu.com/social-media-hiatus-how-to-take-one-and-stay-productive/feed/",
+      "https://blog.issuu.com/use-issuu-stories-to-drive-sales/feed/",
+      "https://blog.issuu.com/visual-stories-on-issuu/feed/"
+    ],
+    "marieclaire.com.tw": [
+      "https://www.marieclaire.com.tw/google-news.xml/"
+    ],
+    "rhythmsmonthly.com": [
+      "https://www.rhythmsmonthly.com/?feed=rss2",
+      "https://feeds.feedburner.com/rhythmsmonthly.com"
+    ],
+    "taiwantoday.tw": [
+      "http://api.taiwantoday.tw/en/rss.php?unit=2,6,10,15,18",
+      "http://api.taiwantoday.tw/en/rss.php?unit=4,8,12,17,20",
+      "http://api.taiwantoday.tw/jp/rss.php?unit=148,149,150,151,152"
+    ],
+    "twarchitect.org.tw": [
+      "https://www.twarchitect.org.tw/feed/"
+    ]
+  }
+}

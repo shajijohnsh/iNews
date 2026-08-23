@@ -1,0 +1,100 @@
+{
+  "country_code": "EE",
+  "language_code": "EN",
+  "total_domains": 27,
+  "total_feeds": 38,
+  "feeds": {
+    "aripaev.ee": [
+      "https://www.aripaev.ee/rss"
+    ],
+    "baltija.eu": [
+      "https://baltija.eu/feed/"
+    ],
+    "baltische-rundschau.eu": [
+      "https://baltische-rundschau.eu/feed/"
+    ],
+    "dv.ee": [
+      "https://www.dv.ee/rss"
+    ],
+    "eestikirik.ee": [
+      "https://eestikirik.ee/feed"
+    ],
+    "epl.delfi.ee": [
+      "https://feeds.feedburner.com/epl/epl",
+      "https://feeds.feedburner.com/epl/lp"
+    ],
+    "gazeta.ee": [
+      "https://gazeta.ee/feed/"
+    ],
+    "harjuelu.ee": [
+      "https://harjuelu.ee/feed/"
+    ],
+    "hiiuleht.ee": [
+      "https://hiiuleht.ee/feed/"
+    ],
+    "jarvateataja.postimees.ee": [
+      "https://jarvateataja.postimees.ee/rss"
+    ],
+    "kesknadal.ee": [
+      "https://kesknadal.ee/feed/"
+    ],
+    "kuulutaja.ee": [
+      "https://www.kuulutaja.ee/feed/"
+    ],
+    "mke.ee": [
+      "https://www.mke.ee/feed/"
+    ],
+    "narvaleht.ee": [
+      "https://narvaleht.ee/feed/"
+    ],
+    "ohtuleht.ee": [
+      "https://www.ohtuleht.ee/elu/rss",
+      "https://www.ohtuleht.ee/melu/rss",
+      "https://www.ohtuleht.ee/mystika/rss",
+      "https://www.ohtuleht.ee/oltv-raadio/rss",
+      "https://www.ohtuleht.ee/rss"
+    ],
+    "online.le.ee": [
+      "https://online.le.ee/feed/"
+    ],
+    "postimees.ee": [
+      "https://www.postimees.ee/rss"
+    ],
+    "saartehaal.ee": [
+      "https://saartehaal.postimees.ee/rss"
+    ],
+    "sakala.postimees.ee": [
+      "https://sakala.postimees.ee/rss"
+    ],
+    "severnojepoberezhje.postimees.ee": [
+      "https://severnojepoberezhje.postimees.ee/rss"
+    ],
+    "sonumid.ee": [
+      "https://sonumid.ee/feed/",
+      "https://sonumid.ee/podcast/show/elust-raplamaa-votmes/feed/",
+      "https://xn--snumid-pxa.ee/feed/",
+      "https://sonumid.ee/podcast/feed/",
+      "https://sonumid.ee/podcast/author/admin/feed/"
+    ],
+    "sonumitooja.ee": [
+      "https://sonumitooja.ee/feed/",
+      "https://sonumitooja.ee/ida-harju-nadalaleht/feed/"
+    ],
+    "stena.ee": [
+      "https://www.stena.ee/rss.xml"
+    ],
+    "telegram.ee": [
+      "https://www.telegram.ee/feed"
+    ],
+    "umaleht.ee": [
+      "https://www.umaleht.ee/feed/"
+    ],
+    "virumaateataja.postimees.ee": [
+      "https://virumaateataja.postimees.ee/rss"
+    ],
+    "vooremaa.ee": [
+      "https://www.vooremaa.ee/feed/",
+      "https://www.vooremaa.ee/avaleht/feed/"
+    ]
+  }
+}

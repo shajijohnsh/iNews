@@ -1,8 +1,8 @@
 {
   "country_code": "IN",
   "language_code": "TA",
-  "total_domains": 82,
-  "total_feeds": 514,
+  "total_domains": 67,
+  "total_feeds": 356,
   "feeds": {
     "angusam.com": [
       "https://angusam.com/feed/"
@@ -10,9 +10,6 @@
     "automobiletamilan.com": [
       "https://www.automobiletamilan.com/feed/",
       "https://www.automobiletamilan.com/web-stories/feed/"
-    ],
-    "bbc.co.uk": [
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml"
     ],
     "bbc.com": [
       "http://www.bbc.com/culture/feed.rss",
@@ -25,9 +22,6 @@
     ],
     "bengaluru.citizenmatters.in": [
       "https://bengaluru.citizenmatters.in/feed"
-    ],
-    "blogger.com": [
-      "https://www.blogger.com/feeds/6085164792457669707/posts/default"
     ],
     "businesstoday.in": [
       "https://www.businesstoday.in/rssfeeds/?id=home",
@@ -71,97 +65,12 @@
       "https://www.dinakaran.com/rss_news.asp?id=13"
     ],
     "dinamani.com": [
-      "https://www.dinamani.com/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AF%8D-%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=464&getXmlFeed=true",
-      "https://www.dinamani.com/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AF%8D-%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=523&getXmlFeed=true",
-      "https://www.dinamani.com/%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=687&getXmlFeed=true",
-      "https://www.dinamani.com/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D/rssfeed/?id=340&getXmlFeed=true"
+      "https://www.dinamani.com/stories.rss"
     ],
     "dinasuvadu.com": [
       "https://dinasuvadu.com/feed/",
       "https://dinasuvadu.com/web-stories/feed/",
       "https://www.dinasuvadu.com/feed"
-    ],
-    "feeds.bbci.co.uk": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml"
-    ],
-    "feeds.feedburner.com": [
-      "http://feeds.feedburner.com/Hindu_Tamil_art",
-      "http://feeds.feedburner.com/Hindu_Tamil_astrology",
-      "http://feeds.feedburner.com/Hindu_Tamil_blogs",
-      "http://feeds.feedburner.com/Hindu_Tamil_business",
-      "http://feeds.feedburner.com/Hindu_Tamil_cartoon",
-      "http://feeds.feedburner.com/Hindu_Tamil_cinema",
-      "http://feeds.feedburner.com/Hindu_Tamil_crime",
-      "http://feeds.feedburner.com/Hindu_Tamil_discussion",
-      "http://feeds.feedburner.com/Hindu_Tamil_education",
-      "http://feeds.feedburner.com/Hindu_Tamil_election-2014",
-      "http://feeds.feedburner.com/Hindu_Tamil_election-2016",
-      "http://feeds.feedburner.com/Hindu_Tamil_election-2019",
-      "http://feeds.feedburner.com/Hindu_Tamil_environment",
-      "http://feeds.feedburner.com/Hindu_Tamil_india",
-      "http://feeds.feedburner.com/Hindu_Tamil_life-style",
-      "http://feeds.feedburner.com/Hindu_Tamil_literature",
-      "http://feeds.feedburner.com/Hindu_Tamil_opinion",
-      "http://feeds.feedburner.com/Hindu_Tamil_recipes",
-      "http://feeds.feedburner.com/Hindu_Tamil_reporters-page",
-      "http://feeds.feedburner.com/Hindu_Tamil_social-media",
-      "http://feeds.feedburner.com/Hindu_Tamil_spirituals",
-      "http://feeds.feedburner.com/Hindu_Tamil_sports",
-      "http://feeds.feedburner.com/Hindu_Tamil_supplements",
-      "http://feeds.feedburner.com/Hindu_Tamil_tamilnadu",
-      "http://feeds.feedburner.com/Hindu_Tamil_technology",
-      "http://feeds.feedburner.com/Hindu_Tamil_tourism",
-      "http://feeds.feedburner.com/Hindu_Tamil_world",
-      "http://feeds.feedburner.com/digit/how-to",
-      "http://feeds.feedburner.com/digit/latest-apps",
-      "http://feeds.feedburner.com/digit/latest-digital-cameras",
-      "http://feeds.feedburner.com/digit/latest-features",
-      "http://feeds.feedburner.com/digit/latest-from-digit",
-      "http://feeds.feedburner.com/digit/latest-gaming",
-      "http://feeds.feedburner.com/digit/latest-headphones",
-      "http://feeds.feedburner.com/digit/latest-laptops",
-      "http://feeds.feedburner.com/digit/latest-mobile-phones",
-      "http://feeds.feedburner.com/digit/latest-news",
-      "http://feeds.feedburner.com/digit/latest-review",
-      "http://feeds.feedburner.com/digit/latest-software",
-      "http://feeds.feedburner.com/digit/latest-storage",
-      "http://feeds.feedburner.com/digit/latest-tablets",
-      "http://feeds.feedburner.com/digit/latest-tvs",
-      "http://feeds.feedburner.com/digit/latest-wearable-devices",
-      "http://feeds.feedburner.com/dinamalar/Front_page_news"
     ],
     "indiaglitz.com": [
       "https://www.indiaglitz.com/rss/static/rss_gallery_actress_hindi.xml",
@@ -217,9 +126,6 @@
     "onetamilnews.com": [
       "https://onetamilnews.com/feed/"
     ],
-    "onlymyhealth.com": [
-      "https://www.onlymyhealth.com/rss/health/latest/latestarticle_en.xml"
-    ],
     "organiser.org": [
       "https://organiser.org/feed/",
       "https://organiser.org/international/intl-rss-news/feed/",
@@ -228,12 +134,6 @@
     "rss.dinamalar.com": [
       "http://rss.dinamalar.com/?cat=business1",
       "http://rss.dinamalar.com/Delhinews.asp"
-    ],
-    "rsshub.app": [
-      "https://rsshub.app/bbc/chinese"
-    ],
-    "samsungmagazine.eu": [
-      "https://samsungmagazine.eu/feed/"
     ],
     "shiprocket.in": [
       "https://www.shiprocket.in/feed/",
@@ -390,10 +290,6 @@
     "thanthitv.com": [
       "https://www.thanthitv.com/feed"
     ],
-    "thecommunemag.com": [
-      "https://thecommunemag.com/category/readers-corner/blogs/feed/",
-      "https://thecommunemag.com/feed/"
-    ],
     "thinaboomi.com": [
       "http://www.thinaboomi.com/rss.xml",
       "http://www.thinaboomi.com/rss.xml/feed",
@@ -419,58 +315,9 @@
       "https://www.vikatan.com/api/v1/collections/television-entertainment.rss",
       "https://www.vikatan.com/stories.rss"
     ],
-    "virakesari.lk": [
-      "https://www.virakesari.lk/feed"
-    ],
     "www.automobiletamilan.com": [
       "https://www.automobiletamilan.com/feed/",
       "https://www.automobiletamilan.com/web-stories/feed/"
-    ],
-    "www.bbc.com": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml",
-      "https://rsshub.app/bbc/chinese",
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
     ],
     "www.businesstoday.in": [
       "https://www.businesstoday.in/rssfeeds/?id=home",
@@ -569,32 +416,6 @@
     "www.nakkheeran.in": [
       "https://www.nakkheeran.in/rss"
     ],
-    "www.newindianexpress.com": [
-      "https://www.newindianexpress.com/Cities/Bengaluru/rssfeed/?id=182&getXmlFeed=true",
-      "https://www.newindianexpress.com/Nation/rssfeed/?id=170&getXmlFeed=true",
-      "https://www.newindianexpress.com/Opinions/Columns/rssfeed/?id=221&getXmlFeed=true",
-      "https://www.newindianexpress.com/Opinions/Editorials/rssfeed/?id=219&getXmlFeed=true",
-      "https://www.newindianexpress.com/States/Karnataka/rssfeed/?id=175&getXmlFeed=true",
-      "https://www.newindianexpress.com/States/Kerala/rssfeed/?id=178&getXmlFeed=true",
-      "https://www.newindianexpress.com/States/Tamil-Nadu/rssfeed/?id=177&getXmlFeed=true",
-      "https://www.newindianexpress.com/Videos/Good-News/rssfeed/?id=421&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/bengaluru-cities.rss?id=182&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/columns-opinions.rss?id=221&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/editorials-opinions.rss?id=219&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/good-news-videos.rss?id=421&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/karnataka-states.rss?id=175&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/kerala-states.rss?id=178&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/nation.rss?id=170&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/tamil-nadu-states.rss?id=177&getXmlFeed=true",
-      "https://www.newindianexpress.com/api/v1/collections/world.rss?id=171&getXmlFeed=true"
-    ],
-    "www.onlymyhealth.com": [
-      "https://www.onlymyhealth.com/rss/health/latest/latestarticle_en.xml"
-    ],
-    "www.prnewswire.com": [
-      "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss",
-      "https://www.prnewswire.com/rss/news-releases-list.rss"
-    ],
     "www.shiprocket.in": [
       "https://www.shiprocket.in/blog/author/ruchika-gupta/feed/",
       "https://www.shiprocket.in/blog/author/sahil-bajaj/feed/",
@@ -653,9 +474,6 @@
       "https://www.vikatan.com/api/v1/collections/television-entertainment.rss",
       "https://www.vikatan.com/stories.rss"
     ],
-    "www.virakesari.lk": [
-      "https://www.virakesari.lk/feed"
-    ],
     "zeenews.india.com": [
       "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
       "https://zeenews.india.com/hindi/india.xml",
@@ -671,12 +489,6 @@
       "https://zeenews.india.com/rss/sports-news.xml",
       "https://zeenews.india.com/rss/technology-news.xml",
       "https://zeenews.india.com/rss/world-news.xml",
-      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
-      "https://zeenews.india.com:443/rss/business.xml",
-      "https://zeenews.india.com:443/rss/science-environment-news.xml",
-      "https://zeenews.india.com:443/rss/world-news.xml"
-    ],
-    "zeenews.india.com:443": [
       "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
       "https://zeenews.india.com:443/rss/business.xml",
       "https://zeenews.india.com:443/rss/science-environment-news.xml",

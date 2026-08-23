@@ -4,77 +4,77 @@
   "total_domains": 23,
   "total_feeds": 26,
   "feeds": {
-    "swiowanewssource.com": [
-      "http://www.swiowanewssource.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "mississippivalleypublishing.com": [
-      "http://www.mississippivalleypublishing.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "albianews.com": [
+      "http://www.albianews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "carrollspaper.com": [
       "http://carrollspaper.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "thegazette.com": [
-      "http://www.thegazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "ottumwacourier.com": [
-      "http://www.ottumwacourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "catholicmessenger.net": [
+      "https://catholicmessenger.net/feed/"
     ],
     "clintonherald.com": [
       "http://www.clintonherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "nonpareilonline.com": [
-      "http://nonpareilonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "qctimes.com": [
-      "http://qctimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "telegraphherald.com": [
-      "http://www.telegraphherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "globegazette.com": [
-      "http://globegazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "muscatinejournal.com": [
-      "http://muscatinejournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "communitynewspapergroup.com": [
       "http://www.communitynewspapergroup.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "oskaloosa.com": [
-      "http://www.oskaloosa.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "siouxcityjournal.com": [
-      "http://siouxcityjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wcfcourier.com": [
-      "http://wcfcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "timescitizen.com": [
-      "http://www.timescitizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "albianews.com": [
-      "http://www.albianews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "eaglevoice.com": [
-      "https://www.eaglevoice.com/feed/"
     ],
     "crescotimes.com": [
       "https://crescotimes.com/rss.xml"
     ],
-    "catholicmessenger.net": [
-      "https://catholicmessenger.net/feed/"
+    "dailyiowan.com": [
+      "https://dailyiowan.com/feed/",
+      "https://dailyiowan.com/feed/atom/"
     ],
-    "lutherchips.com": [
-      "https://www.lutherchips.com/feed/",
-      "https://www.lutherchips.com/feed/atom/"
+    "eaglevoice.com": [
+      "https://www.eaglevoice.com/feed/"
+    ],
+    "globegazette.com": [
+      "http://globegazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "iowastatedaily.com": [
       "https://iowastatedaily.com/feed/",
       "https://iowastatedaily.com/feed/atom/"
     ],
-    "dailyiowan.com": [
-      "https://dailyiowan.com/feed/",
-      "https://dailyiowan.com/feed/atom/"
+    "lutherchips.com": [
+      "https://www.lutherchips.com/feed/",
+      "https://www.lutherchips.com/feed/atom/"
+    ],
+    "mississippivalleypublishing.com": [
+      "http://www.mississippivalleypublishing.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "muscatinejournal.com": [
+      "http://muscatinejournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nonpareilonline.com": [
+      "http://nonpareilonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "oskaloosa.com": [
+      "http://www.oskaloosa.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ottumwacourier.com": [
+      "http://www.ottumwacourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "qctimes.com": [
+      "http://qctimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "siouxcityjournal.com": [
+      "http://siouxcityjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "swiowanewssource.com": [
+      "http://www.swiowanewssource.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "telegraphherald.com": [
+      "http://www.telegraphherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thegazette.com": [
+      "http://www.thegazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "timescitizen.com": [
+      "http://www.timescitizen.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wcfcourier.com": [
+      "http://wcfcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

@@ -4,14 +4,32 @@
   "total_domains": 26,
   "total_feeds": 27,
   "feeds": {
+    "baptistmessenger.com": [
+      "https://www.baptistmessenger.com/feed/podcast/"
+    ],
+    "blackchronicle.com": [
+      "https://blackchronicle.com/feed/"
+    ],
     "blackwelljournaltribune.net": [
       "https://blackwelljournaltribune.net/feed.atom"
+    ],
+    "cherokeemessengerrepublican.com": [
+      "https://www.cherokeemessengerrepublican.com/feed/"
+    ],
+    "cheyennestar.online": [
+      "https://cheyennestar.online/feed/"
     ],
     "chickashanews.com": [
       "http://www.chickashanews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "citynewsokc.com": [
+      "http://www.citynewsokc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "claremoreprogress.com": [
       "http://www.claremoreprogress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "davisnewspaper.net": [
+      "https://www.davisnewspaper.net/feed/"
     ],
     "duncanbanner.com": [
       "http://www.duncanbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -22,66 +40,48 @@
     "guymondailyherald.com": [
       "http://www.guymondailyherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "swoknews.com": [
-      "http://www.swoknews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "mcalesternews.com": [
       "http://www.mcalesternews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "muskogeephoenix.com": [
       "http://www.muskogeephoenix.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "newkirkherald.com": [
+      "https://www.newkirkherald.com/feed/"
+    ],
     "normantranscript.com": [
       "http://www.normantranscript.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "ocolly.com": [
+      "http://www.ocolly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "okgazette.com": [
+      "https://www.okgazette.com/feed/"
+    ],
+    "oruoracle.com": [
+      "https://oruoracle.com/feed/",
+      "https://oruoracle.com/feed/atom/"
+    ],
+    "paulsvalleydailydemocrat.com": [
+      "http://www.paulsvalleydailydemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "stwnewspress.com": [
       "http://www.stwnewspress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "swoknews.com": [
+      "http://www.swoknews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "tahlequahdailypress.com": [
       "http://www.tahlequahdailypress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "tulsatoday.com": [
+      "https://www.tulsatoday.com/feed/"
     ],
     "tulsaworld.com": [
       "http://tulsaworld.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "woodwardnews.net": [
       "http://www.woodwardnews.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "cheyennestar.online": [
-      "https://cheyennestar.online/feed/"
-    ],
-    "cherokeemessengerrepublican.com": [
-      "https://www.cherokeemessengerrepublican.com/feed/"
-    ],
-    "davisnewspaper.net": [
-      "https://www.davisnewspaper.net/feed/"
-    ],
-    "newkirkherald.com": [
-      "https://www.newkirkherald.com/feed/"
-    ],
-    "citynewsokc.com": [
-      "http://www.citynewsokc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "okgazette.com": [
-      "https://www.okgazette.com/feed/"
-    ],
-    "paulsvalleydailydemocrat.com": [
-      "http://www.paulsvalleydailydemocrat.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "baptistmessenger.com": [
-      "https://www.baptistmessenger.com/feed/podcast/"
-    ],
-    "blackchronicle.com": [
-      "https://blackchronicle.com/feed/"
-    ],
-    "ocolly.com": [
-      "http://www.ocolly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "tulsatoday.com": [
-      "https://www.tulsatoday.com/feed/"
-    ],
-    "oruoracle.com": [
-      "https://oruoracle.com/feed/",
-      "https://oruoracle.com/feed/atom/"
     ]
   }
 }

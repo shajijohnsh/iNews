@@ -4,6 +4,12 @@
   "total_domains": 7,
   "total_feeds": 9,
   "feeds": {
+    "coastalpoint.com": [
+      "https://www.coastalpoint.com/search/?f=rss&t=article&c=lifestyle/health&l=50&s=start_time&sd=desc"
+    ],
+    "delawarepressassociation.org": [
+      "https://delawarepressassociation.org/feed/"
+    ],
     "eltiempohispano.com": [
       "https://eltiempohispano.com/feed/"
     ],
@@ -11,21 +17,15 @@
       "https://hoyendelaware.com/feed/",
       "https://hoyendelaware.com/home-new/feed/"
     ],
-    "starpublications.online": [
-      "https://starpublications.online/feed/"
-    ],
     "newarkpostonline.com": [
       "http://www.newarkpostonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "coastalpoint.com": [
-      "http://www.coastalpoint.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "starpublications.online": [
+      "https://starpublications.online/feed/"
     ],
     "udreview.com": [
       "https://udreview.com/feed/",
       "https://udreview.com/homepage/feed/"
-    ],
-    "delawarepressassociation.org": [
-      "https://delawarepressassociation.org/feed/"
     ]
   }
 }

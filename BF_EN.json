@@ -1,0 +1,67 @@
+{
+  "country_code": "BF",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 25,
+  "feeds": {
+    "aib.media": [
+      "https://www.aib.media/feed/"
+    ],
+    "aujourd8.net": [
+      "https://www.aujourd8.net/feed/"
+    ],
+    "burkina24.com": [
+      "https://burkina24.com/feed/",
+      "https://www.burkina24.com/feed/"
+    ],
+    "burkinainfo.com": [
+      "https://www.burkinainfo.com/feed/",
+      "https://burkinainfo.com/feed/"
+    ],
+    "evenement-bf.net": [
+      "https://www.evenement-bf.net/feed/"
+    ],
+    "faso-actu.net": [
+      "https://www.faso-actu.net/feed"
+    ],
+    "fasopresse.net": [
+      "https://www.fasopresse.net/index.php?format=feed&type=rss",
+      "https://www.fasopresse.net/index.php?format=feed&type=atom"
+    ],
+    "fasozine.com": [
+      "https://fasozine.com/feed/"
+    ],
+    "leconomistedufaso.com": [
+      "https://leconomistedufaso.com/feed/"
+    ],
+    "lefaso.net": [
+      "https://lefaso.net/spip.php?page=backend"
+    ],
+    "lepays.bf": [
+      "https://lepays.bf/feed/",
+      "https://lepays.bf/home-2/feed/"
+    ],
+    "lesaffairesbf.com": [
+      "https://lesaffairesbf.com/feed/",
+      "https://lesaffairesbf.com/feed/atom/",
+      "https://lesaffairesbf.com/feed/"
+    ],
+    "lexpressdufaso-bf.com": [
+      "https://www.lexpressdufaso-bf.com/feed/"
+    ],
+    "lobservateur.bf": [
+      "https://lobservateur.bf/index.php?format=feed&type=rss",
+      "https://lobservateur.bf/index.php?format=feed&type=atom"
+    ],
+    "reporterbf.net": [
+      "https://www.reporterbf.net/feed/"
+    ],
+    "rtb.bf": [
+      "https://www.rtb.bf/feed/"
+    ],
+    "sidwaya.info": [
+      "https://www.sidwaya.info/feed/",
+      "https://www.sidwaya.info/news/feed/"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "country_code": "PG",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 40,
+  "feeds": {
+    "businessadvantagepng.com": [
+      "https://www.businessadvantagepng.com/feed/",
+      "http://www.businessadvantagepng.com/feed/",
+      "https://businessadvantageinternational.com/feed/"
+    ],
+    "emtv.com.pg": [
+      "https://emtv.com.pg/feed/",
+      "https://emtv.com.pg/?feed=rss2"
+    ],
+    "news.pngfacts.com": [
+      "https://news.pngfacts.com/feeds/posts/default",
+      "https://news.pngfacts.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/3356794033718079669/posts/default"
+    ],
+    "onepng.com": [
+      "https://mine.onepng.com/feeds/posts/default",
+      "https://www.onepng.com/feeds/posts/default",
+      "https://www.onepng.com/feeds/posts/default?alt=rss",
+      "https://mine.onepng.com/feeds/posts/default?alt=rss",
+      "https://job.onepng.com/feeds/posts/default",
+      "https://health.onepng.com/1/feed",
+      "https://job.onepng.com/feeds/posts/default?alt=rss",
+      "https://business.pngfacts.com/feeds/posts/default",
+      "https://www.blogger.com/feeds/1653361318879330294/posts/default",
+      "https://www.blogger.com/feeds/3943531442585604253/posts/default",
+      "https://www.blogger.com/feeds/4796476568748816457/posts/default",
+      "https://www.blogger.com/feeds/9096138959006662486/posts/default",
+      "https://www.scholarshipsawards.com/2/feed",
+      "https://business.pngfacts.com/feeds/posts/default?alt=rss"
+    ],
+    "postcourier.com.pg": [
+      "https://postcourier.com.pg/feed/",
+      "https://www.postcourier.com.pg/feed/",
+      "https://www.postcourier.com.pg/web-stories/feed/"
+    ],
+    "thenational.com.pg": [
+      "https://www.thenational.com.pg/feed/",
+      "https://www.thenational.com.pg/friends-dig-deep-to-help-feed-those-in-need/feed/"
+    ],
+    "thenewhumanitarian.org": [
+      "https://www.thenewhumanitarian.org/rss.xml",
+      "https://www.thenewhumanitarian.org/rss/all.xml",
+      "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+      "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+      "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+      "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+      "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed",
+      "https://www.thenewhumanitarian.org/taxonomy/term/8244/feed"
+    ],
+    "thepngbulletin.com": [
+      "https://thepngbulletin.com/feed/",
+      "https://thepngbulletin.com/home/feed/"
+    ],
+    "thepngsun.com": [
+      "https://www.thepngsun.com/feed/"
+    ],
+    "wantokniuspepa.com": [
+      "https://wantokniuspepa.com/index.php?format=feed&type=rss",
+      "https://wantokniuspepa.com/index.php?format=feed&type=atom"
+    ]
+  }
+}

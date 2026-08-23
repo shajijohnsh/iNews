@@ -1,60 +1,159 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 15,
-  "total_feeds": 22,
+  "total_domains": 33,
+  "total_feeds": 85,
   "feeds": {
-    "dinamani.com": [
-      "https://www.dinamani.com/stories.rss"
+    "4tamilmedia.com": [
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
     ],
-    "viduthalai.in": [
-      "https://viduthalai.in/feed/"
-    ],
-    "dinasudar.com": [
-      "https://dinasudar.com/feed/"
-    ],
-    "tamil.samayam.com": [
-      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "tamil.asianetnews.com": [
-      "https://tamil.asianetnews.com/rss"
-    ],
-    "chennaionline.com": [
-      "https://www.chennaionline.com/feed/"
-    ],
-    "inioru.com": [
-      "https://inioru.com/feed/"
-    ],
-    "news4tamil.com": [
-      "https://news4tamil.com/feed/"
-    ],
-    "tamilminutes.com": [
-      "https://tamilminutes.com/feed/",
-      "https://tamilminutes.com/web-stories/feed/"
-    ],
-    "mrpuyal.com": [
-      "https://mrpuyal.com/feed/",
-      "https://mrpuyal.com/web-stories/feed/"
+    "athirady.com": [
+      "https://www.athirady.com/feed"
     ],
     "athirvu.in": [
       "https://www.athirvu.in/feed/"
     ],
-    "vanakkamlondon.com": [
-      "https://vanakkamlondon.com/feed/",
-      "https://vanakkamlondon.com/feed/atom/",
-      "https://vanakkamlondon.com/feed/"
+    "chennaionline.com": [
+      "https://www.chennaionline.com/feed/"
+    ],
+    "dailythanthi.com": [
+      "https://www.dailythanthi.com/feed",
+      "https://www.dailythanthi.com/feed/",
+      "https://www.dailythanthi.com/google_feeds.xml"
+    ],
+    "dinakaran.com": [
+      "https://www.dinakaran.com/feed/",
+      "https://www.dinakaran.com/feed/atom/",
+      "https://www.dinakaran.com/rss_Latest.asp",
+      "https://www.dinakaran.com/rss_news.asp?id=13"
+    ],
+    "dinamalar.com": [
+      "http://feeds.feedburner.com/dinamalar/Front_page_news",
+      "http://rss.dinamalar.com/?cat=business1",
+      "http://rss.dinamalar.com/Delhinews.asp"
+    ],
+    "dinamani.com": [
+      "https://www.dinamani.com/stories.rss"
+    ],
+    "dinasudar.com": [
+      "https://dinasudar.com/feed/"
+    ],
+    "dinasuvadu.com": [
+      "https://dinasuvadu.com/feed/",
+      "https://dinasuvadu.com/web-stories/feed/",
+      "https://www.dinasuvadu.com/feed"
+    ],
+    "eeladhesam.com": [
+      "http://eeladhesam.com/?feed=rss2"
     ],
     "globaltamilnews.net": [
       "https://globaltamilnews.net/feed/",
       "https://globaltamilnews.net/feed/atom/",
       "https://globaltamilnews.net/feed/"
     ],
-    "athirady.com": [
-      "https://www.athirady.com/feed"
+    "hindutamil.in": [
+      "http://feeds.feedburner.com/Hindu_Tamil_tamilnadu",
+      "http://feeds.feedburner.com/Hindu_Tamil_art",
+      "http://feeds.feedburner.com/Hindu_Tamil_astrology",
+      "http://feeds.feedburner.com/Hindu_Tamil_blogs",
+      "http://feeds.feedburner.com/Hindu_Tamil_business",
+      "http://feeds.feedburner.com/Hindu_Tamil_cartoon",
+      "http://feeds.feedburner.com/Hindu_Tamil_cinema",
+      "http://feeds.feedburner.com/Hindu_Tamil_crime",
+      "http://feeds.feedburner.com/Hindu_Tamil_discussion",
+      "http://feeds.feedburner.com/Hindu_Tamil_education",
+      "http://feeds.feedburner.com/Hindu_Tamil_election-2014",
+      "http://feeds.feedburner.com/Hindu_Tamil_election-2016",
+      "http://feeds.feedburner.com/Hindu_Tamil_election-2019",
+      "http://feeds.feedburner.com/Hindu_Tamil_environment",
+      "http://feeds.feedburner.com/Hindu_Tamil_india",
+      "http://feeds.feedburner.com/Hindu_Tamil_life-style",
+      "http://feeds.feedburner.com/Hindu_Tamil_literature",
+      "http://feeds.feedburner.com/Hindu_Tamil_opinion",
+      "http://feeds.feedburner.com/Hindu_Tamil_recipes",
+      "http://feeds.feedburner.com/Hindu_Tamil_reporters-page",
+      "http://feeds.feedburner.com/Hindu_Tamil_social-media",
+      "http://feeds.feedburner.com/Hindu_Tamil_spirituals",
+      "http://feeds.feedburner.com/Hindu_Tamil_sports",
+      "http://feeds.feedburner.com/Hindu_Tamil_supplements",
+      "http://feeds.feedburner.com/Hindu_Tamil_technology",
+      "http://feeds.feedburner.com/Hindu_Tamil_tourism",
+      "http://feeds.feedburner.com/Hindu_Tamil_world"
     ],
-    "4tamilmedia.com": [
-      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
-      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
+    "inioru.com": [
+      "https://inioru.com/feed/"
+    ],
+    "kathiravan.com": [
+      "https://www.kathiravan.com/feeds/posts/default",
+      "https://www.kathiravan.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/5403127672682478909/posts/default"
+    ],
+    "maalaimalar.com": [
+      "https://www.maalaimalar.com/google_feeds.xml"
+    ],
+    "mrpuyal.com": [
+      "https://mrpuyal.com/feed/",
+      "https://mrpuyal.com/web-stories/feed/"
+    ],
+    "news4tamil.com": [
+      "https://news4tamil.com/feed/"
+    ],
+    "pathivu.com": [
+      "https://www.pathivu.com/feeds/posts/default",
+      "https://www.pathivu.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8563506990359996604/posts/default"
+    ],
+    "puthinappalakai.com": [
+      "http://www.puthinappalakai.net/feed"
+    ],
+    "puthu.thinnai.com": [
+      "http://puthu.thinnai.com/feed/"
+    ],
+    "tamil.asianetnews.com": [
+      "https://tamil.asianetnews.com/rss"
+    ],
+    "tamil.goodreturns.in": [
+      "https://tamil.goodreturns.in/rss/goodreturns-fb.xml",
+      "https://tamil.goodreturns.in/rss/tag-budget-2021.xml",
+      "https://tamil.goodreturns.in/rss/tamil-money-classroom-fb.xml",
+      "https://tamil.goodreturns.in/rss/tamil-money-news-fb.xml",
+      "https://tamil.goodreturns.in/rss/tamil.money-personal-finance-fb.xml"
+    ],
+    "tamil.samayam.com": [
+      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "tamilminutes.com": [
+      "https://tamilminutes.com/feed/",
+      "https://tamilminutes.com/web-stories/feed/"
+    ],
+    "tamilmithran.com": [
+      "https://www.tamilmithran.com/rss/"
+    ],
+    "telonews.com": [
+      "https://www.telonews.com/?feed=rss2"
+    ],
+    "theekkathir.in": [
+      "https://theekkathir.in/feed/"
+    ],
+    "thinaboomi.com": [
+      "http://www.thinaboomi.com/rss.xml",
+      "http://www.thinaboomi.com/rss.xml/feed",
+      "https://www.thinaboomi.com/rss.xml"
+    ],
+    "vanakkamlondon.com": [
+      "https://vanakkamlondon.com/feed/",
+      "https://vanakkamlondon.com/feed/atom/",
+      "https://vanakkamlondon.com/feed/"
+    ],
+    "viduthalai.in": [
+      "https://viduthalai.in/feed/"
+    ],
+    "virakesari.lk": [
+      "https://www.virakesari.lk/feed"
+    ],
+    "yarl.com": [
+      "https://yarl.com/forum3/discover/all.xml/"
     ]
   }
 }

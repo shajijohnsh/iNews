@@ -1,0 +1,17 @@
+{
+  "country_code": "FK",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "fitv.co.fk": [
+      "https://fitv.co.fk/feed/"
+    ],
+    "penguin-news.com": [
+      "https://penguin-news.com/feed/"
+    ],
+    "radio.co.fk": [
+      "https://radio.co.fk/feed/"
+    ]
+  }
+}

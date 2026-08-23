@@ -1,0 +1,30 @@
+{
+  "country_code": "MA",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 10,
+  "feeds": {
+    "emarrakech.info": [
+      "https://www.emarrakech.info/feed/",
+      "https://www.emarrakech.info/feed/atom/",
+      "https://www.emarrakech.info/feed/"
+    ],
+    "femmesdumaroc.com": [
+      "http://femmesdumaroc.com/feed",
+      "https://femmesdumaroc.com/feed"
+    ],
+    "infomagazine.ma": [
+      "https://www.infomagazine.ma/feed/"
+    ],
+    "lavieeco.com": [
+      "https://www.lavieeco.com/feed/"
+    ],
+    "north-africa.com": [
+      "https://north-africa.com/feed/"
+    ],
+    "telquel.ma": [
+      "https://telquel.ma/categorie/maroc/politique/feed",
+      "https://telquel.ma/feed"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "country_code": "ME",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 15,
+  "feeds": {
+    "barinfo.me": [
+      "http://barinfo.me/feed/",
+      "https://barinfo.me/feed/"
+    ],
+    "cdm.me": [
+      "https://www.cdm.me/feed/"
+    ],
+    "dan.co.me": [
+      "https://www.dan.co.me/feed",
+      "https://www.dan.co.me/feed/"
+    ],
+    "madeinmontenegro.com": [
+      "https://madeinmontenegro.com",
+      "https://madeinmontenegro.com/?feed=rss2&page_id=40"
+    ],
+    "mina.news": [
+      "https://mina.news/feed/"
+    ],
+    "mondo.me": [
+      "https://mondo.me/rss/629/Naslovna"
+    ],
+    "pcnen.com": [
+      "https://www.pcnen.com/portal/feed/"
+    ],
+    "pobjeda.me": [
+      "https://rss.pobjeda.me"
+    ],
+    "portalanalitika.me": [
+      "https://rss.portalanalitika.me"
+    ],
+    "rtcg.me": [
+      "https://rtcg.me/vijesti/rss.html"
+    ],
+    "vijesti.me": [
+      "https://www.vijesti.me/feed.rss",
+      "https://www.vijesti.me/rss"
+    ]
+  }
+}

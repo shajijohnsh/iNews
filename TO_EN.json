@@ -1,0 +1,15 @@
+{
+  "country_code": "TO",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 3,
+  "feeds": {
+    "gov.to": [
+      "https://www.gov.to/feed/"
+    ],
+    "parliament.gov.to": [
+      "https://parliament.gov.to/en?p=10697199&format=feed&type=rss",
+      "https://parliament.gov.to/en?p=10697199&format=feed&type=atom"
+    ]
+  }
+}

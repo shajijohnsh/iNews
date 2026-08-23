@@ -4,11 +4,8 @@
   "total_domains": 12,
   "total_feeds": 13,
   "feeds": {
-    "glengarrynews.ca": [
-      "https://glengarry.substack.com/feed"
-    ],
-    "rivertowntimes.com": [
-      "https://www.rivertowntimes.com/blog-feed.xml"
+    "chroniclejournal.com": [
+      "http://www.chroniclejournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "creemore.com": [
       "https://creemore.com/feed/"
@@ -16,8 +13,8 @@
     "fftimes.com": [
       "https://fftimes.com/feed/"
     ],
-    "newsnowniagara.com": [
-      "https://www.newsnowniagara.com/feed/"
+    "glengarrynews.ca": [
+      "https://glengarry.substack.com/feed"
     ],
     "kenoraminerandnews.com": [
       "http://www.kenoraminerandnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -25,18 +22,21 @@
     "kingstonist.com": [
       "https://www.kingstonist.com/feed/"
     ],
+    "newsnowniagara.com": [
+      "https://www.newsnowniagara.com/feed/"
+    ],
+    "rivertowntimes.com": [
+      "https://www.rivertowntimes.com/blog-feed.xml"
+    ],
     "shelburnefreepress.ca": [
       "https://shelburnefreepress.ca/feed/",
       "https://shelburnefreepress.ca/feed/atom/"
     ],
-    "chroniclejournal.com": [
-      "http://www.chroniclejournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "thebulletin.ca": [
+      "https://thebulletin.ca/feed/"
     ],
     "thereview.ca": [
       "https://thereview.ca/feed/"
-    ],
-    "thebulletin.ca": [
-      "https://thebulletin.ca/feed/"
     ],
     "tworowtimes.com": [
       "https://tworowtimes.com/feed/"

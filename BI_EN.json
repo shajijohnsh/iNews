@@ -1,0 +1,29 @@
+{
+  "country_code": "BI",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 7,
+  "feeds": {
+    "burundi-agnews.org": [
+      "https://burundi-agnews.org/feed/"
+    ],
+    "burundi-forum.org": [
+      "https://burundi-forum.org/feed/"
+    ],
+    "burundi24.wordpress.com": [
+      "https://burundi24.wordpress.com/feed/"
+    ],
+    "isanganiro.org": [
+      "https://isanganiro.org/feed/"
+    ],
+    "itaraburundi.com": [
+      "https://itaraburundi.com/feed/"
+    ],
+    "iwacu-burundi.org": [
+      "https://www.iwacu-burundi.org/feed/"
+    ],
+    "yaga-burundi.com": [
+      "https://www.yaga-burundi.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "country_code": "YE",
+  "language_code": "EN",
+  "total_domains": 18,
+  "total_feeds": 80,
+  "feeds": {
+    "26sep.net": [
+      "https://26sep.net/index.php?format=feed&type=rss",
+      "https://26sep.net/index.php?format=feed&type=atom"
+    ],
+    "almashhadnews.com": [
+      "https://www.almashhad.news/feed"
+    ],
+    "alsahwa-yemen.net": [
+      "https://www.alsahwa-yemen.net/RSS.aspx"
+    ],
+    "althawrah.ye": [
+      "https://althawrah.ye/feed"
+    ],
+    "alwahdawi.net": [
+      "https://alwahdawi.net/rss_news/rss_2.xml",
+      "https://alwahdawi.net/rss_news/rss_1.xml",
+      "https://alwahdawi.net/rss_news/rss_29.xml",
+      "https://alwahdawi.net/rss_news/rss_3.xml",
+      "https://alwahdawi.net/rss_news/rss_6.xml",
+      "https://alwahdawi.net/rss_news/rss_7.xml",
+      "https://alwahdawi.net/rss_news/rss_8.xml",
+      "https://alwahdawi.net/rss_news/rss_9.xml",
+      "https://alwahdawi.net/en/rss_news/rss_2.xml",
+      "https://alwahdawi.net/en/rss_news/rss_1.xml",
+      "https://alwahdawi.net/en/rss_news/rss_3.xml",
+      "https://alwahdawi.net/en/rss_news/rss_6.xml",
+      "https://alwahdawi.net/en/rss_news/rss_29.xml",
+      "https://alwahdawi.net/en/rss_news/rss_7.xml",
+      "http://www.alwahdawi.net/rss_news/rss_2.xml",
+      "http://www.alwahdawi.net/en/rss_news/rss_1.xml",
+      "http://www.alwahdawi.net/en/rss_news/rss_6.xml"
+    ],
+    "alwasat-ye.net": [
+      "http://alwasat-ye.net/rss.php",
+      "https://alwasat-ye.net/rss.php"
+    ],
+    "anayemeni.net": [
+      "https://anayemeni.net/rss.xml",
+      "http://anayemeni.net/rss.xml"
+    ],
+    "marebpress.net": [
+      "http://marebpress.net/news_rss.php",
+      "http://marebpress.net/news_rss.php?lang=arabic&top=2"
+    ],
+    "newsyemen.net": [
+      "https://www.newsyemen.net/feed/rss.xml",
+      "https://newsyemen.net/rss.php",
+      "https://www.newsyemen.net/rss.php",
+      "https://www.newsyemen.net/feed/",
+      "https://www.newsyemen.net/feed/cat-1.xml",
+      "https://www.newsyemen.net/feed/cat-5.xml",
+      "https://www.newsyemen.net/feed/cat-17.xml",
+      "https://www.newsyemen.net/feed/cat-6.xml",
+      "https://www.newsyemen.net/feed/cat-19.xml",
+      "https://www.newsyemen.net/feed/cat-20.xml",
+      "https://www.newsyemen.net/feed/cat-14.xml",
+      "https://www.newsyemen.net/feed/opinions.xml",
+      "https://www.newsyemen.net/feed/opinion-23.xml",
+      "https://www.newsyemen.net/feed/cat-11.xml",
+      "https://www.newsyemen.net/feed/cat-26.xml",
+      "https://www.newsyemen.net/feed/opinion-20.xml",
+      "https://www.newsyemen.net/feed/cat-10.xml",
+      "https://www.newsyemen.net/feed/cat-9.xml",
+      "https://www.newsyemen.net/feed/cat-15.xml",
+      "https://www.newsyemen.net/feed/cat-7.xml",
+      "https://www.newsyemen.net/feed/opinion-27.xml",
+      "https://www.newsyemen.net/feed/opinion-21.xml",
+      "https://www.newsyemen.net/feed/cat-3.xml",
+      "https://www.newsyemen.net/feed/opinion-22.xml"
+    ],
+    "sa24.co": [
+      "https://sa24.co/rss.php",
+      "https://sa24.co/rss.php?topic=1",
+      "https://sa24.co/rss.php?topic=2",
+      "https://sa24.co/rss.php?topic=3",
+      "https://sa24.co/rss.php?topic=5",
+      "https://sa24.co/rss.php?topic=6",
+      "https://sa24.co/rss.php?topic=7",
+      "https://sa24.co/rss.php?topic=8"
+    ],
+    "saba.ye": [
+      "https://www.saba.ye/ar/rsscatfeed1.htm",
+      "https://www.saba.ye/ar/rsscatfeed59.htm"
+    ],
+    "yafa-news.net": [
+      "https://yafa-news.net/feed",
+      "https://yafa-news.net/rsslatest.xml"
+    ],
+    "ye-voice.com": [
+      "https://ye-voice.com/rss.xml"
+    ],
+    "yemen-press.net": [
+      "https://yemen-press.net/feed",
+      "https://yemen-press.net/category/cat1.html/feed",
+      "https://yemen-press.net/category/cat11.html/feed",
+      "https://yemen-press.net/category/cat3.html/feed",
+      "https://yemen-press.net/category/cat4.html/feed",
+      "https://yemen-press.net/category/cat14.html/feed",
+      "https://yemen-press.net/category/cat5.html/feed",
+      "https://yemen-press.net/category/cat15.html/feed",
+      "https://yemen-press.net/category/cat16.html/feed",
+      "https://yemen-press.net/category/cat13.html/feed",
+      "https://yemen-press.net/category/cat6.html/feed"
+    ],
+    "yemenat.net": [
+      "https://yemenat.net/feed"
+    ],
+    "yemeneconomist.com": [
+      "https://www.yemeneconomist.com/feed"
+    ],
+    "yemenonline.info": [
+      "https://www.yemenonline.info/feed"
+    ],
+    "yemeress.com": [
+      "https://www.yemeress.com/rss"
+    ]
+  }
+}

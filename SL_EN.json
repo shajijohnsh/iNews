@@ -1,0 +1,55 @@
+{
+  "country_code": "SL",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 17,
+  "feeds": {
+    "awokonewspapersl.com": [
+      "https://awokonewspapersl.com/feed/"
+    ],
+    "cocorioko.net": [
+      "https://cocorioko.net/feed/"
+    ],
+    "critiqueecho.com": [
+      "https://www.critiqueecho.com/feed/"
+    ],
+    "globaltimes-sl.com": [
+      "https://globaltimes-sl.com/feed/"
+    ],
+    "politicosl.com": [
+      "https://politicosl.com/rss.xml"
+    ],
+    "sierraexpressmedia.com": [
+      "https://sierraexpressmedia.com/feed/"
+    ],
+    "sierraleonelive.com": [
+      "https://sierraleonelive.com/feed/podcast"
+    ],
+    "sierraleonepress.com": [
+      "https://www.sierraleonepress.com/feed/"
+    ],
+    "slena.gov.sl": [
+      "https://www.slena.gov.sl/blog-feed.xml"
+    ],
+    "statehouse.gov.sl": [
+      "https://statehouse.gov.sl/feed/"
+    ],
+    "switsalone.com": [
+      "https://www.switsalone.com/feed/atom/",
+      "https://www.switsalone.com/feed/",
+      "http://www.switsalone.com/feed/"
+    ],
+    "thecalabashnewspaper.com": [
+      "https://thecalabashnewspaper.com/feed/"
+    ],
+    "theorganiser.net": [
+      "https://theorganiser.net/feed/"
+    ],
+    "thepatrioticvanguard.com": [
+      "http://feeds.feedburner.com/ThePatrioticVanguard"
+    ],
+    "thesierraleonetelegraph.com": [
+      "https://www.thesierraleonetelegraph.com/feed/"
+    ]
+  }
+}

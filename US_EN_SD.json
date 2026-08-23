@@ -4,11 +4,27 @@
   "total_domains": 21,
   "total_feeds": 23,
   "feeds": {
-    "brookingsregister.com": [
-      "https://www.brookingsregister.com/feed/"
+    "agupdate.com": [
+      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "plainsman.com": [
-      "https://plainsman.com/feed/"
+    "bhpioneer.com": [
+      "http://www.bhpioneer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "brookingsregister.com": [
+      "https://brookingsregister.com/feed/rss"
+    ],
+    "capjournal.com": [
+      "https://www.capjournal.com/index.rss"
+    ],
+    "chamberlainsun.com": [
+      "https://chamberlainsun.com/feed/",
+      "https://chamberlainsun.com/homepage/feed/"
+    ],
+    "grantcountyreview.com": [
+      "https://grantcountyreview.com/rss.xml"
+    ],
+    "lennoxnews.com": [
+      "https://www.lennoxnews.com/blog-feed.xml"
     ],
     "madisondailyleader.com": [
       "https://www.madisondailyleader.com/index.rss"
@@ -16,30 +32,8 @@
     "mitchellrepublic.com": [
       "https://www.mitchellrepublic.com/index.rss"
     ],
-    "capjournal.com": [
-      "https://www.capjournal.com/index.rss"
-    ],
-    "rapidcityjournal.com": [
-      "http://rapidcityjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "bhpioneer.com": [
-      "http://www.bhpioneer.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "yankton.net": [
-      "http://www.yankton.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "chamberlainsun.com": [
-      "https://chamberlainsun.com/feed/",
-      "https://chamberlainsun.com/homepage/feed/"
-    ],
     "moodycountyenterprise.com": [
       "https://www.moodycountyenterprise.com/feed/"
-    ],
-    "lennoxnews.com": [
-      "https://www.lennoxnews.com/blog-feed.xml"
-    ],
-    "grantcountyreview.com": [
-      "https://grantcountyreview.com/rss.xml"
     ],
     "onidawatchman.com": [
       "http://www.onidawatchman.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -47,11 +41,21 @@
     "pioneer-review.com": [
       "https://pioneer-review.com/rss.xml"
     ],
+    "plainsman.com": [
+      "https://plainsman.com/feed/"
+    ],
+    "plaintalk.net": [
+      "http://www.plaintalk.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "rapidcityjournal.com": [
+      "http://rapidcityjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "redfieldpress.com": [
       "https://www.redfieldpress.com/feed/"
     ],
-    "agupdate.com": [
-      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "sdsucollegian.com": [
+      "https://sdsucollegian.com/feed/",
+      "https://sdsucollegian.com/feed/atom/"
     ],
     "sissetoncourier.com": [
       "https://sissetoncourier.com/rss.xml"
@@ -59,15 +63,11 @@
     "teaweekly.com": [
       "https://www.teaweekly.com/blog-feed.xml"
     ],
-    "plaintalk.net": [
-      "http://www.plaintalk.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "sdsucollegian.com": [
-      "https://sdsucollegian.com/feed/",
-      "https://sdsucollegian.com/feed/atom/"
-    ],
     "volanteonline.com": [
       "https://volanteonline.com/feed/"
+    ],
+    "yankton.net": [
+      "http://www.yankton.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

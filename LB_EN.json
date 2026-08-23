@@ -1,0 +1,274 @@
+{
+  "country_code": "LB",
+  "language_code": "EN",
+  "total_domains": 29,
+  "total_feeds": 208,
+  "feeds": {
+    "al-binaa.com": [
+      "https://www.al-binaa.com/feed"
+    ],
+    "aliwaa.com.lb": [
+      "https://aliwaa.com.lb/feed.xml"
+    ],
+    "aljadeed.tv": [
+      "https://www.aljadeed.tv/Rss/Episodes/16/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/391/%D9%88%D9%87%D9%84%D9%82-%D8%B4%D9%88%D8%9F",
+      "https://www.aljadeed.tv/Rss/Episodes/425/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/44/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B8%D9%87%D9%8A%D8%B1%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/476/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "https://www.aljadeed.tv/Rss/Episodes/492/%D8%B5%D8%AD%D8%AA%D9%83-%D8%A8%D8%A7%D9%84%D8%B5%D8%AD%D9%86",
+      "https://www.aljadeed.tv/Rss/Episodes/528/%D9%87%D9%86%D8%A7-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
+      "https://www.aljadeed.tv/Rss/Episodes/603/%D9%85%D9%88%D8%AC%D8%B2-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-1030-%D8%B5%D8%A8%D8%A7%D8%AD%D8%A7%D9%8B",
+      "https://www.aljadeed.tv/Rss/Episodes/604/%D9%85%D9%88%D8%AC%D8%B2-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-1230",
+      "https://www.aljadeed.tv/Rss/Episodes/605/%D9%85%D9%88%D8%AC%D8%B2-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-530",
+      "https://www.aljadeed.tv/Rss/Episodes/680/%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%86%D9%85%D9%84%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/706/%D9%81%D9%88%D9%82-%D8%A7%D9%84-18",
+      "https://www.aljadeed.tv/Rss/Episodes/708/%D9%81%D8%B4%D8%A9-%D8%AE%D9%84%D9%82",
+      "https://www.aljadeed.tv/Rss/Episodes/711/%D9%8A%D8%B3%D9%82%D8%B7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF",
+      "https://www.aljadeed.tv/Rss/Episodes/715/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3",
+      "https://www.aljadeed.tv/Rss/Episodes/72/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D9%84%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/728/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/729/%D9%88%D8%AC%D8%B9-%D8%A7%D9%84%D9%82%D9%84%D8%A8",
+      "https://www.aljadeed.tv/Rss/Episodes/742/%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%82%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%81%D9%82%D9%8A%D8%B1",
+      "https://www.aljadeed.tv/Rss/Episodes/745/%D8%B9%D8%B4%D9%82-%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85",
+      "https://www.aljadeed.tv/Rss/Episodes/746/%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86",
+      "https://www.aljadeed.tv/Rss/Episodes/747/%D8%B5%D8%AD%D9%86-%D9%8A%D9%88%D9%85%D9%8A",
+      "https://www.aljadeed.tv/Rss/Episodes/748/%D9%85%D9%81%D8%AA%D8%B1%D9%82-%D8%B7%D8%B1%D9%8A%D9%82",
+      "https://www.aljadeed.tv/Rss/Episodes/749/%D8%B4%D8%B1%D8%B9%D9%88%D8%A7-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/750/%D9%85%D9%84%D8%A7-%D8%B9%D9%84%D9%82%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/79/%D8%A7%D9%84%D8%AD%D8%AF%D8%AB",
+      "https://www.aljadeed.tv/Rss/Episodes/804/biaf-2024",
+      "https://www.aljadeed.tv/Rss/Episodes/823/%D8%A7%D9%84%D9%81%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/824/%D8%B3%D9%8A%D8%B1%D8%A9-%D9%88%D9%83%D9%85%D9%84%D8%AA",
+      "https://www.aljadeed.tv/Rss/Episodes/83/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Episodes/834/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-2025",
+      "https://www.aljadeed.tv/Rss/Episodes/86/%D8%BA%D9%81%D8%B1%D8%A7%D9%86",
+      "https://www.aljadeed.tv/Rss/News/1055/%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.aljadeed.tv/Rss/News/1058/%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/1060/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/1064/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/1065/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
+      "https://www.aljadeed.tv/Rss/News/1066/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/1068/%D8%A7%D9%84%D8%AA%D9%86%D8%B3",
+      "https://www.aljadeed.tv/Rss/News/1069/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/1070/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/1072/%D9%81%D9%86",
+      "https://www.aljadeed.tv/Rss/News/1073/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+      "https://www.aljadeed.tv/Rss/News/231516/%D9%86%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3",
+      "https://www.aljadeed.tv/Rss/News/434225/%D8%AE%D8%A7%D8%B5-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+      "https://www.aljadeed.tv/Rss/News/434227/%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88-%D9%83%D8%B4%D8%A7%D9%81%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/434228/%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%A2%D9%86",
+      "https://www.aljadeed.tv/Rss/News/434230/4-%D8%A2%D8%A8-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%B6%D8%A7%D8%A6%D8%B9%D8%A9",
+      "https://www.aljadeed.tv/Rss/News/55/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA",
+      "https://www.aljadeed.tv/Rss/News/57/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88-%D8%AF%D9%88%D9%84%D9%8A",
+      "https://www.aljadeed.tv/Rss/NewsHighlights",
+      "https://www.aljadeed.tv/Rss/Shows/22/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%B2%D9%85%D8%A7%D9%86",
+      "https://www.aljadeed.tv/Rss/Shows/38/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+      "https://www.aljadeed.tv/Rss/Shows/4/%D9%86%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Shows/6/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/Shows/67/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA",
+      "https://www.aljadeed.tv/Rss/Shows/7/%D9%83%D9%88%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
+      "https://www.aljadeed.tv/Rss/Shows/83/%D9%A4-%D8%A2%D8%A8",
+      "https://www.aljadeed.tv/Rss/Shows/9/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%AA%D8%B1%D9%81%D9%8A%D9%87%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/Rss/latest-news",
+      "https://www.aljadeed.tv/rss/episodes/425/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/rss/episodes/476/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "https://www.aljadeed.tv/rss/episodes/680/%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%86%D9%85%D9%84%D9%8A%D8%A9",
+      "https://www.aljadeed.tv/rss/episodes/728/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D8%A9",
+      "https://www.aljadeed.tv/rss/episodes/742/%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%82%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%81%D9%82%D9%8A%D8%B1",
+      "https://www.aljadeed.tv/rss/episodes/746/%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86",
+      "https://www.aljadeed.tv/rss/episodes/750/%D9%85%D9%84%D8%A7-%D8%B9%D9%84%D9%82%D8%A9",
+      "https://www.aljadeed.tv/rss/episodes/79/%D8%A7%D9%84%D8%AD%D8%AF%D8%AB",
+      "https://www.aljadeed.tv/rss/news/1055/%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.aljadeed.tv/rss/news/231516/%D9%86%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3",
+      "https://www.aljadeed.tv/rss/news/434225/%D8%AE%D8%A7%D8%B5-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+      "https://www.aljadeed.tv/rss/news/434228/%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%A2%D9%86",
+      "https://www.aljadeed.tv/rss/newshighlights",
+      "https://www.aljadeed.tv/rss/shows/9/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%AA%D8%B1%D9%81%D9%8A%D9%87%D9%8A%D8%A9"
+    ],
+    "almanar.com.lb": [
+      "https://almanar.com.lb/rss",
+      "https://www.almanar.com.lb/rss",
+      "https://www.almanar.com.lb/rss/",
+      "http://almanar.com.lb/rss",
+      "https://french.almanar.com.lb/rss",
+      "https://french.almanar.com.lb/rss/"
+    ],
+    "almayadeen.net": [
+      "https://www.almayadeen.net/feed.rss"
+    ],
+    "almodon.com": [
+      "https://www.almodon.com/rss"
+    ],
+    "arabweek.com.lb": [
+      "https://arabweek.com.lb/feed/"
+    ],
+    "araraddaily.com": [
+      "https://araraddaily.com/feed"
+    ],
+    "asasmedia.com": [
+      "https://asasmedia.com/feed/"
+    ],
+    "aztagdaily.com": [
+      "https://www.aztagdaily.com/feed"
+    ],
+    "beirut-today.com": [
+      "https://beirut-today.com/feed/"
+    ],
+    "businessnews.com.lb": [
+      "https://www.businessnews.com.lb/rss/LebanonBusinessArticles.asp",
+      "http://www.businessnews.com.lb/rss/LebanonBusinessArticles.asp"
+    ],
+    "ch23.com": [
+      "https://ch23.com/feed",
+      "http://ch23.com/feed",
+      "https://ch23.com/feed.xml/27",
+      "https://ch23.com/feed.xml/28",
+      "https://ch23.com/feed.xml/30",
+      "https://ch23.com/feed.xml/34",
+      "https://ch23.com/feed.xml/39",
+      "https://ch23.com/feed.xml/31",
+      "https://ch23.com/feed.xml/32",
+      "https://ch23.com/feed.xml/35",
+      "https://ch23.com/feed.xml/33",
+      "https://ch23.com/feed.xml/38",
+      "https://ch23.com/feed.xml/29"
+    ],
+    "elsharkonline.com": [
+      "https://www.elsharkonline.com/feed/"
+    ],
+    "falebanon.com": [
+      "https://www.falebanon.com/feed/"
+    ],
+    "lbcgroup.tv": [
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1264/%D8%B9%D8%B4%D8%B1%D9%8A%D9%86-30",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1615/researcher-%D9%82%D8%B5%D9%91%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1671/%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1729/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%91%D8%A9",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1738/%D9%85%D8%B7%D8%A8%D8%AE",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1748/%D9%84%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D8%B1",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1750/%D9%85%D8%B1%D8%AD%D8%A8%D8%A7-%D8%AF%D9%88%D9%84%D8%A9",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1751/%D8%A3%D9%83%D8%B1%D9%85-%D9%85%D9%86-%D9%85%D9%8A%D9%86",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/1758/%D8%A3%D8%B1%D8%B6-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9",
+      "https://www.lbcgroup.tv/Rss/Episodes/ar/267/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84-1100",
+      "https://www.lbcgroup.tv/Rss/News/ar/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "https://www.lbcgroup.tv/Rss/News/ar/123/%D8%AE%D8%A8%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84",
+      "https://www.lbcgroup.tv/Rss/News/ar/129/%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "https://www.lbcgroup.tv/Rss/News/ar/130/%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+      "https://www.lbcgroup.tv/Rss/News/ar/24/%D8%B5%D8%AD%D8%A9-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+      "https://www.lbcgroup.tv/Rss/News/ar/25/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.lbcgroup.tv/Rss/News/ar/27/%D8%AD%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D9%82%D8%B3",
+      "https://www.lbcgroup.tv/Rss/News/ar/3/%D8%A3%D9%85%D9%86-%D9%88%D9%82%D8%B6%D8%A7%D8%A1",
+      "https://www.lbcgroup.tv/Rss/News/ar/33/%D9%81%D9%86%D9%91",
+      "https://www.lbcgroup.tv/Rss/News/ar/49/%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
+      "https://www.lbcgroup.tv/Rss/News/ar/5/%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "https://www.lbcgroup.tv/Rss/News/ar/55/%D9%85%D9%88%D8%B6%D8%A9-%D9%88%D8%AC%D9%85%D8%A7%D9%84",
+      "https://www.lbcgroup.tv/Rss/News/ar/65/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1",
+      "https://www.lbcgroup.tv/Rss/News/ar/7/%D8%A7%D8%B3%D8%B1%D8%A7%D8%B1",
+      "https://www.lbcgroup.tv/Rss/News/ar/88/%D8%AE%D8%A8%D8%B1-%D9%83%D8%A7%D8%B0%D8%A8",
+      "https://www.lbcgroup.tv/Rss/NewsHighlights/ar",
+      "https://www.lbcgroup.tv/Rss/Shows/ar/14/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "https://www.lbcgroup.tv/Rss/Shows/ar/15/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+      "https://www.lbcgroup.tv/Rss/Shows/ar/17/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%AD%D9%88%D8%A7%D8%B1%D9%8A%D8%A9",
+      "https://www.lbcgroup.tv/Rss/latest-news/ar",
+      "https://www.lbcgroup.tv/rss/news/ar/25/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.lbcgroup.tv/rss/news/ar/49/%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7"
+    ],
+    "lebanese-forces.com": [
+      "https://www.lebanese-forces.com/feed/",
+      "https://www.lebanese-forces.com/feed/?Category=mahaleyat"
+    ],
+    "lebanonfiles.com": [
+      "https://www.lebanonfiles.com/feed/"
+    ],
+    "malaeeb.com": [
+      "http://malaeeb.com/pages/rss/",
+      "http://www.malaeeb.com/pages/rss/"
+    ],
+    "naharnet.com": [
+      "https://naharnet.com/tags/lebanon/en/feed.atom",
+      "https://www.naharnet.com/tags/lebanon/en/feed.atom",
+      "https://naharnet.com/tags/business/en/feed.atom",
+      "https://www.naharnet.com/tags/business/en/feed.atom",
+      "https://naharnet.com/tags/world/en/feed.atom",
+      "https://naharnet.com/tags/middle-east/en/feed.atom",
+      "https://www.naharnet.com/tags/middle-east/en/feed.atom",
+      "https://www.naharnet.com/tags/world/en/feed.atom",
+      "https://naharnet.com/tags/sports/en/feed.atom",
+      "https://www.naharnet.com/tags/sports/en/feed.atom",
+      "https://naharnet.com/tags/climate-change-environment/en/feed.atom",
+      "https://www.naharnet.com/tags/climate-change-environment/en/feed.atom",
+      "https://naharnet.com/tags/culture/en/feed.atom",
+      "https://naharnet.com/tags/entertainment/en/feed.atom",
+      "https://naharnet.com/tags/technology/en/feed.atom",
+      "https://www.naharnet.com/tags/culture/en/feed.atom",
+      "https://www.naharnet.com/tags/entertainment/en/feed.atom",
+      "https://www.naharnet.com/tags/technology/en/feed.atom",
+      "https://naharnet.com/tags/entrepreneurship/en/feed.atom",
+      "https://naharnet.com/tags/offbeat/en/feed.atom",
+      "https://naharnet.com/tags/science/en/feed.atom",
+      "https://www.naharnet.com/tags/entrepreneurship/en/feed.atom",
+      "https://www.naharnet.com/tags/offbeat/en/feed.atom",
+      "https://www.naharnet.com/tags/science/en/feed.atom",
+      "https://naharnet.com/tags/health/en/feed.atom",
+      "https://www.naharnet.com/tags/health/en/feed.atom"
+    ],
+    "nbn.com.lb": [
+      "https://nbn.com.lb/feed/",
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UChGj8o3dIKqGdTz5oeL7cMg"
+    ],
+    "nna-leb.gov.lb": [
+      "http://nna-leb.gov.lb/ar/rss",
+      "http://www.nna-leb.gov.lb/en/rss",
+      "https://www.nna-leb.gov.lb/ar/rss",
+      "https://www.nna-leb.gov.lb/en/rss"
+    ],
+    "nowlebanon.com": [
+      "https://nowlebanon.com/feed/",
+      "https://nowlebanon.com/cultural-home/feed/"
+    ],
+    "otv.com.lb": [
+      "https://otv.com.lb/feed/"
+    ],
+    "saida.tv": [
+      "https://saida.tv/feed/"
+    ],
+    "tayyar.org": [
+      "http://api.tayyar.org/Rss/Category/1",
+      "http://api.tayyar.org/Rss/Category/10",
+      "http://api.tayyar.org/Rss/Category/2",
+      "http://api.tayyar.org/Rss/Category/4",
+      "http://api.tayyar.org/Rss/Category/5",
+      "http://api.tayyar.org/Rss/Category/63",
+      "http://api.tayyar.org/Rss/Category/64",
+      "http://api.tayyar.org/Rss/Category/66",
+      "http://api.tayyar.org/Rss/Category/9",
+      "http://api.tayyar.org/Rss/LiveNews",
+      "http://api.tayyar.org/Rss/Type/14",
+      "http://api.tayyar.org/Rss/Type/3",
+      "http://api.tayyar.org/Rss/Type/4",
+      "https://www.tayyar.org/Rss/Category/1",
+      "https://www.tayyar.org/Rss/Category/10",
+      "https://www.tayyar.org/Rss/Category/2",
+      "https://www.tayyar.org/Rss/Category/4",
+      "https://www.tayyar.org/Rss/Category/5",
+      "https://www.tayyar.org/Rss/Category/63",
+      "https://www.tayyar.org/Rss/Category/64",
+      "https://www.tayyar.org/Rss/Category/66",
+      "https://www.tayyar.org/Rss/Category/9",
+      "https://www.tayyar.org/Rss/Type/14",
+      "https://www.tayyar.org/Rss/Type/3",
+      "https://www.tayyar.org/Rss/Type/4"
+    ],
+    "the961.com": [
+      "https://www.the961.com/feed/",
+      "https://www.the961.com/news/feed/"
+    ],
+    "yalibnan.com": [
+      "https://yalibnan.com/feed/"
+    ],
+    "yasour.org": [
+      "https://www.yasour.org/rss.aspx"
+    ]
+  }
+}

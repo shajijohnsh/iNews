@@ -1,0 +1,509 @@
+{
+  "country_code": "CH",
+  "language_code": "EN",
+  "total_domains": 58,
+  "total_feeds": 385,
+  "feeds": {
+    "20min.ch": [
+      "https://partner-feeds.beta.20min.ch/rss/20minuten",
+      "https://partner-feeds.20min.ch/rss/20minutes/suisse-romande",
+      "https://partner-feeds.beta.20min.ch/rss/20minuten/schweiz"
+    ],
+    "24heures.ch": [
+      "https://www.24heures.ch/rss_ticker.html"
+    ],
+    "aargauerzeitung.ch": [
+      "https://www.aargauerzeitung.ch/aargau/aarau.rss",
+      "https://www.aargauerzeitung.ch/aargau/baden.rss",
+      "https://www.aargauerzeitung.ch/aargau/rss2.xml",
+      "https://www.aargauerzeitung.ch/ausland/rss2.xml",
+      "https://www.aargauerzeitung.ch/blaulicht/rss2.xml",
+      "https://www.aargauerzeitung.ch/kultur/rss2.xml",
+      "https://www.aargauerzeitung.ch/leben-kultur.rss",
+      "https://www.aargauerzeitung.ch/mitmachen/rss2.xml",
+      "https://www.aargauerzeitung.ch/rss2.xml",
+      "https://www.aargauerzeitung.ch/schweiz-welt.rss",
+      "https://www.aargauerzeitung.ch/schweiz/rss2.xml",
+      "https://www.aargauerzeitung.ch/sport.rss",
+      "https://www.aargauerzeitung.ch/sport/rss2.xml",
+      "https://www.aargauerzeitung.ch/wirtschaft/rss2.xml"
+    ],
+    "appenzell24.ch": [
+      "https://appenzell24.ch/feed/"
+    ],
+    "bazonline.ch": [
+      "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/ticker",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/ausland",
+      "https://feeds.simplecast.com/kPvEywth",
+      "https://feeds.simplecast.com/SPJVwoXg",
+      "https://feeds.simplecast.com/sIRUfzej",
+      "https://feeds.simplecast.com/wzI8dNEs",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/digital",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/schweiz"
+    ],
+    "beobachter.ch": [
+      "https://www.beobachter.ch/google_publisher_center.xml",
+      "https://www.beobachter.ch/rss_feed"
+    ],
+    "bernerzeitung.ch": [
+      "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/ticker",
+      "https://feeds.simplecast.com/kPvEywth",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/kanton-bern",
+      "https://feeds.simplecast.com/SPJVwoXg",
+      "https://feeds.simplecast.com/sIRUfzej",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/bern",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/schweiz",
+      "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/thun"
+    ],
+    "bielertagblatt.ch": [
+      "https://www.bielertagblatt.ch/rss.xml",
+      "https://www.bielertagblatt.ch/taxonomy/term/24/feed",
+      "https://www.bielertagblatt.ch/taxonomy/term/15/feed",
+      "https://www.bielertagblatt.ch/taxonomy/term/16/feed"
+    ],
+    "blick.ch": [
+      "https://www.blick.ch/news/rss.xml",
+      "https://www.blick.ch/rss.xml",
+      "https://www.blick.ch/sport/eishockey/rss.xml",
+      "https://www.blick.ch/sport/fussball/rss.xml",
+      "https://www.blick.ch/sport/rss.xml",
+      "https://www.blick.ch/video/aktuell/rss.xml"
+    ],
+    "business-swiss.ch": [
+      "https://business-swiss.ch/feed/"
+    ],
+    "bzbasel.ch": [
+      "https://www.bzbasel.ch/basel.rss"
+    ],
+    "cash.ch": [
+      "https://www.cash.ch/feeds/latest/borsen-ticker",
+      "https://www.cash.ch/feeds/latest/news",
+      "https://www.cash.ch/feeds/latest/top-news",
+      "https://www.cash.ch/feeds/news/alle",
+      "https://www.cash.ch/feeds/news/boersenticker",
+      "https://www.cash.ch/feeds/news/top-news",
+      "https://www.cash.ch/newest-content-feed/all/all",
+      "https://www.cash.ch/rss/450.xml"
+    ],
+    "cdt.ch": [
+      "https://www.cdt.ch/rss/home"
+    ],
+    "derbund.ch": [
+      "https://blog.derbund.ch/zumrundenleder/blog/2021/11/25/bestaendige-brentforder/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/2023/02/08/denkanstoss-numero-xxx/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/2021/01/14/marchettis-mea-culpa/feed/",
+      "https://partner-feeds.publishing.tamedia.ch/rss/derbund/ticker",
+      "https://blog.derbund.ch/zumrundenleder/blog/2021/11/22/oha-laetz-mcmxv-2/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/2021/12/16/brann-bergen-gebodigt/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/2021/02/12/ansprechender-anspielkreis/feed/",
+      "https://blog.derbund.ch/zumrundenleder/feed/atom/",
+      "https://blog.derbund.ch/zumrundenleder/blog/2021/07/02/tiki-taka-ha-ha-ha/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/2020/05/21/schlimme-salahs/feed/",
+      "https://feeds.simplecast.com/kPvEywth",
+      "https://partner-feeds.publishing.tamedia.ch/rss/derbund/bern",
+      "https://blog.derbund.ch/zumrundenleder/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/auto/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/bayern-und-basler/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/beim_klubarzt/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/der-internetpranger/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/hopp-winti-yb-puh/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/lehrer-lempel/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/realsatire/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/regelrecht/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/sali-vali/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/suedamerika/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/uefa/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/unsere_helden/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/weisheiten/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/zlatanistan/feed/",
+      "https://blog.derbund.ch/zumrundenleder/blog/category/zurich/feed/",
+      "https://feeds.simplecast.com/SPJVwoXg",
+      "https://feeds.simplecast.com/sIRUfzej",
+      "https://partner-feeds.publishing.tamedia.ch/rss/derbund/",
+      "https://partner-feeds.publishing.tamedia.ch/rss/derbund/digital",
+      "https://partner-feeds.publishing.tamedia.ch/rss/derbund/schweiz"
+    ],
+    "engadinerpost.ch": [
+      "https://www.engadinerpost.ch/rss.xml"
+    ],
+    "entlebucher-anzeiger.ch": [
+      "https://ea-plus.ch/feed/"
+    ],
+    "freiburger-nachrichten.ch": [
+      "https://www.freiburger-nachrichten.ch/feed/"
+    ],
+    "fridolin.ch": [
+      "https://www.fridolin.ch/?format=feed&type=rss",
+      "https://www.fridolin.ch/?format=feed&type=atom"
+    ],
+    "frutiglaender.ch": [
+      "https://www.frutiglaender.ch/feed/",
+      "https://www.frutiglaender.ch/home-2/feed/"
+    ],
+    "fussball.ch": [
+      "https://www.fussball.ch/rss/letztenews.xml"
+    ],
+    "grenchnertagblatt.ch": [
+      "https://www.grenchnertagblatt.ch/solothurn/grenchen.rss"
+    ],
+    "handelszeitung.ch": [
+      "https://www.handelszeitung.ch/google_publisher_center.xml",
+      "https://www.handelszeitung.ch/rss_feed"
+    ],
+    "hoefner.ch": [
+      "https://hoefner.ch/feed/",
+      "https://www.hoefner.ch/feed/"
+    ],
+    "lagruyere.ch": [
+      "https://www.lagruyere.ch/commenter-le-lecteur/rss.xml",
+      "https://www.lagruyere.ch/rss.xml",
+      "https://www.lagruyere.ch/rss_smd.xml"
+    ],
+    "laliberte.ch": [
+      "http://www.laliberte.ch/rss/articles/",
+      "http://www.laliberte.ch/rss/news/",
+      "https://www.laliberte.ch/rss/articles/",
+      "https://www.laliberte.ch/rss/news",
+      "https://www.laliberte.ch/rss/news/",
+      "https://www.laliberte.ch:443/rss/news"
+    ],
+    "landbote.ch": [
+      "https://www.landbote.ch/rss_ticker.html"
+    ],
+    "laregione.ch": [
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/feed_rss.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_home.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_aperture.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_ticino.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_sport.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_culture.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_estero.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_svizzera.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_economia.xml",
+      "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_ticino7.xml"
+    ],
+    "lecourrier.ch": [
+      "https://lecourrier.ch/feed/"
+    ],
+    "lematin.ch": [
+      "https://www.lematin.ch/rss_ticker.html"
+    ],
+    "lenews.ch": [
+      "https://lenews.ch/feed/"
+    ],
+    "letemps.ch": [
+      "https://www.letemps.ch/articles.rss",
+      "https://www.letemps.ch/feed",
+      "https://www.letemps.ch/taxonomy/term/30/feed",
+      "https://www.letemps.ch/taxonomy/term/44/feed",
+      "https://www.letemps.ch/taxonomy/term/7/feed"
+    ],
+    "lqj.ch": [
+      "https://www.lqj.ch/rss.xml"
+    ],
+    "luzernerzeitung.ch": [
+      "https://www.luzernerzeitung.ch/international.rss",
+      "https://www.luzernerzeitung.ch/kultur.rss",
+      "https://www.luzernerzeitung.ch/leben.rss",
+      "https://www.luzernerzeitung.ch/leben/ratgeber.rss",
+      "https://www.luzernerzeitung.ch/meinung.rss",
+      "https://www.luzernerzeitung.ch/meinung/kommentare.rss",
+      "https://www.luzernerzeitung.ch/meinung/leserbriefe.rss",
+      "https://www.luzernerzeitung.ch/schweiz.rss",
+      "https://www.luzernerzeitung.ch/sport.rss",
+      "https://www.luzernerzeitung.ch/sport/evz.rss",
+      "https://www.luzernerzeitung.ch/sport/fcluzern.rss",
+      "https://www.luzernerzeitung.ch/startseite_luz.rss",
+      "https://www.luzernerzeitung.ch/wirtschaft.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz/luzern.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz/nidwalden.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz/obwalden.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz/schwyz.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz/uri.rss",
+      "https://www.luzernerzeitung.ch/zentralschweiz/zug.rss"
+    ],
+    "meileneranzeiger.ch": [
+      "https://meileneranzeiger.ch/feed/"
+    ],
+    "msn.com": [
+      "https://www.mirror.co.uk/?service=rss",
+      "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss",
+      "https://www.mirror.co.uk/sport/football/?service=rss",
+      "https://www.infoworld.com/index.rss",
+      "https://blogs.msn.com/topic/events/feed/",
+      "https://blogs.msn.com/topic/featured/feed/",
+      "https://blogs.msn.com/topic/innovations/feed/",
+      "https://blogs.msn.com/topic/solutions/feed/",
+      "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
+      "https://blogs.msn.com/feed/",
+      "https://blogs.msn.com/author/bill-monroe/feed/",
+      "https://blogs.msn.com/author/chitralekha/feed/",
+      "https://blogs.msn.com/author/currrentlybill/feed/",
+      "https://blogs.msn.com/author/dave-kane/feed/",
+      "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
+      "https://blogs.msn.com/author/emily-falla/feed/",
+      "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
+      "https://blogs.msn.com/author/kun-chen/feed/",
+      "https://blogs.msn.com/author/lizz-callaway/feed/",
+      "https://blogs.msn.com/author/maria/feed/",
+      "https://blogs.msn.com/author/mrikank-varshney/feed/",
+      "https://blogs.msn.com/author/ovidan/feed/",
+      "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
+      "https://blogs.msn.com/author/taroon-mandhana/feed/",
+      "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
+      "https://blogs.msn.com/author/vera-chan/feed/",
+      "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+      "https://www.computerweekly.com/rss/Enterprise-software.xml",
+      "https://www.computerweekly.com/rss/IT-security.xml",
+      "https://www.computerweekly.com/rss/Networking-and-communication.xml",
+      "https://www.computerweekly.com/rss/ContentSyndication.xml",
+      "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
+      "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
+      "https://www.computerweekly.com/rss/Internet-technology.xml",
+      "https://www.telegraph.co.uk/business/rss.xml",
+      "https://www.telegraph.co.uk/cars/rss.xml",
+      "https://www.telegraph.co.uk/food-and-drink/rss.xml",
+      "https://www.telegraph.co.uk/news/rss.xml",
+      "https://www.theguardian.com/world/rss",
+      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
+      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml",
+      "http://www.rssmix.com/u/11743304/rss.xml",
+      "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
+      "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
+      "https://blogs.windows.com/devices/author/sandraandrews/feed/",
+      "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
+      "https://blogs.windows.com/devices/feed/",
+      "https://blogs.windows.com/devices/tag/education/feed/",
+      "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
+      "https://blogs.windows.com/devices/tag/surface/feed/",
+      "https://blogs.windows.com/devices/tag/windows-11/feed/",
+      "https://blogs.windows.com/feed/",
+      "https://blogs.windows.com/msedgedev/author/katherine-gan/feed/",
+      "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
+      "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
+      "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
+      "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
+      "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
+      "https://blogs.windows.com/msedgedev/author/sean-lyndersay/feed/",
+      "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
+      "https://blogs.windows.com/msedgedev/feed/",
+      "https://blogs.windows.com/msedgedev/tag/performance/feed/",
+      "https://blogs.windows.com/msedgedev/tag/pwa/feed/",
+      "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
+      "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
+      "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
+      "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
+      "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
+      "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
+      "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
+      "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
+      "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
+      "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
+      "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
+      "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
+      "https://blogs.windows.com/windowsdeveloper/feed/",
+      "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
+      "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
+      "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
+      "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
+      "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
+      "https://blogs.windows.com/windowsexperience/author/marklinton/feed/",
+      "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
+      "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
+      "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
+      "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
+      "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
+      "https://blogs.windows.com/windowsexperience/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/handheld-gaming/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/lenovo/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/rog/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/security/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
+      "https://blogs.windows.com/windowsexperience/tag/xbox/feed/",
+      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "https://www.infoworld.com/feed/",
+      "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
+      "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
+      "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
+      "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
+      "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
+      "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
+      "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
+      "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
+      "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
+      "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml",
+      "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+      "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/podcast.xml",
+      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+      "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+      "https://www.theguardian.com/football/series/theguardianswomensfootballweekly/podcast.xml",
+      "https://www.theguardian.com/football/who-scored-blog/rss",
+      "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+      "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+      "https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml",
+      "https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml",
+      "https://www.theguardian.com/news/series/todayinfocus/podcast.xml",
+      "https://www.theguardian.com/podcasts/rss",
+      "https://www.theguardian.com/politics/series/politics-weekly-america/podcast.xml",
+      "https://www.theguardian.com/politics/series/politicsweekly/podcast.xml",
+      "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+      "https://www.theguardian.com/science/series/science/podcast.xml",
+      "https://www.theguardian.com/sport/blog/rss",
+      "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+      "https://www.theguardian.com/uk/rss",
+      "https://www.theguardian.com/us/rss"
+    ],
+    "news.ch": [
+      "https://www.news.ch/rss/letztenews.xml"
+    ],
+    "nfz.ch": [
+      "https://www.nfz.ch/rss.xml",
+      "https://www.nfz.ch/leseranmerkungen/rss.xml"
+    ],
+    "nzz.ch": [
+      "https://www.nzz.ch/english.rss",
+      "https://www.nzz.ch/feuilleton.rss",
+      "https://www.nzz.ch/finanzen.rss",
+      "https://www.nzz.ch/international.rss",
+      "https://www.nzz.ch/mobilitaet/auto-mobil.rss",
+      "https://www.nzz.ch/panorama.rss",
+      "https://www.nzz.ch/recent.rss",
+      "https://www.nzz.ch/schweiz.rss",
+      "https://www.nzz.ch/sport.rss",
+      "https://www.nzz.ch/startseite.rss",
+      "https://www.nzz.ch/technologie.rss",
+      "https://www.nzz.ch/wirtschaft.rss",
+      "https://www.nzz.ch/wissenschaft.rss",
+      "https://www.nzz.ch/zuerich.rss"
+    ],
+    "oltnertagblatt.ch": [
+      "https://www.oltnertagblatt.ch/solothurn/olten.rss"
+    ],
+    "rro.ch": [
+      "http://www.rro.ch/rss/rss_waegzeichu.xml"
+    ],
+    "schweizerzeit.ch": [
+      "https://schweizerzeit.ch/feed/"
+    ],
+    "shaz.ch": [
+      "https://www.shaz.ch/feed/"
+    ],
+    "simmentalzeitung.ch": [
+      "http://www.simmentalzeitung.ch/News.rss"
+    ],
+    "srf.ch": [
+      "https://www.srf.ch/news/bnf/rss/1646",
+      "https://www.srf.ch/news/bnf/rss/1890",
+      "https://www.srf.ch/news/bnf/rss/1922",
+      "https://www.srf.ch/news/bnf/rss/1926"
+    ],
+    "suedostschweiz.ch": [
+      "https://www.suedostschweiz.ch/region/suedostschweiz/rss",
+      "https://www.suedostschweiz.ch/taxonomy/term/13/feed"
+    ],
+    "swissinfo.ch": [
+      "https://www.swissinfo.ch/service/eng/rssxml/latest-news/rss",
+      "https://www.swissinfo.ch/service/eng/rssxml/top-news/rss",
+      "https://www.swissinfo.ch/service/ger/rssxml/wirtschaft/rss",
+      "https://www.swissinfo.ch/service/rus/rssxml/top-news/rss"
+    ],
+    "tagblatt.ch": [
+      "https://www.tagblatt.ch/international.rss",
+      "https://www.tagblatt.ch/kultur.rss",
+      "https://www.tagblatt.ch/leben/ratgeber.rss",
+      "https://www.tagblatt.ch/leben/wandertipps.rss",
+      "https://www.tagblatt.ch/meinung.rss",
+      "https://www.tagblatt.ch/ostschweiz.rss",
+      "https://www.tagblatt.ch/ostschweiz/appenzellerland.rss",
+      "https://www.tagblatt.ch/ostschweiz/frauenfeld.rss",
+      "https://www.tagblatt.ch/ostschweiz/kreuzlingen.rss",
+      "https://www.tagblatt.ch/ostschweiz/rheintal.rss",
+      "https://www.tagblatt.ch/ostschweiz/stgallen.rss",
+      "https://www.tagblatt.ch/ostschweiz/toggenburg.rss",
+      "https://www.tagblatt.ch/ostschweiz/werdenberg.rss",
+      "https://www.tagblatt.ch/ostschweiz/wil.rss",
+      "https://www.tagblatt.ch/schweiz.rss",
+      "https://www.tagblatt.ch/sport.rss",
+      "https://www.tagblatt.ch/sport/fcstgallen.rss",
+      "https://www.tagblatt.ch/sport/hcthurgau.rss",
+      "https://www.tagblatt.ch/startseite_stg.rss",
+      "https://www.tagblatt.ch/wirtschaft.rss"
+    ],
+    "tagesanzeiger.ch": [
+      "https://www.tagesanzeiger.ch/rss_ticker.html"
+    ],
+    "tageswoche.ch": [
+      "https://tageswoche.ch/feed/index.rss"
+    ],
+    "tdg.ch": [
+      "https://partner-feeds.publishing.tamedia.ch/rss/tdg/ticker",
+      "https://jfmabut.blog.tdg.ch/index.rss",
+      "https://webzine.blog.tdg.ch/index.rss",
+      "https://jfmabut.blog.tdg.ch/atom.xml",
+      "https://webzine.blog.tdg.ch/atom.xml",
+      "https://blog.tdg.ch/citoyens.xml",
+      "https://blog.tdg.ch/journalistes.xml"
+    ],
+    "terrenature.ch": [
+      "https://www.terrenature.ch/rubriques/podcasts/feed/"
+    ],
+    "thelocal.ch": [
+      "https://feeds.thelocal.com/rss/builder/ch"
+    ],
+    "vorwaerts.ch": [
+      "https://www.vorwaerts.ch/feed/",
+      "https://www.vorwaerts.ch/home/feed/"
+    ],
+    "watson.ch": [
+      "https://www.watson.ch/api/1.0/rss/index.xml",
+      "https://www.watson.ch/api/2.0/rss/index.xml?tag=Front"
+    ],
+    "weltwoche.ch": [
+      "https://weltwoche.ch/rss",
+      "https://weltwoche.ch/rss/"
+    ],
+    "woz.ch": [
+      "https://www.woz.ch/t/startseite/feed"
+    ],
+    "zofingertagblatt.ch": [
+      "https://www.zofingertagblatt.ch/feed/",
+      "https://zofingertagblatt.ch/feed/"
+    ],
+    "zsz.ch": [
+      "https://feeds.simplecast.com/kPvEywth",
+      "https://feeds.simplecast.com/sIRUfzej"
+    ]
+  }
+}

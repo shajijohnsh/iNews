@@ -1,0 +1,61 @@
+{
+  "country_code": "CV",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 39,
+  "feeds": {
+    "anacao.cv": [
+      "https://www.anacao.cv/feed/",
+      "https://www.anacao.cv/feed/atom/",
+      "https://www.anacao.cv/feed/"
+    ],
+    "brava.news": [
+      "https://www.brava.news/rss/category/agricultura",
+      "https://www.brava.news/rss/category/bravenses-pelo-mundo",
+      "https://www.brava.news/rss/category/ciencia",
+      "https://www.brava.news/rss/category/cultura",
+      "https://www.brava.news/rss/category/economia",
+      "https://www.brava.news/rss/category/editorial",
+      "https://www.brava.news/rss/category/educacao",
+      "https://www.brava.news/rss/category/eleicoes-cabo-verde",
+      "https://www.brava.news/rss/category/general",
+      "https://www.brava.news/rss/category/mundo",
+      "https://www.brava.news/rss/category/politica",
+      "https://www.brava.news/rss/category/publi-reportagem",
+      "https://www.brava.news/rss/category/publicidade",
+      "https://www.brava.news/rss/category/saude",
+      "https://www.brava.news/rss/category/sociedade",
+      "https://www.brava.news/rss/category/transporte",
+      "https://www.brava.news/rss/category/turismo",
+      "https://www.brava.news/en/rss/category/advertorial",
+      "https://www.brava.news/en/rss/category/agriculture",
+      "https://www.brava.news/en/rss/category/economy",
+      "https://www.brava.news/en/rss/category/editorial",
+      "https://www.brava.news/en/rss/category/general",
+      "https://www.brava.news/en/rss/category/music",
+      "https://www.brava.news/en/rss/category/soccer",
+      "https://www.brava.news/en/rss/category/tourism",
+      "https://www.brava.news/en/rss/category/world"
+    ],
+    "criolosports.com": [
+      "https://www.criolosports.com/index.php/en/post-formats-2/ginastica/newsletter-subscribe?format=feed&type=atom",
+      "https://www.criolosports.com/index.php/en/post-formats-2/ginastica/newsletter-subscribe?format=feed&type=rss",
+      "https://www.criolosports.com/index.php?format=feed&type=atom",
+      "https://www.criolosports.com/index.php?format=feed&type=rss",
+      "http://criolosports.com/index.php/en/post-formats-2/ginastica/newsletter-subscribe?format=feed&type=atom",
+      "http://criolosports.com/index.php/en/post-formats-2/ginastica/newsletter-subscribe?format=feed&type=rss"
+    ],
+    "expressodasilhas.cv": [
+      "https://expressodasilhas.cv/rss"
+    ],
+    "noticiasdonorte.publ.cv": [
+      "https://noticiasdonorte.publ.cv/feed/"
+    ],
+    "sportsmidia.cv": [
+      "https://sportsmidia.cv/feed/"
+    ],
+    "terranova.cv": [
+      "https://terranova.cv/pt_PT/feed/"
+    ]
+  }
+}

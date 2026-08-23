@@ -4,21 +4,21 @@
   "total_domains": 5,
   "total_feeds": 6,
   "feeds": {
-    "paherald.sk.ca": [
-      "https://paherald.sk.ca/feed/"
-    ],
     "carillonregina.com": [
       "https://carillonregina.com/feed/"
-    ],
-    "meridiansource.ca": [
-      "https://meridiansource.ca/feed/"
     ],
     "leaderonline.ca": [
       "https://leaderonline.ca/feed/",
       "https://leaderonline.ca/classifieds/feed/"
     ],
+    "meridiansource.ca": [
+      "https://meridiansource.ca/feed/"
+    ],
     "northernprideml.com": [
       "https://northernprideml.com/feed/"
+    ],
+    "paherald.sk.ca": [
+      "https://paherald.sk.ca/feed/"
     ]
   }
 }

@@ -4,30 +4,20 @@
   "total_domains": 20,
   "total_feeds": 38,
   "feeds": {
-    "theage.com.au": [
-      "https://www.theage.com.au/rss/feed.xml",
-      "https://www.theage.com.au/rss/politics/federal.xml",
-      "https://www.theage.com.au/rss/national/victoria.xml",
-      "https://www.theage.com.au/rss/world.xml",
-      "https://www.theage.com.au/rss/national.xml",
-      "https://www.theage.com.au/rss/business.xml",
-      "https://www.theage.com.au/rss/culture.xml",
-      "https://www.theage.com.au/rss/technology.xml",
-      "https://www.theage.com.au/rss/environment.xml",
-      "https://www.theage.com.au/rss/lifestyle.xml",
-      "https://www.theage.com.au/rss/property.xml",
-      "https://www.theage.com.au/rss/goodfood.xml",
-      "https://www.theage.com.au/rss/traveller.xml",
-      "https://www.theage.com.au/rss/sport.xml",
-      "https://www.theage.com.au/rss/sport/nrl.xml",
-      "https://www.theage.com.au/rss/sport/rugby-union.xml",
-      "https://www.theage.com.au/rss/sport/afl.xml"
-    ],
     "alexandranewspapers.com.au": [
       "https://www.alexandranewspapers.com.au/feed/"
     ],
     "alpineobserver.com.au": [
       "https://www.alpineobserver.com.au/sitemaps/alpineobserver/rss"
+    ],
+    "bairnsdaleadvertiser.com.au": [
+      "https://bairnsdaleadvertiser.com.au/feed/"
+    ],
+    "bharattimes.com": [
+      "https://www.bharattimes.com/feed/"
+    ],
+    "castlemainemail.com.au": [
+      "https://castlemainemail.com.au/feed/"
     ],
     "colacherald.com.au": [
       "https://colacherald.com.au/feed/"
@@ -35,8 +25,21 @@
     "euroagazette.com.au": [
       "https://www.euroagazette.com.au/sitemaps/euroagazette/rss"
     ],
+    "gippslandtimes.com.au": [
+      "https://www.gippslandtimes.com.au/feed/"
+    ],
+    "latrobevalleyexpress.com.au": [
+      "https://latrobevalleyexpress.com.au/feed/"
+    ],
     "mansfieldcourier.com.au": [
       "https://www.mansfieldcourier.com.au/sitemaps/mansfield/rss"
+    ],
+    "midlandexpress.com.au": [
+      "https://midlandexpress.com.au/feed/"
+    ],
+    "ncreview.com.au": [
+      "https://ncreview.com.au/feed/",
+      "https://ncreview.com.au/homepage-3/feed/"
     ],
     "numurkahleader.net.au": [
       "https://www.numurkahleader.net.au/rss/"
@@ -44,43 +47,40 @@
     "omadvertiser.com.au": [
       "https://www.omadvertiser.com.au/sitemaps/omadvertiser/rss"
     ],
-    "tarrangowertimes.com.au": [
-      "https://www.tarrangowertimes.com.au/feed/"
-    ],
-    "warrandytediary.com.au": [
-      "https://warrandytediary.com.au/feed/",
-      "https://warrandytediary.com.au/homepage/feed/"
-    ],
     "redflag.org.au": [
       "https://redflag.org.au/rss/"
     ],
-    "latrobevalleyexpress.com.au": [
-      "https://latrobevalleyexpress.com.au/feed/"
+    "snowyrivermail.com.au": [
+      "https://snowyrivermail.com.au/feed/"
     ],
-    "midlandexpress.com.au": [
-      "https://midlandexpress.com.au/feed/"
+    "tarrangowertimes.com.au": [
+      "https://www.tarrangowertimes.com.au/feed/"
     ],
-    "gippslandtimes.com.au": [
-      "https://www.gippslandtimes.com.au/feed/"
+    "theage.com.au": [
+      "https://www.theage.com.au/rss/business.xml",
+      "https://www.theage.com.au/rss/culture.xml",
+      "https://www.theage.com.au/rss/environment.xml",
+      "https://www.theage.com.au/rss/feed.xml",
+      "https://www.theage.com.au/rss/goodfood.xml",
+      "https://www.theage.com.au/rss/lifestyle.xml",
+      "https://www.theage.com.au/rss/national.xml",
+      "https://www.theage.com.au/rss/national/victoria.xml",
+      "https://www.theage.com.au/rss/politics/federal.xml",
+      "https://www.theage.com.au/rss/property.xml",
+      "https://www.theage.com.au/rss/sport.xml",
+      "https://www.theage.com.au/rss/sport/afl.xml",
+      "https://www.theage.com.au/rss/sport/nrl.xml",
+      "https://www.theage.com.au/rss/sport/rugby-union.xml",
+      "https://www.theage.com.au/rss/technology.xml",
+      "https://www.theage.com.au/rss/traveller.xml",
+      "https://www.theage.com.au/rss/world.xml"
     ],
     "wangarattachronicle.com.au": [
       "https://www.wangarattachronicle.com.au/sitemaps/wangaratta/rss"
     ],
-    "castlemainemail.com.au": [
-      "https://castlemainemail.com.au/feed/"
-    ],
-    "ncreview.com.au": [
-      "https://ncreview.com.au/feed/",
-      "https://ncreview.com.au/homepage-3/feed/"
-    ],
-    "bharattimes.com": [
-      "https://www.bharattimes.com/feed/"
-    ],
-    "bairnsdaleadvertiser.com.au": [
-      "https://bairnsdaleadvertiser.com.au/feed/"
-    ],
-    "snowyrivermail.com.au": [
-      "https://snowyrivermail.com.au/feed/"
+    "warrandytediary.com.au": [
+      "https://warrandytediary.com.au/feed/",
+      "https://warrandytediary.com.au/homepage/feed/"
     ]
   }
 }

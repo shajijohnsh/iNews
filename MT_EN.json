@@ -1,0 +1,50 @@
+{
+  "country_code": "MT",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 20,
+  "feeds": {
+    "bay.com.mt": [
+      "https://bay.com.mt/feed/"
+    ],
+    "independent.com.mt": [
+      "https://www.independent.com.mt/newsfeed"
+    ],
+    "maltadaily.mt": [
+      "https://maltadaily.mt/feed/"
+    ],
+    "maltatoday.com.mt": [
+      "https://www.maltatoday.com.mt/rss/",
+      "https://www.maltatoday.com.mt/rss/news/national/"
+    ],
+    "netfm.com.mt": [
+      "https://netfm.com.mt/feed/",
+      "https://netfm.com.mt/feed/"
+    ],
+    "netnews.com.mt": [
+      "https://netnews.com.mt/feed/"
+    ],
+    "newsbook.com.mt": [
+      "https://newsbook.com.mt/blog/feed/",
+      "https://newsbook.com.mt/en/blog/feed/",
+      "https://newsbook.com.mt/en/feed/",
+      "https://newsbook.com.mt/feed/"
+    ],
+    "one.com.mt": [
+      "https://one.com.mt/feed/",
+      "https://www.one.com.mt/news/feed/",
+      "https://one.com.mt/feed/atom/"
+    ],
+    "themalteseherald.com": [
+      "https://themalteseherald.com/feed/"
+    ],
+    "theshiftnews.com": [
+      "https://theshiftnews.com/feed/",
+      "http://theshiftnews.com/feed/"
+    ],
+    "timesofmalta.com": [
+      "https://rss.timesofmalta.com/",
+      "https://timesofmalta.com/rss"
+    ]
+  }
+}

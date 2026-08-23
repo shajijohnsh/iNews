@@ -1,0 +1,27 @@
+{
+  "country_code": "LC",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 7,
+  "feeds": {
+    "htsstlucia.org": [
+      "https://www.htsstlucia.org/feed/"
+    ],
+    "stluciachronicle.com": [
+      "https://stluciachronicle.com/feed/",
+      "http://www.stluciachronicle.com/feed/"
+    ],
+    "stlucianewsonline.com": [
+      "https://www.stlucianewsonline.com/feed/"
+    ],
+    "stluciastar.com": [
+      "https://stluciastar.com/feed/"
+    ],
+    "stluciatimes.com": [
+      "https://stluciatimes.com/feed/"
+    ],
+    "thevoiceslu.com": [
+      "https://thevoiceslu.com/feed/"
+    ]
+  }
+}

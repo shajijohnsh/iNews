@@ -1,0 +1,97 @@
+{
+  "country_code": "HN",
+  "language_code": "EN",
+  "total_domains": 26,
+  "total_feeds": 37,
+  "feeds": {
+    "contracorriente.red": [
+      "https://contracorriente.red/feed/"
+    ],
+    "criterio.hn": [
+      "https://criterio.hn/feed/"
+    ],
+    "diarioroatan.com": [
+      "https://diarioroatan.com/feed/"
+    ],
+    "eldiario.hn": [
+      "https://www.eldiario.hn/feed/",
+      "https://www.eldiario.hn/home/feed/"
+    ],
+    "elheraldo.hn": [
+      "https://www.elheraldo.hn/rss/portada.xml"
+    ],
+    "ellibertador.hn": [
+      "https://ellibertador.hn/feed/"
+    ],
+    "eloncehn.com": [
+      "https://eloncehn.com/index.php/feed/"
+    ],
+    "elpais.hn": [
+      "https://www.elpais.hn/feed/"
+    ],
+    "elpatriota.hn": [
+      "https://elpatriota.hn/feed/",
+      "https://elpatriota.hn/news/feed/"
+    ],
+    "elperiodico.hn": [
+      "https://elperiodico.hn/feed/",
+      "http://elperiodico.hn/feed/"
+    ],
+    "enaltavoz.com": [
+      "https://enaltavoz.com/feed/",
+      "https://enaltavoz.com/news/feed/"
+    ],
+    "hondudiario.com": [
+      "https://www.hondudiario.com/feed/",
+      "https://www.hondudiario.com/noticias-de-honduras/feed/"
+    ],
+    "hondurasnews.com": [
+      "https://www.hondurasnews.com/feed/",
+      "http://www.hondurasnews.com/feed/"
+    ],
+    "hondurastips.hn": [
+      "https://www.hondurastips.hn/feed/"
+    ],
+    "laprensa.hn": [
+      "https://www.laprensa.hn/rss/portada"
+    ],
+    "latribuna.hn": [
+      "https://www.latribuna.hn/feed/"
+    ],
+    "noticiashondurashn.com": [
+      "https://www.noticiashondurashn.com/?feed=rss2"
+    ],
+    "payamag.com": [
+      "https://payamag.com/feed/"
+    ],
+    "primiciahonduras.hn": [
+      "https://primiciahonduras.hn/feed/"
+    ],
+    "proceso.hn": [
+      "https://proceso.hn/feed/"
+    ],
+    "revistaestilo.net": [
+      "https://www.revistaestilo.net/rss/portada.xml"
+    ],
+    "roatanet.com": [
+      "https://roatanet.com/feed/",
+      "https://roatanet.com/sample-page/feed/"
+    ],
+    "televicentro.com": [
+      "https://www.televicentro.com/rss/trending-tvc.xml",
+      "https://www.televicentro.com/rss/corporativo.xml",
+      "https://www.televicentro.com/rss/especiales.xml",
+      "https://www.televicentro.com/rss/gente.xml"
+    ],
+    "tencanal10.tv": [
+      "https://tencanal10.tv/feed/"
+    ],
+    "tiempo.hn": [
+      "https://tiempo.hn/feed/"
+    ],
+    "tnh.gob.hn": [
+      "https://tnh.gob.hn/feed/",
+      "http://tnh.gob.hn/feed/"
+    ]
+  }
+}

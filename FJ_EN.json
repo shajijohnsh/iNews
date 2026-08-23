@@ -1,0 +1,48 @@
+{
+  "country_code": "FJ",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 22,
+  "feeds": {
+    "fbc.com.fj": [
+      "https://www.fbcnews.com.fj/feed/"
+    ],
+    "fbcnews.com.fj": [
+      "https://www.fbcnews.com.fj/feed/"
+    ],
+    "fijileaks.com": [
+      "https://www.fijileaks.com/2/feed",
+      "http://www.fijileaks.com/2/feed"
+    ],
+    "fijilive.com": [
+      "https://fijilive.com/feed/",
+      "http://feeds.feedburner.com/FijiLiveNews",
+      "http://feeds.feedburner.com/FijiLiveNews-Business",
+      "http://feeds.feedburner.com/FijiLiveNews-Entertainment",
+      "http://feeds.feedburner.com/FijiLiveNews-Food/recipes",
+      "http://feeds.feedburner.com/FijiLiveNews-FootballNews",
+      "http://feeds.feedburner.com/FijiLiveNews-International",
+      "http://feeds.feedburner.com/FijiLiveNews-RugbyNews",
+      "http://feeds.feedburner.com/FijiLiveNews-SportsNews",
+      "http://feeds.feedburner.com/FijiLiveNews-Technology"
+    ],
+    "fijisun.com.fj": [
+      "https://fijisun.com.fj/feed/",
+      "http://fijisun.com.fj/feed/"
+    ],
+    "fijitimes.com.fj": [
+      "https://www.fijitimes.com.fj/feed/"
+    ],
+    "islandsbusiness.com": [
+      "http://feeds.feedburner.com/2018March",
+      "https://islandsbusiness.com/feed/"
+    ],
+    "pina.com.fj": [
+      "https://pina.com.fj/feed/",
+      "https://pina.com.fj/home/feed/"
+    ],
+    "thejetnewspaper.com": [
+      "http://www.thejetnewspaper.com/feed/"
+    ]
+  }
+}

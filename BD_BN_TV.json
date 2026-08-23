@@ -7,6 +7,12 @@
     "channelionline.com": [
       "https://www.channelionline.com/feed/"
     ],
+    "chsuk.tv": [
+      "https://chsuk.tv/feed/"
+    ],
+    "dbcnews.tv": [
+      "https://dbcnews.tv/feed.xml"
+    ],
     "itvbd.com": [
       "https://www.itvbd.com/feed/"
     ],
@@ -15,12 +21,6 @@
     ],
     "satv.tv": [
       "https://www.satv.tv/feed/"
-    ],
-    "chsuk.tv": [
-      "https://chsuk.tv/feed/"
-    ],
-    "dbcnews.tv": [
-      "https://dbcnews.tv/feed.xml"
     ]
   }
 }

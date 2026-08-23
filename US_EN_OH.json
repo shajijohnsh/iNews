@@ -2,77 +2,50 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 25,
-  "total_feeds": 27,
+  "total_feeds": 29,
   "feeds": {
-    "starbeacon.com": [
-      "http://www.starbeacon.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "athensmessenger.com": [
       "http://www.athensmessenger.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "bryantimes.com": [
-      "http://www.bryantimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "daytondailynews.com": [
-      "http://www.daytondailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wvnews.com": [
-      "http://www.wvnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "logandaily.com": [
-      "http://www.logandaily.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "morningjournal.com": [
-      "https://www.morningjournal.com/feed/"
-    ],
-    "portsmouth-dailytimes.com": [
-      "http://www.portsmouth-dailytimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "springfieldnewssun.com": [
-      "http://www.springfieldnewssun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "toledoblade.com": [
-      "https://www.toledoblade.com/rss/"
-    ],
-    "news-herald.com": [
-      "https://www.news-herald.com/feed/"
-    ],
     "athensnews.com": [
       "http://www.athensmessenger.com/search/?f=rss&t=article&c=anewsarchive&l=50&s=start_time&sd=desc"
-    ],
-    "circlevilleherald.com": [
-      "http://www.circlevilleherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "clevelandjewishnews.com": [
-      "http://www.clevelandjewishnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thecatholictelegraph.com": [
-      "https://thecatholictelegraph.com/feed/"
-    ],
-    "citybeat.com": [
-      "https://www.citybeat.com/feed/"
-    ],
-    "dayton.com": [
-      "http://www.daytondailynews.com/search/?f=rss&t=article&c=lifestyles&l=50&s=start_time&sd=desc"
-    ],
-    "newsdemocrat.com": [
-      "https://www.newsdemocrat.com/feed/"
-    ],
-    "journal-news.com": [
-      "http://www.journal-news.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wapakdailynews.com": [
-      "http://www.wapakdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "ysnews.com": [
-      "https://ysnews.com/feed"
     ],
     "bgfalconmedia.com": [
       "https://bgfalconmedia.com/feed/",
       "https://bgfalconmedia.com/feed/atom/"
     ],
-    "thelantern.com": [
-      "https://www.thelantern.com/feed/"
+    "bryantimes.com": [
+      "http://www.bryantimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "circlevilleherald.com": [
+      "http://www.circlevilleherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "citybeat.com": [
+      "https://www.citybeat.com/feed/"
+    ],
+    "clevelandjewishnews.com": [
+      "http://www.clevelandjewishnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dayton.com": [
+      "http://www.daytondailynews.com/search/?f=rss&t=article&c=lifestyles&l=50&s=start_time&sd=desc"
+    ],
+    "daytondailynews.com": [
+      "http://www.daytondailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "journal-news.com": [
+      "http://www.journal-news.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "logandaily.com": [
+      "https://www.logandaily.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=news,news/*&f=rss"
+    ],
+    "morningjournal.com": [
+      "https://www.morningjournal.com/feed/"
+    ],
+    "news-herald.com": [
+      "https://www.news-herald.com/feed/"
+    ],
+    "newsdemocrat.com": [
+      "https://www.newsdemocrat.com/feed/"
     ],
     "newsrecord.org": [
       "http://www.newsrecord.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -80,6 +53,35 @@
     "oberlinreview.org": [
       "https://oberlinreview.org/feed/",
       "https://oberlinreview.org/feed/atom/"
+    ],
+    "portsmouth-dailytimes.com": [
+      "http://www.portsmouth-dailytimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "springfieldnewssun.com": [
+      "http://www.springfieldnewssun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "starbeacon.com": [
+      "http://www.starbeacon.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "thecatholictelegraph.com": [
+      "https://thecatholictelegraph.com/feed/"
+    ],
+    "thelantern.com": [
+      "https://www.thelantern.com/feed/"
+    ],
+    "toledoblade.com": [
+      "https://www.toledoblade.com/rss/"
+    ],
+    "wapakdailynews.com": [
+      "http://www.wapakdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wvnews.com": [
+      "https://www.wvnews.com/search/?f=rss&t=article&c=business&l=50&s=start_time&sd=desc",
+      "https://www.wvnews.com/search/?f=rss&t=article&c=jacksonnews&l=50&s=start_time&sd=desc",
+      "https://www.wvnews.com/search/?f=rss&t=article&c=theet/news&l=50&s=start_time&sd=desc"
+    ],
+    "ysnews.com": [
+      "https://ysnews.com/feed"
     ]
   }
 }

@@ -2,37 +2,10 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 28,
-  "total_feeds": 32,
+  "total_feeds": 33,
   "feeds": {
-    "atholdailynews.com": [
-      "https://atholdailynews.com/feed/"
-    ],
-    "thesunchronicle.com": [
-      "http://www.thesunchronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "salemnews.com": [
-      "http://www.salemnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "sentinelandenterprise.com": [
-      "https://www.sentinelandenterprise.com/feed/"
-    ],
-    "gloucestertimes.com": [
-      "http://www.gloucestertimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "lowellsun.com": [
-      "https://www.lowellsun.com/feed/"
-    ],
-    "itemlive.com": [
-      "https://itemlive.com/feed/"
-    ],
-    "newburyportnews.com": [
-      "http://www.newburyportnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "eagletribune.com": [
-      "http://www.eagletribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "berkshireeagle.com": [
-      "http://www.berkshireeagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "ack.net": [
+      "http://www.ack.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "amherstbulletin.com": [
       "https://amherstbulletin.com/feed/"
@@ -40,57 +13,85 @@
     "andovertownsman.com": [
       "http://www.andovertownsman.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "capecodchronicle.com": [
-      "https://capecodchronicle.com/feed.atom"
-    ],
-    "thereminder.com": [
-      "https://thereminder.com/feed/"
-    ],
-    "mvtimes.com": [
-      "https://www.mvtimes.com/feed/"
-    ],
-    "wanderer.com": [
-      "https://www.wanderer.com/feed/",
-      "https://www.wanderer.com/home/feed/"
-    ],
-    "ack.net": [
-      "http://www.ack.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "portuguesetimes.com": [
-      "https://portuguesetimes.com/feed/"
-    ],
-    "valleyadvocate.com": [
-      "https://valleyadvocate.com/feed/"
-    ],
-    "hgazette.com": [
-      "http://www.hgazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "weeklynews.net": [
-      "https://itemlive.com/feed/"
-    ],
-    "capecodtoday.com": [
-      "https://capecodtoday.com/feed/"
-    ],
-    "indusbusinessjournal.com": [
-      "https://indusbusinessjournal.com/feed/",
-      "https://indusbusinessjournal.com/home/feed/"
-    ],
-    "mirrorspectator.com": [
-      "https://mirrorspectator.com/feed/"
-    ],
-    "communityadvocate.com": [
-      "https://www.communityadvocate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "atholdailynews.com": [
+      "https://atholdailynews.com/feed/"
     ],
     "berkeleybeacon.com": [
       "https://berkeleybeacon.com/feed/",
       "https://berkeleybeacon.com/feed/atom/"
     ],
+    "berkshireeagle.com": [
+      "https://www.berkshireeagle.com/search/?f=rss&t=article&c=business&l=50&s=start_time&sd=desc",
+      "https://www.berkshireeagle.com/search/?f=rss&t=article&c=news/southern_berkshires&l=50&s=start_time&sd=desc"
+    ],
+    "capecodchronicle.com": [
+      "https://capecodchronicle.com/feed.atom"
+    ],
+    "capecodtoday.com": [
+      "https://capecodtoday.com/feed/"
+    ],
+    "communityadvocate.com": [
+      "https://www.communityadvocate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "dailycollegian.com": [
       "https://dailycollegian.com/feed/",
       "https://dailycollegian.com/feed/atom/"
     ],
+    "eagletribune.com": [
+      "http://www.eagletribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "gloucestertimes.com": [
+      "http://www.gloucestertimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "hgazette.com": [
+      "http://www.hgazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "indusbusinessjournal.com": [
+      "https://indusbusinessjournal.com/feed/",
+      "https://indusbusinessjournal.com/home/feed/"
+    ],
+    "itemlive.com": [
+      "https://itemlive.com/feed/"
+    ],
+    "lowellsun.com": [
+      "https://www.lowellsun.com/feed/"
+    ],
+    "mirrorspectator.com": [
+      "https://mirrorspectator.com/feed/"
+    ],
+    "mvtimes.com": [
+      "https://www.mvtimes.com/feed/"
+    ],
     "nenpa.com": [
       "https://www.nenpa.com/feed/"
+    ],
+    "newburyportnews.com": [
+      "http://www.newburyportnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "portuguesetimes.com": [
+      "https://portuguesetimes.com/feed/"
+    ],
+    "salemnews.com": [
+      "http://www.salemnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "sentinelandenterprise.com": [
+      "https://www.sentinelandenterprise.com/feed/"
+    ],
+    "thereminder.com": [
+      "https://thereminder.com/feed/"
+    ],
+    "thesunchronicle.com": [
+      "http://www.thesunchronicle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "valleyadvocate.com": [
+      "https://valleyadvocate.com/feed/"
+    ],
+    "wanderer.com": [
+      "https://www.wanderer.com/feed/",
+      "https://www.wanderer.com/home/feed/"
+    ],
+    "weeklynews.net": [
+      "https://itemlive.com/feed/"
     ]
   }
 }

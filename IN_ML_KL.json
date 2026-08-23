@@ -2,62 +2,61 @@
   "country_code": "IN",
   "language_code": "ML",
   "total_domains": 17,
-  "total_feeds": 21,
+  "total_feeds": 20,
   "feeds": {
+    "anweshanam.com": [
+      "https://anweshanam.com/feed/",
+      "https://anweshanam.com/web-stories/feed/"
+    ],
+    "chandrikadaily.com": [
+      "https://www.chandrikadaily.com/feed"
+    ],
+    "eveningkerala.com": [
+      "https://www.eveningkerala.com/feed"
+    ],
+    "janayugomonline.com": [
+      "https://janayugomonline.com/feed/"
+    ],
+    "janmabhumi.in": [
+      "https://janmabhumi.in/feed/"
+    ],
+    "keralakaumudi.com": [
+      "https://keralakaumudi.com/rss/topstories"
+    ],
+    "madhyamam.com": [
+      "https://www.madhyamam.com/feeds.xml"
+    ],
+    "malayalam.samayam.com": [
+      "https://malayalam.samayam.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "malayalamexpress.in": [
+      "https://malayalamexpress.in/feed/"
+    ],
     "marunadanmalayalee.com": [
       "https://marunadanmalayalee.com/google_feeds.xml"
     ],
     "mathrubhumi.com": [
       "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
     ],
-    "madhyamam.com": [
-      "https://www.madhyamam.com/feeds.xml"
+    "pravasiexpress.com": [
+      "https://pravasiexpress.com/rss/"
     ],
-    "keralakaumudi.com": [
-      "https://keralakaumudi.com/rss/topstories",
-      "https://keralakaumudi.com/rss/topstories"
-    ],
-    "chandrikadaily.com": [
-      "https://www.chandrikadaily.com/feed"
-    ],
-    "janmabhumi.in": [
-      "https://janmabhumi.in/feed/"
+    "puzha.com": [
+      "https://www.puzha.com/feed/"
     ],
     "rashtradeepika.com": [
       "https://www.rashtradeepika.com/feed/",
       "https://www.rashtradeepika.com/home/feed/"
     ],
-    "janayugomonline.com": [
-      "https://janayugomonline.com/feed/"
-    ],
-    "eveningkerala.com": [
-      "https://www.eveningkerala.com/feed"
+    "sathyamonline.com": [
+      "https://www.sathyamonline.com/rss"
     ],
     "thejasnews.com": [
       "https://www.thejasnews.com/google_feeds.xml"
     ],
-    "sathyamonline.com": [
-      "https://www.sathyamonline.com/rss"
-    ],
-    "malayalamexpress.in": [
-      "https://malayalamexpress.in/feed/"
-    ],
-    "anweshanam.com": [
-      "https://anweshanam.com/feed/",
-      "https://anweshanam.com/web-stories/feed/"
-    ],
     "timeskerala.com": [
       "https://timeskerala.com/feed/",
       "https://timeskerala.com/web-stories/feed/"
-    ],
-    "puzha.com": [
-      "https://www.puzha.com/feed/"
-    ],
-    "malayalam.samayam.com": [
-      "https://malayalam.samayam.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "pravasiexpress.com": [
-      "https://pravasiexpress.com/rss/"
     ]
   }
 }

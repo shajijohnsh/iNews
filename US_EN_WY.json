@@ -4,23 +4,14 @@
   "total_domains": 11,
   "total_feeds": 11,
   "feeds": {
-    "trib.com": [
-      "http://trib.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wyomingnews.com": [
-      "http://www.wyomingnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thesheridanpress.com": [
-      "http://www.thesheridanpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "basinrepublican-rustler.com": [
       "https://basinrepublican-rustler.com/rss.xml"
     ],
+    "buckrail.com": [
+      "https://buckrail.com/feed/"
+    ],
     "buffalobulletin.com": [
       "http://www.buffalobulletin.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wylr.net": [
-      "https://www.wylr.net/feed/"
     ],
     "codyenterprise.com": [
       "http://www.codyenterprise.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -31,11 +22,20 @@
     "greybullstandard.com": [
       "https://greybullstandard.com/rss.xml"
     ],
-    "buckrail.com": [
-      "https://buckrail.com/feed/"
-    ],
     "lovellchronicle.com": [
       "https://lovellchronicle.com/rss.xml"
+    ],
+    "thesheridanpress.com": [
+      "http://www.thesheridanpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "trib.com": [
+      "http://trib.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wylr.net": [
+      "https://www.wylr.net/feed/"
+    ],
+    "wyomingnews.com": [
+      "http://www.wyomingnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

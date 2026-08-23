@@ -1,0 +1,171 @@
+{
+  "country_code": "CR",
+  "language_code": "EN",
+  "total_domains": 38,
+  "total_feeds": 87,
+  "feeds": {
+    "adiariocr.com": [
+      "https://adiariocr.com/feed/"
+    ],
+    "amprensa.com": [
+      "https://amprensa.com/feed/"
+    ],
+    "bsnoticias.cr": [
+      "https://www.bsnoticias.cr/feed/"
+    ],
+    "cartagohoy.com": [
+      "https://www.cartagohoy.com/feed/"
+    ],
+    "costaricantimes.com": [
+      "https://www.costaricantimes.com/feed",
+      "https://www.costaricantimes.com/feed/atom",
+      "https://www.costaricantimes.com/feed"
+    ],
+    "crhoy.com": [
+      "https://www.crhoy.com/feed/"
+    ],
+    "delfino.cr": [
+      "https://delfino.cr/rss",
+      "https://delfino.cr/feed"
+    ],
+    "diarioextra.com": [
+      "https://www.diarioextra.com/Rss/list/1/nacionales",
+      "https://www.diarioextra.com/Rss/list/2/internacionales",
+      "https://www.diarioextra.com/Rss/list/3/sucesos",
+      "https://www.diarioextra.com/Rss/list/4/opinion",
+      "https://www.diarioextra.com/Rss/list/6/deportes",
+      "https://www.diarioextra.com/Rss/list/7/espectaculos"
+    ],
+    "ekaenlinea.com": [
+      "https://ekaenlinea.com/feed/"
+    ],
+    "elfinancierocr.com": [
+      "https://www.elfinancierocr.com/arc/outboundfeeds/rss/?outputType=xml"
+    ],
+    "eljornalcr.com": [
+      "https://eljornalcr.com/feed/",
+      "https://eljornalcr.com/inicio/feed/"
+    ],
+    "elmundo.cr": [
+      "https://elmundo.cr/feed/"
+    ],
+    "elperiodicocr.com": [
+      "https://elperiodicocr.com/feed/"
+    ],
+    "elsoldeoccidente.com": [
+      "https://elsoldeoccidente.com/feed/"
+    ],
+    "guanacastealaaltura.com": [
+      "https://www.guanacastealaaltura.com/feed/"
+    ],
+    "guananoticias.com": [
+      "https://guananoticias.com/feed/"
+    ],
+    "laprensalibre.cr": [
+      "https://www.laprensalibre.cr/feed/"
+    ],
+    "laregion.cr": [
+      "https://laregion.cr/feed/"
+    ],
+    "larepublica.net": [
+      "https://www.larepublica.net/rss/portada.xml"
+    ],
+    "lateja.cr": [
+      "https://www.lateja.cr/arc/outboundfeeds/rss/?outputType=xml"
+    ],
+    "limonhoy.com": [
+      "https://www.limonhoy.com/blog-feed.xml"
+    ],
+    "miprensacr.com": [
+      "https://www.miprensacr.com/feed/"
+    ],
+    "nacion.com": [
+      "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
+    ],
+    "news.co.cr": [
+      "https://news.co.cr/feed/"
+    ],
+    "observador.cr": [
+      "https://observador.cr/feed/",
+      "https://observador.cr/seccion/blogs/feed/"
+    ],
+    "periodicolasegundacr.com": [
+      "https://periodicolasegundacr.com/index.php?format=feed&type=rss",
+      "https://periodicolasegundacr.com/index.php?format=feed&type=atom"
+    ],
+    "periodicomensaje.com": [
+      "https://periodicomensaje.com/?format=feed&type=rss",
+      "https://periodicomensaje.com/?format=feed&type=atom"
+    ],
+    "periodicomitierra.com": [
+      "http://www.periodicomitierra.com/rss.xml"
+    ],
+    "puntarenasseoye.com": [
+      "https://www.puntarenasseoye.com/feed/"
+    ],
+    "pzactual.com": [
+      "https://pzactual.com/feed/"
+    ],
+    "qcostarica.com": [
+      "https://qcostarica.com/feed/"
+    ],
+    "revistasumma.com": [
+      "https://revistasumma.com/feed/"
+    ],
+    "sancarlosdigital.com": [
+      "https://sancarlosdigital.com/feed/",
+      "https://www.sancarlosdigital.com/feed/"
+    ],
+    "tamarindonews.com": [
+      "https://www.tamarindonews.com/feed",
+      "http://tamarindonews.com/feed"
+    ],
+    "teletica.com": [
+      "https://www.teletica.com/rss/feed",
+      "https://www.teletica.com/rss/feed/noticias",
+      "https://www.teletica.com/rss/feed/noticias/nacional",
+      "https://www.teletica.com/rss/feed/deportes",
+      "https://www.teletica.com/rss/feed/noticias/internacional",
+      "https://www.teletica.com/rss/feed/deportes/futbol",
+      "https://www.teletica.com/rss/feed/entretenimiento",
+      "https://www.teletica.com/rss/feed/estilo-de-vida",
+      "https://www.teletica.com/rss/feed/programas",
+      "https://www.teletica.com/rss/feed/deportes/otros-deportes",
+      "https://www.teletica.com/rss/feed/noticias/contenido-patrocinado",
+      "https://www.teletica.com/rss/feed/noticias/masqn",
+      "https://www.teletica.com/rss/feed/deportes/futbol/mundial-femenino-sub20",
+      "https://www.teletica.com/rss/feed/deportes/qatar-2022",
+      "https://www.teletica.com/rss/feed/entretenimiento/7-estrellas",
+      "https://www.teletica.com/rss/feed/entretenimiento/de-boca-en-boca",
+      "https://www.teletica.com/rss/feed/entretenimiento/farandula",
+      "https://www.teletica.com/rss/feed/entretenimiento/que-buena-tarde",
+      "https://www.teletica.com/rss/feed/entretenimiento/sabana",
+      "https://www.teletica.com/rss/feed/entretenimiento/tia-zelmira",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/belleza-y-moda",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/emprendedores",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/familia",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/hogar",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/mascoticas",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/otros-temas",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/recetas-de-cocina",
+      "https://www.teletica.com/rss/feed/estilo-de-vida/salud",
+      "https://www.teletica.com/rss/feed/noticias/7-dias",
+      "https://www.teletica.com/rss/feed/noticias/a-mama-le-tengo-fe",
+      "https://www.teletica.com/rss/feed/noticias/coronavirus",
+      "https://www.teletica.com/rss/feed/noticias/hoy-en-la-historia",
+      "https://www.teletica.com/rss/feed/noticias/infografias",
+      "https://www.teletica.com/rss/feed/programas/formatos",
+      "https://www.teletica.com/rss/feed/programas/programas",
+      "https://www.teletica.com/rss/feed/programas/web"
+    ],
+    "thecostaricanews.com": [
+      "https://thecostaricanews.com/feed/"
+    ],
+    "ticotimes.net": [
+      "https://ticotimes.net/feed"
+    ],
+    "vozdeguanacaste.com": [
+      "https://vozdeguanacaste.com/en/feed/"
+    ]
+  }
+}

@@ -4,31 +4,31 @@
   "total_domains": 8,
   "total_feeds": 10,
   "feeds": {
-    "purbanchal.com": [
-      "https://purbanchal.com/feed/"
+    "dailyprobaha.com.bd": [
+      "https://dailyprobaha.com.bd/feed/"
     ],
     "khulnanchal.com": [
       "https://khulnanchal.com/?feed=rss2"
     ],
-    "dailyprobaha.com.bd": [
-      "https://dailyprobaha.com.bd/feed/"
+    "maguranews.com": [
+      "https://www.maguranews.com/feed/"
     ],
     "meherpurnews.com": [
       "https://www.meherpurnews.com/feed/",
       "https://www.meherpurnews.com/feed/atom/",
       "https://www.meherpurnews.com/feed/"
     ],
-    "maguranews.com": [
-      "https://www.maguranews.com/feed/"
-    ],
-    "satkhiranews.com": [
-      "https://www.satkhiranews.com/feed/"
+    "onenewsbd.com": [
+      "https://www.onenewsbd.com/feed"
     ],
     "patradoot.net": [
       "https://patradoot.net/feed/"
     ],
-    "onenewsbd.com": [
-      "https://www.onenewsbd.com/feed"
+    "purbanchal.com": [
+      "https://purbanchal.com/feed/"
+    ],
+    "satkhiranews.com": [
+      "https://www.satkhiranews.com/feed/"
     ]
   }
 }

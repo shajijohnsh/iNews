@@ -1,0 +1,23 @@
+{
+  "country_code": "PE",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 7,
+  "feeds": {
+    "caretas.pe": [
+      "https://caretas.pe/feed/",
+      "https://caretas.pe/feed/atom/",
+      "https://caretas.pe/pagina-de-ejemplo/feed/"
+    ],
+    "connuestroperu.com": [
+      "https://connuestroperu.com/feed/",
+      "https://connuestroperu.com/feed/atom/"
+    ],
+    "cosas.pe": [
+      "https://cosas.pe/feed/"
+    ],
+    "rumbosdelperu.com": [
+      "https://www.rumbosdelperu.com/feed/"
+    ]
+  }
+}

@@ -4,53 +4,35 @@
   "total_domains": 36,
   "total_feeds": 37,
   "feeds": {
+    "agupdate.com": [
+      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "alliancetimes.com": [
       "https://alliancetimes.com/feed/"
+    ],
+    "antelopecountynews.com": [
+      "http://www.antelopecountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "beatricedailysun.com": [
       "http://beatricedailysun.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "clipperpubco.com": [
+      "https://www.clipperpubco.com/rss.xml"
+    ],
     "columbustelegram.com": [
       "http://columbustelegram.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "fremonttribune.com": [
-      "http://fremonttribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "theindependent.com": [
-      "http://theindependent.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "hastingstribune.com": [
-      "http://www.hastingstribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "kearneyhub.com": [
-      "http://kearneyhub.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "journalstar.com": [
-      "http://journalstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "norfolkdailynews.com": [
-      "http://norfolkdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "nptelegraph.com": [
-      "http://nptelegraph.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "omahadailyrecord.com": [
-      "https://omahadailyrecord.com/rss.xml"
-    ],
-    "omaha.com": [
-      "http://omaha.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "starherald.com": [
-      "http://starherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "yorknewstimes.com": [
-      "http://yorknewstimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wahoo-ashland-waverly.com": [
-      "http://wahoo-ashland-waverly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "creightonian.com": [
+      "https://www.creightonian.com/feed/"
     ],
     "custercountychief.com": [
       "http://www.custercountychief.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dailynebraskan.com": [
+      "http://www.dailynebraskan.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "doaneline.com": [
+      "https://doaneline.com/feed/"
     ],
     "doniphanherald.com": [
       "http://www.doniphanherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -61,14 +43,14 @@
     "fcjournal.net": [
       "https://fcjournal.net/feed/"
     ],
+    "fremonttribune.com": [
+      "http://fremonttribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "granttribune.com": [
       "https://www.granttribune.com/rss.xml"
     ],
-    "thenebraskasignal.com": [
-      "https://thenebraskasignal.com/feed/"
-    ],
-    "clipperpubco.com": [
-      "https://www.clipperpubco.com/rss.xml"
+    "hastingstribune.com": [
+      "https://www.hastingstribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "hebronjournalregister.com": [
       "https://hebronjournalregister.com/feed/"
@@ -76,42 +58,60 @@
     "imperialrepublican.com": [
       "https://www.imperialrepublican.com/rss.xml"
     ],
-    "unkantelope.com": [
-      "https://unkantelope.com/feed/",
-      "https://unkantelope.com/feed/atom/"
+    "journalstar.com": [
+      "http://journalstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "westernnebraskaobserver.net": [
-      "https://www.westernnebraskaobserver.com/rss/articles"
+    "kearneyhub.com": [
+      "http://kearneyhub.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "lexch.com": [
       "http://lexch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
+    "nebpress.com": [
+      "https://nebpress.com/feed/"
+    ],
+    "norfolkdailynews.com": [
+      "http://norfolkdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nptelegraph.com": [
+      "http://nptelegraph.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "omaha.com": [
+      "http://omaha.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "omahadailyrecord.com": [
+      "https://omahadailyrecord.com/rss.xml"
+    ],
+    "starherald.com": [
+      "http://starherald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "theindependent.com": [
+      "http://theindependent.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "themindencourier.com": [
       "http://www.themindencourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "antelopecountynews.com": [
-      "http://www.antelopecountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "thenebraskasignal.com": [
+      "https://thenebraskasignal.com/feed/"
     ],
     "thereader.com": [
       "https://thereader.com/feed/"
     ],
-    "agupdate.com": [
-      "http://agupdate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "unkantelope.com": [
+      "https://unkantelope.com/feed/",
+      "https://unkantelope.com/feed/atom/"
+    ],
+    "wahoo-ashland-waverly.com": [
+      "http://wahoo-ashland-waverly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "westernnebraskaobserver.net": [
+      "https://www.westernnebraskaobserver.com/rss/articles"
     ],
     "wpnews.com": [
       "http://www.wpnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "dailynebraskan.com": [
-      "http://www.dailynebraskan.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "creightonian.com": [
-      "https://www.creightonian.com/feed/"
-    ],
-    "doaneline.com": [
-      "https://doaneline.com/feed/"
-    ],
-    "nebpress.com": [
-      "https://nebpress.com/feed/"
+    "yorknewstimes.com": [
+      "http://yorknewstimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

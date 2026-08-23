@@ -1,20 +1,7 @@
 {
   "country_code": "UK",
   "language_code": "EN",
-  "total_domains": 4,
-  "total_feeds": 4,
-  "feeds": {
-    "wrexham.com": [
-      "https://wrexham.com/feed"
-    ],
-    "golwg.360.cymru": [
-      "https://golwg.360.cymru/ffrwd"
-    ],
-    "parallel.cymru": [
-      "https://parallel.cymru/feed/"
-    ],
-    "caerphilly.observer": [
-      "https://caerphilly.observer/feed/"
-    ]
-  }
+  "total_domains": 0,
+  "total_feeds": 0,
+  "feeds": {}
 }

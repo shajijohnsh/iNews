@@ -1,0 +1,76 @@
+{
+  "country_code": "NE",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 48,
+  "feeds": {
+    "actuniger.com": [
+      "https://actuniger.com/component/joomrss/derniere-actualites.feed",
+      "https://www.actuniger.com/component/joomrss/derniere-actualites.feed",
+      "https://actuniger.com/component/joomrss/infos-diverses.feed",
+      "https://www.actuniger.com/component/joomrss/infos-diverses.feed",
+      "https://actuniger.com/component/joomrss/articles-offline.feed",
+      "https://www.actuniger.com/component/joomrss/articles-offline.feed",
+      "https://actuniger.com/component/joomrss/societe.feed",
+      "https://www.actuniger.com/component/joomrss/societe.feed",
+      "https://www.actuniger.com/component/joomrss/societe.feed?Itemid=101",
+      "https://actuniger.com/component/joomrss/culture.feed",
+      "https://actuniger.com/component/joomrss/economie.feed",
+      "https://actuniger.com/component/joomrss/faits-divers.feed",
+      "https://actuniger.com/component/joomrss/international.feed",
+      "https://actuniger.com/component/joomrss/politique.feed",
+      "https://actuniger.com/component/joomrss/sante-education.feed",
+      "https://actuniger.com/component/joomrss/sport.feed",
+      "https://actuniger.com/component/joomrss/technologie.feed",
+      "https://actuniger.com/component/joomrss/tribune-opinion.feed",
+      "https://www.actuniger.com/component/joomrss/culture.feed",
+      "https://www.actuniger.com/component/joomrss/economie.feed",
+      "https://www.actuniger.com/component/joomrss/faits-divers.feed",
+      "https://www.actuniger.com/component/joomrss/international.feed",
+      "https://www.actuniger.com/component/joomrss/politique.feed",
+      "https://www.actuniger.com/component/joomrss/sante-education.feed",
+      "https://www.actuniger.com/component/joomrss/sport.feed",
+      "https://www.actuniger.com/component/joomrss/technologie.feed",
+      "https://www.actuniger.com/component/joomrss/tribune-opinion.feed",
+      "https://www.actuniger.com/component/joomrss/politique.feed?Itemid=101"
+    ],
+    "airinfoagadez.com": [
+      "https://airinfoagadez.com/feed/"
+    ],
+    "iciniger.com": [
+      "https://www.iciniger.com/feed/",
+      "http://www.iciniger.com/feed/"
+    ],
+    "journalduniger.com": [
+      "https://www.journalduniger.com/feed/",
+      "https://www.journalduniger.com/feed/"
+    ],
+    "lesahel.org": [
+      "http://www.lesahel.org/feed/",
+      "http://www.lesahel.org/index.php/feed/"
+    ],
+    "news.aniamey.com": [
+      "http://news.aniamey.com/xml/all.xml"
+    ],
+    "nigerdiaspora.net": [
+      "https://www.nigerdiaspora.net/?format=feed&type=atom",
+      "https://www.nigerdiaspora.net/?format=feed&type=rss",
+      "http://nigerdiaspora.net/?format=feed&type=atom",
+      "http://www.nigerdiaspora.net/?format=feed&type=atom",
+      "http://nigerdiaspora.net/?format=feed&type=rss",
+      "http://www.nigerdiaspora.net/?format=feed&type=rss",
+      "http://nigerdiaspora.net/?format=feed"
+    ],
+    "nigerexpress.info": [
+      "https://nigerexpress.info/feed/",
+      "http://nigerexpress.info/feed/"
+    ],
+    "nigerinter.com": [
+      "https://nigerinter.com/feed/",
+      "https://nigerinter.com/accueil/feed/"
+    ],
+    "tamtaminfo.com": [
+      "https://tamtaminfo.com/feed/"
+    ]
+  }
+}

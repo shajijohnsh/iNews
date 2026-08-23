@@ -1,0 +1,14 @@
+{
+  "country_code": "BO",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 2,
+  "feeds": {
+    "boliviabella.com": [
+      "https://www.boliviabella.com/facts.xml"
+    ],
+    "datos-bo.com": [
+      "https://datos-bo.com/feed/"
+    ]
+  }
+}

@@ -4,46 +4,46 @@
   "total_domains": 13,
   "total_feeds": 15,
   "feeds": {
-    "dainikazadi.net": [
-      "https://dainikazadi.net/feed/"
+    "chtnews24.com": [
+      "https://chtnews24.com/feed/"
     ],
-    "suprobhat.com": [
-      "https://suprobhat.com/feed/"
-    ],
-    "ctgtimes.com": [
-      "https://ctgtimes.com/feed"
-    ],
-    "purbodesh.com": [
-      "https://purbodesh.com/feed/"
+    "coxsbazarnews.com": [
+      "https://www.coxsbazarnews.com/feed"
     ],
     "ctgpratidin.com": [
       "https://ctgpratidin.com/feed/"
+    ],
+    "ctgsun.com": [
+      "https://ctgsun.com/feed"
+    ],
+    "ctgtimes.com": [
+      "https://ctgtimes.com/feed"
     ],
     "dailyrangamati.com": [
       "https://dailyrangamati.com/feed/",
       "https://dailyrangamati.com/home/feed/"
     ],
-    "raozannews.com": [
-      "https://raozannews.com/feed/"
-    ],
-    "coxsbazarnews.com": [
-      "https://www.coxsbazarnews.com/feed"
-    ],
-    "paharbarta.com": [
-      "https://paharbarta.com/feed/"
+    "dainikazadi.net": [
+      "https://dainikazadi.net/feed/"
     ],
     "khabarica24.com": [
       "https://www.khabarica24.com/feed/"
     ],
-    "ctgsun.com": [
-      "https://ctgsun.com/feed"
+    "paharbarta.com": [
+      "https://paharbarta.com/feed/"
+    ],
+    "purbodesh.com": [
+      "https://purbodesh.com/feed/"
+    ],
+    "raozannews.com": [
+      "https://raozannews.com/feed/"
+    ],
+    "suprobhat.com": [
+      "https://suprobhat.com/feed/"
     ],
     "teknaftoday.com": [
       "https://teknaftoday.com/feed/",
       "https://teknaftoday.com/feed/"
-    ],
-    "chtnews24.com": [
-      "https://chtnews24.com/feed/"
     ]
   }
 }

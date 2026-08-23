@@ -1,0 +1,17 @@
+{
+  "country_code": "KW",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "al-forqan.net": [
+      "https://al-forqan.net/feed/"
+    ],
+    "bazaar.town": [
+      "https://bazaar.town/feed/"
+    ],
+    "thouq.com": [
+      "https://thouq.com/feed/"
+    ]
+  }
+}

@@ -7,26 +7,26 @@
     "adelaidereview.com.au": [
       "https://www.adelaidereview.com.au/feed/"
     ],
-    "courier.net.au": [
-      "https://www.courier.net.au/rss/"
-    ],
-    "ypct.com.au": [
-      "https://www.ypct.com.au/rss/"
-    ],
     "barossaleader.com": [
       "https://www.barossaleader.com/rss/"
     ],
     "cooberpedytimes.com": [
       "https://cooberpedytimes.com/feed/"
     ],
-    "weekenderherald.com.au": [
-      "https://weekenderherald.com.au/feed/"
+    "courier.net.au": [
+      "https://www.courier.net.au/rss/"
     ],
     "murraypioneer.com.au": [
       "https://www.murraypioneer.com.au/rss/"
     ],
     "twowellsecho.com.au": [
       "https://twowellsecho.com.au/feed/"
+    ],
+    "weekenderherald.com.au": [
+      "https://weekenderherald.com.au/feed/"
+    ],
+    "ypct.com.au": [
+      "https://www.ypct.com.au/rss/"
     ]
   }
 }

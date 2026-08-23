@@ -2,95 +2,61 @@
   "country_code": "IN",
   "language_code": "HI",
   "total_domains": 50,
-  "total_feeds": 73,
+  "total_feeds": 75,
   "feeds": {
-    "urdu.siasat.com": [
-      "https://urdu.siasat.com/feed/"
+    "aalmiakhbar.com": [
+      "https://aalmiakhbar.com/feed",
+      "https://aalmiakhbar.com/front-page-demo1/feed"
     ],
-    "etemaaddaily.com": [
-      "https://www.etemaadweekly.com/rssfeeds.php"
-    ],
-    "kashmiruzma.news": [
-      "https://kashmiruzma.news/feed/"
-    ],
-    "dailyhindustanexpress.com": [
-      "https://dailyhindustanexpress.com/feed/"
+    "agrasamachar.com": [
+      "https://www.agrasamachar.com/feeds/posts/default",
+      "https://www.agrasamachar.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/816629786327993216/posts/default"
     ],
     "avadhnama.com": [
       "https://avadhnama.com/feed/",
       "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
     ],
-    "taasir.com": [
-      "https://taasir.com/feed/"
+    "bhadas4media.com": [
+      "https://www.bhadas4media.com/feed/"
     ],
-    "dailysalar.com": [
-      "https://www.dailysalar.com/feed/"
+    "bhopalsamachar.com": [
+      "https://www.bhopalsamachar.com/feeds/posts/default"
     ],
     "dailyaag.com": [
       "http://dailyaag.com/phase2/feed/"
     ],
-    "sahilonline.net": [
-      "https://sahilonline.net/feed/posts"
+    "dailyhindinews.com": [
+      "https://dailyhindinews.com/feed/"
     ],
-    "aalmiakhbar.com": [
-      "https://aalmiakhbar.com/feed",
-      "https://aalmiakhbar.com/front-page-demo1/feed"
+    "dailyhindustanexpress.com": [
+      "https://dailyhindustanexpress.com/feed/"
     ],
-    "thewireurdu.com": [
-      "https://thewireurdu.com/feed/"
-    ],
-    "urdu.news18.com": [
-      "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
-    ],
-    "millattimes.com": [
-      "https://millattimes.com/feed/"
-    ],
-    "navbharattimes.indiatimes.com": [
-      "https://navbharattimes.indiatimes.com/langapi/sitemap/gstandrssfeed.xml"
+    "dailysalar.com": [
+      "https://www.dailysalar.com/feed/"
     ],
     "deshbandhu.co.in": [
       "https://www.deshbandhu.co.in/google_feeds.xml"
-    ],
-    "sanjeevnitoday.com": [
-      "https://sanjeevnitoday.com/feed/",
-      "https://sanjeevnitoday.com/web-stories/feed/"
-    ],
-    "uttamhindu.com": [
-      "https://www.uttamhindu.com/feed/",
-      "https://www.uttamhindu.com/feed/atom/",
-      "https://www.uttamhindu.com/feed/"
-    ],
-    "loktej.com": [
-      "https://www.loktej.com/rss"
-    ],
-    "navabharat.com": [
-      "https://navabharat.com/?feed=rss2"
-    ],
-    "krishakjagat.org": [
-      "https://www.krishakjagat.org/feed/"
-    ],
-    "tarunmitra.in": [
-      "https://www.tarunmitra.in/rss"
-    ],
-    "panchjanya.com": [
-      "https://panchjanya.com/feed/",
-      "https://panchjanya.com/web-stories/feed/"
-    ],
-    "royalbulletin.in": [
-      "https://royalbulletin.in/rss"
-    ],
-    "jagruktimes.co.in": [
-      "https://jagruktimes.co.in/feed/"
-    ],
-    "jansandeshtimes.net": [
-      "https://www.jansandeshtimes.net/rss"
     ],
     "dunvalleymail.com": [
       "https://dunvalleymail.com/feed/",
       "https://dunvalleymail.com/homepage/feed/"
     ],
-    "dailyhindinews.com": [
-      "https://dailyhindinews.com/feed/"
+    "emalwa.com": [
+      "https://emalwa.com/feed/"
+    ],
+    "etemaaddaily.com": [
+      "https://www.etemaadweekly.com/rssfeeds.php"
+    ],
+    "ghamasan.com": [
+      "https://ghamasan.com/feed",
+      "https://ghamasan.com/web-stories/feed/"
+    ],
+    "hastakshep.com": [
+      "https://hastakshep.com/google_feeds.xml"
+    ],
+    "highwaychannel.in": [
+      "https://highwaychannel.in/feed/"
     ],
     "ianshindi.in": [
       "https://www.ians.in/rss-feed.xml"
@@ -100,42 +66,69 @@
       "https://www.inkhabar.com/newsfeed/latest-feed/atom/",
       "https://www.inkhabar.com/newsfeed/latest-feed/"
     ],
-    "bhopalsamachar.com": [
-      "https://www.bhopalsamachar.com/feeds/posts/default",
-      "https://www.bhopalsamachar.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/7947143779319889236/posts/default"
+    "jagruktimes.co.in": [
+      "https://jagruktimes.co.in/feed/"
     ],
-    "bhadas4media.com": [
-      "https://www.bhadas4media.com/feed/"
+    "jaianndata.com": [
+      "https://jaianndata.com/feed/"
     ],
-    "ujjawalprabhat.com": [
-      "https://ujjawalprabhat.com/feed/"
+    "jansandeshtimes.net": [
+      "https://www.jansandeshtimes.net/rss"
+    ],
+    "kashmiruzma.news": [
+      "https://kashmiruzma.news/feed/"
+    ],
+    "krishakjagat.org": [
+      "https://www.krishakjagat.org/feed/"
+    ],
+    "loktej.com": [
+      "https://www.loktej.com/feed",
+      "https://www.loktej.com/rss"
+    ],
+    "millattimes.com": [
+      "https://millattimes.com/feed/"
+    ],
+    "navabharat.com": [
+      "https://navabharat.com/?feed=rss2"
+    ],
+    "navbharattimes.indiatimes.com": [
+      "https://navbharattimes.indiatimes.com/et-hindi/rssfeedsection/2279786.cms",
+      "https://navbharattimes.indiatimes.com/jokes/rssfeedsection/19615041.cms",
+      "https://navbharattimes.indiatimes.com/opinion/editorial/rssfeeds/2007740431.cms",
+      "https://navbharattimes.indiatimes.com/rssfeeds/2007740431.cms",
+      "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+    ],
+    "navsancharsamachar.com": [
+      "https://navsancharsamachar.com/feed/"
+    ],
+    "newdelhitimes.com": [
+      "https://www.newdelhitimes.com/feed/"
+    ],
+    "newswing.com": [
+      "https://newswing.com/feed/"
+    ],
+    "panchjanya.com": [
+      "https://panchjanya.com/feed/",
+      "https://panchjanya.com/web-stories/feed/"
+    ],
+    "peoplesupdate.com": [
+      "https://peoplesupdate.com/feed.xml"
+    ],
+    "poorvanchalmedia.com": [
+      "https://poorvanchalmedia.com/feed/"
     ],
     "pravakta.com": [
       "https://www.pravakta.com/feed/",
       "https://www.pravakta.com/homepage-fast-news/feed/"
     ],
-    "newswing.com": [
-      "https://newswing.com/feed/"
-    ],
-    "ghamasan.com": [
-      "https://ghamasan.com/feed",
-      "https://ghamasan.com/web-stories/feed/"
-    ],
-    "hastakshep.com": [
-      "https://hastakshep.com/google_feeds.xml"
-    ],
-    "poorvanchalmedia.com": [
-      "https://poorvanchalmedia.com/feed/"
+    "royalbulletin.in": [
+      "https://royalbulletin.in/rss"
     ],
     "sabguru.com": [
       "https://www.sabguru.com/feed"
     ],
-    "emalwa.com": [
-      "https://emalwa.com/feed/"
-    ],
-    "peoplesupdate.com": [
-      "https://peoplesupdate.com/feed.xml"
+    "sahilonline.net": [
+      "https://sahilonline.net/feed/posts"
     ],
     "samaykhabar.com": [
       "https://www.samaykhabar.com/feeds/posts/default",
@@ -145,37 +138,46 @@
       "https://www.samaykhabar.com/feeds/posts/default?alt=rss",
       "https://www.blogger.com/feeds/4381924464031099265/posts/default"
     ],
-    "highwaychannel.in": [
-      "https://highwaychannel.in/feed/"
+    "sanjeevnitoday.com": [
+      "https://sanjeevnitoday.com/feed/",
+      "https://sanjeevnitoday.com/web-stories/feed/"
+    ],
+    "sundayguardianlive.com": [
+      "https://sundayguardianlive.com/feed",
+      "https://sundayguardianlive.com/feed/",
+      "https://sundayguardianlive.com/feed/atom/"
+    ],
+    "taasir.com": [
+      "https://taasir.com/feed/"
+    ],
+    "tarunmitra.in": [
+      "https://www.tarunmitra.in/rss"
     ],
     "teznews.com": [
       "https://teznews.com/feed/"
     ],
-    "navsancharsamachar.com": [
-      "https://navsancharsamachar.com/feed/"
-    ],
-    "yashbharat.com": [
-      "https://www.yashbharat.com/feed/"
-    ],
-    "jaianndata.com": [
-      "https://jaianndata.com/feed/"
-    ],
-    "agrasamachar.com": [
-      "https://www.agrasamachar.com/feeds/posts/default",
-      "https://www.agrasamachar.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/816629786327993216/posts/default"
+    "thewireurdu.com": [
+      "https://thewireurdu.com/feed/"
     ],
     "trthindi.com": [
       "https://www.trthindi.com/feed/rss.xml"
     ],
-    "sundayguardianlive.com": [
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/feed/atom/",
-      "https://sundayguardianlive.com/feed/",
-      "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
+    "ujjawalprabhat.com": [
+      "https://ujjawalprabhat.com/feed/"
     ],
-    "newdelhitimes.com": [
-      "https://www.newdelhitimes.com/feed/"
+    "urdu.news18.com": [
+      "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
+    ],
+    "urdu.siasat.com": [
+      "https://urdu.siasat.com/feed/"
+    ],
+    "uttamhindu.com": [
+      "https://www.uttamhindu.com/feed/",
+      "https://www.uttamhindu.com/feed/atom/",
+      "https://www.uttamhindu.com/feed/"
+    ],
+    "yashbharat.com": [
+      "https://www.yashbharat.com/feed/"
     ]
   }
 }

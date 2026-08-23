@@ -1,0 +1,202 @@
+{
+  "country_code": "EC",
+  "language_code": "EN",
+  "total_domains": 26,
+  "total_feeds": 142,
+  "feeds": {
+    "cronica.com.ec": [
+      "https://cronica.com.ec/feed/"
+    ],
+    "cuencahighlife.com": [
+      "https://cuencahighlife.com/feed/"
+    ],
+    "df.cl": [
+      "https://www.df.cl/noticias/site/list/port/rss.xml",
+      "https://www.df.cl/prontus_df/site/edic/base/rss/inicio.xml"
+    ],
+    "diariolosandes.com.ec": [
+      "https://diariolosandes.com.ec/feed/"
+    ],
+    "ecuadorenvivo.com": [
+      "http://www.ecuadorenvivo.com/index.php?format=feed&type=rss",
+      "http://www.ecuadorenvivo.com/?format=feed&type=atom",
+      "http://www.ecuadorenvivo.com/?format=feed&type=rss"
+    ],
+    "ecuadortimes.net": [
+      "https://www.ecuadortimes.net/feed/"
+    ],
+    "ecuadortv.ec": [
+      "https://www.ecuadortv.ec/feed/"
+    ],
+    "ecuavisa.com": [
+      "https://www.ecuavisa.com/rss/home"
+    ],
+    "elcomercio.com": [
+      "https://www.elcomercio.com/blogs/feed/",
+      "https://www.elcomercio.com/feed/",
+      "https://www.elcomercio.com/rss/",
+      "https://www.elcomercio.com/rss/actualidad",
+      "https://www.elcomercio.com/rss/deportes",
+      "https://www.elcomercio.com/rss/opinion",
+      "https://www.elcomercio.com/rss/tendencias"
+    ],
+    "eldiario.ec": [
+      "https://www.eldiario.ec/feed/"
+    ],
+    "elheraldo.com.ec": [
+      "https://www.elheraldo.com.ec/feed/"
+    ],
+    "elmercurio.com.ec": [
+      "https://elmercurio.com.ec/feed/"
+    ],
+    "elnorte.ec": [
+      "https://elnorte.ec/feed/"
+    ],
+    "eltelegrafo.com.ec": [
+      "https://www.eltelegrafo.com.ec/contenido/categoria/4/economia?format=feed"
+    ],
+    "eluniverso.com": [
+      "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.eluniverso.com/rss/all.xml",
+      "https://www.eluniverso.com/rss/arte",
+      "https://www.eluniverso.com/rss/campeonato-nacional",
+      "https://www.eluniverso.com/rss/cartas-al-director.xml",
+      "https://www.eluniverso.com/rss/cine",
+      "https://www.eluniverso.com/rss/cocina",
+      "https://www.eluniverso.com/rss/columnistas.xml",
+      "https://www.eluniverso.com/rss/compras",
+      "https://www.eluniverso.com/rss/comunidad",
+      "https://www.eluniverso.com/rss/cuerpo--y-alma",
+      "https://www.eluniverso.com/rss/cultura.xml",
+      "https://www.eluniverso.com/rss/deportes.xml",
+      "https://www.eluniverso.com/rss/dise%C3%B1o",
+      "https://www.eluniverso.com/rss/doctor-tecno",
+      "https://www.eluniverso.com/rss/ecologia.xml",
+      "https://www.eluniverso.com/rss/economia.xml",
+      "https://www.eluniverso.com/rss/ecuador.xml",
+      "https://www.eluniverso.com/rss/ecuatorianos-en-el-exterior",
+      "https://www.eluniverso.com/rss/editoriales",
+      "https://www.eluniverso.com/rss/el-especialista",
+      "https://www.eluniverso.com/rss/entretenimiento",
+      "https://www.eluniverso.com/rss/f%C3%BAtbol-internacional",
+      "https://www.eluniverso.com/rss/foro-de-lectores",
+      "https://www.eluniverso.com/rss/futbol.xml",
+      "https://www.eluniverso.com/rss/gente.xml",
+      "https://www.eluniverso.com/rss/guayaquil",
+      "https://www.eluniverso.com/rss/informes.xml",
+      "https://www.eluniverso.com/rss/intercultural",
+      "https://www.eluniverso.com/rss/internacional.xml",
+      "https://www.eluniverso.com/rss/la-revista",
+      "https://www.eluniverso.com/rss/libros",
+      "https://www.eluniverso.com/rss/moda",
+      "https://www.eluniverso.com/rss/motores",
+      "https://www.eluniverso.com/rss/noticias.xml",
+      "https://www.eluniverso.com/rss/opinion.xml",
+      "https://www.eluniverso.com/rss/orientaci%C3%B3n",
+      "https://www.eluniverso.com/rss/otros-deportes.xml",
+      "https://www.eluniverso.com/rss/politica.xml",
+      "https://www.eluniverso.com/rss/redes-sociales",
+      "https://www.eluniverso.com/rss/salud.xml",
+      "https://www.eluniverso.com/rss/seguridad",
+      "https://www.eluniverso.com/rss/show",
+      "https://www.eluniverso.com/rss/teatro",
+      "https://www.eluniverso.com/rss/televisi%C3%B3n",
+      "https://www.eluniverso.com/rss/viajemos"
+    ],
+    "expreso.ec": [
+      "https://www.expreso.ec/rss/home.xml"
+    ],
+    "extra.ec": [
+      "https://www.extra.ec/rss/portada.xml"
+    ],
+    "futbolecuador.com": [
+      "https://www.futbolecuador.com/stories/rss"
+    ],
+    "lahora.com.ec": [
+      "https://www.lahora.com.ec/feed/",
+      "https://lahora.com.ec/rss",
+      "https://www.lahora.com.ec/rss"
+    ],
+    "lanacion.com.ec": [
+      "https://lanacion.com.ec/feed/"
+    ],
+    "laprensa.com.ec": [
+      "https://laprensa.com.ec/web-stories/feed/"
+    ],
+    "larepublica.ec": [
+      "https://www.larepublica.ec/blog/2011/06/11/deficit-de-deleite/feed/",
+      "https://www.larepublica.ec/blog/2011/06/11/demasiada-democracia/feed/",
+      "https://www.larepublica.ec/blog/seccion/cultura/feed/",
+      "https://www.larepublica.ec/blog/seccion/deportes/feed/",
+      "https://www.larepublica.ec/blog/seccion/economia/feed/",
+      "https://www.larepublica.ec/blog/seccion/entretenimiento/feed/",
+      "https://www.larepublica.ec/blog/seccion/gente/feed/",
+      "https://www.larepublica.ec/blog/seccion/internacional/feed/",
+      "https://www.larepublica.ec/blog/seccion/opinion/feed/",
+      "https://www.larepublica.ec/blog/seccion/politica/feed/",
+      "https://www.larepublica.ec/blog/seccion/sociedad/feed/",
+      "https://www.larepublica.ec/blog/seccion/vida-estilo/feed/",
+      "https://www.larepublica.ec/blog/tag/airbnb/feed/",
+      "https://www.larepublica.ec/blog/tag/amazon/feed/",
+      "https://www.larepublica.ec/blog/tag/armas/feed/",
+      "https://www.larepublica.ec/blog/tag/cannes/feed/",
+      "https://www.larepublica.ec/blog/tag/charlene/feed/",
+      "https://www.larepublica.ec/blog/tag/china/feed/",
+      "https://www.larepublica.ec/blog/tag/ciencia/feed/",
+      "https://www.larepublica.ec/blog/tag/daniel-noboa/feed/",
+      "https://www.larepublica.ec/blog/tag/descarbonizacion/feed/",
+      "https://www.larepublica.ec/blog/tag/economia/feed/",
+      "https://www.larepublica.ec/blog/tag/eeuu/feed/",
+      "https://www.larepublica.ec/blog/tag/elecciones/feed/",
+      "https://www.larepublica.ec/blog/tag/emmy/feed/",
+      "https://www.larepublica.ec/blog/tag/enrique-viii/feed/",
+      "https://www.larepublica.ec/blog/tag/estudio/feed/",
+      "https://www.larepublica.ec/blog/tag/festival-de-cine/feed/",
+      "https://www.larepublica.ec/blog/tag/festival-gabo/feed/",
+      "https://www.larepublica.ec/blog/tag/francia/feed/",
+      "https://www.larepublica.ec/blog/tag/francisco/feed/",
+      "https://www.larepublica.ec/blog/tag/gaza/feed/",
+      "https://www.larepublica.ec/blog/tag/gira/feed/",
+      "https://www.larepublica.ec/blog/tag/guyana/feed/",
+      "https://www.larepublica.ec/blog/tag/hamas-2/feed/",
+      "https://www.larepublica.ec/blog/tag/hispanos/feed/",
+      "https://www.larepublica.ec/blog/tag/hizbula/feed/",
+      "https://www.larepublica.ec/blog/tag/londres/feed/",
+      "https://www.larepublica.ec/blog/tag/los-45-anos-de-la-princesa-de-monaco/feed/",
+      "https://www.larepublica.ec/blog/tag/luis-montenegro/feed/",
+      "https://www.larepublica.ec/blog/tag/manuel-adorni/feed/",
+      "https://www.larepublica.ec/blog/tag/noticias-ecuador/feed/",
+      "https://www.larepublica.ec/blog/tag/nueva-ruta-de-la-seda/feed/",
+      "https://www.larepublica.ec/blog/tag/nueva-tormenta-azota-california/feed/",
+      "https://www.larepublica.ec/blog/tag/paris-2/feed/",
+      "https://www.larepublica.ec/blog/tag/portugal/feed/",
+      "https://www.larepublica.ec/blog/tag/primer-ministro/feed/",
+      "https://www.larepublica.ec/blog/tag/rafael-correa/feed/",
+      "https://www.larepublica.ec/blog/tag/rafah/feed/",
+      "https://www.larepublica.ec/blog/tag/shogun/feed/",
+      "https://www.larepublica.ec/blog/tag/tecnologicas/feed/",
+      "https://www.larepublica.ec/blog/tag/telenovelas/feed/",
+      "https://www.larepublica.ec/blog/tag/time/feed/",
+      "https://www.larepublica.ec/blog/tag/tumaco/feed/",
+      "https://www.larepublica.ec/blog/tag/ucrania/feed/",
+      "https://www.larepublica.ec/blog/tag/venezuela/feed/",
+      "https://www.larepublica.ec/blog/tag/veronica-abad/feed/",
+      "https://www.larepublica.ec/blog/tag/wall-street/feed/",
+      "https://www.larepublica.ec/feed/"
+    ],
+    "metroecuador.com.ec": [
+      "https://www.metroecuador.com.ec/arc/outboundfeeds/rss/"
+    ],
+    "ppelverdadero.com.ec": [
+      "https://www.ppelverdadero.com.ec/feeds/posts/default",
+      "https://www.ppelverdadero.com.ec/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/3451520795973986878/posts/default"
+    ],
+    "teleamazonas.com": [
+      "https://www.teleamazonas.com/rss/home.xml"
+    ],
+    "thecuencadispatch.com": [
+      "https://thecuencadispatch.com/feed/"
+    ]
+  }
+}

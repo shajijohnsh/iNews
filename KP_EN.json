@@ -1,0 +1,26 @@
+{
+  "country_code": "KP",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 10,
+  "feeds": {
+    "chosonsinbo.com": [
+      "https://chosonsinbo.com/feed/",
+      "http://chosonsinbo.com/feed/",
+      "https://www.chosonsinbo.com/feed/"
+    ],
+    "dailynk.com": [
+      "https://www.dailynk.com/feed/"
+    ],
+    "nknews.org": [
+      "https://www.nknews.org/category/north-korea-news-podcast/feed/",
+      "https://www.nknews.org/feed/",
+      "https://www.nknews.org/pro/feed/",
+      "https://www.nknews.org/category/nk-voices/ask-a-north-korean/feed/"
+    ],
+    "northkoreatimes.com": [
+      "https://feeds.northkoreatimes.com/rss/08aysdf7tga9s7f7",
+      "http://feeds.northkoreatimes.com/rss/08aysdf7tga9s7f7"
+    ]
+  }
+}

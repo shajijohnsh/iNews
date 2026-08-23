@@ -1,0 +1,53 @@
+{
+  "country_code": "ER",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 21,
+  "feeds": {
+    "adoulis.net": [
+      "https://adoulis.net/feed/"
+    ],
+    "asenatv.com": [
+      "https://asenatv.com/feed/"
+    ],
+    "asmarino.com": [
+      "https://asmarino.com/?Ã¨Â¢Â¦Ã¨Å%20Â¯Ã¨Â°Â¢Ã¦â¡ËÃ¨Â¤ÅÃ¨ÆÃ©âÂª_AND_EXTRACTVALUE(8936,CONCAT(0x5c,0x7170626271,(SELECT_(ELT(8936=8936,1))),0x7170707871))&format=feed&type=rss",
+      "https://asmarino.com/?Ã¨Â¢Â¦Ã¨Å%20Â¯Ã¨Â°Â¢Ã¦â¡ËÃ¨Â¤ÅÃ¨ÆÃ©âÂª_AND_EXTRACTVALUE(8936,CONCAT(0x5c,0x7170626271,(SELECT_(ELT(8936=8936,1))),0x7170707871))&format=feed&type=atom"
+    ],
+    "awate.com": [
+      "https://awate.com/feed/"
+    ],
+    "farajat.net": [
+      "https://www.farajat.net/ar/feed/",
+      "https://www.farajat.net/ar/feed/atom/"
+    ],
+    "jeberti.com": [
+      "http://jeberti.com/index.php?format=feed&type=atom",
+      "http://www.jeberti.com/index.php?format=feed&type=atom",
+      "http://jeberti.com/index.php?format=feed&type=rss",
+      "http://www.jeberti.com/index.php?format=feed&type=rss"
+    ],
+    "madote.com": [
+      "http://www.madote.com/feeds/posts/default",
+      "http://www.madote.com/feeds/posts/default?alt=rss",
+      "http://feeds.feedburner.com/madote/oFqt",
+      "https://draft.blogger.com/feeds/774364245587719244/posts/default",
+      "https://www.blogger.com/feeds/774364245587719244/posts/default"
+    ],
+    "meskerem.net": [
+      "https://meskerem.net/feed/"
+    ],
+    "raimoq.com": [
+      "https://raimoq.com/feed/"
+    ],
+    "shabait.com": [
+      "https://shabait.com/feed/"
+    ],
+    "tesfanews.com": [
+      "https://tesfanews.com/feed/"
+    ],
+    "zenazajel.net": [
+      "https://zenazajel.net/feed/"
+    ]
+  }
+}

@@ -2,22 +2,13 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 15,
-  "total_feeds": 16,
+  "total_feeds": 18,
   "feeds": {
-    "register-herald.com": [
-      "http://www.register-herald.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "bdtonline.com": [
       "http://www.bdtonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "wvgazettemail.com": [
-      "http://www.wvgazettemail.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wvnews.com": [
-      "http://www.wvnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "timeswv.com": [
-      "http://www.timeswv.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "fayettetribune.com": [
+      "http://www.fayettetribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "herald-dispatch.com": [
       "https://www.herald-dispatch.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -25,27 +16,38 @@
     "journal-news.net": [
       "http://www.journal-news.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "williamsondailynews.com": [
-      "http://www.williamsondailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "morganmessenger.com": [
-      "https://www.morganmessenger.com/feed/"
-    ],
     "lincolnjournal.com": [
       "http://www.lincolnjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "loganbanner.com": [
       "http://www.loganbanner.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "fayettetribune.com": [
-      "http://www.fayettetribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "marshallparthenon.com": [
+      "https://marshallparthenon.com/feed/",
+      "https://marshallparthenon.com/feed/atom/"
+    ],
+    "morganmessenger.com": [
+      "https://www.morganmessenger.com/feed/"
+    ],
+    "register-herald.com": [
+      "https://www.register-herald.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=news,news/*&f=rss"
+    ],
+    "timeswv.com": [
+      "http://www.timeswv.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "waynecountynews.com": [
       "http://www.waynecountynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "marshallparthenon.com": [
-      "https://marshallparthenon.com/feed/",
-      "https://marshallparthenon.com/feed/atom/"
+    "williamsondailynews.com": [
+      "http://www.williamsondailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wvgazettemail.com": [
+      "http://www.wvgazettemail.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wvnews.com": [
+      "https://www.wvnews.com/search/?f=rss&t=article&c=business&l=50&s=start_time&sd=desc",
+      "https://www.wvnews.com/search/?f=rss&t=article&c=jacksonnews&l=50&s=start_time&sd=desc",
+      "https://www.wvnews.com/search/?f=rss&t=article&c=theet/news&l=50&s=start_time&sd=desc"
     ],
     "wvpress.org": [
       "https://wvpress.org/feed/"

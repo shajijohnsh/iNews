@@ -1,0 +1,36 @@
+{
+  "country_code": "LR",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 10,
+  "feeds": {
+    "bushchicken.com": [
+      "https://bushchicken.com/feed/"
+    ],
+    "frontpageafricaonline.com": [
+      "https://frontpageafricaonline.com/feed/"
+    ],
+    "gnnliberia.com": [
+      "https://gnnliberia.com/feed/"
+    ],
+    "gossipliberia.com": [
+      "https://gossipliberia.com/feed/"
+    ],
+    "liberianobserver.com": [
+      "http://www.liberianobserver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "plusliberia.com": [
+      "https://plusliberia.com/feed/"
+    ],
+    "smartnewsliberia.com": [
+      "https://smartnewsliberia.com/feed/",
+      "https://smartnewsliberia.com/home/feed/"
+    ],
+    "themonroviatimes.com": [
+      "https://themonroviatimes.com/feed/"
+    ],
+    "thenewdawnliberia.com": [
+      "https://www.thenewdawnliberia.com/feed/"
+    ]
+  }
+}

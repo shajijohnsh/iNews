@@ -1,0 +1,45 @@
+{
+  "country_code": "UZ",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 17,
+  "feeds": {
+    "daryo.uz": [
+      "https://daryo.uz/uz/feed/",
+      "https://daryo.uz/rss"
+    ],
+    "gazeta.uz": [
+      "https://www.gazeta.uz/en/rss/",
+      "https://www.gazeta.uz/oz/rss/",
+      "https://www.gazeta.uz/ru/rss/",
+      "https://www.gazeta.uz/uz/rss/"
+    ],
+    "kun.uz": [
+      "https://kun.uz/news/rss?lang=uz"
+    ],
+    "podrobno.uz": [
+      "https://podrobno.uz/rss/"
+    ],
+    "sputniknews.uz": [
+      "https://sputniknews.uz/export/rss2/archive/index.xml"
+    ],
+    "uz.sputniknews.ru": [
+      "https://uz.sputniknews.ru/export/rss2/archive/index.xml"
+    ],
+    "uz24.uz": [
+      "https://uz24.uz/uz/articles.rss"
+    ],
+    "uzdaily.com": [
+      "https://www.uzdaily.uz/ru/rss/"
+    ],
+    "uzhurriyat.uz": [
+      "https://uzhurriyat.uz/feed/"
+    ],
+    "uzreport.news": [
+      "https://uzreport.news/feed/rss/oz",
+      "https://www.uzreport.news/feed/rss/oz",
+      "https://uzreport.news/feed/rss/ru",
+      "https://www.uzreport.news/feed/rss/ru"
+    ]
+  }
+}

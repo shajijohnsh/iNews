@@ -4,39 +4,34 @@
   "total_domains": 22,
   "total_feeds": 28,
   "feeds": {
-    "pressofatlanticcity.com": [
-      "http://pressofatlanticcity.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "trentonian.com": [
-      "https://www.trentonian.com/feed/"
-    ],
-    "jerseyshoreonline.com": [
-      "https://www.jerseyshoreonline.com/feed/",
-      "https://www.jerseyshoreonline.com/jersey-shore-online/feed/"
-    ],
-    "newjerseyhills.com": [
-      "http://www.newjerseyhills.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "atlanticcityweekly.com": [
+      "http://atlanticcityweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "catholicstarherald.org": [
       "https://catholicstarherald.org/feed/"
     ],
-    "shorelocalnews.com": [
-      "https://shorelocalnews.com/feed/"
+    "elespecialitomk.com": [
+      "https://elespecialitomk.com/feed/"
     ],
     "essexnewsdaily.com": [
       "https://essexnewsdaily.com/feed/"
     ],
     "hammontongazette.com": [
-      "http://www.hammontongazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      "https://www.hammontongazette.com/blog-feed.xml"
     ],
-    "theobserver.com": [
-      "https://www.theobserver.com/feed/"
+    "jerseyshoreonline.com": [
+      "https://www.jerseyshoreonline.com/feed/",
+      "https://www.jerseyshoreonline.com/jersey-shore-online/feed/"
     ],
-    "theaquarian.com": [
-      "https://www.theaquarian.com/feed/"
+    "kutower.com": [
+      "https://kutower.com/feed/"
     ],
-    "thenjsentinel.com": [
-      "https://thenjsentinel.com/feed/"
+    "newjerseyhills.com": [
+      "http://www.newjerseyhills.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "njitvector.com": [
+      "https://njitvector.com/feed/",
+      "https://njitvector.com/feed/atom/"
     ],
     "ocnjsentinel.com": [
       "https://ocnjsentinel.com/feed/"
@@ -45,36 +40,41 @@
       "https://parsippanyfocus.com/feed/",
       "https://parsippanyfocus.com/home/feed/"
     ],
-    "atlanticcityweekly.com": [
-      "http://atlanticcityweekly.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "pressofatlanticcity.com": [
+      "http://pressofatlanticcity.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "tworivertimes.com": [
-      "https://tworivertimes.com/feed/"
+    "shorelocalnews.com": [
+      "https://shorelocalnews.com/feed/"
     ],
-    "themontynews.org": [
-      "https://www.themontynews.org/blog-feed.xml"
-    ],
-    "unionnewsdaily.com": [
-      "https://unionnewsdaily.com/feed"
-    ],
-    "elespecialitomk.com": [
-      "https://elespecialitomk.com/feed/"
-    ],
-    "kutower.com": [
-      "https://kutower.com/feed/"
+    "theaquarian.com": [
+      "https://www.theaquarian.com/feed/"
     ],
     "themontclarion.org": [
       "https://themontclarion.org/feed/",
       "https://themontclarion.org/feed/atom/",
       "https://themontclarion.org/feed/"
     ],
-    "njitvector.com": [
-      "https://njitvector.com/feed/",
-      "https://njitvector.com/feed/atom/"
+    "themontynews.org": [
+      "https://www.themontynews.org/blog-feed.xml"
+    ],
+    "thenjsentinel.com": [
+      "https://thenjsentinel.com/feed/"
+    ],
+    "theobserver.com": [
+      "https://www.theobserver.com/feed/"
     ],
     "theridernews.com": [
       "https://theridernews.com/feed/",
       "https://theridernews.com/sample-page/feed/"
+    ],
+    "trentonian.com": [
+      "https://www.trentonian.com/feed/"
+    ],
+    "tworivertimes.com": [
+      "https://tworivertimes.com/feed/"
+    ],
+    "unionnewsdaily.com": [
+      "https://unionnewsdaily.com/feed"
     ]
   }
 }

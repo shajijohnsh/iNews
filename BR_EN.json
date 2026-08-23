@@ -1,0 +1,277 @@
+{
+  "country_code": "BR",
+  "language_code": "EN",
+  "total_domains": 51,
+  "total_feeds": 167,
+  "feeds": {
+    "artebrasileiros.com.br": [
+      "https://artebrasileiros.com.br/feed/"
+    ],
+    "autoesporte.globo.com": [
+      "https://autoesporte.globo.com/rss/autoesporte"
+    ],
+    "caesegatos.com.br": [
+      "https://caesegatos.com.br/feed/"
+    ],
+    "capricho.abril.com.br": [
+      "https://capricho.abril.com.br/feed/"
+    ],
+    "caras.uol.com.br": [
+      "https://caras.uol.com.br/feed/",
+      "https://caras.com.br/feed",
+      "https://caras.com.br/feed/"
+    ],
+    "cartacapital.com.br": [
+      "https://www.cartacapital.com.br/blogs/augusto-diniz/feed/",
+      "https://www.cartacapital.com.br/blogs/blog-do-socio/feed/",
+      "https://www.cartacapital.com.br/blogs/br-cidades/feed/",
+      "https://www.cartacapital.com.br/blogs/change-org/feed/",
+      "https://www.cartacapital.com.br/blogs/daniel-camargos/feed/",
+      "https://www.cartacapital.com.br/blogs/dialogos-da-fe/feed/",
+      "https://www.cartacapital.com.br/blogs/fashion-revolution/feed/",
+      "https://www.cartacapital.com.br/blogs/feed/",
+      "https://www.cartacapital.com.br/blogs/fora-da-faria/feed/",
+      "https://www.cartacapital.com.br/blogs/fora-da-politica/feed/",
+      "https://www.cartacapital.com.br/blogs/intervozes/feed/",
+      "https://www.cartacapital.com.br/blogs/lado/feed/",
+      "https://www.cartacapital.com.br/blogs/observatorio-banco-central/feed/",
+      "https://www.cartacapital.com.br/blogs/observatorio-da-economia-contemporanea/feed/",
+      "https://www.cartacapital.com.br/blogs/pantagruel/feed/",
+      "https://www.cartacapital.com.br/blogs/psicodelicamente/feed/",
+      "https://www.cartacapital.com.br/blogs/sampape/feed/",
+      "https://www.cartacapital.com.br/blogs/saude-capital/feed/",
+      "https://www.cartacapital.com.br/blogs/saudelgbt/feed/",
+      "https://www.cartacapital.com.br/blogs/venes/feed/",
+      "https://www.cartacapital.com.br/blogs/zumbido-justica-antirracista/feed/",
+      "https://www.cartacapital.com.br/feed/"
+    ],
+    "cienciahoje.org.br": [
+      "https://cienciahoje.org.br/home/feed/"
+    ],
+    "claudia.abril.com.br": [
+      "https://claudia.abril.com.br/ultimas-noticias/rss"
+    ],
+    "clubedohardware.com.br": [
+      "https://www.clubedohardware.com.br/pagesrssfeed.xml/",
+      "https://www.clubedohardware.com.br/artigos/blog/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/podcast-cdh/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/blog/page/11/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/blog/page/3/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/blog/page/4/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/blog/page/5/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/blog/page/6/?rss=1",
+      "https://www.clubedohardware.com.br/artigos/blog/page/10/?rss=1"
+    ],
+    "costuraperfeita.com.br": [
+      "https://costuraperfeita.com.br/feed/"
+    ],
+    "edhorizonte.com.br": [
+      "https://edhorizonte.com.br/feed/"
+    ],
+    "editorajbc.com.br": [
+      "https://editorajbc.com.br/feed/"
+    ],
+    "empreendedor.com.br": [
+      "https://empreendedor.com.br/feed/"
+    ],
+    "epocanegocios.globo.com": [
+      "https://epocanegocios.globo.com/rss/epocanegocios",
+      "https://pox.globo.com/rss/epocanegocios/"
+    ],
+    "exame.com": [
+      "https://exame.com/blog/blog-do-site-exame/feed/",
+      "https://exame.com/blog/branding-consumo-negocios/feed/",
+      "https://exame.com/blog/car-and-fun/feed/",
+      "https://exame.com/blog/celso-toledo/feed/",
+      "https://exame.com/blog/crescer-em-rede/feed/",
+      "https://exame.com/blog/esporte-executivo/feed/",
+      "https://exame.com/blog/gestao-fora-da-caixa/feed/",
+      "https://exame.com/blog/instituto-millenium/feed/",
+      "https://exame.com/blog/joel-pinheiro-da-fonseca/feed/",
+      "https://exame.com/blog/o-que-te-motiva/feed/",
+      "https://exame.com/blog/opiniao/feed/",
+      "https://exame.com/blog/relacionamento-antes-do-marketing/feed/",
+      "https://exame.com/blog/sergio-praca/feed/",
+      "https://exame.com/blog/sergio-vale/feed/",
+      "https://exame.com/blog/sua-carreira-sua-gestao/feed/"
+    ],
+    "graciemag.com": [
+      "https://www.graciemag.com/feed/"
+    ],
+    "guiadoestudante.abril.com.br": [
+      "https://guiadoestudante.abril.com.br/rss",
+      "https://guiadoestudante.abril.com.br/rss/",
+      "https://guiadoestudante.abril.com.br/ultimas-noticias/rss",
+      "https://guiadoestudante.abril.com.br/ultimas-noticias/rss/"
+    ],
+    "harpersbazaar.uol.com.br": [
+      "https://harpersbazaar.uol.com.br/feed/"
+    ],
+    "higienealimentar.com.br": [
+      "https://higienealimentar.com.br/feed/"
+    ],
+    "istoe.com.br": [
+      "https://istoe.com.br/coluna/brasil-confidencial/feed",
+      "https://istoe.com.br/coluna/marco-antonio-villa/feed",
+      "https://istoe.com.br/feed",
+      "https://istoe.com.br/feed/",
+      "https://istoe.com.br:443/coluna/brasil-confidencial/feed/",
+      "https://istoe.com.br:443/coluna/marco-antonio-villa/feed/"
+    ],
+    "istoedinheiro.com.br": [
+      "http://istoedinheiro.com.br/feed",
+      "https://istoedinheiro.com.br/feed",
+      "https://istoedinheiro.com.br/feed/",
+      "https://www.istoedinheiro.com.br/categoria/tecnologia/feed/",
+      "https://www.istoedinheiro.com.br/feed/"
+    ],
+    "mulhercheirosa.com.br": [
+      "https://mulhercheirosa.com.br/feed/",
+      "https://mulhercheirosa.com.br/category/blog/feed/"
+    ],
+    "mundo.top": [
+      "https://mundo.top/feed/"
+    ],
+    "nautica.com.br": [
+      "https://nautica.com.br/feed/",
+      "https://nautica.com.br/web-stories/feed/"
+    ],
+    "oglobo.globo.com": [
+      "https://blogs.oglobo.globo.com/a-hora-da-ciencia/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/ancelmo/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/bela-megale/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/bernardo-mello-franco/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/capital/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/carlos-andreazza/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/fumus-boni-iuris/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/guga-chacra/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/lauro-jardim/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/malu-gaspar/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/marcelo-ninio/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/merval-pereira/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/miriam-leitao/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/opiniao/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/ruth-de-aquino/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/sensacionalista/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/rss/ultimas.feed",
+      "https://blogs.oglobo.globo.com/vera-magalhaes/rss/ultimas.feed",
+      "https://oglobo.globo.com/rss.xml?secao=ece_frontpage",
+      "https://oglobo.globo.com/rss/oglobo",
+      "https://pox.globo.com/rss/oglobo/"
+    ],
+    "piaui.folha.uol.com.br": [
+      "https://piaui.folha.uol.com.br/feed/",
+      "https://piaui.folha.uol.com.br/herald/feed/"
+    ],
+    "quatrorodas.abril.com.br": [
+      "https://quatrorodas.abril.com.br/ultimas-noticias/rss"
+    ],
+    "revistaadega.uol.com.br": [
+      "https://revistaadega.uol.com.br/feed/"
+    ],
+    "revistaautomotivo.com.br": [
+      "https://revistaautomotivo.com.br/feed/"
+    ],
+    "revistabikeaction.com.br": [
+      "https://www.revistabikeaction.com.br/blog-feed.xml"
+    ],
+    "revistacrescer.globo.com": [
+      "https://revistacrescer.globo.com/rss/crescer"
+    ],
+    "revistacult.uol.com.br": [
+      "https://revistacult.uol.com.br/home/feed/"
+    ],
+    "revistadecinema.com.br": [
+      "https://revistadecinema.com.br/feed/"
+    ],
+    "revistaeducacao.com.br": [
+      "https://revistaeducacao.com.br/feed/",
+      "https://revistaeducacao.com.br/categoria/podcast/feed/",
+      "https://revistaeducacao.com.br/category/blog/feed/",
+      "https://revistaeducacao.com.br/tag/podcast-brasil-educacao/feed/",
+      "https://revistaeducacao.com.br/tag/podcast/feed/"
+    ],
+    "revistagalileu.globo.com": [
+      "https://pox.globo.com/rss/galileu/",
+      "https://revistagalileu.globo.com/rss/galileu"
+    ],
+    "revistahorse.com.br": [
+      "https://revistahorse.com.br/feed/",
+      "https://revistahorse.com.br/feed/"
+    ],
+    "revistapegn.globo.com": [
+      "https://pox.globo.com/rss/pegn/",
+      "https://revistapegn.globo.com/rss/pegn"
+    ],
+    "revistapetcenter.com.br": [
+      "https://revistapetcenter.com.br/feed/"
+    ],
+    "revistaplaneta.com.br": [
+      "https://revistaplaneta.com.br/feed",
+      "https://revistaplaneta.com.br/feed/",
+      "https://www.revistaplaneta.com.br/feed/",
+      "https://revistaplaneta.com.br/web-stories/feed",
+      "https://revistaplaneta.com.br/web-stories/feed/",
+      "https://www.revistaplaneta.com.br/web-stories/feed/"
+    ],
+    "revistaquem.globo.com": [
+      "https://revistaquem.globo.com/rss/quem"
+    ],
+    "revistatenis.uol.com.br": [
+      "https://revistatenis.uol.com.br/feed/"
+    ],
+    "revistatrip.uol.com.br": [
+      "https://revistatrip.uol.com.br/rss",
+      "https://revistatrip.uol.com.br/rss/tpm",
+      "https://revistatrip.uol.com.br/feed"
+    ],
+    "saude.abril.com.br": [
+      "https://saude.abril.com.br/mente-saudavel/rss",
+      "https://saude.abril.com.br/mente-saudavel/rss/"
+    ],
+    "super.abril.com.br": [
+      "https://super.abril.com.br/blog/bruno-garattoni/feed",
+      "https://super.abril.com.br/blog/bruno-garattoni/feed/",
+      "https://super.abril.com.br/blog/cultura/feed",
+      "https://super.abril.com.br/blog/oraculo/feed",
+      "https://super.abril.com.br/blog/oraculo/feed/",
+      "https://super.abril.com.br/ciencia/rss",
+      "https://super.abril.com.br/ciencia/rss/",
+      "https://super.abril.com.br/cultura/rss",
+      "https://super.abril.com.br/cultura/rss/",
+      "https://super.abril.com.br/feed/",
+      "https://super.abril.com.br/tecnologia/rss",
+      "https://super.abril.com.br/tecnologia/rss/"
+    ],
+    "tennisview.com.br": [
+      "https://www.tennisview.com.br/feed/"
+    ],
+    "trivela.com.br": [
+      "https://trivela.com.br/feed/"
+    ],
+    "veja.abril.com.br": [
+      "https://veja.abril.com.br/blog/sensacionalista/feed/",
+      "https://veja.abril.com.br/brasil/rss",
+      "https://veja.abril.com.br/brasil/rss/",
+      "https://veja.abril.com.br/gastronomia/rss",
+      "https://veja.abril.com.br/gastronomia/rss/",
+      "https://veja.abril.com.br/ultimas-noticias/rss",
+      "https://veja.abril.com.br/ultimas-noticias/rss/"
+    ],
+    "vejario.abril.com.br": [
+      "https://vejario.abril.com.br/feed/"
+    ],
+    "vejasp.abril.com.br": [
+      "https://vejasp.abril.com.br/feed/"
+    ],
+    "vinhomagazine.com.br": [
+      "https://www.vinhomagazine.com.br/blog-feed.xml"
+    ],
+    "vocesa.abril.com.br": [
+      "https://vocesa.abril.com.br/blog/sofia-esteves/feed/",
+      "https://vocesa.abril.com.br/feed/",
+      "https://vocesa.abril.com.br/ultimas-noticias/rss",
+      "https://vocesa.abril.com.br/ultimas-noticias/rss/"
+    ]
+  }
+}

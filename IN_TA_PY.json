@@ -4,57 +4,57 @@
   "total_domains": 15,
   "total_feeds": 22,
   "feeds": {
-    "dinamani.com": [
-      "https://www.dinamani.com/stories.rss"
+    "4tamilmedia.com": [
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
     ],
-    "viduthalai.in": [
-      "https://viduthalai.in/feed/"
-    ],
-    "dinasudar.com": [
-      "https://dinasudar.com/feed/"
-    ],
-    "tamil.samayam.com": [
-      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "tamil.asianetnews.com": [
-      "https://tamil.asianetnews.com/rss"
-    ],
-    "chennaionline.com": [
-      "https://www.chennaionline.com/feed/"
-    ],
-    "inioru.com": [
-      "https://inioru.com/feed/"
-    ],
-    "news4tamil.com": [
-      "https://news4tamil.com/feed/"
-    ],
-    "tamilminutes.com": [
-      "https://tamilminutes.com/feed/",
-      "https://tamilminutes.com/web-stories/feed/"
-    ],
-    "mrpuyal.com": [
-      "https://mrpuyal.com/feed/",
-      "https://mrpuyal.com/web-stories/feed/"
+    "athirady.com": [
+      "https://www.athirady.com/feed"
     ],
     "athirvu.in": [
       "https://www.athirvu.in/feed/"
     ],
-    "vanakkamlondon.com": [
-      "https://vanakkamlondon.com/feed/",
-      "https://vanakkamlondon.com/feed/atom/",
-      "https://vanakkamlondon.com/feed/"
+    "chennaionline.com": [
+      "https://www.chennaionline.com/feed/"
+    ],
+    "dinamani.com": [
+      "https://www.dinamani.com/stories.rss"
+    ],
+    "dinasudar.com": [
+      "https://dinasudar.com/feed/"
     ],
     "globaltamilnews.net": [
       "https://globaltamilnews.net/feed/",
       "https://globaltamilnews.net/feed/atom/",
       "https://globaltamilnews.net/feed/"
     ],
-    "athirady.com": [
-      "https://www.athirady.com/feed"
+    "inioru.com": [
+      "https://inioru.com/feed/"
     ],
-    "4tamilmedia.com": [
-      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
-      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
+    "mrpuyal.com": [
+      "https://mrpuyal.com/feed/",
+      "https://mrpuyal.com/web-stories/feed/"
+    ],
+    "news4tamil.com": [
+      "https://news4tamil.com/feed/"
+    ],
+    "tamil.asianetnews.com": [
+      "https://tamil.asianetnews.com/rss"
+    ],
+    "tamil.samayam.com": [
+      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "tamilminutes.com": [
+      "https://tamilminutes.com/feed/",
+      "https://tamilminutes.com/web-stories/feed/"
+    ],
+    "vanakkamlondon.com": [
+      "https://vanakkamlondon.com/feed/",
+      "https://vanakkamlondon.com/feed/atom/",
+      "https://vanakkamlondon.com/feed/"
+    ],
+    "viduthalai.in": [
+      "https://viduthalai.in/feed/"
     ]
   }
 }

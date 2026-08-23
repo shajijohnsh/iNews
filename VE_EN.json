@@ -1,0 +1,23 @@
+{
+  "country_code": "VE",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 7,
+  "feeds": {
+    "analitica.com": [
+      "https://www.analitica.com/feed/"
+    ],
+    "diversomagazine.com": [
+      "https://www.diversomagazine.com/feeds/posts/default",
+      "https://www.diversomagazine.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/2336472591289530923/posts/default"
+    ],
+    "producto.com.ve": [
+      "http://www.producto.com.ve/pro/rss.xml"
+    ],
+    "tendencia.com": [
+      "http://www.tendencia.com/feed/atom/",
+      "http://www.tendencia.com/feed/"
+    ]
+  }
+}

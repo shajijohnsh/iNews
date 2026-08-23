@@ -1,0 +1,27 @@
+{
+  "country_code": "VN",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 11,
+  "feeds": {
+    "oivietnam.com": [
+      "https://oivietnam.com/feed/",
+      "https://oivietnam.com/category/wine-dine/feed/"
+    ],
+    "thesaigontimes.vn": [
+      "https://thesaigontimes.vn/feed/",
+      "https://thesaigontimes.vn/tin-podcasts/feed/"
+    ],
+    "vietnamheritage.com.vn": [
+      "https://vietnamheritage.com.vn/feed/"
+    ],
+    "vir.com.vn": [
+      "http://vir.com.vn/rss_feed/",
+      "https://vir.com.vn/rss_feed/",
+      "https://vir.com.vn/rss_feed/corporate",
+      "https://vir.com.vn/rss_feed/green-growth",
+      "https://vir.com.vn/rss_feed/investing",
+      "https://vir.com.vn/rss_feed/investing/ma"
+    ]
+  }
+}

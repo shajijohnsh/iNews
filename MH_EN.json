@@ -1,0 +1,15 @@
+{
+  "country_code": "MH",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 3,
+  "feeds": {
+    "marshallislandsjournal.com": [
+      "https://marshallislandsjournal.com/feed/",
+      "https://marshallislandsjournal.com/feed/"
+    ],
+    "rmigov.com": [
+      "https://rmigov.com/?feed=rss2"
+    ]
+  }
+}

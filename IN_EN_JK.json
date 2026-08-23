@@ -2,39 +2,84 @@
   "country_code": "IN",
   "language_code": "EN",
   "total_domains": 27,
-  "total_feeds": 31,
+  "total_feeds": 32,
   "feeds": {
-    "urdu.siasat.com": [
-      "https://urdu.siasat.com/feed/"
-    ],
-    "etemaaddaily.com": [
-      "https://www.etemaadweekly.com/rssfeeds.php"
-    ],
-    "kashmiruzma.news": [
-      "https://kashmiruzma.news/feed/"
-    ],
-    "dailyhindustanexpress.com": [
-      "https://dailyhindustanexpress.com/feed/"
+    "aalmiakhbar.com": [
+      "https://aalmiakhbar.com/feed",
+      "https://aalmiakhbar.com/front-page-demo1/feed"
     ],
     "avadhnama.com": [
       "https://avadhnama.com/feed/",
       "https://avadhnama.com/best-hindi-urdu-e-news-portal/feed/"
     ],
-    "taasir.com": [
-      "https://taasir.com/feed/"
+    "dailyaag.com": [
+      "http://dailyaag.com/phase2/feed/"
+    ],
+    "dailyhindustanexpress.com": [
+      "https://dailyhindustanexpress.com/feed/"
     ],
     "dailysalar.com": [
       "https://www.dailysalar.com/feed/"
     ],
-    "dailyaag.com": [
-      "http://dailyaag.com/phase2/feed/"
+    "etemaaddaily.com": [
+      "https://www.etemaadweekly.com/rssfeeds.php"
+    ],
+    "greaterjammu.com": [
+      "https://greaterjammu.com/feed/"
+    ],
+    "greaterkashmir.com": [
+      "https://www.greaterkashmir.com/feed/",
+      "https://www.greaterkashmir.com/web-stories/feed/"
+    ],
+    "gulistannewstv.com": [
+      "https://gulistannewstv.com/feed/"
+    ],
+    "jknewspoint.com": [
+      "https://jknewspoint.com/feed/"
+    ],
+    "kashmirdespatch.com": [
+      "https://kashmirdespatch.com/feed/"
+    ],
+    "kashmirlife.net": [
+      "https://kashmirlife.net/feed/",
+      "https://kashmirlife.net/home/feed/"
+    ],
+    "kashmirmediawatch.com": [
+      "https://www.kashmirmediawatch.com/feed/"
+    ],
+    "kashmirobserver.net": [
+      "https://kashmirobserver.net/feed/"
+    ],
+    "kashmirreader.com": [
+      "https://kashmirreader.com/feed/",
+      "https://kashmirreader.com/homepage/feed/"
+    ],
+    "kashmiruzma.news": [
+      "https://kashmiruzma.news/feed/"
+    ],
+    "millattimes.com": [
+      "https://millattimes.com/feed/"
+    ],
+    "risingkashmir.com": [
+      "https://risingkashmir.com/feed/"
     ],
     "sahilonline.net": [
       "https://sahilonline.net/feed/posts"
     ],
-    "aalmiakhbar.com": [
-      "https://aalmiakhbar.com/feed",
-      "https://aalmiakhbar.com/front-page-demo1/feed"
+    "statetimes.in": [
+      "https://statetimes.in/feed/"
+    ],
+    "taasir.com": [
+      "https://taasir.com/feed/"
+    ],
+    "thekashmirimages.com": [
+      "https://thekashmirimages.com/feed/"
+    ],
+    "thekashmirmonitor.net": [
+      "https://www.thekashmirmonitor.net/feed/"
+    ],
+    "thenorthlines.com": [
+      "https://thenorthlines.com/feed/"
     ],
     "thewireurdu.com": [
       "https://thewireurdu.com/feed/"
@@ -42,52 +87,8 @@
     "urdu.news18.com": [
       "https://urdu.news18.com/commonfeeds/v1/urd/rss/latest.xml"
     ],
-    "millattimes.com": [
-      "https://millattimes.com/feed/"
-    ],
-    "greaterkashmir.com": [
-      "https://www.greaterkashmir.com/rss"
-    ],
-    "statetimes.in": [
-      "https://statetimes.in/feed/"
-    ],
-    "kashmirobserver.net": [
-      "https://kashmirobserver.net/feed/"
-    ],
-    "thenorthlines.com": [
-      "https://thenorthlines.com/feed/"
-    ],
-    "risingkashmir.com": [
-      "https://risingkashmir.com/rss"
-    ],
-    "thekashmirmonitor.net": [
-      "https://www.thekashmirmonitor.net/feed/"
-    ],
-    "thekashmirimages.com": [
-      "https://thekashmirimages.com/feed/"
-    ],
-    "kashmirreader.com": [
-      "https://kashmirreader.com/feed/",
-      "https://kashmirreader.com/homepage/feed/"
-    ],
-    "jknewspoint.com": [
-      "https://jknewspoint.com/feed/"
-    ],
-    "greaterjammu.com": [
-      "https://greaterjammu.com/feed/"
-    ],
-    "kashmirlife.net": [
-      "https://kashmirlife.net/feed/",
-      "https://kashmirlife.net/home/feed/"
-    ],
-    "kashmirdespatch.com": [
-      "https://kashmirdespatch.com/feed/"
-    ],
-    "kashmirmediawatch.com": [
-      "https://www.kashmirmediawatch.com/feed/"
-    ],
-    "gulistannewstv.com": [
-      "https://gulistannewstv.com/feed/"
+    "urdu.siasat.com": [
+      "https://urdu.siasat.com/feed/"
     ]
   }
 }

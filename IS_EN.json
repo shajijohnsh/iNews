@@ -1,0 +1,115 @@
+{
+  "country_code": "IS",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 77,
+  "feeds": {
+    "bb.is": [
+      "https://bb.is/feed/",
+      "https://www.bb.is/feed/",
+      "http://www.bb.is/feed/"
+    ],
+    "dv.is": [
+      "https://dv.is/feed",
+      "https://www.dv.is/feed",
+      "https://www.dv.is/feed/"
+    ],
+    "eyjafrettir.is": [
+      "https://eyjafrettir.is/feed/"
+    ],
+    "feykir.is": [
+      "https://www.feykir.is/is/rss"
+    ],
+    "huni.is": [
+      "https://www.huni.is/rss.php"
+    ],
+    "icelandmonitor.mbl.is": [
+      "https://icelandmonitor.mbl.is/rss/"
+    ],
+    "icenews.is": [
+      "https://www.icenews.is/feed/",
+      "https://icenews.is/feed/",
+      "https://www.icenews.is/news/culture-music-arts/feed/",
+      "https://www.icenews.is/news/finance-and-business/feed/",
+      "https://www.icenews.is/news/politics/feed/",
+      "https://icenews.is/news/culture-music-arts/feed/",
+      "https://icenews.is/news/finance-and-business/feed/",
+      "https://icenews.is/news/politics/feed/"
+    ],
+    "kopavogsbladid.is": [
+      "https://www.kopavogsbladid.is/feed/"
+    ],
+    "mbl.is": [
+      "https://www.mbl.is/feeds/fasteignir/",
+      "https://www.mbl.is/feeds/nyjast/",
+      "https://www.mbl.is/feeds/sport/",
+      "https://www.mbl.is/feeds/innlent/",
+      "https://www.mbl.is/feeds/fotbolti/",
+      "https://www.mbl.is/feeds/fp/",
+      "https://www.mbl.is/feeds/blog/",
+      "https://www.mbl.is/feeds/helst/",
+      "https://www.mbl.is/feeds/erlent/",
+      "https://www.mbl.is/feeds/enski/",
+      "https://www.mbl.is/feeds/smaaugl/",
+      "https://www.mbl.is/feeds/vidskipti/",
+      "https://www.mbl.is/feeds/mogginn/featured/",
+      "https://www.mbl.is/feeds/mogginn/idag/",
+      "https://www.mbl.is/feeds/mogginn/leidarar/",
+      "https://www.mbl.is/feeds/mogginn/netgreinar/",
+      "https://www.mbl.is/feeds/mogginn/sunnudagur/",
+      "https://www.mbl.is/feeds/smartland/",
+      "https://www.mbl.is/feeds/folk/",
+      "https://www.mbl.is/feeds/korfubolti/",
+      "https://www.mbl.is/feeds/pepsideild/",
+      "https://www.mbl.is/feeds/200milur/",
+      "https://www.mbl.is/feeds/menning/",
+      "https://www.mbl.is/feeds/sjonvarp/",
+      "https://www.mbl.is/feeds/born/",
+      "https://www.mbl.is/feeds/english/",
+      "https://www.mbl.is/feeds/ferdalog/",
+      "https://www.mbl.is/feeds/matur/",
+      "https://www.mbl.is/feeds/frami/",
+      "https://www.mbl.is/feeds/golf/",
+      "https://www.mbl.is/feeds/handbolti/",
+      "https://www.mbl.is/feeds/heimili/",
+      "https://www.mbl.is/feeds/k100/",
+      "https://www.mbl.is/feeds/stars/",
+      "https://www.mbl.is/feeds/bill/",
+      "https://www.mbl.is/feeds/fjolskyldan/",
+      "https://www.mbl.is/feeds/fjolskyldulif/",
+      "https://www.mbl.is/feeds/formula/",
+      "https://www.mbl.is/feeds/heilsa/",
+      "https://www.mbl.is/feeds/hestar/",
+      "https://www.mbl.is/feeds/medganga/",
+      "https://www.mbl.is/feeds/rafithrottir/",
+      "https://www.mbl.is/feeds/samkvaemislifid/",
+      "https://www.mbl.is/feeds/tiska/",
+      "https://www.mbl.is/feeds/togt/",
+      "https://www.mbl.is/feeds/uppeldi/"
+    ],
+    "pressan.dv.is": [
+      "https://www.dv.is/feed",
+      "https://www.dv.is/feed/",
+      "https://www.dv.is/pressan/feed",
+      "https://www.dv.is/pressan/feed/"
+    ],
+    "sunnlenska.is": [
+      "https://www.sunnlenska.is/feed/"
+    ],
+    "vb.is": [
+      "https://vb.is/rss/",
+      "https://www.vb.is/rss/"
+    ],
+    "vf.is": [
+      "https://www.vf.is/rss/frettir.aspx"
+    ],
+    "vikubladid.is": [
+      "https://www.vikubladid.is/is/feed"
+    ],
+    "visir.is": [
+      "https://www.visir.is/rss/allt",
+      "https://www.visir.is/rss/frettir",
+      "https://www.visir.is/rss/frettir01"
+    ]
+  }
+}

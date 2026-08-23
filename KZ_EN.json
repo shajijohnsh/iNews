@@ -1,0 +1,121 @@
+{
+  "country_code": "KZ",
+  "language_code": "EN",
+  "total_domains": 32,
+  "total_feeds": 49,
+  "feeds": {
+    "24.kz": [
+      "https://24.kz/ru/news?format=feed"
+    ],
+    "altainews.kz": [
+      "https://altainews.kz/kz/rss.xml",
+      "https://altainews.kz/ru/rss.xml"
+    ],
+    "altyn-orda.kz": [
+      "https://altyn-orda.kz/feed/"
+    ],
+    "astanatimes.com": [
+      "https://astanatimes.com/feed/",
+      "https://astanatimes.com/feed/atom/"
+    ],
+    "atr.kz": [
+      "https://atr.kz/feed/",
+      "http://atr.kz/feed/"
+    ],
+    "caravan.kz": [
+      "https://www.caravan.kz/rss/rss.xml",
+      "https://www.caravan.kz/podcasts/feed/"
+    ],
+    "daz.asia": [
+      "https://daz.asia/feed/"
+    ],
+    "dn.kz": [
+      "http://www.dn.kz/index.php?format=feed&type=atom",
+      "http://www.dn.kz/index.php?format=feed&type=rss"
+    ],
+    "egemen.kz": [
+      "https://egemen.kz/rss",
+      "https://egemen.kz/rss"
+    ],
+    "ekaraganda.kz": [
+      "https://ekaraganda.kz/rss.php",
+      "http://ekaraganda.kz/rss.php"
+    ],
+    "informburo.kz": [
+      "https://informburo.kz/rss/pubsubhubbub-feed.xml"
+    ],
+    "investkz.com": [
+      "https://www.investkz.com/feed/"
+    ],
+    "kapital.kz": [
+      "https://kapital.kz/feed"
+    ],
+    "kostanaytany.kz": [
+      "https://kostanaytany.kz/feed/"
+    ],
+    "kstnews.kz": [
+      "https://kstnews.kz/feed/"
+    ],
+    "ktk.kz": [
+      "https://www.ktk.kz/ru/rss/"
+    ],
+    "lada.kz": [
+      "https://www.lada.kz/rss.xml"
+    ],
+    "liter.kz": [
+      "https://liter.kz/feed/"
+    ],
+    "mgorod.kz": [
+      "https://mgorod.kz/feed/news"
+    ],
+    "ng.kz": [
+      "https://www.ng.kz/modules/newspaper/cache/newspaper.xml",
+      "https://ng.kz/api/rss/forum",
+      "https://www.ng.kz/modules/newbb_plus/cache/forum.xml",
+      "https://ng.kz/api/rss/news",
+      "https://ng.kz/api/rss",
+      "https://ng.kz/api/rss/articles",
+      "https://www.ng.kz/modules/news/cache/news.xml"
+    ],
+    "np.kz": [
+      "http://www.np.kz/rss.xml"
+    ],
+    "nur.kz": [
+      "https://www.nur.kz/rss/all.rss"
+    ],
+    "nv.kz": [
+      "https://nv.kz/feed/",
+      "https://nv.kz/feed/",
+      "https://nv.kz/feed/"
+    ],
+    "otyrar.kz": [
+      "https://otyrar.kz/feed/"
+    ],
+    "sports.kz": [
+      "https://www.sports.kz/rss",
+      "https://www.sports.kz/rss.php"
+    ],
+    "sputnik.kz": [
+      "https://sputnik.kz/export/rss2/archive/index.xml"
+    ],
+    "tengrinews.kz": [
+      "https://tengrinews.kz/news.rss"
+    ],
+    "time.kz": [
+      "https://time.kz/rss"
+    ],
+    "uralskweek.kz": [
+      "https://feeds.feedburner.com/uralskweek"
+    ],
+    "vesti.kz": [
+      "https://vesti.kz/news.rss"
+    ],
+    "zakon.kz": [
+      "https://www.zakon.kz/our/news/RSS.xml",
+      "https://www.zakon.kz/rss/google_last_feed_producer.xml"
+    ],
+    "zonakz.net": [
+      "https://zonakz.net/feed/"
+    ]
+  }
+}

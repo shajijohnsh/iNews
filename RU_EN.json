@@ -1,0 +1,466 @@
+{
+  "country_code": "RU",
+  "language_code": "EN",
+  "total_domains": 75,
+  "total_feeds": 308,
+  "feeds": {
+    "aif.ru": [
+      "https://aif.ru/rss/googlearticles",
+      "https://aif.ru/rss/googlenews"
+    ],
+    "amic.ru": [
+      "https://www.amic.ru/rss/"
+    ],
+    "championat.com": [
+      "https://www.championat.com/rss/news/",
+      "https://www.championat.com/rss/news/football",
+      "https://www.championat.com/rss/news/football/",
+      "https://www.championat.com/rss/news/hockey/",
+      "https://www.championat.com/rss/article/",
+      "https://www.championat.com/rss/news/basketball/nba/",
+      "https://www.championat.com/rss/news/boxing/",
+      "https://www.championat.com/rss/news/other/",
+      "https://www.championat.com/rss/article/football/",
+      "https://www.championat.com/rss/tag/28089/",
+      "https://www.championat.com/rss/tag/131/",
+      "https://www.championat.com/rss/article/hockey/",
+      "https://www.championat.com/rss/article/other/",
+      "https://www.championat.com/rss/news/football/ucl/",
+      "https://www.championat.com/rss/article/other/chess/",
+      "https://www.championat.com/rss/news/other/chess/"
+    ],
+    "chita.ru": [
+      "https://www.chita.ru/rss-feeds/rss.xml",
+      "https://www.chita.ru/rss/"
+    ],
+    "dni.ru": [
+      "https://dni.ru/rss.xml"
+    ],
+    "dp.ru": [
+      "https://www.dp.ru/news.rss"
+    ],
+    "e1.ru": [
+      "http://www.e1.ru/news/rdf/full.xml",
+      "http://www.e1.ru/talk/forum/rss.php?f=11",
+      "http://www.e1.ru/talk/forum/rss.php?f=67",
+      "https://www.e1.ru/news/rdf/full.xml",
+      "https://www.e1.ru/news/rdf/full_img.xml",
+      "https://www.e1.ru/rss-feeds/rss.xml",
+      "https://www.e1.ru/talk/forum/rss.php?f=11",
+      "https://www.e1.ru/talk/forum/rss.php?f=18",
+      "https://www.e1.ru/talk/forum/rss.php?f=67"
+    ],
+    "eg-online.ru": [
+      "https://www.eg-online.ru/news/news_rss.php?SID=605",
+      "https://www.eg-online.ru/article/9fce44bd08ed3075feab5e031211456e63047cb0_buh.php",
+      "https://www.eg-online.ru/article/9fce44bd08ed3075feab5e031211456e63047cb0_economy.php",
+      "https://www.eg-online.ru/article/9fce44bd08ed3075feab5e031211456e63047cb0_law.php"
+    ],
+    "expert.ru": [
+      "https://expert.ru/doc-list/rss/",
+      "https://expert.ru/rss.xml",
+      "https://expert.ru/expert/rss/",
+      "https://expert.ru/south/rss/",
+      "https://expert.ru/ural/rss/"
+    ],
+    "fontanka.ru": [
+      "https://www.fontanka.ru/fontanka.rss",
+      "https://www.fontanka.ru/rss-feeds/rss.xml"
+    ],
+    "gazeta.ru": [
+      "https://www.gazeta.ru/export/rss/lenta.xml",
+      "https://www.gazeta.ru/export/rss/social_more.xml",
+      "https://www.gazeta.ru/export/rss/politics_news.xml",
+      "https://www.gazeta.ru/export/rss/sportnews.xml",
+      "https://www.gazeta.ru/export/rss/first.xml",
+      "https://www.gazeta.ru/export/rss/busnews.xml",
+      "https://www.gazeta.ru/export/rss/science_more.xml",
+      "https://www.gazeta.ru/export/rss/autonews.xml",
+      "https://www.gazeta.ru/export/rss/politics.xml",
+      "https://www.gazeta.ru/export/rss/tech_news.xml",
+      "https://www.gazeta.ru/export/rss/social.xml",
+      "https://www.gazeta.ru/export/rss/sport.xml",
+      "https://www.gazeta.ru/export/rss/culture.xml",
+      "https://www.gazeta.ru/export/rss/lastnews.xml",
+      "https://www.gazeta.ru/export/rss/auto.xml",
+      "https://www.gazeta.ru/export/rss/auto_testdrive.xml",
+      "https://www.gazeta.ru/export/rss/business.xml",
+      "https://www.gazeta.ru/export/rss/science.xml",
+      "https://www.gazeta.ru/export/rss/techzone.xml"
+    ],
+    "gazetanovgorod.ru": [
+      "https://gazetanovgorod.ru/feed"
+    ],
+    "inosmi.ru": [
+      "https://inosmi.ru/export/rss2/index.xml?page_type=google_newsstand"
+    ],
+    "interfax.ru": [
+      "https://www.interfax.ru/rss.asp"
+    ],
+    "iz.ru": [
+      "https://iz.ru/xml/rss/all.xml"
+    ],
+    "kazved.ru": [
+      "https://kazved.ru/rss"
+    ],
+    "kommersant.ru": [
+      "https://www.kommersant.ru/rss/news.xml",
+      "https://www.kommersant.ru/RSS/section-business.xml",
+      "https://www.kommersant.ru/rss/main.xml",
+      "https://www.kommersant.ru/rss/section-business.xml",
+      "https://www.kommersant.ru/rss/regions/piter_all.xml",
+      "https://www.kommersant.ru/RSS/daily.xml",
+      "https://www.kommersant.ru/rss/daily.xml",
+      "https://www.kommersant.ru/RSS/section-economics.xml",
+      "https://www.kommersant.ru/rss/section-economics.xml"
+    ],
+    "kp.ru": [
+      "https://www.kp.ru/rss/msk-politics.xml",
+      "https://kp.ru/rss/allsections.xml",
+      "https://www.kp.ru/rss/allsections.xml",
+      "https://www.kp.ru/rss/msk-incedent.xml",
+      "https://www.kp.ru/rss/msk-stars.xml",
+      "https://www.kp.ru/rss/msk-economics.xml",
+      "https://www.kp.ru/rss/msk-science.xml"
+    ],
+    "lenta.ru": [
+      "https://lenta.ru/rss/google-newsstand/main/",
+      "https://lenta.ru/rss",
+      "https://lenta.ru/rss/",
+      "https://lenta.ru/rss/news",
+      "https://lenta.ru/rss/google-newsstand/main",
+      "https://lenta.ru/rss/news/world/",
+      "https://lenta.ru/rss/top7",
+      "https://lenta.ru/rss/news/russia",
+      "https://lenta.ru/rss/news/russia/",
+      "https://lenta.ru/rss/news/economics",
+      "https://lenta.ru/rss/last24",
+      "https://lenta.ru/rss/news/science/",
+      "https://lenta.ru/rss/articles",
+      "https://lenta.ru/rss/photo",
+      "https://lenta.ru/rss/articles/russia"
+    ],
+    "lgz.ru": [
+      "https://lgz.ru/feed/main/",
+      "https://lgz.ru/rss.xml",
+      "https://www.lgz.ru/rss.xml"
+    ],
+    "m24.ru": [
+      "https://www.m24.ru/yandex.xml"
+    ],
+    "matchtv.ru": [
+      "https://matchtv.ru/articles/rss",
+      "https://matchtv.ru/articles/rss/hockey"
+    ],
+    "mdz-moskau.eu": [
+      "https://mdz-moskau.eu/feed/",
+      "https://mdz-moskau.eu/feed/"
+    ],
+    "meduza.io": [
+      "https://meduza.io/rss/all",
+      "https://meduza.io/rss/en/all",
+      "https://meduza.io/rss/fun",
+      "https://meduza.io/rss/news",
+      "https://meduza.io/rss2/all",
+      "https://meduza.io/rss2/en/all",
+      "https://meduza.io/rss2/fun",
+      "https://meduza.io/rss2/news",
+      "https://rss.prod.scw01.meduza.io/rss/all",
+      "https://rss.prod.scw01.meduza.io/rss/en/all",
+      "https://rss.prod.scw01.meduza.io/rss/news"
+    ],
+    "metronews.ru": [
+      "https://www.metronews.ru/services/materials/press/yandex/"
+    ],
+    "mk.ru": [
+      "https://www.mk.ru/rss/index.xml",
+      "https://www.mk.ru/rss/news/index.xml",
+      "https://www.mk.ru/rss/politics/index.xml",
+      "https://www.mk.ru/rss/social/index.xml",
+      "https://www.mk.ru/rss/sport/index.xml",
+      "https://www.mk.ru/rss/incident/index.xml",
+      "https://www.mk.ru/rss/daily/index.xml",
+      "https://www.mk.ru/rss/culture/index.xml",
+      "https://www.mk.ru/rss/economics/index.xml",
+      "https://www.mk.ru/rss/science/index.xml"
+    ],
+    "mospravda.ru": [
+      "http://mospravda.ru/feed/",
+      "https://mospravda.ru/feed/"
+    ],
+    "newizv.ru": [
+      "https://newizv.ru/rss"
+    ],
+    "newlookmedia.ru": [
+      "https://www.newlookmedia.ru/?feed=rss2",
+      "https://www.newlookmedia.ru/?feed=rss2&page_id=24654"
+    ],
+    "ng.ru": [
+      "http://www.ng.ru/rss/",
+      "https://www.ng.ru/rss/"
+    ],
+    "ngs.ru": [
+      "https://ngs.ru/rss-feeds/rss.xml",
+      "https://ngs.ru/rss/",
+      "https://ngs.ru/rss/articles/"
+    ],
+    "novayagazeta.ru": [
+      "https://novayagazeta.ru/feed/rss"
+    ],
+    "novvedomosti.ru": [
+      "https://novvedomosti.ru/news.xml"
+    ],
+    "nvo.ng.ru": [
+      "https://nvo.ng.ru/rss/"
+    ],
+    "og.ru": [
+      "https://og.ru/rss.xml"
+    ],
+    "pln-pskov.ru": [
+      "https://pln-pskov.ru/rss.php"
+    ],
+    "pnp.ru": [
+      "https://www.pnp.ru/rss/index.xml"
+    ],
+    "pravdasevera.ru": [
+      "https://dvinanews.ru/rss/",
+      "https://pravdasevera.ru/rss.xml",
+      "http://dvinanews.ru/rss",
+      "http://pravdasevera.ru/rss"
+    ],
+    "province.ru": [
+      "https://www.province.ru/yaroslavl/component/obrss/yaroslavl-provintsiya-ru.feed",
+      "https://www.province.ru/tyumen/component/obrss/tyumen-provintsiya-ru.feed",
+      "https://www.province.ru/ob-etom-govoryt.feed?type=rss",
+      "https://www.province.ru/saratov/?format=feed&type=atom",
+      "https://www.province.ru/saratov/component/obrss/saratov-provintsiya-ru.feed",
+      "https://www.province.ru/tyumen/?format=feed&type=atom",
+      "https://www.province.ru/yaroslavl/?format=feed&type=atom",
+      "https://www.province.ru/saratov/?format=feed&type=rss",
+      "https://www.province.ru/tyumen/?format=feed&type=rss",
+      "https://www.province.ru/yaroslavl/?format=feed&type=rss"
+    ],
+    "rb.ru": [
+      "https://rb.ru/feeds/all/",
+      "https://rb.ru/feeds/news/yandex/",
+      "https://rb.ru/feeds/news_ex/"
+    ],
+    "rbc.ru": [
+      "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+      "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+      "http://static.feed.rbc.ru/rbc/logical/footer/rbcdaily_last_issue.rss"
+    ],
+    "regnum.ru": [
+      "https://regnum.ru/rss/polit",
+      "https://regnum.ru/rss/news",
+      "https://regnum.ru/rss/news.html",
+      "https://regnum.ru/rss/analytics",
+      "https://regnum.ru/rss/main",
+      "https://regnum.ru/rss/foreign/eastern-europe/donetsk",
+      "https://regnum.ru/rss"
+    ],
+    "rg.ru": [
+      "https://rg.ru/xml/index.xml",
+      "https://www.rg.ru/xml/index.xml",
+      "https://rg.ru/xml/yandex/regions.xml",
+      "https://rg.ru/xml/rubrics/obshestvo.xml",
+      "https://rg.ru/xml/rubrics/mir.xml",
+      "https://rg.ru/xml/rubrics/bezopasnost.xml",
+      "https://rg.ru/xml/rubrics/ekonomika.xml",
+      "https://rg.ru/tema/ekonomika/rss.xml",
+      "https://rg.ru/tema/obshestvo/rss.xml",
+      "https://rg.ru/tema/kultura/rss.xml",
+      "https://rg.ru/xml/rubrics/kultura.xml",
+      "https://rg.ru/xml/rubrics/sport.xml",
+      "https://rg.ru/tema/sila/rss.xml",
+      "https://rg.ru/tema/gos/pravo/rss.xml"
+    ],
+    "ria.ru": [
+      "https://ria.ru/export/rss2/archive/index.xml"
+    ],
+    "rosbalt.ru": [
+      "https://www.rosbalt.ru/rss",
+      "https://www.rosbalt.ru/feed/"
+    ],
+    "rt-online.ru": [
+      "https://rt-online.ru/feed/",
+      "https://rt-online.ru/rss",
+      "https://rt-online.ru/rss/grats.rss",
+      "https://rt-online.ru/rss/news.rss"
+    ],
+    "rt.com": [
+      "https://www.rt.com/rss-feed/",
+      "https://www.rt.com/rss",
+      "https://www.rt.com/rss/news",
+      "https://www.rt.com/rss/usa",
+      "https://www.rt.com/rss/russia",
+      "https://www.rt.com/rss/newsline",
+      "https://www.rt.com/rss/business",
+      "https://www.rt.com/rss/op-ed",
+      "https://www.rt.com/rss/podcasts",
+      "https://www.rt.com/rss/sport",
+      "https://www.rt.com/rss/pop-culture",
+      "https://www.rt.com/rss/uk"
+    ],
+    "rusplt.ru": [
+      "https://rusplt.ru/index/new.rss",
+      "https://rusplt.ru/articles.rss"
+    ],
+    "rusvesna.su": [
+      "https://rusvesna.su/rss.xml"
+    ],
+    "sovsakh.ru": [
+      "https://sovsakh.ru/feed/",
+      "https://sovsakh.ru/home/feed/"
+    ],
+    "sovsport.ru": [
+      "https://www.sovsport.ru/rss.xml",
+      "https://www.sovsport.ru/gazeta_rss"
+    ],
+    "sport-express.ru": [
+      "https://www.sport-express.ru/services/materials/news/basketball/se/",
+      "https://www.sport-express.ru/services/materials/news/football/se/",
+      "https://www.sport-express.ru/services/materials/news/hockey/se/",
+      "https://www.sport-express.ru/services/materials/news/se/",
+      "https://www.sport-express.ru/services/materials/news/tennis/se/",
+      "https://www.sport-express.ru/services/materials/news/transfers/se/"
+    ],
+    "sportrbc.ru": [
+      "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+      "https://rssexport.rbc.ru/sport/news/30/base.rss"
+    ],
+    "sports.ru": [
+      "https://www.sports.ru/rss/rubric/208.xml",
+      "https://www.sports.ru/rss/all_news.xml",
+      "https://www.sports.ru/rss/rubric.xml?id=208",
+      "https://www.sports.ru/rss/topnews.xml",
+      "https://www.sports.ru/rss/main.xml",
+      "https://www.sports.ru/rss/conference/338597.xml",
+      "https://www.sports.ru/stat/export/rss/taglenta.xml?id=225&big_pic=1&utm_source=vk&utm_medium=bia",
+      "https://www.sports.ru/tribuna/blogs/sixflags/rss.xml"
+    ],
+    "sportsdaily.ru": [
+      "https://www.sportsdaily.ru/rss/news.yandex.php"
+    ],
+    "svoboda.org": [
+      "https://www.svoboda.org/api/",
+      "https://www.svoboda.org/sitemap.xml"
+    ],
+    "t-i.ru": [
+      "https://t-i.ru/rss"
+    ],
+    "tass.ru": [
+      "http://tass.ru/rss/all.xml",
+      "http://tass.ru/rss/v2.xml",
+      "https://tass.ru/rss/v2.xml",
+      "https://tass.ru/rss/all.xml",
+      "http://tass.ru/en/rss/v2.xml",
+      "https://tass.ru/rss/v2.xml?sections=MjU="
+    ],
+    "theins.ru": [
+      "https://theins.ru/feed",
+      "https://theins.ru/feed/atom"
+    ],
+    "themoscowtimes.com": [
+      "https://www.themoscowtimes.com/rss/city",
+      "https://www.themoscowtimes.com/rss/meanwhile",
+      "https://www.themoscowtimes.com/rss/news",
+      "https://www.themoscowtimes.com/rss/opinion"
+    ],
+    "tumentoday.ru": [
+      "https://tumentoday.ru/rss/"
+    ],
+    "tverlife.ru": [
+      "https://tverlife.ru/feed/",
+      "https://tverlife.ru/category/blogs/feed/"
+    ],
+    "tvrain.tv": [
+      "https://tvrain.ru/export/rss/all.xml",
+      "https://rss.simplecast.com/podcasts/7121/rss"
+    ],
+    "tvzvezda.ru": [
+      "https://tvzvezda.ru/export/rss.xml",
+      "http://tvzvezda.ru/export/rss.xml"
+    ],
+    "utro.ru": [
+      "https://utro.ru/export/rss.xml"
+    ],
+    "vecherka.su": [
+      "https://vecherka.su/rss/"
+    ],
+    "vechorka.ru": [
+      "https://old.vechorka.ru/firstline.rss"
+    ],
+    "vedomosti.ru": [
+      "https://www.vedomosti.ru/newspaper/out/rss.xml",
+      "https://www.vedomosti.ru/rss/articles",
+      "https://www.vedomosti.ru/rss/issue",
+      "https://www.vedomosti.ru/rss/news"
+    ],
+    "versia.ru": [
+      "https://versia.ru/rss/index.xml",
+      "https://tambov.versia.ru/rss/index.xml",
+      "https://saratov.versia.ru/rss/index.xml",
+      "https://voronezh.versia.ru/rss/index.xml",
+      "https://versia.ru/rss/vlast.xml",
+      "https://versia.ru/rss/obshestvo.xml",
+      "https://rb.versia.ru/rss/index.xml",
+      "https://kavkaz.versia.ru/rss/index.xml",
+      "https://ch.versia.ru/rss/index.xml",
+      "https://neva.versia.ru/rss/index.xml",
+      "https://nn.versia.ru/rss/index.xml",
+      "https://tat.versia.ru/rss/index.xml",
+      "https://voronezh.versia.ru/rss/obshestvo.xml",
+      "https://saratov.versia.ru/rss/obshestvo.xml",
+      "https://saratov.versia.ru/rss/vlast.xml",
+      "https://versia.ru/rss/ukraina.xml",
+      "https://rb.versia.ru/rss/obshestvo.xml",
+      "https://versia.ru/rss/editor.xml",
+      "https://ch.versia.ru/rss/bisnes.xml",
+      "https://ch.versia.ru/rss/obshestvo.xml",
+      "https://ch.versia.ru/rss/vlast.xml",
+      "https://kavkaz.versia.ru/rss/bisnes.xml",
+      "https://kavkaz.versia.ru/rss/obshestvo.xml",
+      "https://kavkaz.versia.ru/rss/vlast.xml",
+      "https://neva.versia.ru/rss/bisnes.xml",
+      "https://neva.versia.ru/rss/obshestvo.xml",
+      "https://neva.versia.ru/rss/vlast.xml",
+      "https://nn.versia.ru/rss/bisnes.xml",
+      "https://nn.versia.ru/rss/obshestvo.xml",
+      "https://nn.versia.ru/rss/vlast.xml",
+      "https://rb.versia.ru/rss/vlast.xml",
+      "https://saratov.versia.ru/rss/bisnes.xml",
+      "https://tat.versia.ru/rss/bisnes.xml",
+      "https://tat.versia.ru/rss/obshestvo.xml",
+      "https://tat.versia.ru/rss/vlast.xml",
+      "https://versia.ru/rss/bisnes.xml",
+      "https://versia.ru/rss/kolumnisty.xml",
+      "https://versia.ru/rss/konflikt.xml",
+      "https://versia.ru/rss/kultura.xml",
+      "https://versia.ru/rss/moskva.xml",
+      "https://versia.ru/rss/oprosy.xml",
+      "https://versia.ru/rss/sport.xml",
+      "https://voronezh.versia.ru/rss/vlast.xml"
+    ],
+    "vesti.ru": [
+      "https://www.vesti.ru/vesti.rss",
+      "https://www.vesti.ru/section.rss?tag=194099"
+    ],
+    "vladnews.ru": [
+      "https://vladnews.ru/rss.xml",
+      "https://vladnews.ru/yandex.xml"
+    ],
+    "vm.ru": [
+      "https://vm.ru/rss"
+    ],
+    "vremya.ru": [
+      "https://vremya.ru/export/vremya.rss"
+    ],
+    "vsp.ru": [
+      "https://www.vsp.ru/feed"
+    ],
+    "yakutia-daily.ru": [
+      "https://yakutia-daily.ru/feed/"
+    ]
+  }
+}

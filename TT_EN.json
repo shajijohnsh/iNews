@@ -1,0 +1,43 @@
+{
+  "country_code": "TT",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 15,
+  "feeds": {
+    "caribbean-beat.com": [
+      "https://www.caribbean-beat.com/feed"
+    ],
+    "catholictt.org": [
+      "https://catholictt.org/feed/"
+    ],
+    "cnc3.co.tt": [
+      "https://www.cnc3.co.tt/feed/"
+    ],
+    "newsday.co.tt": [
+      "http://newsday.co.tt/feed/",
+      "https://newsday.co.tt/feed/"
+    ],
+    "technewstt.com": [
+      "https://technewstt.com/feed/"
+    ],
+    "tobagoupdates.com": [
+      "https://tobagoupdates.com/feed/"
+    ],
+    "trinidadandtobagonews.com": [
+      "https://www.trinidadandtobagonews.com/blog/?feed=rss2",
+      "http://www.trinidadandtobagonews.com/blog/?feed=rss2"
+    ],
+    "trinidadexpress.com": [
+      "https://trinidadexpress.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    ],
+    "ttt.live": [
+      "https://www.ttt.live/feed/"
+    ],
+    "wired868.com": [
+      "https://wired868.com/feed/",
+      "http://wired868.com/feed/",
+      "http://wired868.com/blog/feed/",
+      "https://wired868.com/blog/feed/"
+    ]
+  }
+}

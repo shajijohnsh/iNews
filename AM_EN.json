@@ -1,0 +1,20 @@
+{
+  "country_code": "AM",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 4,
+  "feeds": {
+    "health.am": [
+      "http://www.health.am/ab/rss_2.0/"
+    ],
+    "ianyanmag.com": [
+      "http://www.ianyanmag.com/feed/"
+    ],
+    "massismagazine.com": [
+      "https://massismagazine.com/feed"
+    ],
+    "orer.eu": [
+      "https://orer.eu/feed/"
+    ]
+  }
+}

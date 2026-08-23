@@ -1,0 +1,129 @@
+{
+  "country_code": "PS",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 91,
+  "feeds": {
+    "al-ayyam.ps": [
+      "https://www.al-ayyam.ps/ar/RSS/12",
+      "https://www.al-ayyam.ps/ar/RSS/29",
+      "https://www.al-ayyam.ps/ar/RSS/5",
+      "https://www.al-ayyam.ps/ar/RSS/53",
+      "https://www.al-ayyam.ps/ar/RSS/8",
+      "https://www.al-ayyam.ps/ar/RSS/10",
+      "https://www.al-ayyam.ps/ar/RSS/11",
+      "https://www.al-ayyam.ps/ar/RSS/131",
+      "https://www.al-ayyam.ps/ar/RSS/14",
+      "https://www.al-ayyam.ps/ar/RSS/15",
+      "https://www.al-ayyam.ps/ar/RSS/16",
+      "https://www.al-ayyam.ps/ar/RSS/52",
+      "https://www.al-ayyam.ps/ar/RSS/54",
+      "https://www.al-ayyam.ps/ar/RSS/55",
+      "https://www.al-ayyam.ps/ar/RSS/69",
+      "https://www.al-ayyam.ps/ar/RSS/78",
+      "https://www.al-ayyam.ps/ar/RSS/83",
+      "https://www.al-ayyam.ps/ar/RSS/85",
+      "https://www.al-ayyam.ps/ar/RSS/9"
+    ],
+    "alquds.co.uk": [
+      "https://www.alquds.co.uk/feed/"
+    ],
+    "alquds.com": [
+      "https://alquds.com/feed/",
+      "https://alquds.com/ar/rss",
+      "https://alquds.com/ar/feed"
+    ],
+    "alwatanvoice.com": [
+      "https://www.alwatanvoice.com/feeds/"
+    ],
+    "arab48.com": [
+      "https://www.arab48.com/rss"
+    ],
+    "arn.ps": [
+      "https://arn.ps/rss"
+    ],
+    "english.pnn.ps": [
+      "https://english.pnn.ps/feed",
+      "https://english.pnn.ps/feed/",
+      "http://english.pnn.ps/feed/"
+    ],
+    "felesteen.news": [
+      "https://felesteen.news/rss/category/all",
+      "https://felesteen.news/rss/category/25",
+      "https://felesteen.news/rss/category/11",
+      "https://felesteen.news/rss/category/4",
+      "https://felesteen.news/rss/category/5",
+      "https://felesteen.news/rss/category/13",
+      "https://felesteen.news/rss/category/32",
+      "https://felesteen.news/rss/category/26",
+      "https://felesteen.news/rss/category/31",
+      "https://felesteen.news/rss/category/29",
+      "https://felesteen.news/rss/category/28",
+      "https://felesteen.news/rss/category/18",
+      "https://felesteen.news/rss/category/19",
+      "https://felesteen.news/rss/category/17",
+      "https://felesteen.news/rss/category/16",
+      "https://felesteen.news/rss/category/3",
+      "https://felesteen.news/rss/category/7"
+    ],
+    "manar.com": [
+      "http://www.manar.com/rss",
+      "http://www.manar.com/rss-12",
+      "http://www.manar.com/rss-15",
+      "http://www.manar.com/rss-16",
+      "http://www.manar.com/rss-17",
+      "http://www.manar.com/rss-37",
+      "http://www.manar.com/rss-394",
+      "http://www.manar.com/rss-6",
+      "https://www.manar.com/rss-13",
+      "https://www.manar.com/rss-14",
+      "https://www.manar.com/rss-18",
+      "https://www.manar.com/rss-19",
+      "https://www.manar.com/rss-7"
+    ],
+    "palestinechronicle.com": [
+      "http://www.palestinechronicle.com/feed/",
+      "https://www.palestinechronicle.com/feed/",
+      "https://it.palestinechronicle.com/feed/",
+      "https://www.palestinechronicle.com/category/articles/feed/",
+      "https://www.palestinechronicle.com/category/live-blog/feed/",
+      "https://www.palestinechronicle.com/tag/al-aqsa-flood-live-blog/feed/",
+      "https://www.chroniquepalestine.com/feed/",
+      "https://www.palestinechronicle.com/gaza-live-blog-israeli-massacres-continue-algerian-draft-resolution-at-unsc-total-victory-impossible-for-israel-day-236/feed/",
+      "https://www.palestinechronicle.com/gaza-live-blog-jabaliya-inferno-netanyahu-war-until-victory-resistance-fights-against-invading-israeli-troops-day-220/feed/",
+      "https://www.palestinechronicle.com/gaza-live-blog-major-health-disaster-new-massacres-in-central-gaza-failure-to-intercept-drones-day-246/feed/",
+      "https://www.palestinechronicle.com/gaza-live-blog-netanyahu-to-address-us-congress-israeli-massacres-in-gaza-continue-spain-no-one-will-stop-us-day-231/feed/",
+      "https://www.palestinechronicle.com/gaza-live-blog-rafah-under-attack-israels-demolitions-in-naqab-us-suspends-arms-shipment-fierce-clashes-in-rafah-day-215/feed/",
+      "https://www.palestinechronicle.com/live-blog-3-israelis-killed-gaza-infant-dies-rockets-fired-rafah-massacres-day-458/feed/",
+      "https://www.palestinechronicle.com/live-blog-gaza-faces-catastrophic-scenario-as-washington-expresses-ceasefire-optimism-day-641/feed/",
+      "https://www.palestinechronicle.com/live-blog-gaza-us-contractorsexposed-as-global-demands-to-end-starvation-increase-day-636/feed/",
+      "https://www.palestinechronicle.com/live-blog-hamas-responds-ambush-in-shejaiyya-displaced-palestinians-massacred-day-637/feed/",
+      "https://www.palestinechronicle.com/live-blog-iran-strikes-american-military-base-in-qatar-gaza-massacres-continue-day-625/feed/",
+      "https://www.palestinechronicle.com/live-blog-iran-threatens-to-bomb-dimona-israel-fears-long-war-gaza-hunger-crisis-deepens-day-624/feed/",
+      "https://www.palestinechronicle.com/live-blog-irans-retaliation-causes-unprecedented-destruction-in-israel-al-qassam-ambush-day-617/feed/",
+      "https://www.palestinechronicle.com/live-blog-israel-kills-civilians-in-lebanon-deliberately-targets-gaza-aid-seekers-day-630/feed/",
+      "https://www.palestinechronicle.com/live-blog-lone-fighter-blows-up-tank-as-israel-carries-out-massacre-in-shati-day-645/feed/",
+      "https://www.palestinechronicle.com/live-blog-massive-iranistrike-following-trumps-call-on-tehran-to-surrender-day-620/feed/",
+      "https://www.palestinechronicle.com/live-blog-multiple-massacres-in-gaza-iran-major-retaliation-qassam-three-merkavas-day-622/feed/",
+      "https://www.palestinechronicle.com/live-blog-soldier-capture-attempted-uns-albanese-sanctioned-hospital-crisis-day-642/feed/",
+      "https://www.palestinechronicle.com/live-blog-trump-threatens-tehran-israelis-flee-by-sea-more-iranian-attacks-expected-day-519/feed/",
+      "https://www.palestinechronicle.com/live-blog-us-citizen-palestinian-lynched-by-settlers-as-aid-massacre-victims-reach-800-day-644/feed/"
+    ],
+    "palinfo.com": [
+      "https://palinfo.com/feed/",
+      "https://www.palinfo.com/feed"
+    ],
+    "pbc.ps": [
+      "https://www.pbc.ps/feed/"
+    ],
+    "sonara.net": [
+      "https://sonara.net/feed/"
+    ],
+    "thisweekinpalestine.com": [
+      "https://thisweekinpalestine.com/feed/"
+    ],
+    "wattan.net": [
+      "https://www.wattan.net/ar/rss/news"
+    ]
+  }
+}

@@ -1,9 +1,12 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 2,
-  "total_feeds": 4,
+  "total_domains": 3,
+  "total_feeds": 5,
   "feeds": {
+    "hueiyenlanpao.com": [
+      "https://hueiyenlanpao.com/?feed=rss2"
+    ],
     "imphaltimes.com": [
       "https://www.imphaltimes.com/feed/",
       "https://www.imphaltimes.com/feed/atom/",

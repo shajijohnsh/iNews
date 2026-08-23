@@ -1,0 +1,23 @@
+{
+  "country_code": "TJ",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 7,
+  "feeds": {
+    "avesta.tj": [
+      "https://avesta.tj/feed/"
+    ],
+    "farazh.tj": [
+      "https://farazh.tj/feed/"
+    ],
+    "jumhuriyat.tj": [
+      "https://jumhuriyat.tj/rssturbo.xml",
+      "https://jumhuriyat.tj/rssdzen.xml"
+    ],
+    "khovar.tj": [
+      "https://khovar.tj/feed/",
+      "https://khovar.tj/feed/",
+      "https://khovar.tj/sample-home-page/feed/"
+    ]
+  }
+}

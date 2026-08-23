@@ -1,0 +1,54 @@
+{
+  "country_code": "RW",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 18,
+  "feeds": {
+    "intyoza.com": [
+      "https://intyoza.com/feed/"
+    ],
+    "inyarwanda.com": [
+      "https://inyarwanda.com/rss"
+    ],
+    "kigalitoday.com": [
+      "https://www.kigalitoday.com/spip.php?page=backend",
+      "http://feeds.feedburner.com/KigaliToday"
+    ],
+    "ktpress.rw": [
+      "https://www.ktpress.rw/feed/",
+      "https://www.ktpress.rw/feed/atom/",
+      "https://www.ktpress.rw/feed/"
+    ],
+    "lerwandais.com": [
+      "https://www.lerwandais.com/feed/"
+    ],
+    "musabyimana.net": [
+      "https://www.musabyimana.net/feed/",
+      "https://www.musabyimana.net/feed/"
+    ],
+    "newtimes.co.rw": [
+      "https://www.newtimes.co.rw/rssFeed/33"
+    ],
+    "rnanews.com": [
+      "https://www.rnanews.com/feed/"
+    ],
+    "rugali.com": [
+      "https://rugali.com/feed/"
+    ],
+    "rwandaises.com": [
+      "https://rwandaises.com/feed/"
+    ],
+    "rwandatoday.africa": [
+      "https://rwandatoday.africa/service/rss/rwanda/2464348/feed.rss"
+    ],
+    "therwandan.com": [
+      "https://www.therwandan.com/feed/"
+    ],
+    "umuryango.rw": [
+      "https://umuryango.rw/rss.xml"
+    ],
+    "umuseke.rw": [
+      "https://umuseke.rw/feed/"
+    ]
+  }
+}

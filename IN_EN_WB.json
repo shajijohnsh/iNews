@@ -1,32 +1,62 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 8,
-  "total_feeds": 8,
+  "total_domains": 12,
+  "total_feeds": 30,
   "feeds": {
-    "sangbadpratidin.in": [
-      "https://www.sangbadpratidin.in/feed/"
-    ],
-    "uttarbangasambad.com": [
-      "https://uttarbangasambad.com/feed/"
+    "aajkerdeshabrati.wordpress.com": [
+      "https://aajkerdeshabrati.wordpress.com/feed/"
     ],
     "aamadermalda.in": [
       "https://www.aamadermalda.in/blog-feed.xml"
     ],
-    "ganadabi.com": [
-      "https://ganadabi.com/feed/"
+    "banglalive.com": [
+      "https://banglalive.com/feed/"
+    ],
+    "eisamay.com": [
+      "https://eisamay.com/langapi/sitemap/gstandrssfeed/15819599.xml",
+      "https://eisamay.com/langapi/sitemap/gstandrssfeed/82047661.xml"
     ],
     "ekdin-epaper.com": [
       "https://www.ekdin-epaper.com/rss"
     ],
-    "puberkalom.com": [
-      "https://www.puberkalom.com/feed"
+    "ganadabi.com": [
+      "https://ganadabi.com/feed/"
     ],
-    "aajkerdeshabrati.wordpress.com": [
-      "https://aajkerdeshabrati.wordpress.com/feed/"
+    "puberkalom.com": [
+      "https://www.puberkalom.com/feed/"
+    ],
+    "samagya.in": [
+      "https://samagya.in/feed/"
+    ],
+    "sangbadpratidin.in": [
+      "https://www.sangbadpratidin.in/feed/"
     ],
     "songbadmanthan.com": [
       "https://songbadmanthan.com/feed/"
+    ],
+    "uttarbangasambad.com": [
+      "https://uttarbangasambad.com/feed/"
+    ],
+    "zeenews.india.com": [
+      "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com/hindi/india.xml",
+      "https://zeenews.india.com/hindi/rss.xml",
+      "https://zeenews.india.com/rss/asia-news.xml",
+      "https://zeenews.india.com/rss/blog-news.xml",
+      "https://zeenews.india.com/rss/business.xml",
+      "https://zeenews.india.com/rss/entertainment-news.xml",
+      "https://zeenews.india.com/rss/health-news.xml",
+      "https://zeenews.india.com/rss/india-national-news.xml",
+      "https://zeenews.india.com/rss/india-news.xml",
+      "https://zeenews.india.com/rss/science-environment-news.xml",
+      "https://zeenews.india.com/rss/sports-news.xml",
+      "https://zeenews.india.com/rss/technology-news.xml",
+      "https://zeenews.india.com/rss/world-news.xml",
+      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com:443/rss/business.xml",
+      "https://zeenews.india.com:443/rss/science-environment-news.xml",
+      "https://zeenews.india.com:443/rss/world-news.xml"
     ]
   }
 }

@@ -1,0 +1,23 @@
+{
+  "country_code": "DJ",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 7,
+  "feeds": {
+    "adi.dj": [
+      "https://www.adi.dj/rss"
+    ],
+    "lanation.dj": [
+      "https://www.lanation.dj/feed/"
+    ],
+    "laprosperiteonline.net": [
+      "https://laprosperiteonline.net/feed/atom/",
+      "http://laprosperiteonline.net/feed/atom/",
+      "https://laprosperiteonline.net/feed/",
+      "http://laprosperiteonline.net/feed/"
+    ],
+    "lavoixdedjibouti.info": [
+      "https://lavoixdedjibouti.info/feed/"
+    ]
+  }
+}

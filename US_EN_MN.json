@@ -2,16 +2,23 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 35,
-  "total_feeds": 38,
+  "total_feeds": 41,
   "feeds": {
+    "annandaleadvocate.com": [
+      "https://annandaleadvocate.com/feed"
+    ],
     "bemidjipioneer.com": [
       "https://www.bemidjipioneer.com/index.rss"
     ],
     "brainerddispatch.com": [
-      "https://www.brainerddispatch.com/index.rss"
+      "https://www.brainerddispatch.com/index.rss",
+      "https://www.brainerddispatch.com/latest/rss/"
     ],
-    "wahpetondailynews.com": [
-      "https://www.wahpetondailynews.com/index.rss"
+    "cannonfallsbeacon.com": [
+      "http://www.cannonfallsbeacon.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "dglobe.com": [
+      "https://www.dglobe.com/index.rss"
     ],
     "dl-online.com": [
       "https://www.dl-online.com/index.rss"
@@ -19,62 +26,39 @@
     "duluthnewstribune.com": [
       "https://www.duluthnewstribune.com/index.rss"
     ],
-    "mankatofreepress.com": [
-      "http://www.mankatofreepress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "twincities.com": [
-      "https://www.twincities.com/feed/"
-    ],
-    "southernminn.com": [
-      "http://www.southernminn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "postbulletin.com": [
-      "https://www.postbulletin.com/index.rss"
-    ],
-    "mesabitribune.com": [
-      "http://www.mesabitribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wctrib.com": [
-      "https://www.wctrib.com/index.rss"
-    ],
-    "winonadailynews.com": [
-      "http://winonadailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "dglobe.com": [
-      "https://www.dglobe.com/index.rss"
-    ],
-    "messagemedia.co": [
-      "http://www.messagemedia.co/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "echopress.com": [
       "https://www.echopress.com/index.rss"
-    ],
-    "annandaleadvocate.com": [
-      "https://annandaleadvocate.com/feed"
-    ],
-    "hometownsource.com": [
-      "http://www.hometownsource.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thedrummer.com": [
-      "https://thedrummer.com/taxonomy/term/131/all/feed"
-    ],
-    "cannonfallsbeacon.com": [
-      "http://www.cannonfallsbeacon.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "inhnews.com": [
-      "https://www.inhnews.com/blog-feed.xml"
-    ],
-    "pinejournal.com": [
-      "https://www.pinejournal.com/index.rss"
     ],
     "grantcountyherald.com": [
       "https://grantcountyherald.com/feed/"
     ],
-    "mlstargazette.com": [
-      "http://www.mlstargazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "hometownsource.com": [
+      "http://www.hometownsource.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "inhnews.com": [
+      "https://www.inhnews.com/blog-feed.xml"
     ],
     "lpleader.com": [
       "https://lpleader.com/rss.xml"
+    ],
+    "mankatofreepress.com": [
+      "http://www.mankatofreepress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mesabitribune.com": [
+      "http://www.mesabitribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "messagemedia.co": [
+      "http://www.messagemedia.co/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mlstargazette.com": [
+      "http://www.mlstargazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "mna.org": [
+      "https://mna.org/feed/"
+    ],
+    "mndaily.com": [
+      "https://mndaily.com/feed/",
+      "https://mndaily.com/feed/atom/"
     ],
     "parkrapidsenterprise.com": [
       "https://www.parkrapidsenterprise.com/index.rss"
@@ -82,35 +66,54 @@
     "pineandlakes.com": [
       "https://www.pineandlakes.com/index.rss"
     ],
+    "pinejournal.com": [
+      "https://www.pinejournal.com/index.rss"
+    ],
+    "postbulletin.com": [
+      "https://www.postbulletin.com/index.rss",
+      "https://www.postbulletin.com/latest/rss/",
+      "https://www.postbulletin.com/topics/pb-minute-podcast.rss"
+    ],
+    "southernminn.com": [
+      "https://www.southernminn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "thecirclenews.org": [
       "https://thecirclenews.org/feed/"
     ],
-    "trftimes.com": [
-      "https://trftimes.com/feed"
-    ],
-    "wadenapj.com": [
-      "https://www.wadenapj.com/index.rss"
-    ],
-    "walkermn.com": [
-      "http://www.walkermn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "windomnews.com": [
-      "https://windomnews.com/feed/",
-      "https://windomnews.com/home/feed/"
-    ],
-    "winonapost.com": [
-      "http://www.winonapost.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "thedrummer.com": [
+      "https://thedrummer.com/taxonomy/term/131/all/feed"
     ],
     "themacweekly.com": [
       "https://themacweekly.com/feed/",
       "https://themacweekly.com/feed/atom/"
     ],
-    "mndaily.com": [
-      "https://mndaily.com/feed/",
-      "https://mndaily.com/feed/atom/"
+    "trftimes.com": [
+      "https://trftimes.com/feed"
     ],
-    "mna.org": [
-      "https://mna.org/feed/"
+    "twincities.com": [
+      "https://www.twincities.com/feed/"
+    ],
+    "wadenapj.com": [
+      "https://www.wadenapj.com/index.rss"
+    ],
+    "wahpetondailynews.com": [
+      "https://www.wahpetondailynews.com/index.rss"
+    ],
+    "walkermn.com": [
+      "http://www.walkermn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wctrib.com": [
+      "https://www.wctrib.com/index.rss"
+    ],
+    "windomnews.com": [
+      "https://windomnews.com/feed/",
+      "https://windomnews.com/home/feed/"
+    ],
+    "winonadailynews.com": [
+      "http://winonadailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "winonapost.com": [
+      "http://www.winonapost.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

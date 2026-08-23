@@ -1,0 +1,315 @@
+{
+  "country_code": "CU",
+  "language_code": "EN",
+  "total_domains": 35,
+  "total_feeds": 237,
+  "feeds": {
+    "14ymedio.com": [
+      "https://www.14ymedio.com/rss/",
+      "https://www.14ymedio.com/rss/category/blog/1024088/",
+      "https://www.14ymedio.com/rss/category/blog/110000/",
+      "https://www.14ymedio.com/rss/category/blog/110002/",
+      "https://www.14ymedio.com/rss/category/blog/110004/",
+      "https://www.14ymedio.com/rss/category/blog/110006/",
+      "https://www.14ymedio.com/rss/category/blog/110009/",
+      "https://www.14ymedio.com/rss/category/blog/110019/",
+      "https://www.14ymedio.com/rss/category/blog/110029/",
+      "https://www.14ymedio.com/rss/category/blog/110035/",
+      "https://www.14ymedio.com/rss/category/blog/1200000/",
+      "https://www.14ymedio.com/rss/category/section/110008/",
+      "https://www.14ymedio.com/rss/category/section/1100101/",
+      "https://www.14ymedio.com/rss/category/section/1100102/",
+      "https://www.14ymedio.com/rss/category/section/1100103/",
+      "https://www.14ymedio.com/rss/category/section/1100104/",
+      "https://www.14ymedio.com/rss/category/section/1100200/",
+      "https://www.14ymedio.com/rss/category/section/110021/",
+      "https://www.14ymedio.com/rss/category/section/110022/",
+      "https://www.14ymedio.com/rss/category/section/1100300/",
+      "https://www.14ymedio.com/rss/category/section/1100400/",
+      "https://www.14ymedio.com/rss/category/section/1100500/",
+      "https://www.14ymedio.com/rss/category/section/1100600/",
+      "https://www.14ymedio.com/rss/category/section/1100700/",
+      "https://www.14ymedio.com/rss/category/section/1100801/",
+      "https://www.14ymedio.com/rss/category/section/1100802/",
+      "https://www.14ymedio.com/rss/category/section/1100803/",
+      "https://www.14ymedio.com/rss/category/section/1100804/",
+      "https://www.14ymedio.com/rss/category/section/1100805/",
+      "https://www.14ymedio.com/rss/category/section/1100806/",
+      "https://www.14ymedio.com/rss/category/tag/1000060/",
+      "https://www.14ymedio.com/rss/category/tag/1001510/",
+      "https://www.14ymedio.com/rss/rss.html",
+      "https://www.14ymedio.com/rss/section/10000/",
+      "https://www.14ymedio.com/rss/section/1000101/",
+      "https://www.14ymedio.com/rss/section/1000102/",
+      "https://www.14ymedio.com/rss/section/1000103/",
+      "https://www.14ymedio.com/rss/section/1000104/",
+      "https://www.14ymedio.com/rss/section/10002/",
+      "https://www.14ymedio.com/rss/section/1000200/",
+      "https://www.14ymedio.com/rss/section/1000300/",
+      "https://www.14ymedio.com/rss/section/10004/",
+      "https://www.14ymedio.com/rss/section/1000400/",
+      "https://www.14ymedio.com/rss/section/1000500/",
+      "https://www.14ymedio.com/rss/section/10006/",
+      "https://www.14ymedio.com/rss/section/1000600/",
+      "https://www.14ymedio.com/rss/section/1000700/",
+      "https://www.14ymedio.com/rss/section/10008/",
+      "https://www.14ymedio.com/rss/section/1000801/",
+      "https://www.14ymedio.com/rss/section/1000802/",
+      "https://www.14ymedio.com/rss/section/1000803/",
+      "https://www.14ymedio.com/rss/section/1000804/",
+      "https://www.14ymedio.com/rss/section/1000805/",
+      "https://www.14ymedio.com/rss/section/1000806/",
+      "https://www.14ymedio.com/rss/section/10009/",
+      "https://www.14ymedio.com/rss/section/10019/",
+      "https://www.14ymedio.com/rss/section/10020/",
+      "https://www.14ymedio.com/rss/section/10021/",
+      "https://www.14ymedio.com/rss/section/10022/",
+      "https://www.14ymedio.com/rss/section/10029/",
+      "https://www.14ymedio.com/rss/section/10030/",
+      "https://www.14ymedio.com/rss/section/10035/",
+      "https://www.14ymedio.com/rss/section/1100000/"
+    ],
+    "5septiembre.cu": [
+      "https://www.5septiembre.cu/feed/",
+      "http://www.5septiembre.cu/feed/"
+    ],
+    "acn.cu": [
+      "https://www.acn.cu/?format=feed&type=atom",
+      "https://www.acn.cu/?format=feed&type=rss",
+      "https://www.acn.cu/podcast?format=feed&type=atom",
+      "https://www.acn.cu/podcast?format=feed&type=rss"
+    ],
+    "adelante.cu": [
+      "https://www.adelante.cu/index.php/es/?format=feed&type=atom",
+      "https://www.adelante.cu/index.php/es/?format=feed&type=rss",
+      "https://www.adelante.cu/index.php/en/?format=feed&type=atom",
+      "https://www.adelante.cu/index.php/en/?format=feed&type=rss",
+      "http://www.adelante.cu/index.php/es/?format=feed&type=atom",
+      "http://www.adelante.cu/index.php/es/?format=feed&type=rss"
+    ],
+    "ahora.cu": [
+      "http://www.ahora.cu/es/holguin/?format=feed&type=rss",
+      "http://www.ahora.cu/fr/?format=feed&type=atom",
+      "http://www.ahora.cu/fr/?format=feed&type=rss",
+      "https://www.ahora.cu/fr/?format=feed&type=atom",
+      "https://www.ahora.cu/fr/?format=feed&type=rss"
+    ],
+    "bohemia.cu": [
+      "http://bohemia.cu/feed/",
+      "https://bohemia.cu/feed/",
+      "https://bohemia.cu/feed/podcast"
+    ],
+    "cafefuerte.com": [
+      "https://cafefuerte.com/feed/",
+      "https://www.cafefuerte.com/feed/",
+      "https://cafefuerte.com/category/cafe-fuerte-el-podcast/feed/",
+      "https://www.cafefuerte.com/category/cafe-fuerte-el-podcast/feed/"
+    ],
+    "canalhabana.icrt.cu": [
+      "https://www.canalhabana.icrt.cu/feed/"
+    ],
+    "cibercuba.com": [
+      "https://www.cibercuba.com/noticias/cibercuba/rss.xml",
+      "https://www.cibercuba.com/rss.xml"
+    ],
+    "cuba.cu": [
+      "http://www.cuba.cu/feed"
+    ],
+    "cubadebate.cu": [
+      "http://www.cubadebate.cu/cuba/2020/11/16/la-luz-de-la-memoria-en-zona-blanca-no-hay-fecha-para-quitarse-el-nasobuco-podcast/feed/",
+      "http://www.cubadebate.cu/especiales/2019/05/17/como-solucionar-problemas-urgentes-de-la-economia-cubana-podcast/feed/",
+      "http://www.cubadebate.cu/especiales/2021/03/15/punto-deportivo-granma-o-matanzas-una-final-inedita-en-la-pelota-cubana-podcast/feed/",
+      "http://www.cubadebate.cu/especiales/2021/04/02/el-coronavirus-deja-al-turismo-en-numeros-rojos-como-remontar-este-2021-podcast/feed/",
+      "http://www.cubadebate.cu/especiales/2021/04/09/programa-nacional-para-el-adelanto-de-la-mujer-que-viene-despues-podcast/feed/",
+      "http://www.cubadebate.cu/feed/",
+      "http://www.cubadebate.cu/feed/atom/",
+      "http://www.cubadebate.cu/noticias/2016/07/31/es-absurdo-prohibir-los-transgenicos-dos-cientificos-conversan-con-cubadebate-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2016/08/08/agustin-lage-fidel-es-la-inmediatez-del-futuro-podcast-y-video/feed/",
+      "http://www.cubadebate.cu/noticias/2020/10/26/las-3-del-dia-lo-que-es-noticia-este-26-de-octubre-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2020/10/28/las-3-del-dia-lo-que-mas-se-lee-y-comenta-este-28-de-octubre-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2020/10/29/las-3-del-dia-lo-que-es-noticia-este-29-de-octubre-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2020/11/12/las-3-del-dia-lo-que-fue-noticia-este-12-de-noviembre-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2021/03/06/las-3-del-dia-por-que-ir-por-segunda-vez-como-voluntario-a-un-centro-de-aislamiento-y-lo-que-fue-noticia-esta-semana-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2021/03/17/las-tres-del-dia-como-se-vacunaria-a-los-alergicos-al-tiomersal-y-las-noticias-del-17-de-marzo-podcast/feed/",
+      "http://www.cubadebate.cu/noticias/2021/04/04/punto-deportivo-granma-por-acabar-la-final-y-matanzas-por-extenderla-a-un-septimo-juego-podcast/feed/",
+      "http://www.cubadebate.cu/wp-content/plugins/nextgen-gallery/xml/media-rss.php"
+    ],
+    "cubahora.cu": [
+      "https://cubahora.cu/feed",
+      "https://www.cubahora.cu/feed"
+    ],
+    "cubanet.org": [
+      "http://www.cubanet.org/feed/",
+      "https://www.cubanet.org/feed/"
+    ],
+    "cubasi.cu": [
+      "http://cubasi.cu/es/rss.xml",
+      "https://cubasi.cu/en/rss.xml",
+      "https://cubasi.cu/es/rss.xml"
+    ],
+    "cvi.icrt.cu": [
+      "https://www.cvi.icrt.cu/feed/"
+    ],
+    "diariodecuba.com": [
+      "https://diariodecuba.com/rss.xml"
+    ],
+    "en.granma.cu": [
+      "https://en.granma.cu/feed"
+    ],
+    "escambray.cu": [
+      "http://www.escambray.cu/feed/",
+      "https://www.escambray.cu/feed/"
+    ],
+    "giron.cu": [
+      "https://giron.cu/feed/",
+      "https://giron.cu/canal-de-podcast-del-periodico-giron/feed/"
+    ],
+    "granma.cu": [
+      "http://www.granma.cu/feed"
+    ],
+    "havanatimes.org": [
+      "https://havanatimes.org/category/cuba/feed/",
+      "https://havanatimes.org/feed/",
+      "https://havanatimes.org/opinion/cultural-bosses-of-the-cuban-regime-discover-the-podcast/feed/",
+      "https://havanatimesenespanol.org/feed/"
+    ],
+    "invasor.cu": [
+      "https://www.invasor.cu/es/etiquetas/podcast?format=feed&type=atom",
+      "https://www.invasor.cu/es/multimedia/podcast?format=feed&type=atom",
+      "https://www.invasor.cu/es/etiquetas/podcast?format=feed&type=rss",
+      "https://www.invasor.cu/es/multimedia/podcast?format=feed&type=rss",
+      "http://www.invasor.cu/es/component/obrss/invasor-rss"
+    ],
+    "ipscuba.net": [
+      "http://www.ipscuba.net/feed/"
+    ],
+    "juventudrebelde.cu": [
+      "http://www.juventudrebelde.cu/get/rss/columnas/acuse-recibo",
+      "http://www.juventudrebelde.cu/get/rss/columnas/frente-espejo",
+      "http://www.juventudrebelde.cu/get/rss/columnas/inter-nos",
+      "http://www.juventudrebelde.cu/get/rss/columnas/jr-en-making-of",
+      "http://www.juventudrebelde.cu/get/rss/columnas/las-tres-del-domingo",
+      "http://www.juventudrebelde.cu/get/rss/columnas/latigo-cascabel",
+      "http://www.juventudrebelde.cu/get/rss/columnas/lecturas",
+      "http://www.juventudrebelde.cu/get/rss/columnas/los-que-sonamos",
+      "http://www.juventudrebelde.cu/get/rss/columnas/tecla-duende",
+      "http://www.juventudrebelde.cu/get/rss/columnas/tiempo-extra",
+      "http://www.juventudrebelde.cu/get/rss/columnas/una-foto-una-historia",
+      "http://www.juventudrebelde.cu/get/rss/grupo/generales",
+      "http://www.juventudrebelde.cu/get/rss/noticias/ciencia-tecnica",
+      "http://www.juventudrebelde.cu/get/rss/noticias/cuba",
+      "http://www.juventudrebelde.cu/get/rss/noticias/cultura",
+      "http://www.juventudrebelde.cu/get/rss/noticias/deportes",
+      "http://www.juventudrebelde.cu/get/rss/noticias/internacionales",
+      "http://www.juventudrebelde.cu/get/rss/noticias/opinion",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/asi-de-facil",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/cocina-con-jr",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/de-impacto",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/detras-ciencia",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/el-tintero",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/en-red",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/en-serio-con-las-series",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/informatica",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/la-mirada-del-lector",
+      "http://www.juventudrebelde.cu/get/rss/suplementos/sexo-sentido",
+      "https://www.juventudrebelde.cu/get/rss/columnas/acuse-recibo",
+      "https://www.juventudrebelde.cu/get/rss/columnas/desde-la-grada",
+      "https://www.juventudrebelde.cu/get/rss/columnas/frente-espejo",
+      "https://www.juventudrebelde.cu/get/rss/columnas/inter-nos",
+      "https://www.juventudrebelde.cu/get/rss/columnas/las-tres-del-domingo",
+      "https://www.juventudrebelde.cu/get/rss/columnas/latigo-cascabel",
+      "https://www.juventudrebelde.cu/get/rss/columnas/lecturas",
+      "https://www.juventudrebelde.cu/get/rss/columnas/los-que-sonamos",
+      "https://www.juventudrebelde.cu/get/rss/columnas/tecla-duende",
+      "https://www.juventudrebelde.cu/get/rss/columnas/tiempo-extra",
+      "https://www.juventudrebelde.cu/get/rss/columnas/una-foto-una-historia",
+      "https://www.juventudrebelde.cu/get/rss/grupo/generales",
+      "https://www.juventudrebelde.cu/get/rss/noticias/ciencia-tecnica",
+      "https://www.juventudrebelde.cu/get/rss/noticias/cuba",
+      "https://www.juventudrebelde.cu/get/rss/noticias/cultura",
+      "https://www.juventudrebelde.cu/get/rss/noticias/deportes",
+      "https://www.juventudrebelde.cu/get/rss/noticias/internacionales",
+      "https://www.juventudrebelde.cu/get/rss/noticias/opinion",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/asi-de-facil",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/cocina-con-jr",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/de-impacto",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/detras-ciencia",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/el-tintero",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/en-red",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/en-serio-con-las-series",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/informatica",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/la-mirada-del-lector",
+      "https://www.juventudrebelde.cu/get/rss/suplementos/sexo-sentido"
+    ],
+    "lademajagua.cu": [
+      "https://lademajagua.cu/feed/",
+      "http://lademajagua.cu/feed/",
+      "http://feeds.feedburner.com/Bajomipiellaisla",
+      "http://feeds.feedburner.com/Eluniversaldecuba",
+      "http://feeds.feedburner.com/PincelCostumbrista",
+      "http://feeds.feedburner.com/blogspot/uSZgVK",
+      "http://feeds.feedburner.com/wordpress/hZlL"
+    ],
+    "oncubanews.com": [
+      "https://oncubanews.com/canaldigital/cine-cubano-independencia-vs-competencia-podcast/feed/",
+      "https://oncubanews.com/canaldigital/el-rostro-de-los-dias-buenas-regulares-y-peores-actuaciones-podcast/feed/",
+      "https://oncubanews.com/canaldigital/providencias-del-paquete-i-cuatro-telenovelas-brasilenas-usurpan-el-numero-uno-podcast/feed/",
+      "https://oncubanews.com/canaldigital/providencias-del-paquete-iii-pasion-cubana-por-telenovelas-turcas-podcast/feed/",
+      "https://oncubanews.com/cuba/economia/emprendimientos/el-podcast-de-ale-mira-mas-alla/feed/",
+      "https://oncubanews.com/en/feed/",
+      "https://oncubanews.com/feed/"
+    ],
+    "opciones.cu": [
+      "http://www.opciones.cu/feed/"
+    ],
+    "periodico26.cu": [
+      "http://periodico26.cu/index.php/es/especiales/podcast?format=feed&type=atom",
+      "http://www.periodico26.cu/index.php/es/especiales/podcast?format=feed&type=atom",
+      "http://periodico26.cu/index.php/es/especiales/podcast?format=feed&type=rss",
+      "http://www.periodico26.cu/index.php/es/especiales/podcast?format=feed&type=rss"
+    ],
+    "periodicovictoria.cu": [
+      "http://www.periodicovictoria.cu/feed/",
+      "https://www.periodicovictoria.cu/category/podcasts-2025/feed/",
+      "https://www.periodicovictoria.cu/category/podcasts-2023/feed/",
+      "http://www.periodicovictoria.cu/category/podcast/feed/"
+    ],
+    "prensa-latina.cu": [
+      "https://www.prensa-latina.cu/feed",
+      "https://www.prensa-latina.cu/feed/"
+    ],
+    "sierramaestra.cu": [
+      "https://sierramaestra.cu/index.php?format=feed&type=atom",
+      "https://sierramaestra.cu/index.php?format=feed&type=rss",
+      "https://sierramaestra.cu/index.php/titulares?format=feed&type=rss",
+      "http://www.sierramaestra.cu/index.php/titulares?format=feed&type=rss",
+      "http://www.sierramaestra.cu/index.php?format=feed&type=atom",
+      "http://www.sierramaestra.cu/index.php?format=feed&type=rss",
+      "https://sierramaestra.cu/index.php?format=feed",
+      "http://www.sierramaestra.cu/index.php/podcast?format=feed&type=atom",
+      "http://www.sierramaestra.cu/index.php/podcast?format=feed&type=rss"
+    ],
+    "trabajadores.cu": [
+      "http://www.trabajadores.cu/feed/",
+      "https://www.trabajadores.cu/feed/"
+    ],
+    "tribuna.cu": [
+      "https://tribuna.cu/es/etiquetas/podcast?format=feed&type=atom",
+      "https://tribuna.cu/es/multimedia/podcast?format=feed&type=atom",
+      "https://tribuna.cu/es/etiquetas/podcast?format=feed&type=rss",
+      "https://tribuna.cu/es/multimedia/podcast?format=feed&type=rss"
+    ],
+    "vanguardia.cu": [
+      "https://www.vanguardia.cu/?format=feed&type=atom",
+      "https://vanguardia.cu/?format=feed&type=rss",
+      "https://www.vanguardia.cu/?format=feed&type=rss",
+      "http://www.vanguardia.cu/?format=feed&type=atom",
+      "http://www.vanguardia.cu/?format=feed&type=rss",
+      "http://www.vanguardia.cu/podcasts/psicologia-al-clic?format=feed&type=atom",
+      "http://www.vanguardia.cu/podcasts/psicologia-al-clic?format=feed&type=rss"
+    ],
+    "vistarmagazine.com": [
+      "https://vistarmagazine.com/feed/"
+    ]
+  }
+}

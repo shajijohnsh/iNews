@@ -1,0 +1,27 @@
+{
+  "country_code": "BT",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 7,
+  "feeds": {
+    "bbs.bt": [
+      "https://www.bbs.bt/feed/"
+    ],
+    "bhutannewsnetwork.com": [
+      "https://bhutannewsnetwork.com/feed/"
+    ],
+    "businessbhutan.bt": [
+      "https://businessbhutan.bt/feed/"
+    ],
+    "dailybhutan.com": [
+      "https://www.dailybhutan.com/rss"
+    ],
+    "kuenselonline.com": [
+      "https://kuenselonline.com/feed/posts",
+      "https://kuenselonline.com/dz/feed/posts"
+    ],
+    "thebhutanese.bt": [
+      "https://thebhutanese.bt/feed/"
+    ]
+  }
+}

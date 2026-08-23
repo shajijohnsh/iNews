@@ -1,0 +1,40 @@
+{
+  "country_code": "KN",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 12,
+  "feeds": {
+    "nevispages.com": [
+      "https://www.nevispages.com/feed/"
+    ],
+    "sknnews.com": [
+      "https://sknnews.com/feed"
+    ],
+    "sknnewsline.com": [
+      "https://sknnewsline.com/f.atom",
+      "https://sknnewsline.com/f.rss"
+    ],
+    "sknpulse.com": [
+      "https://sknpulse.com/feed/"
+    ],
+    "stkittsgazette.com": [
+      "https://stkittsgazette.com/feed/"
+    ],
+    "thelabourspokesman.com": [
+      "https://thelabourspokesman.com/feed/"
+    ],
+    "thestkittsnevisobserver.com": [
+      "https://www.thestkittsnevisobserver.com/feed/"
+    ],
+    "vonradio.com": [
+      "https://vonradio.com/feed/"
+    ],
+    "winnmediaskn.com": [
+      "https://www.winnmediaskn.com/feed/",
+      "https://www.winnmediaskn.com/home/feed/"
+    ],
+    "zizonline.com": [
+      "https://zizonline.com/feed/"
+    ]
+  }
+}

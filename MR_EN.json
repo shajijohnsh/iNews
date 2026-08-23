@@ -1,0 +1,103 @@
+{
+  "country_code": "MR",
+  "language_code": "EN",
+  "total_domains": 27,
+  "total_feeds": 41,
+  "feeds": {
+    "alakhbar.info": [
+      "https://www.alakhbar.info/latest/rss/"
+    ],
+    "alikhbari.net": [
+      "https://alikhbari.net/feed"
+    ],
+    "alwiam.info": [
+      "https://alwiam.info/rss.xml"
+    ],
+    "ami.mr": [
+      "https://ami.mr/fr/feed"
+    ],
+    "anbaa.info": [
+      "https://anbaa.info/?feed=rss2"
+    ],
+    "atlasinfo.info": [
+      "https://atlasinfo.info/rss.xml"
+    ],
+    "cridem.org": [
+      "https://cridem.org/rss/actualites.php",
+      "http://www.cridem.org/rss/actualites.php"
+    ],
+    "elhourriya.net": [
+      "https://elhourriya.net/?feed=rss2",
+      "https://elhourriya.net/?feed=rss2&page_id=2"
+    ],
+    "elmourabiton.tv": [
+      "https://elmourabiton.tv/ar/rss.xml"
+    ],
+    "elwatan.info": [
+      "https://elwatan.info/rss.xml"
+    ],
+    "essahraa.net": [
+      "https://www.essahraa.net/taxonomy/term/1628/feed"
+    ],
+    "essirage.net": [
+      "https://essirage.net/rss.xml"
+    ],
+    "journaltahalil.com": [
+      "https://www.journaltahalil.com/feed/"
+    ],
+    "kassataya.com": [
+      "https://kassataya.com/feed/"
+    ],
+    "lecalame.info": [
+      "https://lecalame.info/?q=rss.xml"
+    ],
+    "mauriactu.info": [
+      "http://mauriactu.info/fr/rss.xml"
+    ],
+    "maurimedia.net": [
+      "https://www.maurimedia.net/spip.php?page=backend",
+      "http://maurimedia.net/feed/",
+      "https://maurimedia.net/feed/"
+    ],
+    "mauriweb.info": [
+      "https://www.mauriweb.info/rss.xml"
+    ],
+    "meyadin.net": [
+      "https://www.meyadin.net/rss.xml"
+    ],
+    "mourassiloun.com": [
+      "https://mourassiloun.com/rss2.xml"
+    ],
+    "rimnow.com": [
+      "https://feeds.feedburner.com/shanqyti/Ohlx",
+      "http://chegag.blogspot.com/feeds/posts/default",
+      "http://feeds.feedburner.com/blogspot/dLLyPi",
+      "https://chegag.blogspot.com/feeds/posts/default",
+      "https://draft.blogger.com/feeds/750423042791565202/posts/default",
+      "https://www.blogger.com/feeds/750423042791565202/posts/default",
+      "https://www.blogger.com/feeds/9112377040806741484/posts/default",
+      "http://chegag.blogspot.com/feeds/posts/default?alt=rss"
+    ],
+    "rimtoday.net": [
+      "https://rimtoday.net/?q=rss.xml"
+    ],
+    "saharamedias.net": [
+      "https://saharamedias.net/feed/"
+    ],
+    "souhoufi.com": [
+      "https://www.voursa.com/feedrss_voursa.xml",
+      "https://souhoufi.com/?feed=rss2",
+      "https://souhoufi.com/feed/",
+      "http://souhoufi.com/feed/"
+    ],
+    "taqadoum.mr": [
+      "https://taqadoum.mr/rss.xml"
+    ],
+    "tawary.com": [
+      "https://tawary.com/feed/"
+    ],
+    "tvm.mr": [
+      "https://tvm.mr/ar/?feed=rss2"
+    ]
+  }
+}

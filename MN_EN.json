@@ -1,0 +1,28 @@
+{
+  "country_code": "MN",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 8,
+  "feeds": {
+    "caak.mn": [
+      "https://www.caak.mn/rss"
+    ],
+    "dnn.mn": [
+      "http://dnn.mn/rss/",
+      "https://dnn.mn/rss/"
+    ],
+    "dorgio.mn": [
+      "https://www.dorgio.mn/rss"
+    ],
+    "mnb.mn": [
+      "https://www.mnb.mn/rss"
+    ],
+    "mse.mn": [
+      "https://mse.mn/mn/feed"
+    ],
+    "news.mn": [
+      "https://news.mn/feed/",
+      "https://news.mn/en/feed/"
+    ]
+  }
+}

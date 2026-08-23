@@ -4,19 +4,25 @@
   "total_domains": 9,
   "total_feeds": 11,
   "feeds": {
+    "elexpresso.com": [
+      "https://elexpresso.com/feed/"
+    ],
+    "elvisitantepr.com": [
+      "https://elvisitantepr.com/feed/",
+      "https://elvisitantepr.com/home-2/feed/"
+    ],
     "elvocero.com": [
       "http://www.elvocero.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "sanjuandailystar.com": [
-      "https://www.sanjuandailystar.com/blog-feed.xml"
     ],
     "metro.pr": [
       "https://www.metro.pr/arc/outboundfeeds/rss/",
       "https://www.metro.pr/arc/outboundfeeds/google-news-feed/"
     ],
-    "elvisitantepr.com": [
-      "https://elvisitantepr.com/feed/",
-      "https://elvisitantepr.com/home-2/feed/"
+    "periodicoeloriental.com": [
+      "https://periodicoeloriental.com/?feed=rss2"
+    ],
+    "periodicovision.com": [
+      "https://periodicovision.com/feed/"
     ],
     "presenciapr.com": [
       "https://presenciapr.com/feed/"
@@ -24,14 +30,8 @@
     "puertoricoreport.com": [
       "https://puertoricoreport.com/feed/"
     ],
-    "elexpresso.com": [
-      "https://elexpresso.com/feed/"
-    ],
-    "periodicoeloriental.com": [
-      "https://periodicoeloriental.com/?feed=rss2"
-    ],
-    "periodicovision.com": [
-      "https://periodicovision.com/feed/"
+    "sanjuandailystar.com": [
+      "https://www.sanjuandailystar.com/blog-feed.xml"
     ]
   }
 }

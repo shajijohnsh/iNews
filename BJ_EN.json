@@ -1,0 +1,61 @@
+{
+  "country_code": "BJ",
+  "language_code": "EN",
+  "total_domains": 13,
+  "total_feeds": 27,
+  "feeds": {
+    "24haubenin.info": [
+      "https://24haubenin.info/spip.php?page=backend"
+    ],
+    "banouto.bj": [
+      "https://www.banouto.bj/rss-actualites",
+      "http://banouto.bj/rss-actualites"
+    ],
+    "benininfo.com": [
+      "https://www.benininfo.com/feed/",
+      "https://www.benininfo.com/focus-sur-le-benin?format=rss",
+      "https://www.benininfo.com/materiel?format=rss",
+      "https://www.benininfo.com/necrologie?format=rss",
+      "https://www.benininfo.com/pag?format=rss",
+      "https://www.benininfo.com/personnalite?format=rss",
+      "https://www.benininfo.com/promo?format=rss",
+      "https://www.benininfo.com/tourisme?format=rss",
+      "https://benininfo.com/feed/"
+    ],
+    "beninsite.net": [
+      "https://beninsite.net/feed/"
+    ],
+    "beninwebtv.bj": [
+      "https://beninwebtv.bj/feed/",
+      "https://beninwebtv.bj/pays/afrique/afrique-de-louest/benin/feed/",
+      "https://beninwebtv.bj/benin-web-tv-sport/feed/",
+      "https://beninwebtv.bj/bwtv-elle/feed/",
+      "https://beninwebtv.bj/emplois-bwtv/feed/",
+      "https://beninwebtv.bj/emissions/feed/"
+    ],
+    "fraternitebj.info": [
+      "https://www.fraternitebj.info/feed/"
+    ],
+    "gouv.bj": [
+      "https://www.gouv.bj/feed/"
+    ],
+    "l-integration.com": [
+      "https://l-integration.com/feed/"
+    ],
+    "lanouvelletribune.info": [
+      "https://lanouvelletribune.info/feed/"
+    ],
+    "leconomistebenin.bj": [
+      "https://leconomistebenin.bj/feed/"
+    ],
+    "lematinal.bj": [
+      "https://lematinal.bj/feed/"
+    ],
+    "matinlibre.com": [
+      "https://matinlibre.com/feed/"
+    ],
+    "visages-du-benin.com": [
+      "https://visages-du-benin.bj/feed/"
+    ]
+  }
+}

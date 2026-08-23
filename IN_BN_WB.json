@@ -4,29 +4,29 @@
   "total_domains": 8,
   "total_feeds": 8,
   "feeds": {
-    "sangbadpratidin.in": [
-      "https://www.sangbadpratidin.in/feed/"
-    ],
-    "uttarbangasambad.com": [
-      "https://uttarbangasambad.com/feed/"
+    "aajkerdeshabrati.wordpress.com": [
+      "https://aajkerdeshabrati.wordpress.com/feed/"
     ],
     "aamadermalda.in": [
       "https://www.aamadermalda.in/blog-feed.xml"
     ],
-    "ganadabi.com": [
-      "https://ganadabi.com/feed/"
-    ],
     "ekdin-epaper.com": [
       "https://www.ekdin-epaper.com/rss"
     ],
-    "puberkalom.com": [
-      "https://www.puberkalom.com/feed"
+    "ganadabi.com": [
+      "https://ganadabi.com/feed/"
     ],
-    "aajkerdeshabrati.wordpress.com": [
-      "https://aajkerdeshabrati.wordpress.com/feed/"
+    "puberkalom.com": [
+      "https://www.puberkalom.com/feed/"
+    ],
+    "sangbadpratidin.in": [
+      "https://www.sangbadpratidin.in/feed/"
     ],
     "songbadmanthan.com": [
       "https://songbadmanthan.com/feed/"
+    ],
+    "uttarbangasambad.com": [
+      "https://uttarbangasambad.com/feed/"
     ]
   }
 }

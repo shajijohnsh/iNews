@@ -1,0 +1,89 @@
+{
+  "country_code": "TG",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 37,
+  "feeds": {
+    "27avril.com": [
+      "https://www.27avril.com/feed"
+    ],
+    "afreepress.info": [
+      "https://afreepress.info/index.php?format=feed&type=atom",
+      "https://afreepress.info/index.php?format=feed&type=rss",
+      "http://www.afreepress.info/index.php?format=feed&type=rss"
+    ],
+    "autogo.tg": [
+      "https://autogo.tg/feed/"
+    ],
+    "icilome.com": [
+      "https://icilome.com/feed/",
+      "https://www.icilome.com/sharecontent/rss.xml"
+    ],
+    "independantexpress.net": [
+      "https://independantexpress.net/feed/"
+    ],
+    "lanouvelletribune.net": [
+      "https://togobulletin.net/feed/"
+    ],
+    "letempstg.com": [
+      "https://letempstg.com/feed/",
+      "https://letempstg.com/le-temps-infos-du-togo-et-dailleurs/feed/"
+    ],
+    "letogolais.com": [
+      "https://www.letogolais.com/feed/",
+      "http://www.letogolais.com/feed/"
+    ],
+    "libertetogo.info": [
+      "https://libertetogo.info/feed/"
+    ],
+    "lomeinfos.com": [
+      "https://www.lomeinfos.com/feed/"
+    ],
+    "republicoftogo.com": [
+      "https://www.republicoftogo.com/rss/feed/diplomatie",
+      "https://www.republicoftogo.com/rss/feed/economie",
+      "https://www.republicoftogo.com/rss/feed/finances",
+      "https://www.republicoftogo.com/rss/feed/general",
+      "https://www.republicoftogo.com/rss/feed/idees",
+      "https://www.republicoftogo.com/rss/feed/medias",
+      "https://www.republicoftogo.com/rss/feed/politique",
+      "https://www.republicoftogo.com/rss/feed/societe",
+      "https://www.republicoftogo.com/rss/feed/sport"
+    ],
+    "savoirnews.tg": [
+      "https://savoirnews.tg/feed/",
+      "https://savoirnews.tg/feed/podcast"
+    ],
+    "togo24.net": [
+      "https://togo24.tg/feed/"
+    ],
+    "togoactualite.com": [
+      "https://togoactualite.com/feed/"
+    ],
+    "togobreakingnews.info": [
+      "https://togobreakingnews.info/feed/"
+    ],
+    "togoenlive.info": [
+      "http://togoenlive.info/feed/"
+    ],
+    "togofirst.com": [
+      "https://www.togofirst.com/en/rss-en",
+      "https://www.togofirst.com/fr/rss-fr"
+    ],
+    "togomedia24.com": [
+      "https://togomedia24.com/feed/"
+    ],
+    "togopresse.tg": [
+      "https://togopresse.tg/feed/"
+    ],
+    "togoreveil.com": [
+      "https://togoreveil.com/feed/"
+    ],
+    "togotimes.info": [
+      "https://togotimes.info/feed/"
+    ],
+    "togoweb.net": [
+      "https://togoweb.net/feed/"
+    ]
+  }
+}

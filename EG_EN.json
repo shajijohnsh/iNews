@@ -1,0 +1,474 @@
+{
+  "country_code": "EG",
+  "language_code": "EN",
+  "total_domains": 50,
+  "total_feeds": 366,
+  "feeds": {
+    "ahlmasrnews.com": [
+      "https://ahlmasrnews.com/sitemap.xml"
+    ],
+    "akhbarak.net": [
+      "https://akhbarak.net/api/news.rss",
+      "https://akhbarak.net/api/top_news.rss"
+    ],
+    "akhbarelyom.com": [
+      "https://akhbarelyom.com/RSS/GetSectionNewsRSS/1?SectionID=37"
+    ],
+    "akhbarway.com": [
+      "https://www.akhbarway.com/rss-news-elakhbar.asp",
+      "https://www.akhbarway.com/rss-news-nogoom.asp",
+      "https://www.akhbarway.com/rss-news-sports.asp",
+      "https://www.akhbarway.com/rss-news-economy.asp",
+      "https://www.akhbarway.com/rss-news-cars-news.asp",
+      "https://www.akhbarway.com/rss-news-adab.asp",
+      "https://www.akhbarway.com/rss-news-computer.asp",
+      "https://www.akhbarway.com/rss-news-technology.asp",
+      "https://www.akhbarway.com/rss-news-sehha.asp",
+      "https://www.akhbarway.com/rss-photos-news-photos.asp"
+    ],
+    "alahalygate.com": [
+      "http://alahalygate.com/?feed=comments-rss2",
+      "http://alahalygate.com/?feed=rss2",
+      "https://alahalygate.com/feed"
+    ],
+    "albawabhnews.com": [
+      "https://www.albawabhnews.com/rss.aspx"
+    ],
+    "almalnews.com": [
+      "https://almalnews.com/feed/"
+    ],
+    "almasdar.com": [
+      "https://www.almasdar.com/rss.aspx"
+    ],
+    "almasryalyoum.com": [
+      "https://www.almasryalyoum.com/rss/rssfeed",
+      "https://www.almasryalyoum.com/rss/rssfeeds",
+      "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=3",
+      "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=4",
+      "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=57",
+      "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=9"
+    ],
+    "almessa.gomhuriaonline.com": [
+      "https://almessa.gomhuriaonline.com/feed/"
+    ],
+    "alwafd.news": [
+      "https://alwafd.news/feed",
+      "https://alwafd.news/feed/18",
+      "https://alwafd.news/feed/82",
+      "https://www.alwafd.news/rss.aspx",
+      "https://alwafd.news/feed/20",
+      "https://alwafd.news/feed/87",
+      "https://alwafd.news/feed/103",
+      "https://alwafd.news/feed/34",
+      "https://alwafd.news/feed/19",
+      "https://alwafd.news/feed/44",
+      "https://alwafd.news/feed/9",
+      "https://alwafd.news/feed/26",
+      "https://alwafd.news/feed/39",
+      "https://alwafd.news/feed/666",
+      "https://alwafd.news/feed/29",
+      "https://alwafd.news/feed/533",
+      "https://alwafd.news/feed/64",
+      "https://alwafd.news/feed/369",
+      "https://alwafd.news/feed/49",
+      "https://alwafd.news/feed/48",
+      "https://alwafd.news/feed/175",
+      "https://alwafd.news/feed/21",
+      "https://alwafd.news/feed/25",
+      "https://alwafd.news/feed/27",
+      "https://alwafd.news/feed/37",
+      "https://alwafd.news/feed/54",
+      "https://alwafd.news/feed/639",
+      "https://alwafd.news/feed/98"
+    ],
+    "amwalalghad.com": [
+      "https://amwalalghad.com/feed/",
+      "https://amwalalghad.com/feed/atom/"
+    ],
+    "arabnet5.com": [
+      "http://www.arabnet5.com/rss-classifieds.asp",
+      "https://www.arabnet5.com/rss-classifieds.asp",
+      "http://www.arabnet5.com/rss-news-all.asp",
+      "https://www.arabnet5.com/rss-news-all.asp",
+      "https://www.arabnet5.com/rss-articles.asp",
+      "https://www.arabnet5.com/rss-news-culture.asp",
+      "http://www.arabnet5.com/rss-articles.asp",
+      "http://www.arabnet5.com/rss-computer-market.asp",
+      "http://www.arabnet5.com/rss-mobile-market.asp",
+      "http://www.arabnet5.com/rss-news-business.asp",
+      "http://www.arabnet5.com/rss-news-cars.asp",
+      "http://www.arabnet5.com/rss-news-communications.asp",
+      "http://www.arabnet5.com/rss-news-computer.asp",
+      "http://www.arabnet5.com/rss-news-culture.asp",
+      "http://www.arabnet5.com/rss-news-education.asp",
+      "http://www.arabnet5.com/rss-news-egypt.asp",
+      "http://www.arabnet5.com/rss-news-environment.asp",
+      "http://www.arabnet5.com/rss-news-family.asp",
+      "http://www.arabnet5.com/rss-news-health.asp",
+      "http://www.arabnet5.com/rss-news-muslims.asp",
+      "http://www.arabnet5.com/rss-news-sports.asp",
+      "http://www.arabnet5.com/rss-news-tech.asp",
+      "http://www.arabnet5.com/rss-news-world.asp",
+      "http://www.arabnet5.com/rss-news-worldcup2010.asp",
+      "http://www.arabnet5.com/rss-photos-caricature.asp",
+      "http://www.arabnet5.com/rss-photos-photos.asp",
+      "https://www.arabnet5.com/rss-computer-market.asp",
+      "https://www.arabnet5.com/rss-mobile-market.asp",
+      "https://www.arabnet5.com/rss-news-business.asp",
+      "https://www.arabnet5.com/rss-news-cars.asp",
+      "https://www.arabnet5.com/rss-news-communications.asp",
+      "https://www.arabnet5.com/rss-news-computer.asp",
+      "https://www.arabnet5.com/rss-news-education.asp",
+      "https://www.arabnet5.com/rss-news-egypt.asp",
+      "https://www.arabnet5.com/rss-news-environment.asp",
+      "https://www.arabnet5.com/rss-news-family.asp",
+      "https://www.arabnet5.com/rss-news-health.asp",
+      "https://www.arabnet5.com/rss-news-muslims.asp",
+      "https://www.arabnet5.com/rss-news-sports.asp",
+      "https://www.arabnet5.com/rss-news-tech.asp",
+      "https://www.arabnet5.com/rss-news-world.asp",
+      "https://www.arabnet5.com/rss-photos-caricature.asp",
+      "https://www.arabnet5.com/rss-photos-photos.asp"
+    ],
+    "btolat.com": [
+      "https://www.btolat.com/RSS/videosfeed?leagueid=1204",
+      "https://www.btolat.com/rss/Professionalsfeed",
+      "https://www.btolat.com/rss/newsfeed",
+      "https://www.btolat.com/rss/sectionnewsxml",
+      "https://www.btolat.com/rss/videosfeed"
+    ],
+    "cairo24.com": [
+      "https://www.cairo24.com/rss.aspx"
+    ],
+    "dailynewsegypt.com": [
+      "http://www.dailynewsegypt.com/feed/",
+      "https://www.dailynewsegypt.com/feed/"
+    ],
+    "dostor.org": [
+      "https://www.dostor.org/rss.aspx"
+    ],
+    "egypt-today.com": [
+      "https://www.egypt-today.com/business/rss.xml",
+      "https://www.egypt-today.com/news/rss.xml",
+      "https://www.egypt-today.com/egypt-breakingnews/rss.xml",
+      "https://www.egypt-today.com/entertainment/rss.xml",
+      "https://www.egypt-today.com/sports/rss.xml",
+      "https://www.egypt-today.com/horoscope/rss.xml",
+      "https://www.egypt-today.com/culture/rss.xml",
+      "https://www.egypt-today.com/international-football/rss.xml",
+      "https://www.egypt-today.com/ahly/rss.xml",
+      "https://www.egypt-today.com/arab-football/rss.xml",
+      "https://www.egypt-today.com/auto/rss.xml",
+      "https://www.egypt-today.com/decor/rss.xml",
+      "https://www.egypt-today.com/different-sports/rss.xml",
+      "https://www.egypt-today.com/education/rss.xml",
+      "https://www.egypt-today.com/egypt-football/rss.xml",
+      "https://www.egypt-today.com/egyptian/rss.xml",
+      "https://www.egypt-today.com/environment/rss.xml",
+      "https://www.egypt-today.com/ismaili/rss.xml",
+      "https://www.egypt-today.com/ittihad/rss.xml",
+      "https://www.egypt-today.com/media/rss.xml",
+      "https://www.egypt-today.com/rss_style/rss.xml",
+      "https://www.egypt-today.com/travel/rss.xml",
+      "https://www.egypt-today.com/video/rss.xml",
+      "https://www.egypt-today.com/zamalek/rss.xml",
+      "https://www.egypt-today.com/health/rss.xml"
+    ],
+    "egyptianstreets.com": [
+      "https://egyptianstreets.com/feed/",
+      "https://egyptianstreets.com/home/feed/"
+    ],
+    "egyptindependent.com": [
+      "https://egyptindependent.com/feed/",
+      "https://www.egyptindependent.com/category/egypt/feed/",
+      "https://www.egyptindependent.com/feed/"
+    ],
+    "elaosboa.com": [
+      "https://www.elaosboa.com/feed/",
+      "https://www.elaosboa.com/rss.asp"
+    ],
+    "elbalad.news": [
+      "https://elbalad.news/rss.aspx",
+      "https://www.elbalad.news/rss.aspx"
+    ],
+    "elbashayer.com": [
+      "https://elbashayer.com/feed/"
+    ],
+    "elfagr.org": [
+      "https://www.elfagr.org/rss.aspx",
+      "https://www.elfagr.org/rss.aspx?secidmenu=1"
+    ],
+    "elmogaz.com": [
+      "https://www.elmogaz.com/rss.xml",
+      "https://www.elmogaz.com/rss/rss7.xml",
+      "https://www.elmogaz.com/rss/rss12.xml",
+      "https://www.elmogaz.com/rss/rss16.xml",
+      "https://www.elmogaz.com/rss/rss5.xml",
+      "https://www.elmogaz.com/rss/rss6.xml",
+      "https://www.elmogaz.com/rss/rss23.xml",
+      "https://www.elmogaz.com/rss/rss4.xml",
+      "https://www.elmogaz.com/rss/rss2.xml",
+      "https://www.elmogaz.com/rss/rss18.xml",
+      "https://www.elmogaz.com/rss/rss1.xml",
+      "https://www.elmogaz.com/rss/rss22.xml",
+      "https://www.elmogaz.com/rss/rss8.xml",
+      "https://www.elmogaz.com/rss/rss9.xml",
+      "https://www.elmogaz.com/rss/rss15.xml",
+      "https://www.elmogaz.com/rss/rss17.xml",
+      "https://www.elmogaz.com/rss/rss10.xml",
+      "https://www.elmogaz.com/rss/rss11.xml",
+      "https://www.elmogaz.com/rss/rss14.xml",
+      "https://www.elmogaz.com/rss/rss19.xml",
+      "https://www.elmogaz.com/rss/rss20.xml"
+    ],
+    "elwatannews.com": [
+      "https://www.elwatannews.com/home/rssfeeds"
+    ],
+    "elzmannews.com": [
+      "https://www.elzmannews.com/rss/rss1.xml",
+      "https://www.elzmannews.com/rss/rss5.xml",
+      "https://www.elzmannews.com/rss.xml",
+      "https://www.elzmannews.com/rss/rss3.xml",
+      "https://www.elzmannews.com/rss/rss4.xml",
+      "https://www.elzmannews.com/rss/rss8.xml",
+      "https://www.elzmannews.com/rss/rss6.xml",
+      "https://www.elzmannews.com/rss/rss7.xml",
+      "https://www.elzmannews.com/rss/rss2.xml",
+      "https://www.elzmannews.com/rss/rss10.xml",
+      "https://www.elzmannews.com/rss/rss11.xml",
+      "https://www.elzmannews.com/rss/rss12.xml",
+      "https://www.elzmannews.com/rss/rss13.xml",
+      "https://www.elzmannews.com/rss/rss14.xml",
+      "https://www.elzmannews.com/rss/rss15.xml",
+      "https://www.elzmannews.com/rss/rss16.xml",
+      "https://www.elzmannews.com/rss/rss17.xml",
+      "https://www.elzmannews.com/rss/rss18.xml",
+      "https://www.elzmannews.com/rss/rss19.xml",
+      "https://www.elzmannews.com/rss/rss20.xml",
+      "https://www.elzmannews.com/rss/rss21.xml",
+      "https://www.elzmannews.com/rss/rss22.xml",
+      "https://www.elzmannews.com/rss/rss23.xml",
+      "https://www.elzmannews.com/rss/rss24.xml",
+      "https://www.elzmannews.com/rss/rss25.xml",
+      "https://www.elzmannews.com/rss/rss27.xml",
+      "https://www.elzmannews.com/rss/rss28.xml",
+      "https://www.elzmannews.com/rss/rss29.xml",
+      "https://www.elzmannews.com/rss/rss30.xml",
+      "https://www.elzmannews.com/rss/rss31.xml",
+      "https://www.elzmannews.com/rss/rss32.xml",
+      "https://www.elzmannews.com/rss/rss33.xml",
+      "https://www.elzmannews.com/rss/rss34.xml",
+      "https://www.elzmannews.com/rss/rss35.xml",
+      "https://www.elzmannews.com/rss/rss36.xml",
+      "https://www.elzmannews.com/rss/rss37.xml",
+      "https://www.elzmannews.com/rss/rss38.xml",
+      "https://www.elzmannews.com/rss/rss39.xml",
+      "https://www.elzmannews.com/rss/rss40.xml",
+      "https://www.elzmannews.com/rss/rss41.xml",
+      "https://www.elzmannews.com/rss/rss9.xml"
+    ],
+    "fath-news.com": [
+      "https://fath-news.com/ar/news/feed"
+    ],
+    "filgoal.com": [
+      "https://www.filgoal.com/section/0/rss/%D9%85%D8%B5%D8%B1",
+      "https://www.filgoal.com/section/1/rss/%D9%85%D8%B5%D8%B1",
+      "https://www.filgoal.com/section/23/rss/%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
+      "https://www.filgoal.com/section/3/rss/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+      "https://www.filgoal.com/section/5/rss/%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%88%D9%86",
+      "https://www.filgoal.com/section/9/rss/%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A"
+    ],
+    "fj-p.com": [
+      "https://fj-p.com/feed/"
+    ],
+    "ikhwanonline.com": [
+      "https://ikhwanonline.com/rss",
+      "http://www.ikhwanonline.com/rss/rss.xml"
+    ],
+    "ismailyonline.com": [
+      "https://www.ismailyonline.com/feed/?v=0df8da7d28fb"
+    ],
+    "kingfut.com": [
+      "https://www.kingfut.com/feed/"
+    ],
+    "madamasr.com": [
+      "https://www.madamasr.com/feed/",
+      "https://madamasr.com/ar/feed/",
+      "https://www.madamasr.com/en/feed/"
+    ],
+    "masralyoum.net": [
+      "https://masralyoum.net/rss.html",
+      "https://www.masralyoum.net/rss.html"
+    ],
+    "masrawy.com": [
+      "https://www.masrawy.com/rss/feed/121/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/122/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%81%D9%86%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/202/%D8%B4%D8%A6%D9%88%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/202/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85",
+      "https://www.masrawy.com/rss/feed/204/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/205/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB",
+      "https://www.masrawy.com/rss/feed/205/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7",
+      "https://www.masrawy.com/rss/feed/206/%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.masrawy.com/rss/feed/206/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.masrawy.com/rss/feed/207/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/209/%D8%B5%D8%AD%D8%A7%D9%81%D8%A9",
+      "https://www.masrawy.com/rss/feed/210/%D9%81%D9%86%D9%88%D9%86",
+      "https://www.masrawy.com/rss/feed/211/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/215/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/217/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84",
+      "https://www.masrawy.com/rss/feed/218/%D8%A7%D9%84%D9%85%D9%88%D8%B6%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84",
+      "https://www.masrawy.com/rss/feed/219/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B7%D8%A8%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/221/%D9%85%D8%B7%D8%A8%D8%AE-%D9%85%D8%B5%D8%B1%D8%A7%D9%88%D9%89",
+      "https://www.masrawy.com/rss/feed/222/%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%85%D8%A9",
+      "https://www.masrawy.com/rss/feed/223/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/227/%D8%A2%D8%B1%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A9",
+      "https://www.masrawy.com/rss/feed/235/%D9%85%D8%B3%D8%B1%D8%AD-%D9%88%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86",
+      "https://www.masrawy.com/rss/feed/25/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+      "https://www.masrawy.com/rss/feed/254/%D8%B3%D9%8A%D9%86%D9%85%D8%A7",
+      "https://www.masrawy.com/rss/feed/255/%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89",
+      "https://www.masrawy.com/rss/feed/262/%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/27/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "https://www.masrawy.com/rss/feed/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D9%85%D8%B5%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
+      "https://www.masrawy.com/rss/feed/35/%D9%85%D8%B5%D8%B1",
+      "https://www.masrawy.com/rss/feed/373/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/375/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+      "https://www.masrawy.com/rss/feed/376/%D8%B3%D8%A8%D8%A7%D9%82%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/378/%D8%A3%D9%84%D8%A8%D9%88%D9%85-%D8%B5%D9%88%D8%B1",
+      "https://www.masrawy.com/rss/feed/379/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/382/%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
+      "https://www.masrawy.com/rss/feed/382/%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
+      "https://www.masrawy.com/rss/feed/402/%D8%A7%D9%84%D8%B1%D8%AC%D9%84",
+      "https://www.masrawy.com/rss/feed/445/%D8%A3%D8%AE%D8%B1%D9%89",
+      "https://www.masrawy.com/rss/feed/446/%D9%82%D8%B5%D8%B5-%D9%88%D8%B9%D8%A8",
+      "https://www.masrawy.com/rss/feed/467/%D8%A3%D9%84%D8%A8%D9%88%D9%85-%D8%A7%D9%84%D8%B5%D9%88%D8%B1",
+      "https://www.masrawy.com/rss/feed/468/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/50/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA",
+      "https://www.masrawy.com/rss/feed/51/%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/56/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85",
+      "https://www.masrawy.com/rss/feed/577/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/578/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A3%D8%AE%D8%B1%D9%89",
+      "https://www.masrawy.com/rss/feed/579/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
+      "https://www.masrawy.com/rss/feed/582/%D8%B2%D9%88%D9%88%D9%85",
+      "https://www.masrawy.com/rss/feed/583/%D8%A3%D8%AC%D9%86%D8%A8%D9%89",
+      "https://www.masrawy.com/rss/feed/586/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B2%D9%85%D8%A7%D9%86",
+      "https://www.masrawy.com/rss/feed/598/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD",
+      "https://www.masrawy.com/rss/feed/603/%D8%B3%D9%81%D8%B1-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9",
+      "https://www.masrawy.com/rss/feed/61/%D9%81%D8%AA%D8%A7%D9%88%D9%89",
+      "https://www.masrawy.com/rss/feed/632/%D8%A3%D8%A8%D9%8A%D8%B6-%D9%88%D8%A3%D8%B3%D9%88%D8%AF",
+      "https://www.masrawy.com/rssfeed/202/%D8%B4%D8%A6%D9%88%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+      "https://www.masrawy.com/rssfeed/205/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7",
+      "https://www.masrawy.com/rssfeed/206/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+      "https://www.masrawy.com/rssfeed/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D9%85%D8%B5%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
+      "https://www.masrawy.com/rssfeed/382/%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7"
+    ],
+    "masress.com": [
+      "https://www.masress.com/rss",
+      "https://www.masress.com/en/rss"
+    ],
+    "misr5.com": [
+      "https://misr5.com/feed/"
+    ],
+    "mogazmasr.com": [
+      "https://www.mogazmasr.com/feed"
+    ],
+    "ngmisr.com": [
+      "https://www.ngmisr.com/feed"
+    ],
+    "propaganda-eg.com": [
+      "https://propaganda-eg.com/feed/"
+    ],
+    "rassd.com": [
+      "https://rassd.com/feed"
+    ],
+    "sabaharabi.com": [
+      "https://www.sabaharabi.com/rss.xml",
+      "https://www.sabaharabi.com/rss/rss7.xml",
+      "https://www.sabaharabi.com/rss/rss14.xml",
+      "https://www.sabaharabi.com/rss/rss3.xml",
+      "https://www.sabaharabi.com/rss/rss5.xml",
+      "https://www.sabaharabi.com/rss/rss9.xml",
+      "https://www.sabaharabi.com/rss/rss1.xml",
+      "https://www.sabaharabi.com/rss/rss6.xml",
+      "https://www.sabaharabi.com/rss/rss20.xml",
+      "https://www.sabaharabi.com/rss/rss10.xml",
+      "https://www.sabaharabi.com/rss/rss11.xml",
+      "https://www.sabaharabi.com/rss/rss12.xml",
+      "https://www.sabaharabi.com/rss/rss13.xml",
+      "https://www.sabaharabi.com/rss/rss15.xml",
+      "https://www.sabaharabi.com/rss/rss16.xml",
+      "https://www.sabaharabi.com/rss/rss17.xml",
+      "https://www.sabaharabi.com/rss/rss18.xml",
+      "https://www.sabaharabi.com/rss/rss2.xml",
+      "https://www.sabaharabi.com/rss/rss4.xml",
+      "https://www.sabaharabi.com/rss/rss8.xml"
+    ],
+    "shorouknews.com": [
+      "https://www.shorouknews.com/Culture/rss",
+      "https://www.shorouknews.com/Economy/business/rss",
+      "https://www.shorouknews.com/Economy/citizines/rss",
+      "https://www.shorouknews.com/Economy/rss",
+      "https://www.shorouknews.com/Politics/arab/rss",
+      "https://www.shorouknews.com/Politics/rss",
+      "https://www.shorouknews.com/Politics/world/rss",
+      "https://www.shorouknews.com/accidents/rss",
+      "https://www.shorouknews.com/art/rss",
+      "https://www.shorouknews.com/auto/rss",
+      "https://www.shorouknews.com/columns/rss/",
+      "https://www.shorouknews.com/egypt/rss",
+      "https://www.shorouknews.com/ladies/rss",
+      "https://www.shorouknews.com/local/rss",
+      "https://www.shorouknews.com/people-life/animals/rss",
+      "https://www.shorouknews.com/people-life/history/rss",
+      "https://www.shorouknews.com/people-life/rss",
+      "https://www.shorouknews.com/people-life/trips/rss",
+      "https://www.shorouknews.com/rss/main/",
+      "https://www.shorouknews.com/sports/international/rss",
+      "https://www.shorouknews.com/sports/local-sports/rss",
+      "https://www.shorouknews.com/sports/rss",
+      "https://www.shorouknews.com/tv/rss",
+      "https://www.shorouknews.com/universities/rss",
+      "https://www.shorouknews.com/variety/Internet-Comm/rss",
+      "https://www.shorouknews.com/variety/RostomSt/rss",
+      "https://www.shorouknews.com/variety/Youth-Edu/rss",
+      "https://www.shorouknews.com/variety/health/rss",
+      "https://www.shorouknews.com/variety/rss",
+      "https://www.shorouknews.com/variety/sciences/rss"
+    ],
+    "soutalomma.com": [
+      "https://www.soutalomma.com/Rss/Section/104",
+      "https://www.soutalomma.com/Rss/Section/1429",
+      "https://www.soutalomma.com/Rss/Section/2",
+      "https://www.soutalomma.com/Rss/Section/37",
+      "https://www.soutalomma.com/Rss/Section/42",
+      "https://www.soutalomma.com/Rss/Section/46",
+      "https://www.soutalomma.com/Rss/Section/47",
+      "http://www.soutalomma.com/Rss/Section/104",
+      "http://www.soutalomma.com/Rss/Section/1429",
+      "http://www.soutalomma.com/Rss/Section/2",
+      "http://www.soutalomma.com/Rss/Section/37",
+      "http://www.soutalomma.com/Rss/Section/42",
+      "http://www.soutalomma.com/Rss/Section/46",
+      "http://www.soutalomma.com/Rss/Section/47"
+    ],
+    "stadelahly.net": [
+      "https://stadelahly.net/feed/"
+    ],
+    "vetogate.com": [
+      "https://www.vetogate.com/rss.aspx"
+    ],
+    "washwasha.org": [
+      "http://www.washwasha.org/rss.aspx",
+      "https://www.washwasha.org/rss.aspx"
+    ],
+    "wataninet.com": [
+      "https://www.wataninet.com/feed/"
+    ],
+    "youm7.com": [
+      "https://www.youm7.com/rss/SectionRss?SectionID=286",
+      "https://www.youm7.com/rss/SectionRss?SectionID=328",
+      "https://www.youm7.com/rss/SectionRss?SectionID=65",
+      "https://www.youm7.com/rss/SectionRss?SectionID=88",
+      "https://www.youm7.com/rss/SectionRss?SectionID=97"
+    ]
+  }
+}

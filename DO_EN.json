@@ -1,0 +1,138 @@
+{
+  "country_code": "DO",
+  "language_code": "EN",
+  "total_domains": 32,
+  "total_feeds": 66,
+  "feeds": {
+    "acento.com.do": [
+      "https://acento.com.do/inicio/feed/"
+    ],
+    "almomento.net": [
+      "https://almomento.net/feed/"
+    ],
+    "cachicha.com": [
+      "http://www.cachicha.com/feed/",
+      "https://www.cachicha.com/feed/"
+    ],
+    "ciudadoriental.com": [
+      "https://ciudadoriental.com/feed/"
+    ],
+    "colmena.intec.edu.do": [
+      "https://colmena.intec.edu.do/feed/"
+    ],
+    "costaverdedr.com": [
+      "https://costaverdedr.com/feed/"
+    ],
+    "delazonaoriental.net": [
+      "https://www.delazonaoriental.net/feed/"
+    ],
+    "diario55.com": [
+      "https://diario55.com/feed/"
+    ],
+    "diariodigitalrd.com": [
+      "https://diariodigitalrd.com/feed/",
+      "https://www.diariodigital.com.do/feed/"
+    ],
+    "diariodominicano.com": [
+      "https://diariodominicano.com/?feed=rss2"
+    ],
+    "diariolibre.com": [
+      "https://www.diariolibre.com/rss/actualidad.xml",
+      "https://www.diariolibre.com/rss/deportes.xml",
+      "https://www.diariolibre.com/rss/dl-usa.xml",
+      "https://www.diariolibre.com/rss/economia.xml",
+      "https://www.diariolibre.com/rss/estilos.xml",
+      "https://www.diariolibre.com/rss/mundo.xml",
+      "https://www.diariolibre.com/rss/opinion.xml",
+      "https://www.diariolibre.com/rss/planeta.xml",
+      "https://www.diariolibre.com/rss/politica.xml",
+      "https://www.diariolibre.com/rss/portada.xml",
+      "https://www.diariolibre.com/rss/revista.xml",
+      "https://www.diariolibre.com/rss/videos.xml"
+    ],
+    "dominicantoday.com": [
+      "https://dominicantoday.com/feed/"
+    ],
+    "elcaribe.com.do": [
+      "https://www.elcaribe.com.do/web-stories/feed/"
+    ],
+    "eldia.com.do": [
+      "https://eldia.com.do/feed/"
+    ],
+    "elfogondesanjuan.com": [
+      "https://www.elfogondesanjuan.com/feeds/posts/default",
+      "https://www.elfogondesanjuan.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/1693132077457051398/posts/default"
+    ],
+    "elgranerodelsur.com": [
+      "https://elgranerodelsur.com/feed/"
+    ],
+    "elinformante.com.do": [
+      "https://elinformante.com.do/feed/"
+    ],
+    "eljacaguero.com.do": [
+      "https://eljacaguero.com.do/feed/"
+    ],
+    "eljaya.com": [
+      "https://www.eljaya.com/feed/"
+    ],
+    "elnacional.com.do": [
+      "https://elnacional.com.do/feed",
+      "https://elnacional.com.do/feed/"
+    ],
+    "elnuevodiario.com.do": [
+      "https://elnuevodiario.com.do/categoria-podcast/economia/feed/",
+      "https://elnuevodiario.com.do/categoria-podcast/emprendedurismo/feed/",
+      "https://elnuevodiario.com.do/categoria-podcast/finanzas-personales/feed/",
+      "https://elnuevodiario.com.do/categoria-podcast/negocios/feed/",
+      "https://elnuevodiario.com.do/categoria-podcast/politica/feed/",
+      "https://elnuevodiario.com.do/categoria-podcast/rd-es-bienestar/feed/",
+      "https://elnuevodiario.com.do/categoria-podcast/salud/feed/",
+      "https://elnuevodiario.com.do/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/alborotando-el-diario/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/circulo-de-cultura-democratica/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/con-la-ropa-puesta/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/ecopolitica/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/el-nuevo-diario-podcast/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/negocios-lo-que-no-te-cuentan/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/politica-chevere/feed/",
+      "https://elnuevodiario.com.do/programa-podcast/sin-prigilio/feed/"
+    ],
+    "elsoldesantiago.com": [
+      "https://elsoldesantiago.com/feed/"
+    ],
+    "ensegundos.do": [
+      "https://ensegundos.do/feed/"
+    ],
+    "gentetuya.com": [
+      "https://gentetuya.com/feed/"
+    ],
+    "hoy.com.do": [
+      "https://hoy.com.do/feed/",
+      "https://hoy.com.do/rss/home.xml"
+    ],
+    "lalupadelsur.com": [
+      "https://lalupadelsur.com/feed/"
+    ],
+    "minutoaminuto.com.do": [
+      "https://minutoaminuto.com.do/feed/"
+    ],
+    "noticiassin.com": [
+      "https://feeds.feedburner.com/noticiassin1",
+      "https://noticiassin.com/feed/"
+    ],
+    "periodicoelfaro.com.do": [
+      "https://periodicoelfaro.com.do/feed/",
+      "http://periodicoelfaro.com.do/feed/"
+    ],
+    "primicias.net": [
+      "https://primicias.net/web/feed/"
+    ],
+    "puertoplatahabla.com": [
+      "https://puertoplatahabla.com/feed/"
+    ],
+    "remolacha.net": [
+      "https://remolacha.net/feed/"
+    ]
+  }
+}

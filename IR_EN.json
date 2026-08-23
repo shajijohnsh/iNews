@@ -1,0 +1,34 @@
+{
+  "country_code": "IR",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 10,
+  "feeds": {
+    "40cheragh.org": [
+      "http://40cheragh.org/feed/"
+    ],
+    "bukharamag.com": [
+      "https://bukharamag.com/feed",
+      "http://bukharamag.com/feed"
+    ],
+    "dtonline.ir": [
+      "https://www.dtonline.ir/feed/",
+      "https://www.dtonline.ir/web-stories/feed/"
+    ],
+    "iran-transportation.com": [
+      "https://iran-transportation.com/feed/"
+    ],
+    "javanan.com": [
+      "https://javanan.com/feed/"
+    ],
+    "shabakeh-mag.com": [
+      "https://www.shabakeh-mag.com/feed.xml"
+    ],
+    "teheran.ir": [
+      "http://www.teheran.ir/spip.php?page=backend"
+    ],
+    "tehranmagazine.com": [
+      "https://www.tehranmagazine.com/feed/"
+    ]
+  }
+}

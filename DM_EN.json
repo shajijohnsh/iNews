@@ -1,0 +1,30 @@
+{
+  "country_code": "DM",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 10,
+  "feeds": {
+    "avirtualdominica.com": [
+      "https://www.avirtualdominica.com/feed/",
+      "https://www.avirtualdominica.com/welcome/feed/"
+    ],
+    "discoverdominica.com": [
+      "https://discoverdominica.com/feed/"
+    ],
+    "dominica-weekly.com": [
+      "https://www.dominica-weekly.com/feed/",
+      "http://www.dominica-weekly.com/feed/"
+    ],
+    "dominicanewsonline.com": [
+      "https://dominicanewsonline.com/news/feed/",
+      "https://feeds.feedburner.com/DominicaNewsOnline/",
+      "http://feeds.feedburner.com/DominicaNewsOnline/"
+    ],
+    "emonewsdm.com": [
+      "https://emonewsdm.com/feed/"
+    ],
+    "thedominican.net": [
+      "https://www.thedominican.net/dominicanews.xml"
+    ]
+  }
+}

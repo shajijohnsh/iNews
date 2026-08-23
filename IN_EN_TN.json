@@ -1,69 +1,129 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 18,
-  "total_feeds": 25,
+  "total_domains": 22,
+  "total_feeds": 77,
   "feeds": {
-    "dinamani.com": [
-      "https://www.dinamani.com/stories.rss"
+    "4tamilmedia.com": [
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
+      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
     ],
-    "viduthalai.in": [
-      "https://viduthalai.in/feed/"
-    ],
-    "dinasudar.com": [
-      "https://dinasudar.com/feed/"
-    ],
-    "tamil.samayam.com": [
-      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "tamil.asianetnews.com": [
-      "https://tamil.asianetnews.com/rss"
-    ],
-    "chennaionline.com": [
-      "https://www.chennaionline.com/feed/"
-    ],
-    "inioru.com": [
-      "https://inioru.com/feed/"
-    ],
-    "news4tamil.com": [
-      "https://news4tamil.com/feed/"
-    ],
-    "tamilminutes.com": [
-      "https://tamilminutes.com/feed/",
-      "https://tamilminutes.com/web-stories/feed/"
-    ],
-    "mrpuyal.com": [
-      "https://mrpuyal.com/feed/",
-      "https://mrpuyal.com/web-stories/feed/"
+    "athirady.com": [
+      "https://www.athirady.com/feed"
     ],
     "athirvu.in": [
       "https://www.athirvu.in/feed/"
     ],
-    "vanakkamlondon.com": [
-      "https://vanakkamlondon.com/feed/",
-      "https://vanakkamlondon.com/feed/atom/",
-      "https://vanakkamlondon.com/feed/"
+    "chennaionline.com": [
+      "https://www.chennaionline.com/feed/"
+    ],
+    "chennaivision.com": [
+      "https://chennaivision.com/feed/"
+    ],
+    "dinamani.com": [
+      "https://www.dinamani.com/stories.rss"
+    ],
+    "dinasudar.com": [
+      "https://dinasudar.com/feed/"
     ],
     "globaltamilnews.net": [
       "https://globaltamilnews.net/feed/",
       "https://globaltamilnews.net/feed/atom/",
       "https://globaltamilnews.net/feed/"
     ],
-    "athirady.com": [
-      "https://www.athirady.com/feed"
+    "inioru.com": [
+      "https://inioru.com/feed/"
     ],
-    "4tamilmedia.com": [
-      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=rss",
-      "https://4tamilmedia.com/?list=lights&date=07-31&key=หวย-ดัง-งวด-16-พ-ค-64&format=feed&type=atom"
+    "kalkionline.com": [
+      "https://prod-qt-images.s3.amazonaws.com/production/kalkionline/feed.xml"
     ],
-    "thehindu.com": [
-      "https://www.thehindu.com/feeder/default.rss"
+    "kumudam.com": [
+      "https://kumudam.com/rss/latest-posts",
+      "https://kumudam.com/rss/category/Business",
+      "https://kumudam.com/rss/category/aahaa-kondattam",
+      "https://kumudam.com/rss/category/astrology",
+      "https://kumudam.com/rss/category/district-news",
+      "https://kumudam.com/rss/category/handehospital",
+      "https://kumudam.com/rss/category/sports",
+      "https://kumudam.com/rss/category/world"
+    ],
+    "mrpuyal.com": [
+      "https://mrpuyal.com/feed/",
+      "https://mrpuyal.com/web-stories/feed/"
+    ],
+    "newindianexpress.com": [
+      "https://www.newindianexpress.com/Cities/Bengaluru/rssfeed/?id=182&getXmlFeed=true",
+      "https://www.newindianexpress.com/Nation/rssfeed/?id=170&getXmlFeed=true",
+      "https://www.newindianexpress.com/Opinions/Columns/rssfeed/?id=221&getXmlFeed=true",
+      "https://www.newindianexpress.com/Opinions/Editorials/rssfeed/?id=219&getXmlFeed=true",
+      "https://www.newindianexpress.com/States/Karnataka/rssfeed/?id=175&getXmlFeed=true",
+      "https://www.newindianexpress.com/States/Kerala/rssfeed/?id=178&getXmlFeed=true",
+      "https://www.newindianexpress.com/States/Tamil-Nadu/rssfeed/?id=177&getXmlFeed=true",
+      "https://www.newindianexpress.com/Videos/Good-News/rssfeed/?id=421&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/bengaluru-cities.rss?id=182&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/columns-opinions.rss?id=221&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/editorials-opinions.rss?id=219&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/good-news-videos.rss?id=421&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/karnataka-states.rss?id=175&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/kerala-states.rss?id=178&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/nation.rss?id=170&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/tamil-nadu-states.rss?id=177&getXmlFeed=true",
+      "https://www.newindianexpress.com/api/v1/collections/world.rss?id=171&getXmlFeed=true"
+    ],
+    "news4tamil.com": [
+      "https://news4tamil.com/feed/"
     ],
     "newstodaynet.com": [
       "https://newstodaynet.com/feed/"
     ],
-    "chennaivision.com": [
-      "https://chennaivision.com/feed/"
+    "tamil.asianetnews.com": [
+      "https://tamil.asianetnews.com/rss"
+    ],
+    "tamil.samayam.com": [
+      "https://tamil.samayam.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "tamilminutes.com": [
+      "https://tamilminutes.com/feed/",
+      "https://tamilminutes.com/web-stories/feed/"
+    ],
+    "thehindu.com": [
+      "https://www.thehindu.com/?service=rss",
+      "https://www.thehindu.com/business/Economy/?service=rss",
+      "https://www.thehindu.com/business/Economy/feeder/default.rss",
+      "https://www.thehindu.com/business/feeder/default.rss",
+      "https://www.thehindu.com/feeder/default.rss",
+      "https://www.thehindu.com/news/international/?service=rss",
+      "https://www.thehindu.com/news/international/feeder/default.rss",
+      "https://www.thehindu.com/news/national/?service=rss",
+      "https://www.thehindu.com/news/national/feeder/default.rss",
+      "https://www.thehindu.com/opinion/editorial/?service=rss",
+      "https://www.thehindu.com/opinion/editorial/feeder/default.rss",
+      "https://www.thehindu.com/opinion/feeder/default.rss",
+      "https://www.thehindu.com/sci-tech/energy-and-environment/?service=rss",
+      "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+      "https://www.thehindu.com/sport/feeder/default.rss"
+    ],
+    "vanakkamlondon.com": [
+      "https://vanakkamlondon.com/feed/",
+      "https://vanakkamlondon.com/feed/atom/",
+      "https://vanakkamlondon.com/feed/"
+    ],
+    "viduthalai.in": [
+      "https://viduthalai.in/feed/"
+    ],
+    "vikatan.com": [
+      "https://www.vikatan.com/api/v1/collections/automobile.rss",
+      "https://www.vikatan.com/api/v1/collections/bollywood-entertainment.rss",
+      "https://www.vikatan.com/api/v1/collections/environment-general-news.rss",
+      "https://www.vikatan.com/api/v1/collections/hollywood-entertainment.rss",
+      "https://www.vikatan.com/api/v1/collections/india-news.rss",
+      "https://www.vikatan.com/api/v1/collections/international.rss",
+      "https://www.vikatan.com/api/v1/collections/kollywood-entertainment.rss",
+      "https://www.vikatan.com/api/v1/collections/latest-news.rss",
+      "https://www.vikatan.com/api/v1/collections/movie-review-entertainment.rss",
+      "https://www.vikatan.com/api/v1/collections/tamilnadu-news.rss",
+      "https://www.vikatan.com/api/v1/collections/television-entertainment.rss",
+      "https://www.vikatan.com/stories.rss"
     ]
   }
 }

@@ -1,0 +1,32 @@
+{
+  "country_code": "CF",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 16,
+  "feeds": {
+    "allafrica.com": [
+      "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+      "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf"
+    ],
+    "centrafrique.info": [
+      "http://www.centrafrique.info/rss"
+    ],
+    "journaldebangui.com": [
+      "https://www.journaldebangui.com/feed/"
+    ],
+    "radiondekeluka.org": [
+      "https://www.radiondekeluka.org/feed"
+    ]
+  }
+}

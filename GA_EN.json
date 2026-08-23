@@ -1,0 +1,47 @@
+{
+  "country_code": "GA",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 15,
+  "feeds": {
+    "agpgabon.ga": [
+      "https://agpgabon.ga/feed/"
+    ],
+    "directinfosgabon.com": [
+      "https://directinfosgabon.com/feed/"
+    ],
+    "fr.infosgabon.com": [
+      "https://fr.infosgabon.com/feed/"
+    ],
+    "gabonactu.com": [
+      "https://gabonactu.com/feed/"
+    ],
+    "gaboneco.com": [
+      "https://gaboneco.com/feed/"
+    ],
+    "gabonews.com": [
+      "https://gabonews.com/spip.php?page=backend"
+    ],
+    "gabonmediatime.com": [
+      "https://www.gabonmediatime.com/feed/"
+    ],
+    "gabonreview.com": [
+      "http://www.gabonreview.com/feed/",
+      "https://www.gabonreview.com/feed/"
+    ],
+    "info241.com": [
+      "https://info241.com/spip.php?page=backend"
+    ],
+    "infosplusgabon.com": [
+      "https://infosplusgabon.com/index.php?format=feed&type=rss",
+      "https://infosplusgabon.com/index.php?format=feed&type=atom"
+    ],
+    "journaldugabon.com": [
+      "https://www.journaldugabon.com/feed/",
+      "http://www.journaldugabon.com/feed/"
+    ],
+    "union.sonapresse.com": [
+      "https://www.union.sonapresse.com/blog/feed"
+    ]
+  }
+}

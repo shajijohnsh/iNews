@@ -7,20 +7,20 @@
     "bouldercityreview.com": [
       "https://bouldercityreview.com/feed/"
     ],
-    "lccentral.com": [
-      "https://lccentral.com/feed/"
+    "coyote-tv.com": [
+      "https://www.coyote-tv.com/feed/"
     ],
     "elynews.com": [
       "https://elynews.com/feed/"
     ],
-    "mcindependentnews.com": [
-      "https://mcindependentnews.com/feed/"
-    ],
-    "nevadabusiness.com": [
-      "https://nevadabusiness.com/feed/"
-    ],
     "laughlintimes.com": [
       "http://www.mohavedailynews.com/search/?f=rss&t=article&c=laughlin_times&l=50&s=start_time&sd=desc"
+    ],
+    "lccentral.com": [
+      "https://lccentral.com/feed/"
+    ],
+    "mcindependentnews.com": [
+      "https://mcindependentnews.com/feed/"
     ],
     "mesquitelocalnews.com": [
       "https://mesquitelocalnews.com/feed/"
@@ -28,17 +28,17 @@
     "mvprogress.com": [
       "https://mvprogress.com/feed/"
     ],
-    "pvtimes.com": [
-      "https://pvtimes.com/feed/"
+    "nevadabusiness.com": [
+      "https://nevadabusiness.com/feed/"
     ],
-    "coyote-tv.com": [
-      "https://www.coyote-tv.com/feed/"
+    "nevadapress.com": [
+      "https://nevadapress.com/feed/"
     ],
     "nevadasagebrush.com": [
       "https://nevadasagebrush.com/feed/"
     ],
-    "nevadapress.com": [
-      "https://nevadapress.com/feed/"
+    "pvtimes.com": [
+      "https://pvtimes.com/feed/"
     ]
   }
 }

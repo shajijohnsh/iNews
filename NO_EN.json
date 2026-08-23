@@ -1,0 +1,158 @@
+{
+  "country_code": "NO",
+  "language_code": "EN",
+  "total_domains": 26,
+  "total_feeds": 98,
+  "feeds": {
+    "abcnyheter.no": [
+      "https://www.abcnyheter.no/api/article.rss"
+    ],
+    "altnett.no": [
+      "https://altnett.no/feed/"
+    ],
+    "av-avis.no": [
+      "https://www.av-avis.no/rss"
+    ],
+    "barneblad.no": [
+      "https://www.barneblad.no/blogs/news.atom"
+    ],
+    "costume.no": [
+      "https://costume.no/feed/rss"
+    ],
+    "friheten.no": [
+      "https://friheten.no/?format=feed&type=rss",
+      "https://friheten.no/?format=feed&type=atom"
+    ],
+    "fritanke.no": [
+      "https://fritanke.no/atom.xml",
+      "https://fritanke.no/atom.xml?KatID=19",
+      "https://fritanke.no/atom.xml?KatID=17",
+      "https://fritanke.no/atom.xml?KatID=3",
+      "https://fritanke.no/atom.xml?KatID=21",
+      "https://fritanke.no/atom.xml?KatID=12",
+      "https://fritanke.no/atom.xml?KatID=2",
+      "https://fritanke.no/atom.xml?KatID=18",
+      "https://fritanke.no/atom.xml?KatID=11",
+      "https://fritanke.no/atom.xml?KatID=20",
+      "https://fritanke.no/atom.xml?KatID=1",
+      "https://fritanke.no/atom.xml?KatID=16",
+      "https://fritanke.no/rss.xml?KatID=20",
+      "https://fritanke.no/rss.xml?KatID=1",
+      "https://fritanke.no/rss.xml?KatID=16",
+      "https://fritanke.no/rss.xml",
+      "https://fritanke.no/rss.xml?KatID=19",
+      "https://fritanke.no/rss.xml?KatID=17",
+      "https://fritanke.no/rss.xml?KatID=3",
+      "https://fritanke.no/rss.xml?KatID=21",
+      "https://fritanke.no/rss.xml?KatID=2",
+      "https://fritanke.no/rss.xml?KatID=12",
+      "https://fritanke.no/rss.xml?KatID=18",
+      "https://fritanke.no/rss.xml?KatID=11"
+    ],
+    "fvn.no": [
+      "https://www.fvn.no/rss",
+      "https://www.fvn.no/rss/"
+    ],
+    "gemini.no": [
+      "https://gemini.no/feed/",
+      "http://gemini.no/feed/"
+    ],
+    "genealogi.no": [
+      "https://genealogi.no/feed/"
+    ],
+    "klassekampen.no": [
+      "https://www.klassekampen.no/section/rssfeed&template=rss&mime=xml",
+      "https://www.klassekampen.no/section/rssfeed/1005&template=rss&mime=xml",
+      "https://www.klassekampen.no/section/rssfeed/1006&template=rss&mime=xml",
+      "https://www.klassekampen.no/section/rssfeed/1007&template=rss&mime=xml",
+      "https://www.klassekampen.no/section/rssfeed/1008&template=rss&mime=xml",
+      "https://www.klassekampen.no/section/rssfeed/1033&template=rss&mime=xml",
+      "https://www.klassekampen.no/section/rssfeed/1034&template=rss&mime=xml"
+    ],
+    "klikk.no": [
+      "https://www.klikk.no/bolig?lab_viewport=rss",
+      "https://www.klikk.no/foreldre?lab_viewport=rss",
+      "https://www.klikk.no/helse?lab_viewport=rss",
+      "https://www.klikk.no/mat?lab_viewport=rss",
+      "https://www.klikk.no/teknologi?lab_viewport=rss",
+      "https://www.klikk.no/produkthjemmesider/vimenn?lab_viewport=rss",
+      "https://cdn.klikk.no/service/front.xml"
+    ],
+    "lovdata.no": [
+      "https://lovdata.no/feed?data=newJudgements&type=RSS",
+      "https://lovdata.no/feed?data=SPHPM&type=RSS",
+      "https://lovdata.no/feed?data=newArticles&type=RSS"
+    ],
+    "marxisme.no": [
+      "https://marxisme.no/feed/"
+    ],
+    "melkoghonning.no": [
+      "https://melkoghonning.no/feed"
+    ],
+    "norwegianscitechnews.com": [
+      "https://norwegianscitechnews.com/feed/",
+      "https://norwegianscitechnews.com/archive/energy-and-environment/feed/",
+      "https://norwegianscitechnews.com/archive/fish-and-aquaculture/feed/",
+      "https://norwegianscitechnews.com/archive/health/feed/",
+      "https://norwegianscitechnews.com/archive/humanities/feed/",
+      "https://norwegianscitechnews.com/archive/innovation/feed/",
+      "https://norwegianscitechnews.com/archive/natural-science/feed/",
+      "https://norwegianscitechnews.com/archive/society/feed/",
+      "https://norwegianscitechnews.com/archive/technology/feed/",
+      "https://norwegianscitechnews.com/format/blog/feed/",
+      "https://norwegianscitechnews.com/media-formats/podcasts/feed/"
+    ],
+    "prosa.no": [
+      "https://prosa.no/artikler/kommentarer.rss",
+      "https://prosa.no/artikler/spalter/bok-og-politikk.rss",
+      "https://prosa.no/artikler/spalter/oversett.rss",
+      "https://prosa.no/artikler/spalter/pa-sisteplass.rss",
+      "https://prosa.no/nb/pages.rss",
+      "https://prosa.no/artikler/spalter/naturens-sak.rss",
+      "https://prosa.no/artikler/spalter/i-skriftens-skygge.rss"
+    ],
+    "putsj.no": [
+      "https://putsj.no/feed/"
+    ],
+    "scandoil.com": [
+      "http://www.scandoil.com/bm.feed.xml"
+    ],
+    "seher.no": [
+      "https://www.seher.no/?lab_viewport=rss"
+    ],
+    "synogsegn.no": [
+      "https://www.synogsegn.no/feed/"
+    ],
+    "tnp.no": [
+      "https://www.tnp.no/feed/"
+    ],
+    "toonsmag.com": [
+      "https://www.toonsmag.com/web-stories/feed/",
+      "https://www.toonsmag.com/feed/"
+    ],
+    "transitmag.no": [
+      "https://www.transitmag.no/feed/"
+    ],
+    "tu.no": [
+      "https://www.tu.no/feeds/general.xml",
+      "https://www.tu.no/rss"
+    ],
+    "vg.no": [
+      "https://www.vg.no/rss/feed/?categories=&keywords=&format=atom&limit=10",
+      "https://www.vg.no/rss/feed/?categories=&keywords=&format=rss&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1068&keywords=&format=atom&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1068&keywords=&format=rss&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1072&keywords=&format=atom&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1072&keywords=&format=rss&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1073&keywords=&format=atom&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1073&keywords=&format=rss&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1096&keywords=&format=atom&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1096&keywords=&format=rss&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1102&keywords=&format=atom&limit=10",
+      "https://www.vg.no/rss/feed/?categories=1102&keywords=&format=rss&limit=10",
+      "https://www.vg.no/rss/feed/?format=rss",
+      "https://www.vg.no/rss/feed/forsiden/?format=atom",
+      "https://www.vg.no/rss/feed/forsiden/?format=rss"
+    ]
+  }
+}

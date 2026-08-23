@@ -2,22 +2,33 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 17,
-  "total_feeds": 20,
+  "total_feeds": 21,
   "feeds": {
     "antigojournal.com": [
       "http://www.antigojournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "apg-wi.com": [
-      "http://www.apg-wi.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      "https://www.apg-wi.com/search/?f=rss&t=article&c=ashland_daily_press&l=50&s=start_time&sd=desc",
+      "https://www.apg-wi.com/search/?f=rss&t=article&c=price_county_review&l=50&s=start_time&sd=desc"
+    ],
+    "badgerherald.com": [
+      "https://badgerherald.com/feed/",
+      "https://badgerherald.com/feed/atom/"
     ],
     "beloitdailynews.com": [
-      "http://www.beloitdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      "https://www.beloitdailynews.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=news,news/*&f=rss"
+    ],
+    "bloomeradvance.com": [
+      "http://www.bloomeradvance.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "chippewa.com": [
       "http://chippewa.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "leadertelegram.com": [
-      "http://www.leadertelegram.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "iwantthenews.com": [
+      "http://www.iwantthenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "journaltimes.com": [
+      "http://journaltimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "kenoshanews.com": [
       "http://kenoshanews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -25,35 +36,25 @@
     "lacrossetribune.com": [
       "http://lacrossetribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "wdtimes.com": [
-      "http://www.wdtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "wiscnews.com": [
-      "http://wiscnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "bloomeradvance.com": [
-      "http://www.bloomeradvance.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "iwantthenews.com": [
-      "http://www.iwantthenews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "ladysmithnews.com": [
       "http://www.ladysmithnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "journaltimes.com": [
-      "http://journaltimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "lakelandmirror.com": [
       "https://lakelandmirror.com/feed/",
       "https://lakelandmirror.com/feed/atom/"
     ],
-    "badgerherald.com": [
-      "https://badgerherald.com/feed/",
-      "https://badgerherald.com/feed/atom/"
+    "leadertelegram.com": [
+      "http://www.leadertelegram.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "marquettewire.org": [
       "https://marquettewire.org/feed/",
       "https://marquettewire.org/feed/atom/"
+    ],
+    "wdtimes.com": [
+      "http://www.wdtimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "wiscnews.com": [
+      "http://wiscnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "wnanews.com": [
       "https://wnanews.com/feed/"

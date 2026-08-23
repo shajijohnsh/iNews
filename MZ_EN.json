@@ -1,0 +1,53 @@
+{
+  "country_code": "MZ",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 21,
+  "feeds": {
+    "cartamz.com": [
+      "https://cartamz.com/feed/"
+    ],
+    "clubofmozambique.com": [
+      "https://clubofmozambique.com/feed/"
+    ],
+    "jornaldomingo.co.mz": [
+      "https://jornaldomingo.co.mz/feed/atom/",
+      "https://jornaldomingo.co.mz/feed/"
+    ],
+    "jornalnoticias.co.mz": [
+      "https://jornalnoticias.co.mz/feed/",
+      "https://jornalnoticias.co.mz/feed/atom/",
+      "https://jornalnoticias.co.mz/feed/"
+    ],
+    "jornaltxopela.com": [
+      "https://jornaltxopela.com/feed/"
+    ],
+    "mmo.co.mz": [
+      "https://www.mmo.co.mz/feed",
+      "https://mmo.co.mz/feed/",
+      "https://www.mmo.co.mz/feed/"
+    ],
+    "portaldogoverno.gov.mz": [
+      "https://portaldogoverno.gov.mz/feed/"
+    ],
+    "portalmoznews.com": [
+      "https://portalmoznews.com/feed",
+      "https://rss.dw.com/syndication/feeds/VAF_facebook_PortalMozNews.22765-mrss.xml",
+      "https://rss.dw.com/syndication/feeds/VAF_facebook_videos_PortalMozNews.29127-media.xml"
+    ],
+    "stop.co.mz": [
+      "https://stop.co.mz/?format=feed&type=rss",
+      "https://stop.co.mz/?format=feed&type=atom"
+    ],
+    "tvm.co.mz": [
+      "https://tvm.co.mz/index.php?format=feed&type=rss",
+      "https://tvm.co.mz/index.php?format=feed&type=atom"
+    ],
+    "verdade.co.mz": [
+      "https://verdade.co.mz/feed/"
+    ],
+    "zitamar.com": [
+      "https://www.zitamar.com/rss/"
+    ]
+  }
+}

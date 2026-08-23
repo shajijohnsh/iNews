@@ -1,63 +1,129 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 17,
-  "total_feeds": 21,
+  "total_domains": 29,
+  "total_feeds": 63,
   "feeds": {
-    "mathrubhumi.com": [
-      "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
+    "anweshanam.com": [
+      "https://anweshanam.com/feed/",
+      "https://anweshanam.com/web-stories/feed/"
     ],
-    "madhyamam.com": [
-      "https://www.madhyamam.com/feeds.xml"
+    "asianetnews.com": [
+      "https://www.asianetnews.com/rss",
+      "https://www.asianetnews.com/rss/local-news",
+      "https://www.asianetnews.com/rss/auto-blog"
     ],
-    "keralakaumudi.com": [
-      "https://keralakaumudi.com/rss/topstories",
-      "https://keralakaumudi.com/rss/topstories"
+    "bignewslive.com": [
+      "https://www.bignewslive.com/feed/"
     ],
     "chandrikadaily.com": [
       "https://www.chandrikadaily.com/feed"
     ],
+    "dailyindianherald.com": [
+      "https://dailyindianherald.com/feed/"
+    ],
+    "deshabhimani.com": [
+      "https://www.deshabhimani.com/rss/agriculture",
+      "https://www.deshabhimani.com/rss/art-stage",
+      "https://www.deshabhimani.com/rss/articles",
+      "https://www.deshabhimani.com/rss/books",
+      "https://www.deshabhimani.com/rss/business",
+      "https://www.deshabhimani.com/rss/career",
+      "https://www.deshabhimani.com/rss/cinema",
+      "https://www.deshabhimani.com/rss/columns",
+      "https://www.deshabhimani.com/rss/editorial",
+      "https://www.deshabhimani.com/rss/editorspick",
+      "https://www.deshabhimani.com/rss/education",
+      "https://www.deshabhimani.com/rss/from-the-net",
+      "https://www.deshabhimani.com/rss/health",
+      "https://www.deshabhimani.com/rss/kerala",
+      "https://www.deshabhimani.com/rss/life-style",
+      "https://www.deshabhimani.com/rss/mainnews",
+      "https://www.deshabhimani.com/rss/music",
+      "https://www.deshabhimani.com/rss/national",
+      "https://www.deshabhimani.com/rss/news-videos",
+      "https://www.deshabhimani.com/rss/pravasi",
+      "https://www.deshabhimani.com/rss/sports",
+      "https://www.deshabhimani.com/rss/technology",
+      "https://www.deshabhimani.com/rss/travel",
+      "https://www.deshabhimani.com/rss/vehicle",
+      "https://www.deshabhimani.com/rss/women",
+      "https://www.deshabhimani.com/rss/world"
+    ],
+    "eveningkerala.com": [
+      "https://www.eveningkerala.com/feed"
+    ],
+    "janayugomonline.com": [
+      "https://janayugomonline.com/feed/"
+    ],
     "janmabhumi.in": [
       "https://janmabhumi.in/feed/"
+    ],
+    "keralakaumudi.com": [
+      "https://keralakaumudi.com/rss/topstories"
+    ],
+    "kvartha.com": [
+      "https://www.blogger.com/feeds/7133727913369598967/posts/default",
+      "https://feeds.feedburner.com/kvartha"
+    ],
+    "madhyamam.com": [
+      "https://www.madhyamam.com/feeds.xml"
+    ],
+    "malayalam.samayam.com": [
+      "https://malayalam.samayam.com/langapi/sitemap/gstandrssfeed.xml"
+    ],
+    "malayalam.webdunia.com": [
+      "https://malayalam.webdunia.com/rss/kerala-news-in-malayalam-1010102.rss"
+    ],
+    "malayalamexpress.in": [
+      "https://malayalamexpress.in/feed/"
+    ],
+    "mangalam.com": [
+      "https://www.mangalam.com/api/rss",
+      "https://www.mangalam.com/news/rss.xml"
+    ],
+    "manoramaonline.com": [
+      "https://www.manoramaonline.com/travel/travel-blogs.feeds.rss.xml"
+    ],
+    "marunadanmalayalee.com": [
+      "https://marunadanmalayalee.com/google_feeds.xml"
+    ],
+    "mathrubhumi.com": [
+      "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
+    ],
+    "metrovaartha.com": [
+      "https://www.metrovaartha.com/feed.xml"
+    ],
+    "pravasiexpress.com": [
+      "https://pravasiexpress.com/rss/"
+    ],
+    "puzha.com": [
+      "https://www.puzha.com/feed/"
     ],
     "rashtradeepika.com": [
       "https://www.rashtradeepika.com/feed/",
       "https://www.rashtradeepika.com/home/feed/"
     ],
-    "janayugomonline.com": [
-      "https://janayugomonline.com/feed/"
-    ],
-    "eveningkerala.com": [
-      "https://www.eveningkerala.com/feed"
-    ],
-    "thejasnews.com": [
-      "https://www.thejasnews.com/google_feeds.xml"
-    ],
     "sathyamonline.com": [
       "https://www.sathyamonline.com/rss"
     ],
-    "marunadanmalayalee.com": [
-      "https://marunadanmalayalee.com/google_feeds.xml"
+    "sirajlive.com": [
+      "https://www.sirajlive.com/feed"
     ],
-    "malayalamexpress.in": [
-      "https://malayalamexpress.in/feed/"
-    ],
-    "anweshanam.com": [
-      "https://anweshanam.com/feed/",
-      "https://anweshanam.com/web-stories/feed/"
+    "thejasnews.com": [
+      "https://www.thejasnews.com/google_feeds.xml"
     ],
     "timeskerala.com": [
       "https://timeskerala.com/feed/",
       "https://timeskerala.com/web-stories/feed/"
     ],
-    "puzha.com": [
-      "https://www.puzha.com/feed/"
+    "veekshanam.com": [
+      "https://veekshanam.com/feed/"
     ],
-    "malayalam.samayam.com": [
-      "https://malayalam.samayam.com/langapi/sitemap/gstandrssfeed.xml"
-    ],
-    "pravasiexpress.com": [
-      "https://pravasiexpress.com/rss/"
+    "vyganews.com": [
+      "https://www.vyganews.com/feeds/posts/default",
+      "https://www.vyganews.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/7866773985249407600/posts/default"
     ]
   }
 }

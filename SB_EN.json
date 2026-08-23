@@ -1,0 +1,25 @@
+{
+  "country_code": "SB",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 7,
+  "feeds": {
+    "sibconline.com.sb": [
+      "https://www.sibconline.com.sb/feed/"
+    ],
+    "solomonstarnews.com": [
+      "http://www.solomonstarnews.com/index.php?format=feed&type=atom",
+      "https://www.solomonstarnews.com/feed/"
+    ],
+    "solomontimes.com": [
+      "https://www.solomontimes.com/rss/latest-news.xml"
+    ],
+    "theislandsun.com.sb": [
+      "https://theislandsun.com.sb/feed/",
+      "https://theislandsun.com.sb/homepage-3/feed/"
+    ],
+    "visitsolomons.com.sb": [
+      "https://www.visitsolomons.com.sb/feed/"
+    ]
+  }
+}

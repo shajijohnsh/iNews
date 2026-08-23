@@ -1,0 +1,58 @@
+{
+  "country_code": "MU",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 20,
+  "feeds": {
+    "channelnews.mu": [
+      "https://www.channelnews.mu/feed/",
+      "https://www.channelnews.mu/home-page-2/feed/"
+    ],
+    "defimedia.info": [
+      "https://defimedia.info/taxonomy/term/1/feed",
+      "https://defimedia.info/taxonomy/term/9/feed"
+    ],
+    "ecoaustral.com": [
+      "https://ecoaustral.com/feed/"
+    ],
+    "ionnews.mu": [
+      "https://ionnews.mu/feed/"
+    ],
+    "lemauricien.com": [
+      "http://www.lemauricien.com/feed/",
+      "https://www.lemauricien.com/feed/"
+    ],
+    "lexpress.mu": [
+      "https://www.lexpress.mu/rss.xml"
+    ],
+    "live.radioplus.mu": [
+      "https://live.radioplus.mu/feed/"
+    ],
+    "maurice-info.mu": [
+      "https://maurice-info.mu/feed"
+    ],
+    "mauritiustimes.com": [
+      "https://www.mauritiustimes.com/mt/feed/"
+    ],
+    "mbcradio.tv": [
+      "https://mbcradio.tv/rss.xml",
+      "https://www.mbcradio.tv/rss.xml"
+    ],
+    "newsmoris.com": [
+      "https://newsmoris.com/feed/"
+    ],
+    "peoplepress.co": [
+      "https://peoplepress.co/feed/"
+    ],
+    "starpress.info": [
+      "https://starpress.info/feed/"
+    ],
+    "sundaytimesmauritius.com": [
+      "https://sundaytimesmauritius.com/feed/",
+      "https://sundaytimesmauritius.com/home/feed/"
+    ],
+    "wazaa.mu": [
+      "https://www.wazaa.mu/feed/"
+    ]
+  }
+}

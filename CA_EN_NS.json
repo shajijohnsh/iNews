@@ -4,11 +4,11 @@
   "total_domains": 6,
   "total_feeds": 6,
   "feeds": {
+    "auroranewspaper.com": [
+      "https://auroranewspaper.com/feed/"
+    ],
     "dalgazette.com": [
       "https://dalgazette.com/feed/"
-    ],
-    "thelaker.ca": [
-      "https://thelaker.ca/feed/"
     ],
     "grapevinepublishing.ca": [
       "https://grapevinepublishing.ca/feed"
@@ -19,8 +19,8 @@
     "thecoast.ca": [
       "https://www.thecoast.ca/feed/"
     ],
-    "auroranewspaper.com": [
-      "https://auroranewspaper.com/feed/"
+    "thelaker.ca": [
+      "https://thelaker.ca/feed/"
     ]
   }
 }

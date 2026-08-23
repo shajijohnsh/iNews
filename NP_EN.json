@@ -1,0 +1,20 @@
+{
+  "country_code": "NP",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 4,
+  "feeds": {
+    "himalmag.com": [
+      "https://www.himalmag.com/rss/"
+    ],
+    "hknepal.com": [
+      "https://hknepal.com/deshbidesh/feed"
+    ],
+    "saptahik.com.np": [
+      "https://saptahik.com.np/rss"
+    ],
+    "spotlightnepal.com": [
+      "https://www.spotlightnepal.com/feed"
+    ]
+  }
+}

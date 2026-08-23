@@ -1,0 +1,125 @@
+{
+  "country_code": "BY",
+  "language_code": "EN",
+  "total_domains": 21,
+  "total_feeds": 75,
+  "feeds": {
+    "aif.by": [
+      "https://aif.by/rss/all.php"
+    ],
+    "belapan.by": [
+      "https://belapan.by/feed"
+    ],
+    "belarustoday.info": [
+      "http://belarustoday.info/rss/ru_rss.xml"
+    ],
+    "belmarket.by": [
+      "https://belmarket.by/news.rss"
+    ],
+    "bpc.by": [
+      "https://bpc.by/ru/?format=feed&type=rss",
+      "https://bpc.by/ru/?format=feed&type=atom"
+    ],
+    "ecopress.by": [
+      "https://www.ecopress.by/rss/news.rss"
+    ],
+    "gazetaby.com": [
+      "https://feeds.feedburner.com/gazetabycom"
+    ],
+    "gp.by": [
+      "https://gp.by/feed/"
+    ],
+    "gs.by": [
+      "https://www.gs.by/rss.xml"
+    ],
+    "minsknews.by": [
+      "https://minsknews.by/news-list/blog-post/feed/",
+      "https://minsknews.by/news-list/main/feed/"
+    ],
+    "nashaniva.com": [
+      "https://nashaniva.com/rss-ca/707/",
+      "https://nashaniva.com/rss-ca/708/",
+      "https://nashaniva.com/rss-ca/709/",
+      "https://nashaniva.com/rss-ca/710/",
+      "https://nashaniva.com/rss-ca/711/",
+      "https://nashaniva.com/rss-ca/712/",
+      "https://nashaniva.com/rss-ca/713/",
+      "https://nashaniva.com/rss-ca/714/",
+      "https://nashaniva.com/rss-ca/715/",
+      "https://nashaniva.com/rss-ca/716/",
+      "https://nashaniva.com/rss-ca/717/",
+      "https://nashaniva.com/rss-ca/718/",
+      "https://nashaniva.com/rss-ca/615/",
+      "https://nashaniva.com/ru/rss-rt/1/",
+      "https://nashaniva.com/ru/rss-rt/2/",
+      "https://nashaniva.com/rss-ca/706/",
+      "https://nashaniva.com/rss-ca/584/",
+      "https://nashaniva.com/rss-ca/611/",
+      "https://nashaniva.com/ru/rss-rt/3/",
+      "https://nashaniva.com/rss-ca/566/",
+      "https://nashaniva.com/rss-ca/691/",
+      "https://nashaniva.com/rss-ca/619/",
+      "https://nashaniva.com/rss-ca/643/",
+      "https://nashaniva.com/rss-ca/602/",
+      "https://nashaniva.com/rss-ca/612/",
+      "https://nashaniva.com/rss-ca/622/",
+      "https://nashaniva.com/rss-ca/623/",
+      "https://nashaniva.com/rss-ca/624/",
+      "https://nashaniva.com/rss-ca/625/",
+      "https://nashaniva.com/rss-ca/629/",
+      "https://nashaniva.com/rss-ca/639/",
+      "https://nashaniva.com/rss-ca/640/",
+      "https://nashaniva.com/rss-ca/646/",
+      "https://nashaniva.com/rss-ca/647/",
+      "https://nashaniva.com/rss-ca/651/",
+      "https://nashaniva.com/rss-ca/652/",
+      "https://nashaniva.com/rss-ca/658/",
+      "https://nashaniva.com/rss-ca/672/",
+      "https://nashaniva.com/rss-ca/685/",
+      "https://nashaniva.com/rss-ca/700/",
+      "https://nashaniva.com/ru/rss-rt/4/",
+      "https://nashaniva.com/ru/rss-rt/5/"
+    ],
+    "neg.by": [
+      "https://neg.by/rss/",
+      "https://neg.by/rss"
+    ],
+    "novychas.org": [
+      "https://novychas.org/feed"
+    ],
+    "nv-online.info": [
+      "https://www.nv-online.info/feed",
+      "https://nv-online.info/feed"
+    ],
+    "sb.by": [
+      "https://www.sb.by/articles/rss/"
+    ],
+    "svaboda.org": [
+      "https://www.svaboda.org/api/",
+      "https://www.svaboda.org/sitemap.xml"
+    ],
+    "telegraf.news": [
+      "https://telegraf.news/feed/"
+    ],
+    "udf.name": [
+      "https://udf.name/rss.xml"
+    ],
+    "vb.by": [
+      "https://vb.by/feed"
+    ],
+    "vgr.by": [
+      "https://vgr.by/feed/"
+    ],
+    "zviazda.by": [
+      "https://zviazda.by/be/feed",
+      "https://zviazda.by/be/rss.xml",
+      "https://zviazda.by/be/taxonomy/term/133/feed",
+      "https://zviazda.by/en/taxonomy/term/133/feed",
+      "https://zviazda.by/ru/taxonomy/term/133/feed",
+      "https://zviazda.by/be/taxonomy/term/114742/feed",
+      "https://zviazda.by/be/taxonomy/term/84091/feed",
+      "https://zviazda.by/en/taxonomy/term/84091/feed",
+      "https://zviazda.by/ru/taxonomy/term/84091/feed"
+    ]
+  }
+}

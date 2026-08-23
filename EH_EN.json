@@ -1,0 +1,37 @@
+{
+  "country_code": "EH",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 17,
+  "feeds": {
+    "ceas-sahara.es": [
+      "https://ceas-sahara.es/feed/"
+    ],
+    "porunsaharalibre.org": [
+      "https://porunsaharalibre.org/feed/"
+    ],
+    "rasd.tv": [
+      "https://rasd.tv/rss.php",
+      "https://rasd.tv/rss.php?type=galleries",
+      "https://rasd.tv/rss.php?type=channel&id=1"
+    ],
+    "reliefweb.int": [
+      "https://reliefweb.int/blog/rss.xml",
+      "https://reliefweb.int/jobs/rss.xml",
+      "https://reliefweb.int:443/blog/rss.xml",
+      "https://reliefweb.int:443/disasters/rss.xml",
+      "https://reliefweb.int:443/jobs/rss.xml",
+      "https://reliefweb.int:443/training/rss.xml",
+      "https://reliefweb.int:443/updates/rss.xml",
+      "https://reliefweb.int:443/updates/rss.xml?view=headlines"
+    ],
+    "saharaoccidental.blogspot.com": [
+      "https://saharaoccidental.blogspot.com/feeds/posts/default",
+      "https://saharaoccidental.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/6333562/posts/default"
+    ],
+    "wsrw.org": [
+      "https://wsrw.org/en/feed"
+    ]
+  }
+}

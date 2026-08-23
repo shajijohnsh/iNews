@@ -1,0 +1,86 @@
+{
+  "country_code": "CM",
+  "language_code": "EN",
+  "total_domains": 21,
+  "total_feeds": 36,
+  "feeds": {
+    "237actu.com": [
+      "https://237actu.com/feed/"
+    ],
+    "237online.com": [
+      "https://www.237online.com/feed/"
+    ],
+    "actucameroun.com": [
+      "https://actucameroun.com/feed/"
+    ],
+    "bonaberi.com": [
+      "https://www.bonaberi.com/syndication/rssfeed.php?rid=4&out=rss",
+      "https://www.bonaberi.com/berimedia.php"
+    ],
+    "camer.be": [
+      "https://www.camer.be/rss",
+      "https://www.camer.be/politique",
+      "https://www.camer.be/economie",
+      "https://www.camer.be/societe",
+      "https://www.camer.be/pointdevue"
+    ],
+    "cameroonconcordnews.com": [
+      "https://www.cameroonconcordnews.com/feed/",
+      "https://www.cameroonconcordnews.com/home/feed/"
+    ],
+    "cameroonnewsagency.com": [
+      "https://cameroonnewsagency.com/feed/",
+      "https://cameroonnewsagency.com/web-stories/feed/"
+    ],
+    "cameroonnewsline.com": [
+      "https://www.cameroonnewsline.com/?feed=rss2",
+      "http://www.cameroonnewsline.com/feed/",
+      "http://www.cameroonnewsline.com/?feed=rss2"
+    ],
+    "cameroononline.org": [
+      "https://www.cameroononline.org/feed/"
+    ],
+    "cameroonvoice.com": [
+      "https://cameroonvoice.com/feed/"
+    ],
+    "camfoot.com": [
+      "https://www.camfoot.com/feed",
+      "https://www.camfoot.com/web-stories/feed/"
+    ],
+    "crtv.cm": [
+      "https://crtv.cm/feed/"
+    ],
+    "fr.journalducameroun.com": [
+      "https://fr.journalducameroun.com/feed/"
+    ],
+    "germinalnewspaper.com": [
+      "https://germinalnewspaper.com/index.php?format=feed&type=rss",
+      "https://germinalnewspaper.com/index.php?format=feed&type=atom"
+    ],
+    "lattaquant.com": [
+      "https://www.lattaquant.com/feed/"
+    ],
+    "lavoixdupaysan.net": [
+      "https://www.lavoixdupaysan.net/feed/"
+    ],
+    "lebledparle.com": [
+      "https://www.lebledparle.com/feed/"
+    ],
+    "lequatriemepouvoir.com": [
+      "https://lequatriemepouvoir.com/feed/"
+    ],
+    "newsducamer.com": [
+      "https://www.newsducamer.com/feed/",
+      "https://www.newsducamer.com/home/feed/"
+    ],
+    "solowayne.com": [
+      "https://www.solowayne.com/feeds/posts/default",
+      "http://www.solowayne.com/feeds/posts/default",
+      "https://solowayne.com/feed/",
+      "https://www.blogger.com/feeds/7379519879082249463/posts/default"
+    ],
+    "yaoundeinfo.com": [
+      "https://yaoundeinfo.com/feed/"
+    ]
+  }
+}

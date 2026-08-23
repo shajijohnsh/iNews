@@ -1,0 +1,32 @@
+{
+  "country_code": "TM",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 10,
+  "feeds": {
+    "hronikatm.com": [
+      "https://www.hronikatm.com/feed/"
+    ],
+    "newscentralasia.net": [
+      "http://feeds.feedburner.com/NewsCentralAsia"
+    ],
+    "tdh.gov.tm": [
+      "https://tdh.gov.tm/ru/rss.xml",
+      "https://tdh.gov.tm/tk/rss.xml",
+      "https://tdh.gov.tm/en/rss.xml"
+    ],
+    "turkmenbusiness.org": [
+      "http://turkmenbusiness.org/rss.xml",
+      "http://www.turkmenbusiness.org/rss.xml"
+    ],
+    "turkmenistan.ru": [
+      "https://www.turkmenistan.ru/ru/taxonomy/term/3/all/feed"
+    ],
+    "turkmenistanlive.com": [
+      "https://turkmenistanlive.com/feed/"
+    ],
+    "turkmenportal.com": [
+      "https://turkmenportal.com/rss"
+    ]
+  }
+}

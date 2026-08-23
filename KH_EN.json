@@ -1,0 +1,11 @@
+{
+  "country_code": "KH",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "ladies.com.kh": [
+      "https://ladies.com.kh/feed/"
+    ]
+  }
+}

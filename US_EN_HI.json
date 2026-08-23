@@ -2,45 +2,57 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 12,
-  "total_feeds": 14,
+  "total_feeds": 26,
   "feeds": {
-    "staradvertiser.com": [
-      "https://www.staradvertiser.com/feed/"
-    ],
-    "hawaiicatholicherald.com": [
-      "https://hawaiicatholicherald.com/feed/"
-    ],
-    "midweek.com": [
-      "https://www.midweek.com/feed/"
-    ],
-    "northshorenews.com": [
-      "https://northshorenews.com/feed/"
+    "civilbeat.org": [
+      "https://www.civilbeat.org/author/aestrellon/feed/",
+      "https://www.civilbeat.org/author/anukriti-hittle/?feed=rss",
+      "https://www.civilbeat.org/author/claire-caulfield/feed/",
+      "https://www.civilbeat.org/author/emilydugdale/feed/",
+      "https://www.civilbeat.org/author/jason-armstrong/?feed=rss",
+      "https://www.civilbeat.org/author/kevin-dayton/feed/",
+      "https://www.civilbeat.org/author/kevin-knodell/feed/",
+      "https://www.civilbeat.org/author/stewartyerton/feed/",
+      "https://www.civilbeat.org/author/the-sunshine-blog/?feed=rss",
+      "https://www.civilbeat.org/author/the-sunshine-blog/feed/",
+      "https://www.civilbeat.org/author/the-sunshine-editorial-board/?feed=rss",
+      "https://www.civilbeat.org/author/yjung/feed/",
+      "https://www.civilbeat.org/feed/"
     ],
     "hawaiiarmyweekly.com": [
       "https://hawaiiarmyweekly.com/feed/"
     ],
-    "hawaiireporter.com": [
-      "https://www.hawaiireporter.com/feed/",
-      "https://www.hawaiireporter.com/home/feed/"
-    ],
-    "midweekkauai.com": [
-      "https://www.midweekkauai.com/feed/"
-    ],
-    "civilbeat.org": [
-      "https://www.civilbeat.org/feed/"
-    ],
-    "hawaiistar.com": [
-      "https://www.hawaiistar.com/feed/"
-    ],
-    "thefilipinochronicle.com": [
-      "https://thefilipinochronicle.com/feed/"
+    "hawaiicatholicherald.com": [
+      "https://hawaiicatholicherald.com/feed/"
     ],
     "hawaiipublishersassociation.com": [
       "https://hawaiipublishersassociation.com/devsite/index.php/feed/",
       "https://hawaiipublishersassociation.com/devsite/index.php/about-us/feed/"
     ],
+    "hawaiireporter.com": [
+      "https://www.hawaiireporter.com/feed/",
+      "https://www.hawaiireporter.com/home/feed/"
+    ],
+    "hawaiistar.com": [
+      "https://www.hawaiistar.com/feed/"
+    ],
     "kitv.com": [
       "http://www.kitv.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "midweek.com": [
+      "https://www.midweek.com/feed/"
+    ],
+    "midweekkauai.com": [
+      "https://www.midweekkauai.com/feed/"
+    ],
+    "northshorenews.com": [
+      "https://northshorenews.com/feed/"
+    ],
+    "staradvertiser.com": [
+      "https://www.staradvertiser.com/feed/"
+    ],
+    "thefilipinochronicle.com": [
+      "https://thefilipinochronicle.com/feed/"
     ]
   }
 }

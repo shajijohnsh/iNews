@@ -1,0 +1,76 @@
+{
+  "country_code": "HT",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 34,
+  "feeds": {
+    "alterpresse.org": [
+      "https://www.alterpresse.org/spip.php?page=backend"
+    ],
+    "ayibopost.com": [
+      "https://ayibopost.com/feed/",
+      "https://ayibopost.com/category/podcast/feed/"
+    ],
+    "haiti-observateur.ca": [
+      "https://haiti-observateur.ca/?feed=rss2"
+    ],
+    "haiti24.net": [
+      "http://haiti24.net/feed/",
+      "https://haiti24.net/feed/"
+    ],
+    "haitiantimes.com": [
+      "https://haitiantimes.com/feed/"
+    ],
+    "haitiliberte.com": [
+      "https://haitiliberte.com/feed/"
+    ],
+    "haitilibre.com": [
+      "https://www.haitilibre.com/rss-flash-en.xml",
+      "https://www.haitilibre.com/rss-flash.xml",
+      "https://www.haitilibre.com/rss-flash-en.php",
+      "https://www.haitilibre.com/rss-flash.php",
+      "https://www.haitilibre.com/rss-dossiers.php"
+    ],
+    "icihaiti.com": [
+      "https://www.icihaiti.com/rss-flash-en.xml",
+      "https://www.icihaiti.com/rss-flash.xml",
+      "https://www.icihaiti.com/rss-flash-en.php",
+      "https://www.icihaiti.com/rss-flash.php",
+      "https://www.icihaiti.com/rss-dossiers.php"
+    ],
+    "juno7.ht": [
+      "https://www.juno7.ht/feed/"
+    ],
+    "lakolonline.com": [
+      "https://www.lakolonline.com/blog-feed.xml"
+    ],
+    "lenouvelliste.com": [
+      "https://lenouvelliste.com/rss.xml"
+    ],
+    "m.haitiopen.com": [
+      "https://m.haitiopen.com/feed/"
+    ],
+    "metropole.ht": [
+      "https://metropole.ht/feed/"
+    ],
+    "radiotelecaraibes.com": [
+      "https://www.radiotelecaraibes.com/feed/"
+    ],
+    "rezonodwes.com": [
+      "https://rezonodwes.com/?feed=comments-rss2",
+      "https://rezonodwes.com/?feed=rss2",
+      "https://rezonodwes.com/feed/"
+    ],
+    "scoopfmhaiti.com": [
+      "https://www.scoopfmhaiti.com/feed/"
+    ],
+    "signalfmhaiti.com": [
+      "https://www.signalfmhaiti.com/feed/atom",
+      "https://www.signalfmhaiti.com/feed/atom/",
+      "https://www.signalfmhaiti.com/feed",
+      "https://signalfmhaiti.com/feed/",
+      "https://www.signalfmhaiti.com/feed/",
+      "http://signalfmhaiti.com/feed/"
+    ]
+  }
+}

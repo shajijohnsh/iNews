@@ -1,0 +1,136 @@
+{
+  "country_code": "TN",
+  "language_code": "EN",
+  "total_domains": 31,
+  "total_feeds": 66,
+  "feeds": {
+    "africanmanager.com": [
+      "https://africanmanager.com/feed/"
+    ],
+    "alchourouk.com": [
+      "http://alchourouk.com/rss",
+      "https://www.alchourouk.com/rss"
+    ],
+    "ar.tunisienumerique.com": [
+      "https://ar.tunisienumerique.com/feed/",
+      "https://ar.tunisienumerique.com/feed/atom/",
+      "https://ar.tunisienumerique.com/feed/"
+    ],
+    "assabahnews.tn": [
+      "http://www.assabahnews.tn/rss-feed.xml",
+      "http://www.assabahnews.tn/rss.xml"
+    ],
+    "assarih.com": [
+      "https://assarih.com/feed/"
+    ],
+    "babnet.net": [
+      "https://www.babnet.net/feed.php"
+    ],
+    "businessnews.com.tn": [
+      "https://www.businessnews.com.tn/rss.xml",
+      "https://businessnews.com.tn/feed/",
+      "https://www.businessnews.com.tn/feed/"
+    ],
+    "directinfo.webmanagercenter.com": [
+      "https://directinfo.webmanagercenter.com/feed/",
+      "http://directinfo.webmanagercenter.com/feed/"
+    ],
+    "espacemanager.com": [
+      "https://espacemanager.com/feed/"
+    ],
+    "journalistesfaxien.tn": [
+      "https://journalistesfaxien.tn/feed/",
+      "https://www.journalistesfaxien.tn/feed/"
+    ],
+    "kapitalis.com": [
+      "https://kapitalis.com/tunisie/feed/"
+    ],
+    "kawarji.com": [
+      "https://www.kawarji.com/rss"
+    ],
+    "lapresse.tn": [
+      "https://lapresse.tn/category/culture/feed/",
+      "https://lapresse.tn/category/economie/feed/",
+      "https://lapresse.tn/feed/",
+      "https://www.lapresse.tn/category/culture/feed/",
+      "https://www.lapresse.tn/category/economie/feed/",
+      "https://www.lapresse.tn/feed/"
+    ],
+    "leaders.com.tn": [
+      "https://www.leaders.com.tn/rss"
+    ],
+    "leconomistemaghrebin.com": [
+      "https://www.leconomistemaghrebin.com/feed/"
+    ],
+    "marhba.com": [
+      "https://www.marhba.com/?format=feed&type=rss",
+      "https://www.marhba.com/?format=feed&type=atom"
+    ],
+    "mosaiquefm.net": [
+      "https://www.mosaiquefm.net/ar/rss",
+      "https://www.mosaiquefm.net/fr/rss"
+    ],
+    "nawaat.org": [
+      "https://nawaat.org/feed/",
+      "https://nawaat.org/home/feed/"
+    ],
+    "nessma.tv": [
+      "https://www.nessma.tv/ar/rss/news/24",
+      "https://www.nessma.tv/ar/rss/news/25",
+      "https://www.nessma.tv/ar/rss/news/26",
+      "https://www.nessma.tv/ar/rss/news/27",
+      "https://www.nessma.tv/ar/rss/news/28",
+      "https://www.nessma.tv/ar/rss/news/30",
+      "https://www.nessma.tv/ar/rss/news/31",
+      "https://www.nessma.tv/ar/rss/news/32",
+      "https://www.nessma.tv/ar/rss/news/38",
+      "https://www.nessma.tv/ar/rss/news/41",
+      "https://www.nessma.tv/ar/rss/news/42",
+      "https://www.nessma.tv/ar/rss/news/43",
+      "https://www.nessma.tv/ar/rss/news/44",
+      "https://www.nessma.tv/ar/rss/news/46",
+      "https://www.nessma.tv/ar/rss/news/47",
+      "https://www.nessma.tv/ar/rss/news/48"
+    ],
+    "radiotunisienne.tn": [
+      "https://www.radiotunisienne.tn/articles/rss"
+    ],
+    "realites.com.tn": [
+      "https://realites.com.tn/fr/feed/",
+      "https://realites.com.tn/fr/feed/atom/",
+      "https://realites.com.tn/fr/feed/"
+    ],
+    "tekiano.com": [
+      "https://www.tekiano.com/feed/"
+    ],
+    "tuniscope.com": [
+      "https://www.tuniscope.com/feed",
+      "https://www.tuniscope.com/rss"
+    ],
+    "tunisie-telegraph.com": [
+      "http://tunisie-telegraph.com/feed",
+      "https://tunisie-telegraph.com/feed/"
+    ],
+    "tunisie.co": [
+      "https://tunisie.co/feed"
+    ],
+    "tunisiefocus.com": [
+      "https://www.tunisiefocus.com/feed/"
+    ],
+    "tunisien.tn": [
+      "https://tunisien.tn/feed"
+    ],
+    "tunisienumerique.com": [
+      "https://www.tunisienumerique.com/feed-actualites-tunisie.xml"
+    ],
+    "turess.com": [
+      "https://www.turess.com/rss"
+    ],
+    "webdo.tn": [
+      "https://www.webdo.tn/fr/feed/"
+    ],
+    "webmanagercenter.com": [
+      "https://www.webmanagercenter.com/feed/"
+    ]
+  }
+}

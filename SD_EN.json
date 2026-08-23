@@ -1,0 +1,93 @@
+{
+  "country_code": "SD",
+  "language_code": "EN",
+  "total_domains": 19,
+  "total_feeds": 47,
+  "feeds": {
+    "albawaba.com": [
+      "https://www.albawaba.com/rss/press-release",
+      "https://www.albawaba.com/rss/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9",
+      "https://article.albawaba.net/ar/rss/ar-all",
+      "https://www.albawaba.com/ar/rss/ar-all",
+      "https://www.albawaba.com/rss/ar-all",
+      "https://www.albawaba.com/rss/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+      "https://www.albawaba.com/rss/all",
+      "https://www.albawaba.com/ar/rss/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+      "https://www.albawaba.com/rss/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "https://www.albawaba.com/rss/%D8%B5%D8%AD%D8%AA%D9%83%D9%90-%D9%88%D8%AC%D9%85%D8%A7%D9%84%D9%83%D9%90",
+      "https://www.albawaba.com/rss/news",
+      "https://www.albawaba.com/rss/entertainment",
+      "https://www.albawaba.com/rss/%D8%AA%D8%B1%D9%81%D9%8A%D9%87",
+      "https://www.albawaba.com/rss/%D8%A3%D8%B9%D9%85%D8%A7%D9%84",
+      "https://www.albawaba.com/rss/business",
+      "https://www.albawaba.com/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+      "https://www.albawaba.com/rss/%D8%B3%D8%A7%D8%AE%D8%B1%D9%88%D9%86",
+      "https://www.albawaba.com/rss/ar-buzz",
+      "https://www.albawaba.com/rss/ar-slideshows",
+      "https://www.albawaba.com/rss/editor-choice",
+      "https://www.albawaba.com/rss/en-slideshows",
+      "https://www.albawaba.com/rss/sports",
+      "https://www.albawaba.com/ar/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+      "https://article.albawaba.net/ar/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9"
+    ],
+    "alnilin.com": [
+      "https://www.alnilin.com/feed"
+    ],
+    "alrakoba.net": [
+      "https://www.alrakoba.net/feed/"
+    ],
+    "alsudaninews.com": [
+      "https://alsudaninews.com/?feed=rss2"
+    ],
+    "altaghyeer.info": [
+      "https://www.altaghyeer.info/ar/feed/"
+    ],
+    "alzaeemsd.com": [
+      "https://www.alzaeemsd.com/feeds/posts/default",
+      "https://www.blogger.com/feeds/1923999556671357793/posts/default"
+    ],
+    "assayha.net": [
+      "https://www.assayha.net/feed/"
+    ],
+    "bajnews.net": [
+      "https://bajnews.net/feed/"
+    ],
+    "dabangasudan.org": [
+      "https://www.dabangasudan.org/ar/feed"
+    ],
+    "radiotamazuj.org": [
+      "https://radiotamazuj.org/en/rss/news.xml",
+      "https://www.radiotamazuj.org/en/feed"
+    ],
+    "sudanakhbar.com": [
+      "https://www.sudanakhbar.com/feed"
+    ],
+    "sudanhorizon.com": [
+      "https://sudanhorizon.com/feed/"
+    ],
+    "sudanile.com": [
+      "https://sudanile.com/feed/"
+    ],
+    "sudaninet.net": [
+      "https://www.sudaninet.net/feed"
+    ],
+    "sudanjem.com": [
+      "https://sudanjem.com/feed/"
+    ],
+    "sudannewsgazette.com": [
+      "https://sudannewsgazette.com/feed/"
+    ],
+    "sudantimes.net": [
+      "https://sudantimes.net/?feed=rss2",
+      "https://sudantimes.net/?feed=rss2&page_id=92"
+    ],
+    "sudantribune.com": [
+      "https://sudantribune.com/feed/",
+      "https://sudantribune.com/spip.php?page=backend",
+      "https://www.sudantribune.com/spip.php?page=backend"
+    ],
+    "sudaress.com": [
+      "https://www.sudaress.com/rss"
+    ]
+  }
+}

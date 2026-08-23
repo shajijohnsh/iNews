@@ -4,14 +4,14 @@
   "total_domains": 3,
   "total_feeds": 3,
   "feeds": {
+    "vifreepress.com": [
+      "https://vifreepress.com/feed/"
+    ],
     "virginislandsdailynews.com": [
       "http://www.virginislandsdailynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "virginislandsthisweek.com": [
       "https://virginislandsthisweek.com/feed/"
-    ],
-    "vifreepress.com": [
-      "https://vifreepress.com/feed/"
     ]
   }
 }

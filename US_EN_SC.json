@@ -2,37 +2,17 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 21,
-  "total_feeds": 23,
+  "total_feeds": 25,
   "feeds": {
-    "postandcourier.com": [
-      "https://www.postandcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "scnow.com": [
-      "http://scnow.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "indexjournal.com": [
-      "http://www.indexjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thetandd.com": [
-      "http://thetandd.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "upstatetoday.com": [
-      "http://upstatetoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "heraldadvocate.com": [
-      "https://heraldadvocate.com/feed/"
-    ],
     "blythewoodonline.com": [
       "https://blythewoodonline.com/feed/"
     ],
     "charlestoncitypaper.com": [
       "https://charlestoncitypaper.com/feed/"
     ],
-    "myhorrynews.com": [
-      "http://www.myhorrynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "thedanielislandnews.com": [
-      "https://thedanielislandnews.com/rss.xml"
+    "collegianonline.com": [
+      "https://collegianonline.com/feed/",
+      "https://collegianonline.com/feed/atom/"
     ],
     "dillonheraldonline.com": [
       "http://www.dillonheraldonline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -40,34 +20,56 @@
     "edgefieldadvertiser.com": [
       "https://www.edgefieldadvertiser.com/feed/"
     ],
+    "heraldadvocate.com": [
+      "https://heraldadvocate.com/feed/"
+    ],
+    "indexjournal.com": [
+      "http://www.indexjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "kershawnewsera.com": [
       "https://www.kershawnewsera.com/feed/"
     ],
     "laurenscountyadvertiser.net": [
       "https://www.laurenscountyadvertiser.net/feed/"
     ],
-    "newberryobserver.com": [
-      "https://www.newberryobserver.com/feed"
-    ],
-    "yourpickenscounty.com": [
-      "https://www.yourpickenscounty.com/feed/"
-    ],
-    "saludastandard-sentinel.com": [
-      "https://saludastandard-sentinel.com/feed/"
-    ],
-    "thejournalonline.com": [
-      "https://thejournalonline.com/feed/"
-    ],
-    "collegianonline.com": [
-      "https://collegianonline.com/feed/",
-      "https://collegianonline.com/feed/atom/"
+    "myhorrynews.com": [
+      "http://www.myhorrynews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "mytjnow.com": [
       "https://mytjnow.com/feed/",
       "https://mytjnow.com/feed/podcast"
     ],
+    "newberryobserver.com": [
+      "https://www.newberryobserver.com/feed"
+    ],
+    "postandcourier.com": [
+      "https://www.postandcourier.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+      "https://www.postandcourier.com/search/?f=rss&t=article&c=our-gazette/community-news&l=50&s=start_time&sd=desc",
+      "https://www.postandcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "saludastandard-sentinel.com": [
+      "https://saludastandard-sentinel.com/feed/"
+    ],
+    "scnow.com": [
+      "http://scnow.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "scpress.org": [
       "https://scpress.org/feed/"
+    ],
+    "thedanielislandnews.com": [
+      "https://thedanielislandnews.com/rss.xml"
+    ],
+    "thejournalonline.com": [
+      "https://thejournalonline.com/feed/"
+    ],
+    "thetandd.com": [
+      "http://thetandd.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "upstatetoday.com": [
+      "http://upstatetoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "yourpickenscounty.com": [
+      "https://www.yourpickenscounty.com/feed/"
     ]
   }
 }

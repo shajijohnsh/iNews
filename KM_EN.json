@@ -1,0 +1,19 @@
+{
+  "country_code": "KM",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 5,
+  "feeds": {
+    "comoresinfos.net": [
+      "https://www.comoresinfos.net/feed/"
+    ],
+    "habarizacomores.com": [
+      "https://www.habarizacomores.com/feeds/posts/default",
+      "https://www.habarizacomores.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8268768984551920237/posts/default"
+    ],
+    "lemohelien.com": [
+      "https://lemohelien.com/feed"
+    ]
+  }
+}

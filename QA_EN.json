@@ -1,0 +1,14 @@
+{
+  "country_code": "QA",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 2,
+  "feeds": {
+    "ohlala-magazine.com": [
+      "https://ohlala-magazine.com/feed/"
+    ],
+    "staddoha.com": [
+      "https://staddoha.com/feed/"
+    ]
+  }
+}

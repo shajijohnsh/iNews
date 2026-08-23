@@ -1,0 +1,11 @@
+{
+  "country_code": "FM",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "gov.fm": [
+      "https://gov.fm/feed/"
+    ]
+  }
+}

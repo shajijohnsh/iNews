@@ -2,115 +2,116 @@
   "country_code": "AU",
   "language_code": "EN",
   "total_domains": 33,
-  "total_feeds": 42,
+  "total_feeds": 43,
   "feeds": {
-    "themonthly.com.au": [
-      "https://www.themonthly.com.au/feed.xml"
+    "ajet.org.au": [
+      "https://ajet.org.au/index.php/AJET/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "https://ajet.org.au/index.php/AJET/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "https://ajet.org.au/index.php/AJET/gateway/plugin/WebFeedGatewayPlugin/rss2"
     ],
-    "who.com.au": [
-      "https://www.who.com.au/feed/"
-    ],
-    "xpressmag.com.au": [
-      "https://xpressmag.com.au/feed/"
-    ],
-    "ncc.org.au": [
-      "https://ncc.org.au/feed/"
-    ],
-    "bmamag.com": [
-      "https://bmamag.com/feed/"
-    ],
-    "insidesport.com.au": [
-      "https://www.insidesport.com.au/rss"
-    ],
-    "tracksmag.com.au": [
-      "https://tracksmag.com.au/feed"
-    ],
-    "nowtolove.com.au": [
-      "https://www.nowtolove.com.au/feed/"
-    ],
-    "newidea.com.au": [
-      "https://www.newidea.com.au/feed/"
-    ],
-    "thatslife.com.au": [
-      "https://www.thatslife.com.au/feed/"
-    ],
-    "taste.com.au": [
-      "https://www.taste.com.au/rss/latest-recipes.xml",
-      "https://www.taste.com.au/rss/food-news.xml"
+    "australasianscience.com.au": [
+      "https://australasianscience.com.au/feed/"
     ],
     "australiangeographic.com.au": [
       "https://www.australiangeographic.com.au/feed/",
       "https://www.australiangeographic.com.au/web-stories/feed/",
       "https://www.australiangeographic.com.au/feed/podcast"
     ],
-    "girlfriend.com.au": [
-      "https://www.girlfriend.com.au/feed/"
+    "australianmusician.com.au": [
+      "https://australianmusician.com.au/feed/"
     ],
-    "lovattspuzzles.com": [
-      "https://lovattspuzzles.com/feed/"
-    ],
-    "sensesofcinema.com": [
-      "https://www.sensesofcinema.com/feed/"
-    ],
-    "photoreview.com.au": [
-      "https://www.photoreview.com.au/feed/"
-    ],
-    "mediaweek.com.au": [
-      "https://mediaweek.com.au/rss.xml"
-    ],
-    "overland.org.au": [
-      "https://overland.org.au/feed/"
-    ],
-    "newdawnmagazine.com": [
-      "https://www.newdawnmagazine.com/feed"
-    ],
-    "if.com.au": [
-      "https://if.com.au/feed/"
-    ],
-    "ajet.org.au": [
-      "https://ajet.org.au/index.php/AJET/gateway/plugin/WebFeedGatewayPlugin/atom",
-      "https://ajet.org.au/index.php/AJET/gateway/plugin/WebFeedGatewayPlugin/rss",
-      "https://ajet.org.au/index.php/AJET/gateway/plugin/WebFeedGatewayPlugin/rss2"
-    ],
-    "nexusmagazine.com": [
-      "https://nexusmagazine.com/feed/"
-    ],
-    "record.adventistchurch.com": [
-      "https://record.adventistchurch.com/feed/"
+    "bmamag.com": [
+      "https://bmamag.com/feed/"
     ],
     "campusreview.com.au": [
       "https://www.campusreview.com.au/feed/"
     ],
-    "australianmusician.com.au": [
-      "https://australianmusician.com.au/feed/"
+    "cruzin.com.au": [
+      "https://www.cruzin.com.au/feed/"
+    ],
+    "cyclicdefrost.com": [
+      "https://www.cyclicdefrost.com/feed/"
+    ],
+    "diaa.asn.au": [
+      "https://diaa.asn.au/feed/"
+    ],
+    "girlfriend.com.au": [
+      "https://www.girlfriend.com.au/feed/"
+    ],
+    "goodreadingmagazine.com.au": [
+      "https://goodreadingmagazine.com.au/feed/"
+    ],
+    "if.com.au": [
+      "https://if.com.au/feed/"
+    ],
+    "insidesport.com.au": [
+      "https://www.insidesport.com.au/rss"
+    ],
+    "lovattspuzzles.com": [
+      "https://lovattspuzzles.com/feed/"
+    ],
+    "mediaweek.com.au": [
+      "https://mediaweek.com.au/rss.xml"
+    ],
+    "ncc.org.au": [
+      "https://ncc.org.au/feed/"
+    ],
+    "newdawnmagazine.com": [
+      "https://www.newdawnmagazine.com/feed"
+    ],
+    "newidea.com.au": [
+      "https://www.newidea.com.au/feed/"
+    ],
+    "nexusmagazine.com": [
+      "https://nexusmagazine.com/feed/"
+    ],
+    "nowtolove.com.au": [
+      "https://www.nowtolove.com.au/feed/"
+    ],
+    "outbackmag.com.au": [
+      "https://www.outbackmag.com.au/feed/",
+      "https://www.outbackmag.com.au/outback-magazine-r-m-williams-2/feed/"
+    ],
+    "overland.org.au": [
+      "https://overland.org.au/feed/"
+    ],
+    "photoreview.com.au": [
+      "https://www.photoreview.com.au/feed/"
+    ],
+    "record.adventistchurch.com": [
+      "https://record.adventistchurch.com/feed/"
     ],
     "scienceillustrated.com.au": [
       "https://scienceillustrated.com.au/blog/feed/atom/",
       "https://scienceillustrated.com.au/blog/feed/",
       "https://scienceillustrated.com.au/blog/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php"
     ],
+    "sensesofcinema.com": [
+      "https://www.sensesofcinema.com/feed/"
+    ],
+    "taste.com.au": [
+      "https://www.taste.com.au/rss/latest-recipes.xml",
+      "https://www.taste.com.au/rss/food-news.xml"
+    ],
+    "thatslife.com.au": [
+      "https://www.thatslife.com.au/feed/"
+    ],
     "theindiansun.com.au": [
       "https://www.theindiansun.com.au/feed/",
       "https://www.theindiansun.com.au/home-responsive/feed/"
     ],
-    "cyclicdefrost.com": [
-      "https://www.cyclicdefrost.com/feed/"
+    "themonthly.com.au": [
+      "https://www.themonthly.com.au/feed.xml"
     ],
-    "australasianscience.com.au": [
-      "https://australasianscience.com.au/feed/"
+    "tracksmag.com.au": [
+      "https://tracksmag.com.au/feed"
     ],
-    "diaa.asn.au": [
-      "https://diaa.asn.au/feed/"
+    "who.com.au": [
+      "https://www.who.com.au/feed/"
     ],
-    "goodreadingmagazine.com.au": [
-      "https://goodreadingmagazine.com.au/feed/"
-    ],
-    "cruzin.com.au": [
-      "https://www.cruzin.com.au/feed/"
-    ],
-    "outbackmag.com.au": [
-      "https://www.outbackmag.com.au/feed/",
-      "https://www.outbackmag.com.au/outback-magazine-r-m-williams-2/feed/"
+    "xpressmag.com.au": [
+      "https://xpressmag.com.au/events/feed/",
+      "https://xpressmag.com.au/feed/"
     ]
   }
 }

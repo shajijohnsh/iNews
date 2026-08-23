@@ -1,0 +1,74 @@
+{
+  "country_code": "SY",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 32,
+  "feeds": {
+    "aksalser.com": [
+      "https://www.aksalser.com/news/feed/",
+      "https://www.aksalser.com/news/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/feed/"
+    ],
+    "alghad.tv": [
+      "https://www.alghad.tv/feed/"
+    ],
+    "almjhar.com": [
+      "https://www.almjhar.com/ar-sy/NewsRss.aspx"
+    ],
+    "alwatan.sy": [
+      "https://alwatan.sy/feed/"
+    ],
+    "enabbaladi.net": [
+      "https://www.enabbaladi.net/archives/category/life-style/feed-health/feed",
+      "https://www.enabbaladi.net/category/life-style/feed-health/feed/",
+      "https://www.enabbaladi.net/feed"
+    ],
+    "fedaa.alwehda.gov.sy": [
+      "https://fedaa.alwehda.gov.sy/?feed=rss2"
+    ],
+    "furat.alwehda.gov.sy": [
+      "https://furat.alwehda.gov.sy/?feed=rss2",
+      "https://furat.alwehda.gov.sy/?feed=rss2?post_type=jm_breaking_news"
+    ],
+    "jamahir.alwehda.gov.sy": [
+      "http://jamahir.alwehda.gov.sy/?feed=rss2"
+    ],
+    "riadi.alwehda.gov.sy": [
+      "http://riadi.alwehda.gov.sy/?feed=rss2"
+    ],
+    "sana.sy": [
+      "http://sana.sy/?feed=rss2",
+      "http://sana.sy/ru/?feed=rss2",
+      "http://www.sana.sy/?feed=rss2",
+      "http://www.sana.sy/fr/?feed=rss2",
+      "https://sana.sy/?feed=rss2",
+      "https://sana.sy/ru/?feed=rss2",
+      "https://sana.sy/tr/?feed=rss2",
+      "https://www.sana.sy/?feed=rss2",
+      "https://www.sana.sy/fr/?feed=rss2"
+    ],
+    "syria-report.com": [
+      "https://syria-report.com/feed/",
+      "https://syria-report.com/feed/"
+    ],
+    "syriadirect.org": [
+      "https://syriadirect.org/feed/"
+    ],
+    "syriasteps.com": [
+      "https://syriasteps.com/archive/RSS/rss.xml",
+      "http://syriasteps.com/archive/RSS/rss.xml",
+      "http://www.syriasteps.com/archive/RSS/rss.xml"
+    ],
+    "syriatimes.sy": [
+      "http://syriatimes.sy/feed/"
+    ],
+    "thawra.sy": [
+      "https://thawra.sy/feed/"
+    ],
+    "wehda.alwehda.gov.sy": [
+      "http://wehda.alwehda.gov.sy/?feed=rss2"
+    ],
+    "zamanalwsl.net": [
+      "https://www.zamanalwsl.net/xml/rss.php"
+    ]
+  }
+}

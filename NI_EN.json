@@ -1,0 +1,34 @@
+{
+  "country_code": "NI",
+  "language_code": "EN",
+  "total_domains": 8,
+  "total_feeds": 10,
+  "feeds": {
+    "articulo66.com": [
+      "https://www.articulo66.com/feed/"
+    ],
+    "bacanalnica.com": [
+      "https://www.bacanalnica.com/feed/"
+    ],
+    "despacho505.com": [
+      "https://despacho505.com/feed/"
+    ],
+    "el19digital.com": [
+      "https://www.el19digital.com/feed/index.rss"
+    ],
+    "lajornadanet.com": [
+      "https://lajornadanet.com/feed/",
+      "https://lajornadanet.com/feed/atom/",
+      "https://lajornadanet.com/feed/"
+    ],
+    "laverdadnica.com": [
+      "https://laverdadnica.com/feed/"
+    ],
+    "nicaraguainvestiga.com": [
+      "https://nicaraguainvestiga.com/feed/"
+    ],
+    "nuevaya.com.ni": [
+      "https://nuevaya.com.ni/feed/"
+    ]
+  }
+}

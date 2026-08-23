@@ -1,0 +1,44 @@
+{
+  "country_code": "AW",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 16,
+  "feeds": {
+    "24ora.com": [
+      "https://24ora.com/feed/"
+    ],
+    "arubanative.com": [
+      "https://www.arubanative.com/feed/",
+      "https://www.arubanative.com/feed/atom/",
+      "https://www.arubanative.com/feed/"
+    ],
+    "arubatoday.com": [
+      "https://www.arubatoday.com/feed/"
+    ],
+    "awe24.com": [
+      "https://www.awe24.com/feed"
+    ],
+    "awemainta.com": [
+      "https://awemainta.info/feed/"
+    ],
+    "bondia.com": [
+      "https://www.bondia.com/feed/"
+    ],
+    "coolaruba.com": [
+      "https://coolaruba.com/feed/"
+    ],
+    "masnoticia.com": [
+      "https://masnoticia.com/feed/atom/",
+      "https://masnoticia.com/feed/"
+    ],
+    "noticiacla.com": [
+      "https://www.noticiacla.com/rss.xml",
+      "https://noticiacla.com/rss.xml",
+      "https://noticiacla.com/rss",
+      "https://www.noticiacla.com/rss"
+    ],
+    "solodipueblo.com": [
+      "https://solodipueblo.com/feed/"
+    ]
+  }
+}

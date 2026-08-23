@@ -1,0 +1,272 @@
+{
+  "country_code": "AT",
+  "language_code": "EN",
+  "total_domains": 37,
+  "total_feeds": 190,
+  "feeds": {
+    "badenerzeitung.at": [
+      "https://badenerzeitung.at/index.php?format=feed&type=rss",
+      "https://badenerzeitung.at/index.php?format=feed&type=atom"
+    ],
+    "bvz.at": [
+      "https://www.bvz.at/collection/271657142/xml/rss",
+      "https://www.bvz.at/collection/376781052/xml/rss",
+      "https://www.bvz.at/collection/8911781/xml/rss",
+      "https://www.bvz.at/xml/rss"
+    ],
+    "derennstaler.at": [
+      "https://www.derennstaler.at/rss.xml",
+      "https://ens.localpoint.ch/rss.xml"
+    ],
+    "derstandard.at": [
+      "http://derstandard.libsyn.com/rss",
+      "http://editionzukunft.libsyn.com/rss",
+      "https://bzw.podigee.io/feed/mp3",
+      "https://derstandard.libsyn.com/rss",
+      "https://editionzukunft.libsyn.com/rss",
+      "https://editionzukunft.podigee.io/feed/mp3",
+      "https://lohntsichdas.podigee.io/feed/mp3",
+      "https://serienreif.podigee.io/feed/mp3",
+      "https://themadestages.libsyn.com/rss",
+      "https://themadestages.podigee.io/feed/mp3",
+      "https://www.derstandard.at/rss",
+      "https://www.derstandard.at/rss/panorama",
+      "https://www.derstandard.at/rss/sport"
+    ],
+    "diepresse.com": [
+      "https://www.diepresse.com/rss",
+      "https://www.diepresse.com/rss/",
+      "https://www.diepresse.com/rss//",
+      "https://www.diepresse.com/rss//home",
+      "https://www.diepresse.com/rss/Kultur",
+      "https://www.diepresse.com/rss/Politik",
+      "https://www.diepresse.com/rss/Science",
+      "https://www.diepresse.com/rss/Tech",
+      "https://www.diepresse.com/rss/Wirtschaft",
+      "https://www.diepresse.com/rss/home/"
+    ],
+    "dietagespresse.com": [
+      "https://dietagespresse.com/feed/"
+    ],
+    "ennsseiten.at": [
+      "http://www.ennsseiten.at/feed/"
+    ],
+    "falter.at": [
+      "https://www.falter.at/rss"
+    ],
+    "furche.at": [
+      "https://www.furche.at/xml/rss"
+    ],
+    "kirchenzeitung.at": [
+      "https://www.kirchenzeitung.at/backend/rss/rss2?channel=standard"
+    ],
+    "kleinezeitung.at": [
+      "https://www.kleinezeitung.at/rss/hp_stmk",
+      "https://www.kleinezeitung.at/rss/kaernten",
+      "https://www.kleinezeitung.at/rss/nachrichten_kaernten",
+      "https://www.kleinezeitung.at/rss/nachrichten_stmk",
+      "https://www.kleinezeitung.at/rss/politik",
+      "https://www.kleinezeitung.at/rss/service/newsticker",
+      "https://www.kleinezeitung.at/rss/sport/stmk_sport",
+      "https://www.kleinezeitung.at/rss/steiermark",
+      "https://www.kleinezeitung.at/rss/wirtschaft/stmk_wirtschaft"
+    ],
+    "krone.at": [
+      "https://www.krone.at/Nachrichten/rss.html"
+    ],
+    "kurier.at": [
+      "http://feeds.feedburner.com/Kurier-sportpodcast",
+      "https://kurier.at/layout/xml/rss",
+      "https://kurier.at/stars-kultur/layout/xml/rss",
+      "https://kurier.at/xml/rss",
+      "https://kurier.at/xml/rssd"
+    ],
+    "medianet.at": [
+      "https://medianet.at/bizbook/user/10773/blog/feed",
+      "https://medianet.at/bizbook/user/12345/blog/feed",
+      "https://medianet.at/bizbook/user/12868/blog/feed",
+      "https://medianet.at/bizbook/user/15102/blog/feed",
+      "https://medianet.at/bizbook/user/1897/blog/feed",
+      "https://medianet.at/bizbook/user/1901/blog/feed",
+      "https://medianet.at/bizbook/user/2369/blog/feed",
+      "https://medianet.at/bizbook/user/5544/blog/feed",
+      "https://medianet.at/bizbook/user/5600/blog/feed",
+      "https://medianet.at/bizbook/user/5693/blog/feed",
+      "https://medianet.at/bizbook/user/6726/blog/feed"
+    ],
+    "meinbezirk.at": [
+      "https://www.meinbezirk.at/murtal/rss",
+      "https://www.meinbezirk.at/rss"
+    ],
+    "meinekirchenzeitung.at": [
+      "https://www.meinekirchenzeitung.at/rss"
+    ],
+    "nachrichten.at": [
+      "https://www.nachrichten.at/storage/rss/rss/essenundtrinken.xml",
+      "https://www.nachrichten.at/storage/rss/rss/linz.xml",
+      "https://www.nachrichten.at/storage/rss/rss/meinung.xml",
+      "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml",
+      "https://www.nachrichten.at/storage/rss/rss/oberoesterreich.xml",
+      "https://www.nachrichten.at/storage/rss/rss/politik.xml",
+      "https://www.nachrichten.at/storage/rss/rss/sport.xml",
+      "https://www.nachrichten.at/storage/rss/rss/wirtschaft.xml"
+    ],
+    "neue.at": [
+      "https://service.neue.at/feed/"
+    ],
+    "news.at": [
+      "https://www.news.at/rss/home"
+    ],
+    "noen.at": [
+      "https://www.noen.at/blog/xml/rss",
+      "https://www.noen.at/collection/271657120/xml/rss",
+      "https://www.noen.at/collection/376781027/xml/rss",
+      "https://www.noen.at/collection/4530029/xml/rss",
+      "https://www.noen.at/purkersdorf/xml/rss",
+      "https://www.noen.at/xml/rss"
+    ],
+    "novice.at": [
+      "https://www.novice.at/home/feed/"
+    ],
+    "oe24.at": [
+      "https://www.oe24.at/leute/xml/rss",
+      "https://www.oe24.at/xml/rssImage"
+    ],
+    "orf.at": [
+      "https://on.orf.at/feed/rss",
+      "https://rss.orf.at/burgenland.xml",
+      "https://rss.orf.at/fm4.xml",
+      "https://rss.orf.at/help.xml",
+      "https://rss.orf.at/kaernten.xml",
+      "https://rss.orf.at/kultur.xml",
+      "https://rss.orf.at/news.xml",
+      "https://rss.orf.at/noe.xml",
+      "https://rss.orf.at/oe3.xml",
+      "https://rss.orf.at/oesterreich.xml",
+      "https://rss.orf.at/ooe.xml",
+      "https://rss.orf.at/orf2.xml",
+      "https://rss.orf.at/orfeins.xml",
+      "https://rss.orf.at/orfsport.xml",
+      "https://rss.orf.at/salzburg.xml",
+      "https://rss.orf.at/science.xml",
+      "https://rss.orf.at/sport.xml",
+      "https://rss.orf.at/steiermark.xml",
+      "https://rss.orf.at/tirol.xml",
+      "https://rss.orf.at/untertitel.xml",
+      "https://rss.orf.at/vorarlberg.xml",
+      "https://rss.orf.at/wien.xml",
+      "https://tvthek.orf.at/feed/rss"
+    ],
+    "ots.at": [
+      "https://www.ots.at/rss/ORF",
+      "https://www.ots.at/rss/audio",
+      "https://www.ots.at/rss/bilder",
+      "https://www.ots.at/rss/chronik",
+      "https://www.ots.at/rss/finanzen",
+      "https://www.ots.at/rss/index",
+      "https://www.ots.at/rss/karriere",
+      "https://www.ots.at/rss/kultur",
+      "https://www.ots.at/rss/medien",
+      "https://www.ots.at/rss/personal/qu/KEFUVEFDSE1FTlQ9JCk=",
+      "https://www.ots.at/rss/personal/qu/KHN0PShwcmVzc2VzdGltbWVuIE9yIFZvcmF1c21lbGR1bmcpIE9yIERlcz0ocHJlc3Nlc3RpbW1lbiBPciBWb3JhdXNtZWxkdW5nKSk=",
+      "https://www.ots.at/rss/politik",
+      "https://www.ots.at/rss/termine",
+      "https://www.ots.at/rss/topthema",
+      "https://www.ots.at/rss/video",
+      "https://www.ots.at/rss/wirtschaft",
+      "https://www.ots.at/rss/zitate"
+    ],
+    "profil.at": [
+      "https://www.profil.at/layout/xml/rss",
+      "https://www.profil.at/xml/rss"
+    ],
+    "salzburg24.at": [
+      "https://www.salzburg24.at/storage/rss/rss/salzburg24.xml",
+      "https://www.salzburg24.at/xml/rss"
+    ],
+    "salzi.at": [
+      "https://www.salzi.at/feed/"
+    ],
+    "sn.at": [
+      "https://www.sn.at/festspiele/salzburger-festspiele/xml/rss",
+      "https://www.sn.at/leben/gesundheit/xml/rss",
+      "https://www.sn.at/leben/xml/rss",
+      "https://www.sn.at/salzburger-festspiele/xml/rss",
+      "https://www.sn.at/snin/xml/rss",
+      "https://www.sn.at/xml/rss"
+    ],
+    "svh.at": [
+      "https://www.svh.at/feed/"
+    ],
+    "thelocal.at": [
+      "https://feeds.thelocal.com/rss/builder/at"
+    ],
+    "tt.com": [
+      "https://www.tt.com/rss/arbeitsmarkt.xml",
+      "https://www.tt.com/rss/auto.xml",
+      "https://www.tt.com/rss/kultur.xml",
+      "https://www.tt.com/rss/landespolitik.xml",
+      "https://www.tt.com/rss/lebensart.xml",
+      "https://www.tt.com/rss/news.xml",
+      "https://www.tt.com/rss/panorama.xml",
+      "https://www.tt.com/rss/politik.xml",
+      "https://www.tt.com/rss/sport.xml",
+      "https://www.tt.com/rss/standorttirol.xml",
+      "https://www.tt.com/rss/tirol.xml",
+      "https://www.tt.com/rss/wirtschaft.xml"
+    ],
+    "voez.at": [
+      "https://voez.at/feed/"
+    ],
+    "vol.at": [
+      "https://www.vol.at/rss.aspx/page/vol-article-index-rss-page/dc/tp:vol:vorarlberg"
+    ],
+    "volksblatt.at": [
+      "https://volksblatt.at/feed/",
+      "http://volksblatt.at/feed/"
+    ],
+    "wienerbezirksblatt.at": [
+      "https://wienerbezirksblatt.at/feed/"
+    ],
+    "wienerzeitung.at": [
+      "http://www.wienerzeitung.at/rss.xml",
+      "https://www.wienerzeitung.at/_em_daten/_module/10001.rss",
+      "https://www.wienerzeitung.at/_em_daten/_module/10135.rss",
+      "https://www.wienerzeitung.at/_em_daten/_module/10137.rss",
+      "https://www.wienerzeitung.at/_em_daten/_module/10139.rss",
+      "https://www.wienerzeitung.at/_em_daten/_module/10141.rss",
+      "https://www.wienerzeitung.at/_export/rss/freitritt/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/corona/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/digital/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/meinung/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/oesterreichalle/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/sportalle/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/weltalle/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/wienalle/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/wirtschaft/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/gnews/wissen/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/juedisch_leben/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/litblog/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/meinungen/blogs/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/meinungen/gastkommentare/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/meinungen/glossen/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/meinungen/kommentare/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/meinungen/leitartikel/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/meinungen/leserbriefe/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/aktuelleberichte/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/digital/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/kultur/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/medien/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/panorama/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/politik/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/sport/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/wirtschaft/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/nachrichten/wissen/index.rss",
+      "https://www.wienerzeitung.at/_export/rss/opinion/index.rss",
+      "https://www.wienerzeitung.at/rss.xml"
+    ],
+    "yenivatan.at": [
+      "https://www.yenivatan.at/feed/"
+    ]
+  }
+}

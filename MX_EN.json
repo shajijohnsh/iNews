@@ -1,0 +1,63 @@
+{
+  "country_code": "MX",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 31,
+  "feeds": {
+    "americaeconomia.com": [
+      "https://www.americaeconomia.com/feeds/feed.rss",
+      "https://www.americaeconomia.com/rss.xml",
+      "https://www.americaeconomia.com/taxonomy/term/6927/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6935/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6941/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6942/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6943/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6951/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6952/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6953/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6954/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6955/feed",
+      "https://www.americaeconomia.com/taxonomy/term/6956/feed"
+    ],
+    "arqueologiamexicana.mx": [
+      "https://arqueologiamexicana.mx/rss.xml"
+    ],
+    "caras.com.mx": [
+      "https://www.caras.com.mx/feed/",
+      "https://www.caras.com.mx/index.atom"
+    ],
+    "cosmopolitan.com.mx": [
+      "https://www.cosmopolitan.com.mx/index.atom"
+    ],
+    "esquirelat.com": [
+      "https://www.esquirelat.com/index.atom"
+    ],
+    "mundoejecutivo.com.mx": [
+      "https://mundoejecutivo.com.mx/feed/",
+      "https://mundoejecutivo.com.mx/feed/atom/"
+    ],
+    "muyinteresante.com.mx": [
+      "https://muyinteresante.okdiario.com/feed"
+    ],
+    "ngenespanol.com": [
+      "https://www.ngenespanol.com/feed/",
+      "https://www.nationalgeographicla.com/api/rss/latest_contents.xml"
+    ],
+    "proceso.com.mx": [
+      "https://www.proceso.com.mx/feed",
+      "https://www.proceso.com.mx/rss/feed.html",
+      "https://www.proceso.com.mx/rss/feed.html?r=1",
+      "https://www.proceso.com.mx/rss/feed.html?r=6",
+      "https://www.proceso.com.mx/rss/un_foto.html"
+    ],
+    "tuenlinea.com": [
+      "https://www.tuenlinea.com/index.atom"
+    ],
+    "tvynovelas.com": [
+      "https://www.tvynovelas.com/index.atom"
+    ],
+    "vanidades.com": [
+      "https://www.vanidades.com/index.atom"
+    ]
+  }
+}

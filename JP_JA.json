@@ -1,8 +1,8 @@
 {
   "country_code": "JP",
   "language_code": "JA",
-  "total_domains": 654,
-  "total_feeds": 4554,
+  "total_domains": 556,
+  "total_feeds": 2934,
   "feeds": {
     "3goo.co.jp": [
       "https://3goo.co.jp/feed/"
@@ -34,10 +34,6 @@
       "https://www.4gamer.net/rss/wii/wii_news.xml",
       "https://www.4gamer.net/rss/xbox360/xbox360_news.xml",
       "https://www.4gamer.net/tags/TS/TS020/contents.xml"
-    ],
-    "actuia.com": [
-      "https://www.actuia.com/feed",
-      "https://www.actuia.com/feed/"
     ],
     "advertimes.com": [
       "https://www.advertimes.com/feed/",
@@ -74,39 +70,8 @@
     "api.ananweb.jp": [
       "https://api.ananweb.jp/feed"
     ],
-    "apple.com": [
-      "https://www.apple.com/au/newsroom/rss-feed.rss",
-      "https://www.apple.com/ca/newsroom/rss-feed.rss",
-      "https://www.apple.com/es/newsroom/rss-feed.rss",
-      "https://www.apple.com/jp/newsroom/rss-feed.rss",
-      "https://www.apple.com/newsroom/rss-feed.rss",
-      "https://www.apple.com/nz/newsroom/rss-feed.rss"
-    ],
     "arabnews.jp": [
       "https://www.arabnews.jp/feed/"
-    ],
-    "asahi.com": [
-      "http://www.asahi.com/rss/asahi/business.rdf",
-      "http://www.asahi.com/rss/asahi/car.rdf",
-      "http://www.asahi.com/rss/asahi/culture.rdf",
-      "http://www.asahi.com/rss/asahi/digital.rdf",
-      "http://www.asahi.com/rss/asahi/eco.rdf",
-      "http://www.asahi.com/rss/asahi/edu.rdf",
-      "http://www.asahi.com/rss/asahi/fashion.rdf",
-      "http://www.asahi.com/rss/asahi/food.rdf",
-      "http://www.asahi.com/rss/asahi/health.rdf",
-      "http://www.asahi.com/rss/asahi/housing.rdf",
-      "http://www.asahi.com/rss/asahi/igo.rdf",
-      "http://www.asahi.com/rss/asahi/international.rdf",
-      "http://www.asahi.com/rss/asahi/job.rdf",
-      "http://www.asahi.com/rss/asahi/national.rdf",
-      "http://www.asahi.com/rss/asahi/newsheadlines.rdf",
-      "http://www.asahi.com/rss/asahi/politics.rdf",
-      "http://www.asahi.com/rss/asahi/science.rdf",
-      "http://www.asahi.com/rss/asahi/shogi.rdf",
-      "http://www.asahi.com/rss/asahi/shopping.rdf",
-      "http://www.asahi.com/rss/asahi/sports.rdf",
-      "http://www.asahi.com/rss/asahi/travel.rdf"
     ],
     "ascii.jp": [
       "https://ascii.jp/digital/rss.xml",
@@ -137,209 +102,6 @@
       "https://automaton-media.com/en/news/feed/",
       "https://automaton-media.com/feed/"
     ],
-    "aws.amazon.com": [
-      "http://feeds.feedburner.com/AmazonWebServicesBlog",
-      "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "https://aws.amazon.com/ar/blogs/arabic/feed/",
-      "https://aws.amazon.com/blogs/apn/category/management-tools/amazon-cloudwatch/feed/",
-      "https://aws.amazon.com/blogs/apn/category/management-tools/aws-cloudtrail/feed/",
-      "https://aws.amazon.com/blogs/apn/feed/",
-      "https://aws.amazon.com/blogs/architecture/feed/",
-      "https://aws.amazon.com/blogs/aws-cloud-financial-management/feed/",
-      "https://aws.amazon.com/blogs/aws-cost-management/feed/",
-      "https://aws.amazon.com/blogs/aws-insights/feed/",
-      "https://aws.amazon.com/blogs/aws/author/channy-yun/feed/",
-      "https://aws.amazon.com/blogs/aws/author/danilop/feed/",
-      "https://aws.amazon.com/blogs/aws/author/donnie/feed/",
-      "https://aws.amazon.com/blogs/aws/author/jbarr/feed/",
-      "https://aws.amazon.com/blogs/aws/author/stormacq/feed/",
-      "https://aws.amazon.com/blogs/aws/category/amazon-q/amazon-q-business/feed/",
-      "https://aws.amazon.com/blogs/aws/category/analytics/amazon-sagemaker-lakehouse/feed/",
-      "https://aws.amazon.com/blogs/aws/category/application-integration/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/amazon-machine-learning/amazon-bedrock/amazon-bedrock-prompt-management/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/amazon-machine-learning/amazon-bedrock/amazon-nova/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/amazon-machine-learning/amazon-bedrock/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/amazon-machine-learning/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/generative-ai/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/sagemaker/amazon-sagemaker-ai/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/sagemaker/amazon-sagemaker-hyperpod/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/sagemaker/amazon-sagemaker-jumpstart/feed/",
-      "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/sagemaker/feed/",
-      "https://aws.amazon.com/blogs/aws/category/aws-cloud-financial-management/aws-cost-and-usage-report/feed/",
-      "https://aws.amazon.com/blogs/aws/category/aws-cloud-financial-management/billing-and-account-management/feed/",
-      "https://aws.amazon.com/blogs/aws/category/aws-cloud-financial-management/feed/",
-      "https://aws.amazon.com/blogs/aws/category/compute/amazon-elastic-container-service/feed/",
-      "https://aws.amazon.com/blogs/aws/category/compute/amazon-kubernetes-service/feed/",
-      "https://aws.amazon.com/blogs/aws/category/compute/aws-lambda/feed/",
-      "https://aws.amazon.com/blogs/aws/category/compute/aws-outposts/aws-outposts-rack/feed/",
-      "https://aws.amazon.com/blogs/aws/category/compute/aws-outposts/feed/",
-      "https://aws.amazon.com/blogs/aws/category/compute/feed/",
-      "https://aws.amazon.com/blogs/aws/category/database/amazon-aurora/feed/",
-      "https://aws.amazon.com/blogs/aws/category/database/amazon-elasticache/feed/",
-      "https://aws.amazon.com/blogs/aws/category/database/amazon-neptune/feed/",
-      "https://aws.amazon.com/blogs/aws/category/database/amazon-rds/feed/",
-      "https://aws.amazon.com/blogs/aws/category/deprecation/feed/",
-      "https://aws.amazon.com/blogs/aws/category/developer-tools/aws-codebuild/feed/",
-      "https://aws.amazon.com/blogs/aws/category/developer-tools/aws-toolkit-for-jetbrains-intellij-idea/feed/",
-      "https://aws.amazon.com/blogs/aws/category/devops/feed/",
-      "https://aws.amazon.com/blogs/aws/category/events/aws-summit-new-york/feed/",
-      "https://aws.amazon.com/blogs/aws/category/events/reinvent/feed/",
-      "https://aws.amazon.com/blogs/aws/category/featured/feed/",
-      "https://aws.amazon.com/blogs/aws/category/industries/entertainment/feed/",
-      "https://aws.amazon.com/blogs/aws/category/management-and-governance/feed/",
-      "https://aws.amazon.com/blogs/aws/category/management-and-governance/monitoring-and-observability/feed/",
-      "https://aws.amazon.com/blogs/aws/category/management-tools/amazon-cloudwatch/feed/",
-      "https://aws.amazon.com/blogs/aws/category/management-tools/aws-control-tower/feed/",
-      "https://aws.amazon.com/blogs/aws/category/management-tools/aws-management-console/feed/",
-      "https://aws.amazon.com/blogs/aws/category/management-tools/feed/",
-      "https://aws.amazon.com/blogs/aws/category/messaging/amazon-pinpoint-messaging/feed/",
-      "https://aws.amazon.com/blogs/aws/category/mobile-services/feed/",
-      "https://aws.amazon.com/blogs/aws/category/networking-content-delivery/amazon-application-recovery-controller/feed/",
-      "https://aws.amazon.com/blogs/aws/category/networking-content-delivery/aws-verified-access/feed/",
-      "https://aws.amazon.com/blogs/aws/category/networking-content-delivery/feed/",
-      "https://aws.amazon.com/blogs/aws/category/news/feed/",
-      "https://aws.amazon.com/blogs/aws/category/news/launch/feed/",
-      "https://aws.amazon.com/blogs/aws/category/open-source/feed/",
-      "https://aws.amazon.com/blogs/aws/category/post-types/announcements/feed/",
-      "https://aws.amazon.com/blogs/aws/category/post-types/partner-solutions/feed/",
-      "https://aws.amazon.com/blogs/aws/category/post-types/thought-leadership/feed/",
-      "https://aws.amazon.com/blogs/aws/category/security-identity-compliance/aws-firewall-manager/feed/",
-      "https://aws.amazon.com/blogs/aws/category/security-identity-compliance/aws-organizations/feed/",
-      "https://aws.amazon.com/blogs/aws/category/security-identity-compliance/feed/",
-      "https://aws.amazon.com/blogs/aws/category/storage/amazon-simple-storage-services-s3/feed/",
-      "https://aws.amazon.com/blogs/aws/category/storage/aws-backup/feed/",
-      "https://aws.amazon.com/blogs/aws/feed/",
-      "https://aws.amazon.com/blogs/awsforsap/feed/",
-      "https://aws.amazon.com/blogs/awsmarketplace/category/learning-levels/feed/",
-      "https://aws.amazon.com/blogs/awsmarketplace/feed/",
-      "https://aws.amazon.com/blogs/big-data/category/analytics/amazon-elasticsearch-service/feed/",
-      "https://aws.amazon.com/blogs/big-data/category/analytics/amazon-quicksight/feed/",
-      "https://aws.amazon.com/blogs/big-data/category/analytics/aws-glue-databrew/feed/",
-      "https://aws.amazon.com/blogs/big-data/category/compute/aws-lambda/feed/",
-      "https://aws.amazon.com/blogs/big-data/category/database/amazon-aurora/feed/",
-      "https://aws.amazon.com/blogs/big-data/feed/",
-      "https://aws.amazon.com/blogs/business-intelligence/feed/",
-      "https://aws.amazon.com/blogs/business-productivity/feed/",
-      "https://aws.amazon.com/blogs/compute/category/application-integration/amazon-eventbridge/feed/",
-      "https://aws.amazon.com/blogs/compute/category/compute/aws-lambda/feed/",
-      "https://aws.amazon.com/blogs/compute/feed/",
-      "https://aws.amazon.com/blogs/contact-center/category/analytics/amazon-quicksight/feed/",
-      "https://aws.amazon.com/blogs/contact-center/feed/",
-      "https://aws.amazon.com/blogs/containers/category/management-tools/amazon-managed-service-for-prometheus/feed/",
-      "https://aws.amazon.com/blogs/containers/feed/",
-      "https://aws.amazon.com/blogs/desktop-and-application-streaming/feed/",
-      "https://aws.amazon.com/blogs/developer/feed/",
-      "https://aws.amazon.com/blogs/devops/feed/",
-      "https://aws.amazon.com/blogs/enterprise-strategy/feed/",
-      "https://aws.amazon.com/blogs/gametech/feed/",
-      "https://aws.amazon.com/blogs/hpc/feed/",
-      "https://aws.amazon.com/blogs/ibm-redhat/feed/",
-      "https://aws.amazon.com/blogs/industries/feed/",
-      "https://aws.amazon.com/blogs/infrastructure-and-automation/feed/",
-      "https://aws.amazon.com/blogs/iot/feed/",
-      "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-machine-learning/amazon-bedrock/feed/",
-      "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-polly/feed/",
-      "https://aws.amazon.com/blogs/machine-learning/category/compute/amazon-elastic-container-service/feed/",
-      "https://aws.amazon.com/blogs/machine-learning/feed/",
-      "https://aws.amazon.com/blogs/media/category/analytics/amazon-kinesis/feed/",
-      "https://aws.amazon.com/blogs/media/category/analytics/amazon-kinesis/kinesis-data-streams/feed/",
-      "https://aws.amazon.com/blogs/media/category/compute/aws-fargate/feed/",
-      "https://aws.amazon.com/blogs/media/category/media-services/aws-elemental-mediatailor/feed/",
-      "https://aws.amazon.com/blogs/media/feed/",
-      "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/feed/",
-      "https://aws.amazon.com/blogs/messaging-and-targeting/category/post-types/announcements/feed/",
-      "https://aws.amazon.com/blogs/messaging-and-targeting/feed/",
-      "https://aws.amazon.com/blogs/migration-and-modernization/feed/",
-      "https://aws.amazon.com/blogs/mobile/category/database/amazon-aurora/feed/",
-      "https://aws.amazon.com/blogs/mobile/feed/",
-      "https://aws.amazon.com/blogs/modernizing-with-aws/feed/",
-      "https://aws.amazon.com/blogs/mt/feed/",
-      "https://aws.amazon.com/blogs/networking-and-content-delivery/feed/",
-      "https://aws.amazon.com/blogs/opensource/feed/",
-      "https://aws.amazon.com/blogs/quantum-computing/feed/",
-      "https://aws.amazon.com/blogs/robotics/feed/",
-      "https://aws.amazon.com/blogs/security/category/architecture/feed/",
-      "https://aws.amazon.com/blogs/security/category/compute/amazon-kubernetes-service/feed/",
-      "https://aws.amazon.com/blogs/security/category/learning-levels/intermediate-200/feed/",
-      "https://aws.amazon.com/blogs/security/category/management-and-governance/configuration-compliance-and-auditing/feed/",
-      "https://aws.amazon.com/blogs/security/category/messaging/amazon-connect/feed/",
-      "https://aws.amazon.com/blogs/security/category/security-identity-compliance/aws-single-sign-on-sso/feed/",
-      "https://aws.amazon.com/blogs/security/category/security-identity-compliance/compliance/feed/",
-      "https://aws.amazon.com/blogs/security/category/security-identity-compliance/feed/",
-      "https://aws.amazon.com/blogs/security/feed/",
-      "https://aws.amazon.com/blogs/security/tag/security/feed/",
-      "https://aws.amazon.com/blogs/smb/category/analytics/amazon-elasticsearch-service/feed/",
-      "https://aws.amazon.com/blogs/smb/feed/",
-      "https://aws.amazon.com/blogs/spatial/feed/",
-      "https://aws.amazon.com/blogs/storage/category/management-tools/aws-cloudformation/feed/",
-      "https://aws.amazon.com/blogs/storage/feed/",
-      "https://aws.amazon.com/blogs/supply-chain/feed/",
-      "https://aws.amazon.com/blogs/training-and-certification/feed/",
-      "https://aws.amazon.com/cn/blogs/china/author/channy-yun/feed/",
-      "https://aws.amazon.com/cn/blogs/china/category/analytics/feed/",
-      "https://aws.amazon.com/cn/blogs/china/category/artificial-intelligence/feed/",
-      "https://aws.amazon.com/cn/blogs/china/category/database/amazon-aurora/postgresql-compatible/feed/",
-      "https://aws.amazon.com/cn/blogs/china/category/database/feed/",
-      "https://aws.amazon.com/cn/blogs/china/category/networking-content-delivery/feed/",
-      "https://aws.amazon.com/cn/blogs/china/feed/",
-      "https://aws.amazon.com/de/blogs/germany/feed/",
-      "https://aws.amazon.com/es/blogs/aws-spanish/feed/",
-      "https://aws.amazon.com/fr/about-aws/whats-new/recent/feed/",
-      "https://aws.amazon.com/fr/blogs/france/feed/",
-      "https://aws.amazon.com/id/blogs/indonesia/category/swift/feed/",
-      "https://aws.amazon.com/id/blogs/indonesia/feed/",
-      "https://aws.amazon.com/jp/blogs/news/category/responsible-ai/feed/",
-      "https://aws.amazon.com/jp/blogs/news/feed/",
-      "https://aws.amazon.com/ko/blogs/korea/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/author/admin/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/application-services/aws-step-functions/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/architecture/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/aws-on-windows/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/compute/aws-lambda/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/database/amazon-dynamodb/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/database/amazon-rds/rds-for-mysql/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/database/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/industries/financial-services/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/industries/retail/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/industries/telecommunications/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/management-tools/aws-config/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/migration-solutions/cloud-adoption/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/migration-solutions/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/migration/cloudendure-migration/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/post-types/best-practices/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/public-sector/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/sap/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/security-identity-compliance/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/security-identity-compliance/identity/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/security-identity-compliance/security/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/startup/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/category/storage/amazon-simple-storage-services-s3/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/tag/hcls/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/tag/modernization/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/tag/varejo/feed/",
-      "https://aws.amazon.com/pt/blogs/aws-brasil/tag/windows/feed/",
-      "https://aws.amazon.com/ru/blogs/rus/category/migration/aws-application-migration-service/feed/",
-      "https://aws.amazon.com/ru/blogs/rus/feed/",
-      "https://aws.amazon.com/security/security-bulletins/rss/feed/",
-      "https://aws.amazon.com/th/blogs/thailand/feed/",
-      "https://aws.amazon.com/tr/blogs/turkey/category/database/amazon-dynamodb/feed/",
-      "https://aws.amazon.com/tr/blogs/turkey/feed/"
-    ],
-    "ax.itunes.apple.com": [
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topTvEpisodes/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topTvSeasons/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topalbums/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topalbums/limit=25/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=25/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/toppaidapplications/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/toppaidapplications/limit=25/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=25/xml"
-    ],
     "axismag.jp": [
       "https://www.axismag.jp/feed"
     ],
@@ -349,28 +111,12 @@
     "basketballking.jp": [
       "https://basketballking.jp/feed"
     ],
-    "bbc.co.uk": [
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml"
-    ],
-    "bbc.com": [
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
-    ],
     "bengo4.com": [
       "https://www.bengo4.com/api/bbs/rss",
       "https://www.bengo4.com/api/topics/rss"
     ],
     "billboard-japan.com": [
       "https://www.billboard-japan.com/d_news/doc.xml"
-    ],
-    "bitterwinter.org": [
-      "https://bitterwinter.org/feed/",
-      "https://bitterwinter.org/tag/jehovahs-witnesses/feed/"
     ],
     "biz-journal.jp": [
       "https://biz-journal.jp/atom.xml",
@@ -379,81 +125,6 @@
     "blog.brainpad.co.jp": [
       "https://blog.brainpad.co.jp/feed",
       "https://blog.brainpad.co.jp/rss"
-    ],
-    "blog.businesswire.com": [
-      "https://blog.businesswire.com/ja/rss.xml",
-      "https://blog.businesswire.com/rss.xml",
-      "https://blog.businesswire.com/zh-hk/rss.xml"
-    ],
-    "blog.google": [
-      "https://blog.google/inside-google/googlers/rss",
-      "https://blog.google/inside-google/googlers/rss/",
-      "https://blog.google/inside-google/message-ceo/rss/",
-      "https://blog.google/intl/ar-mena/rss/",
-      "https://blog.google/intl/cs-cz/rss/",
-      "https://blog.google/intl/de-de/rss/",
-      "https://blog.google/intl/en-africa/rss/",
-      "https://blog.google/intl/en-au/rss/",
-      "https://blog.google/intl/en-ca/rss/",
-      "https://blog.google/intl/en-in/rss/",
-      "https://blog.google/intl/en-mena/rss/",
-      "https://blog.google/intl/es-419/rss/",
-      "https://blog.google/intl/es-es/rss/",
-      "https://blog.google/intl/fr-ca/rss/",
-      "https://blog.google/intl/fr-fr/rss/",
-      "https://blog.google/intl/id-id/rss/",
-      "https://blog.google/intl/it-it/rss/",
-      "https://blog.google/intl/ja-jp/rss/",
-      "https://blog.google/intl/ko-kr/rss/",
-      "https://blog.google/intl/nl-nl/rss/",
-      "https://blog.google/intl/pl-pl/rss/",
-      "https://blog.google/intl/pt-br/rss/",
-      "https://blog.google/intl/pt-pt/rss/",
-      "https://blog.google/intl/th-th/rss/",
-      "https://blog.google/intl/tr-tr/rss/",
-      "https://blog.google/intl/zh-tw/rss/",
-      "https://blog.google/outreach-initiatives/accessibility/rss/",
-      "https://blog.google/outreach-initiatives/arts-culture/rss",
-      "https://blog.google/outreach-initiatives/arts-culture/rss/",
-      "https://blog.google/outreach-initiatives/diversity/rss/",
-      "https://blog.google/outreach-initiatives/education/rss/",
-      "https://blog.google/outreach-initiatives/google-org/rss",
-      "https://blog.google/outreach-initiatives/google-org/rss/",
-      "https://blog.google/outreach-initiatives/grow-with-google/rss",
-      "https://blog.google/outreach-initiatives/grow-with-google/rss/",
-      "https://blog.google/outreach-initiatives/nonprofits/rss",
-      "https://blog.google/outreach-initiatives/nonprofits/rss/",
-      "https://blog.google/outreach-initiatives/sustainability/rss",
-      "https://blog.google/outreach-initiatives/sustainability/rss/",
-      "https://blog.google/products/android/rss/",
-      "https://blog.google/products/bard/rss/",
-      "https://blog.google/products/chromebooks/rss/",
-      "https://blog.google/products/drive/rss/",
-      "https://blog.google/products/earth/rss/",
-      "https://blog.google/products/google-nest/rss/",
-      "https://blog.google/products/google-pay/rss/",
-      "https://blog.google/products/google-play/rss",
-      "https://blog.google/products/google-play/rss/",
-      "https://blog.google/products/google-tv/rss/",
-      "https://blog.google/products/nest/rss",
-      "https://blog.google/products/photos/rss/",
-      "https://blog.google/products/pixel/rss/",
-      "https://blog.google/products/search/rss/",
-      "https://blog.google/products/shopping/rss/",
-      "https://blog.google/products/travel/rss/",
-      "https://blog.google/products/workspace/rss/",
-      "https://blog.google/rss",
-      "https://blog.google/rss/",
-      "https://blog.google/technology/ai/rss",
-      "https://blog.google/technology/ai/rss/",
-      "https://blog.google/technology/developers/rss/",
-      "https://blog.google/technology/google-labs/rss/",
-      "https://blog.google/technology/health/rss/",
-      "https://blog.google/technology/safety-security/rss/",
-      "https://blog.google/threat-analysis-group/rss/",
-      "https://blog.google/waze/rss/",
-      "https://www.blog.google/rss",
-      "https://www.blog.google/rss/"
     ],
     "blog.konicaminolta.us": [
       "https://blog.konicaminolta.us/author/kkern/feed/",
@@ -507,356 +178,6 @@
       "https://blogs.itmedia.co.jp/ossway/index.rdf",
       "https://blogs.itmedia.co.jp/tooki/index.rdf",
       "https://blogs.itmedia.co.jp/uknews/index.rdf"
-    ],
-    "blogs.msn.com": [
-      "https://blogs.msn.com/author/bill-monroe/feed/",
-      "https://blogs.msn.com/author/chitralekha/feed/",
-      "https://blogs.msn.com/author/currrentlybill/feed/",
-      "https://blogs.msn.com/author/dave-kane/feed/",
-      "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
-      "https://blogs.msn.com/author/emily-falla/feed/",
-      "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
-      "https://blogs.msn.com/author/kun-chen/feed/",
-      "https://blogs.msn.com/author/lizz-callaway/feed/",
-      "https://blogs.msn.com/author/maria/feed/",
-      "https://blogs.msn.com/author/mrikank-varshney/feed/",
-      "https://blogs.msn.com/author/ovidan/feed/",
-      "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
-      "https://blogs.msn.com/author/taroon-mandhana/feed/",
-      "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
-      "https://blogs.msn.com/author/vera-chan/feed/",
-      "https://blogs.msn.com/feed/",
-      "https://blogs.msn.com/topic/events/feed/",
-      "https://blogs.msn.com/topic/featured/feed/",
-      "https://blogs.msn.com/topic/innovations/feed/",
-      "https://blogs.msn.com/topic/solutions/feed/"
-    ],
-    "blogs.nvidia.com": [
-      "https://blogs.nvidia.com/blog/author/danny-shapiro/feed/",
-      "https://blogs.nvidia.com/blog/author/epounds/feed/",
-      "https://blogs.nvidia.com/blog/author/haleyhirai/feed/",
-      "https://blogs.nvidia.com/blog/author/kkashinath/feed/",
-      "https://blogs.nvidia.com/blog/author/mhamilton/feed/",
-      "https://blogs.nvidia.com/blog/author/mpoorsartep/feed/",
-      "https://blogs.nvidia.com/blog/author/nirmalyade/feed/",
-      "https://blogs.nvidia.com/blog/author/pranjalij/feed/",
-      "https://blogs.nvidia.com/blog/author/stack/feed/",
-      "https://blogs.nvidia.com/blog/author/timothycosta/feed/",
-      "https://blogs.nvidia.com/blog/author/vishaldhupar/feed/",
-      "https://blogs.nvidia.com/blog/category/auto/feed/",
-      "https://blogs.nvidia.com/blog/category/autonomous-machines/feed/",
-      "https://blogs.nvidia.com/blog/category/corporate/feed/",
-      "https://blogs.nvidia.com/blog/category/deep-learning/feed/",
-      "https://blogs.nvidia.com/blog/category/deep-learning/the-ai-podcast/feed/",
-      "https://blogs.nvidia.com/blog/category/enterprise/cloud-2/feed/",
-      "https://blogs.nvidia.com/blog/category/enterprise/feed/",
-      "https://blogs.nvidia.com/blog/category/enterprise/hardware/feed/",
-      "https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/feed/",
-      "https://blogs.nvidia.com/blog/category/enterprise/supercomputing/feed/",
-      "https://blogs.nvidia.com/blog/category/gaming/feed/",
-      "https://blogs.nvidia.com/blog/category/pro-graphics/feed/",
-      "https://blogs.nvidia.com/blog/category/robotics/feed/",
-      "https://blogs.nvidia.com/blog/category/shield/feed/",
-      "https://blogs.nvidia.com/blog/tag/3d/feed/",
-      "https://blogs.nvidia.com/blog/tag/aerospace/feed/",
-      "https://blogs.nvidia.com/blog/tag/art/feed/",
-      "https://blogs.nvidia.com/blog/tag/artificial-intelligence/feed/",
-      "https://blogs.nvidia.com/blog/tag/av-podcast/feed/",
-      "https://blogs.nvidia.com/blog/tag/cloud-gaming/feed/",
-      "https://blogs.nvidia.com/blog/tag/computex-2023/feed/",
-      "https://blogs.nvidia.com/blog/tag/cosmos/feed/",
-      "https://blogs.nvidia.com/blog/tag/creators/feed/",
-      "https://blogs.nvidia.com/blog/tag/cuda/feed/",
-      "https://blogs.nvidia.com/blog/tag/customer-stories/feed/",
-      "https://blogs.nvidia.com/blog/tag/deep-learning-institute/feed/",
-      "https://blogs.nvidia.com/blog/tag/dgx-cloud/feed/",
-      "https://blogs.nvidia.com/blog/tag/game-development/feed/",
-      "https://blogs.nvidia.com/blog/tag/geforce-now/feed/",
-      "https://blogs.nvidia.com/blog/tag/geforce/feed/",
-      "https://blogs.nvidia.com/blog/tag/generative-ai/feed/",
-      "https://blogs.nvidia.com/blog/tag/gpu/feed/",
-      "https://blogs.nvidia.com/blog/tag/gtc-2020/feed/",
-      "https://blogs.nvidia.com/blog/tag/hardware/feed/",
-      "https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/feed/",
-      "https://blogs.nvidia.com/blog/tag/high-performance-computing/feed/",
-      "https://blogs.nvidia.com/blog/tag/in-the-nvidia-studio/feed/",
-      "https://blogs.nvidia.com/blog/tag/inception/feed/",
-      "https://blogs.nvidia.com/blog/tag/jarvis/feed/",
-      "https://blogs.nvidia.com/blog/tag/jetson/feed/",
-      "https://blogs.nvidia.com/blog/tag/machine-learning/feed/",
-      "https://blogs.nvidia.com/blog/tag/medical-research-and-healthcare/feed/",
-      "https://blogs.nvidia.com/blog/tag/merlin/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvidia-clara/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvidia-drive/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvidia-hopper-architecture/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvidia-jetson/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvidia-rtx/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvidia-studio-driver/feed/",
-      "https://blogs.nvidia.com/blog/tag/nvlink/feed/",
-      "https://blogs.nvidia.com/blog/tag/rendering/feed/",
-      "https://blogs.nvidia.com/blog/tag/robotics/feed/",
-      "https://blogs.nvidia.com/blog/tag/rtx-ai-garage/feed/",
-      "https://blogs.nvidia.com/blog/tag/scientific-visualization/feed/",
-      "https://blogs.nvidia.com/blog/tag/simulation-and-design/feed/",
-      "https://blogs.nvidia.com/blog/tag/social-impact/feed/",
-      "https://blogs.nvidia.com/blog/tag/supercomputing/feed/",
-      "https://blogs.nvidia.com/blog/tag/synthetic-data-generation/feed/",
-      "https://blogs.nvidia.com/blog/tag/trustworthy-ai/feed/",
-      "https://blogs.nvidia.com/blog/tag/universal-scene-description/feed/",
-      "https://blogs.nvidia.com/feed/"
-    ],
-    "blogs.thomsonreuters.com": [
-      "https://blogs.thomsonreuters.com/answerson/category/global-trade-supply-chain/feed/",
-      "https://blogs.thomsonreuters.com/answerson/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/academic-research/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/anti-corruption/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/anti-money-laundering/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/artificial-intelligence/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/asia-pacific/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/banks/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/beps/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/big-data/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/blockchain/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/breakingviews/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/brexit/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/commodities/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/company-culture/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/compliance/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/coronavirus/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-counsel/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-law-departments/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-responsibility-inclusion/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-tax-departments/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/covid-19/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/criminal-law/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/cryptocurrency/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/data-privacy/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/data-visualization/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/diversity-inclusion/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/emerging-markets/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/employee-development/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/energy/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/enterprise-risk-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/financial-fraud/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/fincen/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/forum-magazine/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/fraud/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/gender-parity/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/global-labor-market/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/global-trade-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/government/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/industry-trends/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/information-professionals/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/innovation/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/international-business-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/law-firm-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/legal-tech/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/middle-east/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/news-agency/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/news-graphics/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/newsmaker-interviews/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/oil-gas/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/operational-risk-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/partnership/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/professional-well-being/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/real-estate/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/regtech/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/regulatory-intelligence/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/return-to-work/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/reuters-newsmaker/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/slavery/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/sustainability/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/tax-and-accounting/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/tax/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/the-hearing/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-institute/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-tax-accounting/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/united-kingdom/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/united-states/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/us-government/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/working-remotely/feed/"
-    ],
-    "blogs.windows.com": [
-      "http://blogs.windows.com/blog/tag/windows-insider-program/feed/",
-      "http://blogs.windows.com/feed/",
-      "http://blogs.windows.com/japan/feed/",
-      "http://blogs.windows.com/msedgedev/feed/",
-      "http://blogs.windows.com/windowsexperience/feed/",
-      "https://blogs.windows.com/devices/author/brettostrum/feed/",
-      "https://blogs.windows.com/devices/author/kimmolehtosalo/feed/",
-      "https://blogs.windows.com/devices/author/marklinton/feed/",
-      "https://blogs.windows.com/devices/author/mattbarlow/feed/",
-      "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
-      "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
-      "https://blogs.windows.com/devices/author/panos/feed/",
-      "https://blogs.windows.com/devices/author/petekyriacou/feed/",
-      "https://blogs.windows.com/devices/author/sandraandrews/feed/",
-      "https://blogs.windows.com/devices/author/scottfudally/feed/",
-      "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
-      "https://blogs.windows.com/devices/feed/",
-      "https://blogs.windows.com/devices/tag/education/feed/",
-      "https://blogs.windows.com/devices/tag/microsoft-surface/feed/",
-      "https://blogs.windows.com/devices/tag/surface-accessories/feed/",
-      "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
-      "https://blogs.windows.com/devices/tag/surface-hub-2s/feed/",
-      "https://blogs.windows.com/devices/tag/surface-laptop-go/feed/",
-      "https://blogs.windows.com/devices/tag/surface/feed/",
-      "https://blogs.windows.com/devices/tag/windows-11/feed/",
-      "https://blogs.windows.com/feed/",
-      "https://blogs.windows.com/msedgedev/author/colleen-williams/feed/",
-      "https://blogs.windows.com/msedgedev/author/fernando-fiori/feed/",
-      "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
-      "https://blogs.windows.com/msedgedev/author/lisa-klink/feed/",
-      "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
-      "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
-      "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
-      "https://blogs.windows.com/msedgedev/author/william-devereux/feed/",
-      "https://blogs.windows.com/msedgedev/category/pc/feed/",
-      "https://blogs.windows.com/msedgedev/feed/",
-      "https://blogs.windows.com/msedgedev/tag/accessibility/feed/",
-      "https://blogs.windows.com/msedgedev/tag/ai/feed/",
-      "https://blogs.windows.com/msedgedev/tag/byod/feed/",
-      "https://blogs.windows.com/msedgedev/tag/chromium/feed/",
-      "https://blogs.windows.com/msedgedev/tag/compatibility/feed/",
-      "https://blogs.windows.com/msedgedev/tag/developer/feed/",
-      "https://blogs.windows.com/msedgedev/tag/devtools/feed/",
-      "https://blogs.windows.com/msedgedev/tag/edge-workspaces/feed/",
-      "https://blogs.windows.com/msedgedev/tag/enterprise-new-tab-page/feed/",
-      "https://blogs.windows.com/msedgedev/tag/extensions/feed/",
-      "https://blogs.windows.com/msedgedev/tag/frontline-worker/feed/",
-      "https://blogs.windows.com/msedgedev/tag/high-contrast/feed/",
-      "https://blogs.windows.com/msedgedev/tag/insider/feed/",
-      "https://blogs.windows.com/msedgedev/tag/interop2026/feed/",
-      "https://blogs.windows.com/msedgedev/tag/interoperability/feed/",
-      "https://blogs.windows.com/msedgedev/tag/javascript/feed/",
-      "https://blogs.windows.com/msedgedev/tag/memory/feed/",
-      "https://blogs.windows.com/msedgedev/tag/microsoft-edge-for-business/feed/",
-      "https://blogs.windows.com/msedgedev/tag/new-platform-features/feed/",
-      "https://blogs.windows.com/msedgedev/tag/new-tab-page/feed/",
-      "https://blogs.windows.com/msedgedev/tag/notifications/feed/",
-      "https://blogs.windows.com/msedgedev/tag/performance/feed/",
-      "https://blogs.windows.com/msedgedev/tag/privacy/feed/",
-      "https://blogs.windows.com/msedgedev/tag/quiet-notifications/feed/",
-      "https://blogs.windows.com/msedgedev/tag/security/feed/",
-      "https://blogs.windows.com/msedgedev/tag/speedometer/feed/",
-      "https://blogs.windows.com/msedgedev/tag/tab-groups/feed/",
-      "https://blogs.windows.com/msedgedev/tag/tabs/feed/",
-      "https://blogs.windows.com/msedgedev/tag/text-editing/feed/",
-      "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
-      "https://blogs.windows.com/msedgedev/tag/webview/feed/",
-      "https://blogs.windows.com/msedgedev/tag/webview2/feed/",
-      "https://blogs.windows.com/msedgedev/tag/windows-10/feed/",
-      "https://blogs.windows.com/msedgedev/tag/windows-7/feed/",
-      "https://blogs.windows.com/msedgedev/tag/windows-8-1/feed/",
-      "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
-      "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
-      "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
-      "https://blogs.windows.com/windows-insider/author/microsoft-copilot-team/feed/",
-      "https://blogs.windows.com/windows-insider/author/windows-insider-program-team/feed/",
-      "https://blogs.windows.com/windows-insider/feed/",
-      "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
-      "https://blogs.windows.com/windows-insider/tag/windows-10/feed/",
-      "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/ana-wishnoff/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/andysohn/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/gabbybilka/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/giorgio-sardo/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/kevin-gallo/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/mikeadams/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/shen-chauhan/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/tiangao/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/windows-developer-team/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
-      "https://blogs.windows.com/windowsdeveloper/category/events/feed/",
-      "https://blogs.windows.com/windowsdeveloper/category/uncategorized/feed/",
-      "https://blogs.windows.com/windowsdeveloper/category/winui/feed/",
-      "https://blogs.windows.com/windowsdeveloper/feed/",
-      "https://blogs.windows.com/windowsdeveloper/tag/feature-documentation/feed/",
-      "https://blogs.windows.com/windowsdeveloper/tag/microsoft-store/feed/",
-      "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
-      "https://blogs.windows.com/windowsdeveloper/tag/release-updates/feed/",
-      "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
-      "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
-      "https://blogs.windows.com/windowsexperience/author/danahuang/feed/",
-      "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
-      "https://blogs.windows.com/windowsexperience/author/divya-kumar/feed/",
-      "https://blogs.windows.com/windowsexperience/author/john-cable/feed/",
-      "https://blogs.windows.com/windowsexperience/author/joshsalyers/feed/",
-      "https://blogs.windows.com/windowsexperience/author/judysafranaasen/feed/",
-      "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
-      "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
-      "https://blogs.windows.com/windowsexperience/author/navjotvirk/feed/",
-      "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
-      "https://blogs.windows.com/windowsexperience/author/ntrovinger/feed/",
-      "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
-      "https://blogs.windows.com/windowsexperience/author/stefankinnestrand/feed/",
-      "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
-      "https://blogs.windows.com/windowsexperience/author/vivekpradeep/feed/",
-      "https://blogs.windows.com/windowsexperience/author/windowsteam/feed/",
-      "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
-      "https://blogs.windows.com/windowsexperience/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/acer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/amd/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/asus/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/cross-platform/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/emoji/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/game-hubs/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming-copilot/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming-pc/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming-pcs/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/hardware-partners/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/helios/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/holidays/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/hp/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/ifa/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/intel-evo/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/intel/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/international-womens-day/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/lenovo-thinkpad/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/microsoft-edge/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/microsoft-ignite/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/minecraft/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/nitro/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/npu/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/obsidian/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/oems/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/omnibook/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-game/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/razer-book-13/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/ryzen/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/security/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/sustainability/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/windows-11/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/wwe/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox-cloud-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox-insiders/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox/feed/"
     ],
     "bunshun.jp": [
       "https://bunshun.jp/list/feed/rss"
@@ -1076,24 +397,8 @@
       "https://company.newbalance.jp/feed",
       "https://company.newbalance.jp/press/feed"
     ],
-    "computerweekly.com": [
-      "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
-      "https://www.computerweekly.com/rss/ContentSyndication.xml",
-      "https://www.computerweekly.com/rss/Enterprise-software.xml",
-      "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
-      "https://www.computerweekly.com/rss/IT-security.xml",
-      "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
-      "https://www.computerweekly.com/rss/Internet-technology.xml",
-      "https://www.computerweekly.com/rss/Networking-and-communication.xml"
-    ],
     "constnews.com:443": [
       "https://www.constnews.com:443/?feed=rss2"
-    ],
-    "continental.com": [
-      "https://www.continental.com/de/meta/rss/investoren/",
-      "https://www.continental.com/de/meta/rss/pressemitteilungen/",
-      "https://www.continental.com/en/general/rss/investors/",
-      "https://www.continental.com/en/general/rss/press-releases/"
     ],
     "corp.rakuten.co.jp": [
       "https://corp.rakuten.co.jp/rss/info.xml",
@@ -1196,28 +501,11 @@
       "http://www.dreamnews.jp/?action_rss=1",
       "http://www.dreamnews.jp/?action_rss=1&mode=rss10"
     ],
-    "dronexl.co": [
-      "https://dronexl.co/feed/"
-    ],
-    "dvidshub.net": [
-      "https://www.dvidshub.net/rss/%22US+Army+Medical+Research+Institute+of+Infectious+Diseases%22/?q=%22US+Army+Medical+Research+Institute+of+Infectious+Diseases%22",
-      "https://www.dvidshub.net/rss/audio",
-      "https://www.dvidshub.net/rss/image",
-      "https://www.dvidshub.net/rss/news",
-      "https://www.dvidshub.net/rss/personnel/1058024",
-      "https://www.dvidshub.net/rss/publication",
-      "https://www.dvidshub.net/rss/unit/1942",
-      "https://www.dvidshub.net/rss/unit/637",
-      "https://www.dvidshub.net/rss/video"
-    ],
     "dwih-tokyo.org": [
       "https://www.dwih-tokyo.org/en/feed/"
     ],
     "edu.watch.impress.co.jp": [
       "https://edu.watch.impress.co.jp/data/rss/1.0/kit/feed.rdf"
-    ],
-    "egonzehnder.com": [
-      "https://www.egonzehnder.com/rss/app-insights-en"
     ],
     "eiga.com": [
       "http://feeds.eiga.com/eiga_comingsoon",
@@ -1244,38 +532,6 @@
       "https://eleminist.com/rss/eleminist.xml",
       "https://shop.eleminist.com/blogs/news.atom",
       "https://shop.eleminist.com/blogs/topics.atom"
-    ],
-    "elle.com": [
-      "https://www.elle.com/rss/all.xml",
-      "https://www.elle.com/rss/beauty.xml",
-      "https://www.elle.com/rss/culture.xml",
-      "https://www.elle.com/rss/default.xml",
-      "https://www.elle.com/rss/fashion.xml",
-      "https://www.elle.com/uk/rss/all.xml",
-      "https://www.elle.com/uk/rss/default.xml"
-    ],
-    "entameclip.com": [
-      "https://entameclip.com/feed/",
-      "https://entameclip.com/gravure/feed/"
-    ],
-    "esportsinsider.com": [
-      "https://esportsinsider.com/feed",
-      "https://esportsinsider.com/feed/",
-      "https://www.esportsinsider.com/feed/"
-    ],
-    "esquire.com": [
-      "https://www.esquire.com/rss/all.xml",
-      "https://www.esquire.com/rss/default.xml",
-      "https://www.esquire.com/rss/entertainment.xml",
-      "https://www.esquire.com/rss/food-drink.xml",
-      "https://www.esquire.com/rss/lifestyle.xml",
-      "https://www.esquire.com/rss/news-politics.xml",
-      "https://www.esquire.com/rss/style.xml",
-      "https://www.esquire.com/uk/rss/all.xml",
-      "https://www.esquire.com/uk/rss/default.xml"
-    ],
-    "europeantimes.news": [
-      "https://europeantimes.news/feed/"
     ],
     "events.nikkei.co.jp": [
       "https://events.nikkei.co.jp/feed/"
@@ -1317,15 +573,6 @@
     ],
     "fashionsnap.com": [
       "https://www.fashionsnap.com/rss.xml"
-    ],
-    "feed.businesswire.com": [
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEF5XWQ==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEF9YXQ==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpQWg==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFtRWA==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEVlZXw==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGFNXXw==",
-      "https://feed.businesswire.com/rss/jp/?rss=G1QFDERJXkJfFFNQXw=="
     ],
     "feed.japan.zdnet.com": [
       "http://feed.japan.zdnet.com/rss/blog/apple/index.rdf",
@@ -1369,61 +616,10 @@
       "http://feed.japan.zdnet.com/rss/blog/yoshida/index.rdf",
       "http://feed.japan.zdnet.com/rss/blog/yoshimi/index.rdf"
     ],
-    "feeds.a.dj.com": [
-      "https://feeds.a.dj.com/rss/RSSJapanBarrons.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanBusiness.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanCapitalJournal.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanHeardonTheStreet.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanLife.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanMarket.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanNewsWorld.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanOpinion.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanPersonalTechnology.xml",
-      "https://feeds.a.dj.com/rss/RSSJapanTechnology.xml"
-    ],
     "feeds.afpbb.com": [
       "http://feeds.afpbb.com/rss/afpbb/access_ranking",
       "http://feeds.afpbb.com/rss/afpbb/afpbbnews",
       "http://feeds.afpbb.com/rss/afpbb/modepress"
-    ],
-    "feeds.bbci.co.uk": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml"
-    ],
-    "feeds.businesswire.com": [
-      "https://feeds.businesswire.com/BW/Clinical_Trials-rss"
     ],
     "feeds.cinematoday.jp": [
       "https://feeds.cinematoday.jp/rss"
@@ -1443,31 +639,11 @@
       "https://feeds.eiga.com/eiga_present",
       "https://feeds.eiga.com/eiga_whatsnew"
     ],
-    "feeds.feedburner.com": [
-      "http://feeds.feedburner.com/AmazonWebServicesBlog",
-      "http://feeds.feedburner.com/chibanippo",
-      "http://feeds.feedburner.com/hypebeast/feed",
-      "http://feeds.feedburner.com/nvidiablog",
-      "http://feeds.feedburner.com/tm-security-blog",
-      "https://feeds.feedburner.com/TrendMicroSimplySecurity",
-      "https://feeds.feedburner.com/nvidiablog"
-    ],
     "feeds.japan.zdnet.com": [
       "http://feeds.japan.zdnet.com/rss/zdnet/all.rdf"
     ],
     "feeds.smartkarma.com": [
       "https://feeds.smartkarma.com/feed.rss"
-    ],
-    "feeds.trendmicro.com": [
-      "http://feeds.trendmicro.com/MalwareAdvisories",
-      "http://feeds.trendmicro.com/MalwareTop10",
-      "http://feeds.trendmicro.com/TrendMicroResearch",
-      "http://feeds.trendmicro.com/TrendMicroSecurityAdvisories",
-      "http://feeds.trendmicro.com/TrendMicroSimplySecurity",
-      "http://feeds.trendmicro.com/jp/NewestMalware",
-      "http://feeds.trendmicro.com/jp/SecurityAdvisories",
-      "http://feeds.trendmicro.com/jp/SupportNews",
-      "http://feeds.trendmicro.com/jp/TrendMicroPatternFeed"
     ],
     "finance.logmi.jp": [
       "https://finance.logmi.jp/feed/public-finance.xml",
@@ -1536,18 +712,6 @@
     "global.honda": [
       "https://global.honda/common/dam_img/rss/news.rss"
     ],
-    "globenewswire.com": [
-      "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
-      "https://www.globenewswire.com/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
-      "https://www.globenewswire.com/RssFeed/subjectcode/27",
-      "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions",
-      "https://www.globenewswire.com/rssfeed/organization/UvLjuKpEVg-MMNYI3AH5AA=="
-    ],
-    "globenewswire.com:443": [
-      "https://www.globenewswire.com:443/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
-      "https://www.globenewswire.com:443/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
-      "https://www.globenewswire.com:443/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions"
-    ],
     "gmo-cybersecurity.com": [
       "https://gmo-cybersecurity.com/blog/blog_category/%E5%AE%87%E5%AE%99%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/feed/",
       "https://gmo-cybersecurity.com/blog/blog_category/car-iot/feed/",
@@ -1567,9 +731,6 @@
     ],
     "gmo.jp": [
       "https://www.gmo.jp/rss/"
-    ],
-    "goal.com": [
-      "https://www.goal.com/feeds/en/news"
     ],
     "goetheweb.jp": [
       "https://goetheweb.jp/feed",
@@ -1592,20 +753,6 @@
     ],
     "hamakei.com": [
       "http://www.hamakei.com/rss.xml"
-    ],
-    "harpersbazaar.com": [
-      "https://www.harpersbazaar.com/jp/rss/all.xml",
-      "https://www.harpersbazaar.com/jp/rss/celebrity.xml",
-      "https://www.harpersbazaar.com/rss/all.xml",
-      "https://www.harpersbazaar.com/rss/all.xml/?syndication=true",
-      "https://www.harpersbazaar.com/rss/all.xml?syndication=true",
-      "https://www.harpersbazaar.com/rss/celebrity.xml",
-      "https://www.harpersbazaar.com/rss/culture.xml",
-      "https://www.harpersbazaar.com/rss/default.xml",
-      "https://www.harpersbazaar.com/rss/fashion.xml",
-      "https://www.harpersbazaar.com/uk/rss/all.xml",
-      "https://www.harpersbazaar.com/uk/rss/culture.xml",
-      "https://www.harpersbazaar.com/uk/rss/default.xml"
     ],
     "healthcare.konicaminolta.us": [
       "https://healthcare.konicaminolta.us/feed/"
@@ -1639,9 +786,6 @@
     "hollywoodreporter.jp": [
       "https://hollywoodreporter.jp/feed/"
     ],
-    "hololive.hololivepro.com": [
-      "https://hololive.hololivepro.com/news/feed/"
-    ],
     "honz.jp": [
       "https://honz.jp/feed"
     ],
@@ -1656,89 +800,6 @@
     "huffingtonpost.jp": [
       "https://www.huffingtonpost.jp/feeds/index.xml"
     ],
-    "hypebeast.com": [
-      "http://feeds.feedburner.com/hypebeast/feed",
-      "https://hypebeast.com/feed"
-    ],
-    "ibm.com": [
-      "https://www.ibm.com/blog/author/austin-zeizel/feed/",
-      "https://www.ibm.com/blog/author/christina-shim/feed/",
-      "https://www.ibm.com/blog/author/christinamontgomery/feed/",
-      "https://www.ibm.com/blog/author/dan-cheuvront/feed/",
-      "https://www.ibm.com/blog/author/ibm-ai-ethics-board/feed/",
-      "https://www.ibm.com/blog/author/ibm-cloud-team/feed/",
-      "https://www.ibm.com/blog/author/jad-haddad/feed/",
-      "https://www.ibm.com/blog/author/jon-parker/feed/",
-      "https://www.ibm.com/blog/author/marc-coudijzer/feed/",
-      "https://www.ibm.com/blog/author/mark-hughes/feed/",
-      "https://www.ibm.com/blog/author/monica-proothi/feed/",
-      "https://www.ibm.com/blog/author/ray-beharryibm-com/feed/",
-      "https://www.ibm.com/blog/author/sascha-brodsky/feed/",
-      "https://www.ibm.com/blog/author/susan-minor/feed/",
-      "https://www.ibm.com/blog/author/trent-shupe/feed/",
-      "https://www.ibm.com/blog/author/yusuf-mirza/feed/",
-      "https://www.ibm.com/blog/category/agriculture/feed/",
-      "https://www.ibm.com/blog/category/analytics/feed/",
-      "https://www.ibm.com/blog/category/artificial-intelligence/feed/",
-      "https://www.ibm.com/blog/category/automation/feed/",
-      "https://www.ibm.com/blog/category/business-transformation/feed/",
-      "https://www.ibm.com/blog/category/cloud/feed/",
-      "https://www.ibm.com/blog/category/cognitive-enterprise/feed/",
-      "https://www.ibm.com/blog/category/cybersecurity/feed/",
-      "https://www.ibm.com/blog/category/education-and-skills/feed/",
-      "https://www.ibm.com/blog/category/government/feed/",
-      "https://www.ibm.com/blog/category/maximo/feed/",
-      "https://www.ibm.com/blog/category/news/feed/",
-      "https://www.ibm.com/blog/category/retail/feed/",
-      "https://www.ibm.com/blog/category/security/feed/",
-      "https://www.ibm.com/blog/category/social-impact/feed/",
-      "https://www.ibm.com/blog/category/sustainability/feed/",
-      "https://www.ibm.com/blog/category/transportation/feed/",
-      "https://www.ibm.com/blog/feed/",
-      "https://www.ibm.com/blog/feed/atom/",
-      "https://www.ibm.com/blog/tag/ai-ethics/feed/",
-      "https://www.ibm.com/blog/tag/ai-governance/feed/",
-      "https://www.ibm.com/blog/tag/ai-in-finance/feed/",
-      "https://www.ibm.com/blog/tag/analytics/feed/",
-      "https://www.ibm.com/blog/tag/artificial-intelligence/feed/",
-      "https://www.ibm.com/blog/tag/clean-electrification/feed/",
-      "https://www.ibm.com/blog/tag/cloud-security/feed/",
-      "https://www.ibm.com/blog/tag/cloud/feed/",
-      "https://www.ibm.com/blog/tag/customer-experience/feed/",
-      "https://www.ibm.com/blog/tag/cybersecurity/feed/",
-      "https://www.ibm.com/blog/tag/danny-sabbah/feed/",
-      "https://www.ibm.com/blog/tag/data-center/feed/",
-      "https://www.ibm.com/blog/tag/downer/feed/",
-      "https://www.ibm.com/blog/tag/education/feed/",
-      "https://www.ibm.com/blog/tag/enterprise-ai/feed/",
-      "https://www.ibm.com/blog/tag/event-driven-architecture/feed/",
-      "https://www.ibm.com/blog/tag/hybrid-cloud/feed/",
-      "https://www.ibm.com/blog/tag/ibm-business-analytics-enterprise/feed/",
-      "https://www.ibm.com/blog/tag/ibm-cloud-pak-for-data/feed/",
-      "https://www.ibm.com/blog/tag/ibm-cognos-analytics/feed/",
-      "https://www.ibm.com/blog/tag/ibm-granite-models/feed/",
-      "https://www.ibm.com/blog/tag/ibm-planning-analytics-as-a-service/feed/",
-      "https://www.ibm.com/blog/tag/ibm-quantum/feed/",
-      "https://www.ibm.com/blog/tag/ibm-tririga-application-suite/feed/",
-      "https://www.ibm.com/blog/tag/ibm-watsonx/feed/",
-      "https://www.ibm.com/blog/tag/ibm/feed/",
-      "https://www.ibm.com/blog/tag/innovation/feed/",
-      "https://www.ibm.com/blog/tag/maximo-application-suite/feed/",
-      "https://www.ibm.com/blog/tag/phishing/feed/",
-      "https://www.ibm.com/blog/tag/ransomware/feed/",
-      "https://www.ibm.com/blog/tag/statistics/feed/",
-      "https://www.ibm.com/blog/tag/supply-chain/feed/",
-      "https://www.ibm.com/blog/tag/telecommunications/feed/",
-      "https://www.ibm.com/blog/tag/x-force/feed/",
-      "https://www.ibm.com/blogs/blockchain/feed/",
-      "https://www.ibm.com/blogs/blockchain/feed/atom/",
-      "https://www.ibm.com/blogs/client-voices/feed/atom/",
-      "https://www.ibm.com/blogs/internet-of-things/feed/atom/",
-      "https://www.ibm.com/blogs/research/feed/atom/",
-      "https://www.ibm.com/blogs/supply-chain/feed/atom/",
-      "https://www.ibm.com/blogs/think/feed/atom/",
-      "https://www.ibm.com/cloud/blog/rss"
-    ],
     "ict-enews.net": [
       "https://ict-enews.net/feed/"
     ],
@@ -1748,9 +809,6 @@
       "https://ideasforgood.jp/category/interview/feed/",
       "https://ideasforgood.jp/category/report/feed/",
       "https://ideasforgood.jp/feed/"
-    ],
-    "idtechex.com": [
-      "https://www.idtechex.com/research/rssfeed/?t2id=0&userid=undefined"
     ],
     "ieyasu.co": [
       "https://www.ieyasu.co/media/feed/"
@@ -1827,11 +885,6 @@
       "https://iflyer.tv/rss/events/tohoku/",
       "https://iflyer.tv/rss/events/tohoku/fukushima/",
       "https://iflyer.tv/rss/news/"
-    ],
-    "infoworld.com": [
-      "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
-      "https://www.infoworld.com/feed/",
-      "https://www.infoworld.com/index.rss"
     ],
     "inshokuten.com": [
       "https://www.inshokuten.com/foodist/feed/"
@@ -2053,9 +1106,6 @@
       "https://www.kobe-u.ac.jp/ja/news/article/rss.xml",
       "https://www.kobe-u.ac.jp/ja/news/events/rss.xml"
     ],
-    "kosovapress.com": [
-      "https://kosovapress.com/feed/"
-    ],
     "kstyle.com": [
       "https://www.kstyle.com/feed/pickupFeed.ksn"
     ],
@@ -2187,10 +1237,6 @@
     "mirai-ra.jp": [
       "https://www.mirai-ra.jp/feed/"
     ],
-    "mirror.co.uk": [
-      "https://www.mirror.co.uk/?service=rss",
-      "https://www.mirror.co.uk/sport/football/?service=rss"
-    ],
     "mitsubishielectric.co.jp": [
       "http://www.mitsubishielectric.co.jp/feed/kousin_p.xml",
       "http://www.mitsubishielectric.co.jp/feed/news.xml",
@@ -2199,25 +1245,6 @@
     "mitsuifudosan.co.jp": [
       "https://www.mitsuifudosan.co.jp/corporate/ir/rss/irnews_rss.xml",
       "https://www.mitsuifudosan.co.jp/rss/news_rss.xml"
-    ],
-    "mk.co.kr": [
-      "https://www.mk.co.kr/rss/30000001/",
-      "https://www.mk.co.kr/rss/30000023/",
-      "https://www.mk.co.kr/rss/30100041/",
-      "https://www.mk.co.kr/rss/30200030/",
-      "https://www.mk.co.kr/rss/30300018/",
-      "https://www.mk.co.kr/rss/30800011/",
-      "https://www.mk.co.kr/rss/40200003/",
-      "https://www.mk.co.kr/rss/40200124/",
-      "https://www.mk.co.kr/rss/40300001/",
-      "https://www.mk.co.kr/rss/50000001/",
-      "https://www.mk.co.kr/rss/50100032/",
-      "https://www.mk.co.kr/rss/50200011/",
-      "https://www.mk.co.kr/rss/50300009/",
-      "https://www.mk.co.kr/rss/50400012/",
-      "https://www.mk.co.kr/rss/50700001/",
-      "https://www.mk.co.kr/rss/60000007/",
-      "https://www.mk.co.kr/rss/71000001/"
     ],
     "mlit.go.jp": [
       "https://www.mlit.go.jp/index.rdf",
@@ -2238,9 +1265,6 @@
       "https://rss.itmedia.co.jp/rss/2.0/mn_pro.xml",
       "https://rss.itmedia.co.jp/rss/2.0/mn_smm.xml",
       "https://rss.itmedia.co.jp/rss/2.0/monoist.xml"
-    ],
-    "motociclismo.pt": [
-      "https://motociclismo.pt/feed/"
     ],
     "motorcars.jp": [
       "https://motorcars.jp/feed",
@@ -2358,15 +1382,6 @@
       "http://news.kddi.com/kddi/corporate/csr-topic/rss/kddi-csr-topics.xml",
       "http://news.kddi.com/kddi/corporate/ir-news/rss/kddi-ir-news.xml",
       "http://news.kddi.com/kddi/corporate/newsrelease/rss/kddi_news_release.xml"
-    ],
-    "news.microsoft.com": [
-      "http://news.microsoft.com/de-de/feed/",
-      "https://news.microsoft.com/de-de/feed/",
-      "https://news.microsoft.com/feed/",
-      "https://news.microsoft.com/fr-fr/feed/",
-      "https://news.microsoft.com/pt-br/feed/",
-      "https://news.microsoft.com/source/feed/",
-      "https://news.microsoft.com/source/topics/ai/feed/"
     ],
     "news.mynavi.jp": [
       "https://news.mynavi.jp/rss/business/enterprise",
@@ -2548,145 +1563,6 @@
     "news.nissyoku.co.jp": [
       "https://news.nissyoku.co.jp/archives/news-cat/001/feed",
       "https://news.nissyoku.co.jp/archives/news-cat/01/feed"
-    ],
-    "news.panasonic.com": [
-      "https://news.panasonic.com/global/rss/all/index.xml",
-      "https://news.panasonic.com/global/rss/area00/index.xml",
-      "https://news.panasonic.com/global/rss/area01/index.xml",
-      "https://news.panasonic.com/global/rss/area02/index.xml",
-      "https://news.panasonic.com/global/rss/area03/index.xml",
-      "https://news.panasonic.com/global/rss/area04/index.xml",
-      "https://news.panasonic.com/global/rss/area05/index.xml",
-      "https://news.panasonic.com/global/rss/area06/index.xml",
-      "https://news.panasonic.com/global/rss/category/company.xml",
-      "https://news.panasonic.com/global/rss/category/company/alliances.xml",
-      "https://news.panasonic.com/global/rss/category/company/awards.xml",
-      "https://news.panasonic.com/global/rss/category/company/corp.xml",
-      "https://news.panasonic.com/global/rss/category/company/dei.xml",
-      "https://news.panasonic.com/global/rss/category/company/design.xml",
-      "https://news.panasonic.com/global/rss/category/company/info.xml",
-      "https://news.panasonic.com/global/rss/category/company/tech.xml",
-      "https://news.panasonic.com/global/rss/category/event-sponsorship.xml",
-      "https://news.panasonic.com/global/rss/category/people.xml",
-      "https://news.panasonic.com/global/rss/category/people/people-executive.xml",
-      "https://news.panasonic.com/global/rss/category/people/people.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/auto.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/btob.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/devices.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/electronics.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/housing.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/industry.xml",
-      "https://news.panasonic.com/global/rss/category/products-solutions/others.xml",
-      "https://news.panasonic.com/global/rss/category/sustainability.xml",
-      "https://news.panasonic.com/global/rss/category/sustainability/csr.xml",
-      "https://news.panasonic.com/global/rss/category/sustainability/environment.xml",
-      "https://news.panasonic.com/global/rss/company/27.xml",
-      "https://news.panasonic.com/global/rss/company/59.xml",
-      "https://news.panasonic.com/global/rss/company/60.xml",
-      "https://news.panasonic.com/global/rss/company/61.xml",
-      "https://news.panasonic.com/global/rss/company/62.xml",
-      "https://news.panasonic.com/global/rss/company/63.xml",
-      "https://news.panasonic.com/global/rss/company/64.xml",
-      "https://news.panasonic.com/global/rss/company/69.xml",
-      "https://news.panasonic.com/global/rss/press/index.xml",
-      "https://news.panasonic.com/global/rss/stories/index.xml",
-      "https://news.panasonic.com/jp/rss/press/index.xml",
-      "https://news.panasonic.com:443/global/rss/all/index.xml",
-      "https://news.panasonic.com:443/global/rss/area00/index.xml",
-      "https://news.panasonic.com:443/global/rss/area01/index.xml",
-      "https://news.panasonic.com:443/global/rss/area02/index.xml",
-      "https://news.panasonic.com:443/global/rss/area03/index.xml",
-      "https://news.panasonic.com:443/global/rss/area04/index.xml",
-      "https://news.panasonic.com:443/global/rss/area05/index.xml",
-      "https://news.panasonic.com:443/global/rss/area06/index.xml",
-      "https://news.panasonic.com:443/global/rss/category/company.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/alliances.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/awards.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/corp.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/dei.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/design.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/info.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/tech.xml",
-      "https://news.panasonic.com:443/global/rss/category/event-sponsorship.xml",
-      "https://news.panasonic.com:443/global/rss/category/people.xml",
-      "https://news.panasonic.com:443/global/rss/category/people/people-executive.xml",
-      "https://news.panasonic.com:443/global/rss/category/people/people.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/auto.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/btob.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/devices.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/electronics.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/housing.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/industry.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/others.xml",
-      "https://news.panasonic.com:443/global/rss/category/sustainability.xml",
-      "https://news.panasonic.com:443/global/rss/category/sustainability/csr.xml",
-      "https://news.panasonic.com:443/global/rss/category/sustainability/environment.xml",
-      "https://news.panasonic.com:443/global/rss/company/27.xml",
-      "https://news.panasonic.com:443/global/rss/company/59.xml",
-      "https://news.panasonic.com:443/global/rss/company/60.xml",
-      "https://news.panasonic.com:443/global/rss/company/61.xml",
-      "https://news.panasonic.com:443/global/rss/company/62.xml",
-      "https://news.panasonic.com:443/global/rss/company/63.xml",
-      "https://news.panasonic.com:443/global/rss/company/64.xml",
-      "https://news.panasonic.com:443/global/rss/stories/index.xml"
-    ],
-    "news.panasonic.com:443": [
-      "https://news.panasonic.com:443/global/rss/all/index.xml",
-      "https://news.panasonic.com:443/global/rss/area00/index.xml",
-      "https://news.panasonic.com:443/global/rss/area01/index.xml",
-      "https://news.panasonic.com:443/global/rss/area02/index.xml",
-      "https://news.panasonic.com:443/global/rss/area03/index.xml",
-      "https://news.panasonic.com:443/global/rss/area04/index.xml",
-      "https://news.panasonic.com:443/global/rss/area05/index.xml",
-      "https://news.panasonic.com:443/global/rss/area06/index.xml",
-      "https://news.panasonic.com:443/global/rss/category/company.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/alliances.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/awards.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/corp.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/dei.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/design.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/info.xml",
-      "https://news.panasonic.com:443/global/rss/category/company/tech.xml",
-      "https://news.panasonic.com:443/global/rss/category/event-sponsorship.xml",
-      "https://news.panasonic.com:443/global/rss/category/people.xml",
-      "https://news.panasonic.com:443/global/rss/category/people/people-executive.xml",
-      "https://news.panasonic.com:443/global/rss/category/people/people.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/auto.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/btob.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/devices.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/electronics.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/housing.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/industry.xml",
-      "https://news.panasonic.com:443/global/rss/category/products-solutions/others.xml",
-      "https://news.panasonic.com:443/global/rss/category/sustainability.xml",
-      "https://news.panasonic.com:443/global/rss/category/sustainability/csr.xml",
-      "https://news.panasonic.com:443/global/rss/category/sustainability/environment.xml",
-      "https://news.panasonic.com:443/global/rss/company/27.xml",
-      "https://news.panasonic.com:443/global/rss/company/59.xml",
-      "https://news.panasonic.com:443/global/rss/company/60.xml",
-      "https://news.panasonic.com:443/global/rss/company/61.xml",
-      "https://news.panasonic.com:443/global/rss/company/62.xml",
-      "https://news.panasonic.com:443/global/rss/company/63.xml",
-      "https://news.panasonic.com:443/global/rss/company/64.xml",
-      "https://news.panasonic.com:443/global/rss/stories/index.xml"
-    ],
-    "news.samsung.com": [
-      "https://news.samsung.com/de/feed",
-      "https://news.samsung.com/global/category/press-resources/press-release/feed",
-      "https://news.samsung.com/global/category/products/mobile/feed",
-      "https://news.samsung.com/global/feed",
-      "https://news.samsung.com/in/feed",
-      "https://news.samsung.com/ru/feed",
-      "https://news.samsung.com/us/feed/"
-    ],
-    "news.sap.com": [
-      "http://news.sap.com/germany/tags/digitalisierung/feed/",
-      "http://news.sap.com/germany/topics/cloud/feed/",
-      "https://news.sap.com/feed/",
-      "https://news.sap.com/france/feed/"
     ],
     "news.yahoo.co.jp": [
       "https://news.yahoo.co.jp/byline/rss/all.xml",
@@ -2996,24 +1872,8 @@
     "newscast.jp": [
       "https://newscast.jp/rss"
     ],
-    "newsroom.ibm.com": [
-      "https://newsroom.ibm.com/announcements?pagetemplate=rss"
-    ],
     "newsroom.kddi.com": [
       "https://newsroom.kddi.com/news/newsrelease.xml"
-    ],
-    "newsrss.bbc.co.uk": [
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml"
     ],
     "newssalt.com": [
       "https://www.newssalt.com/feed"
@@ -3144,13 +2004,6 @@
       "https://www.nikkei-science.com/?feed=rss2",
       "https://www.nikkei-science.com/?feed=rss2&cat=8"
     ],
-    "nippon.com": [
-      "https://www.nippon.com/en/feed/",
-      "https://www.nippon.com/es/feed/",
-      "https://www.nippon.com/fr/feed/",
-      "https://www.nippon.com/hk/feed/",
-      "https://www.nippon.com/ja/feed/"
-    ],
     "nishinippon.co.jp": [
       "https://www.nishinippon.co.jp/feed/"
     ],
@@ -3206,9 +2059,6 @@
     "okinawatimes.co.jp": [
       "https://www.okinawatimes.co.jp/list/feed/rss",
       "https://www.okinawatimes.co.jp/list/feed/rss?c=editorial"
-    ],
-    "olympics.com": [
-      "https://olympics.com/cio/fr/news/rss"
     ],
     "osakabay.keizai.biz": [
       "http://osakabay.keizai.biz/rss.xml"
@@ -3298,9 +2148,6 @@
       "https://www.pref.niigata.lg.jp:443/rss/10/list7.xml",
       "https://www.pref.niigata.lg.jp:443/rss/10/sub2.xml",
       "https://www.pref.niigata.lg.jp:443/rss/10/sub8.xml"
-    ],
-    "prnewswire.com": [
-      "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss"
     ],
     "project.nikkeibp.co.jp": [
       "https://project.nikkeibp.co.jp/ms/mega-solar/index.rdf"
@@ -3417,15 +2264,6 @@
       "https://www.roomie.jp/rkfeature/kogure-hideko/feed/",
       "https://www.roomie.jp/tags/recipe/feed/"
     ],
-    "rss.asahi.com": [
-      "http://rss.asahi.com/rss/asahi/business.rdf",
-      "http://rss.asahi.com/rss/asahi/culture.rdf",
-      "http://rss.asahi.com/rss/asahi/international.rdf",
-      "http://rss.asahi.com/rss/asahi/national.rdf",
-      "http://rss.asahi.com/rss/asahi/newsheadlines.rdf",
-      "http://rss.asahi.com/rss/asahi/politics.rdf",
-      "http://rss.asahi.com/rss/asahi/sports.rdf"
-    ],
     "rss.itmedia.co.jp": [
       "https://rss.itmedia.co.jp/rss/1.0/plusd.xml",
       "https://rss.itmedia.co.jp/rss/2.0/ait.xml",
@@ -3445,9 +2283,6 @@
       "http://rss.mitsubishicorp.com/f7112/index.rdf",
       "http://rss.mitsubishicorp.com/f7136/index.rdf",
       "http://rss.mitsubishicorp.com/f7139/index.rdf"
-    ],
-    "rss.nytimes.com": [
-      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
     ],
     "rss.smartkarma.com:443": [
       "https://rss.smartkarma.com:443/segment/feeds/9984@jp.rss",
@@ -3470,12 +2305,6 @@
       "https://rss.smartkarma.com:443/segment/feeds/utilities.rss",
       "https://rss.smartkarma.com:443/segment/feeds/value.rss"
     ],
-    "rsshub.app": [
-      "https://rsshub.app/bbc/chinese"
-    ],
-    "rssmix.com": [
-      "http://www.rssmix.com/u/11743304/rss.xml"
-    ],
     "ryoko-net.co.jp": [
       "https://www.ryoko-net.co.jp/?feed=comments-rss2",
       "https://www.ryoko-net.co.jp/?feed=rss2"
@@ -3484,14 +2313,8 @@
       "https://ryukyushimpo.jp/feed",
       "https://ryukyushimpo.jp/feed.xml"
     ],
-    "saiganak.com": [
-      "https://saiganak.com/feed/"
-    ],
     "saitama-u.ac.jp": [
       "https://www.saitama-u.ac.jp/info_archives/feed.rss"
-    ],
-    "samsungmagazine.eu": [
-      "https://samsungmagazine.eu/feed/"
     ],
     "scienceportal.jst.go.jp": [
       "https://scienceportal.jst.go.jp/feed/rss.xml",
@@ -3548,13 +2371,6 @@
     ],
     "sophia.ac.jp": [
       "https://www.sophia.ac.jp/jpn/feed/"
-    ],
-    "sortiraparis.com": [
-      "https://www.sortiraparis.com/de/rss/sortir",
-      "https://www.sortiraparis.com/pl/rss/sortir",
-      "https://www.sortiraparis.com/rss/sap",
-      "https://www.sortiraparis.com/rss/sortir",
-      "https://www.sortiraparis.com/sk/rss/sortir"
     ],
     "sotozen-net.or.jp": [
       "https://www.sotozen-net.or.jp/feed"
@@ -3618,24 +2434,6 @@
     "technologyreview.jp": [
       "https://www.technologyreview.jp/feed/"
     ],
-    "techtarget.com": [
-      "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
-      "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
-      "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml"
-    ],
-    "telegraph.co.uk": [
-      "https://www.telegraph.co.uk/business/rss.xml",
-      "https://www.telegraph.co.uk/cars/rss.xml",
-      "https://www.telegraph.co.uk/food-and-drink/rss.xml",
-      "https://www.telegraph.co.uk/news/rss.xml"
-    ],
     "teu.ac.jp": [
       "https://www.teu.ac.jp/rss.jsp?id=21962"
     ],
@@ -3644,25 +2442,6 @@
     ],
     "the-miyanichi.co.jp": [
       "https://www.the-miyanichi.co.jp/contents/xml-rss2.php?blogid=2"
-    ],
-    "theguardian.com": [
-      "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
-      "https://www.theguardian.com/football/who-scored-blog/rss",
-      "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
-      "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
-      "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
-      "https://www.theguardian.com/sport/blog/rss",
-      "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
-      "https://www.theguardian.com/uk/rss",
-      "https://www.theguardian.com/us/rss",
-      "https://www.theguardian.com/world/rss"
-    ],
-    "thomsonreuters.com": [
-      "https://www.thomsonreuters.com/en-us/posts/feed/"
     ],
     "times.abema.tv": [
       "https://times.abema.tv/list/feed/rss"
@@ -3726,9 +2505,6 @@
       "https://www.traicy.com/category/column/feed/",
       "https://www.traicy.com/feed/"
     ],
-    "trailers.apple.com": [
-      "https://trailers.apple.com/trailers/home/rss/newtrailers.rss"
-    ],
     "travel.watch.impress.co.jp": [
       "https://travel.watch.impress.co.jp/data/rss/1.0/trw/feed.rdf"
     ],
@@ -3760,12 +2536,6 @@
     "uchubiz.com": [
       "http://uchubiz.com/feed/"
     ],
-    "unep.org": [
-      "https://www.unep.org/rss.xml"
-    ],
-    "unepfi.org": [
-      "https://www.unepfi.org/feed/"
-    ],
     "unesco-sdgs.mext.go.jp": [
       "https://unesco-sdgs.mext.go.jp/feed"
     ],
@@ -3775,9 +2545,6 @@
     "ure.pia.co.jp": [
       "https://ure.pia.co.jp/list/rss",
       "https://ure.pia.co.jp/list/rss?category=report_12"
-    ],
-    "voi.id": [
-      "https://voi.id/rss/latest"
     ],
     "weathernews.jp": [
       "http://weathernews.jp/ch/gunosy/article.rss"
@@ -3810,10 +2577,6 @@
     "womanslabo.com": [
       "http://womanslabo.com/feed",
       "https://womanslabo.com/feed"
-    ],
-    "womenshealthmag.com": [
-      "https://www.womenshealthmag.com/rss/all.xml",
-      "https://www.womenshealthmag.com/rss/default.xml"
     ],
     "work-master.net": [
       "http://www.work-master.net/feed",
@@ -3854,10 +2617,6 @@
       "https://www.4gamer.net/rss/xbox360/xbox360_news.xml",
       "https://www.4gamer.net/tags/TS/TS020/contents.xml"
     ],
-    "www.actuia.com": [
-      "https://www.actuia.com/feed",
-      "https://www.actuia.com/feed/"
-    ],
     "www.advertimes.com": [
       "https://www.advertimes.com/feed/",
       "https://www.advertimes.com/news/advertisement/feed/",
@@ -3878,64 +2637,8 @@
     "www.anemo.co.jp": [
       "https://www.anemo.co.jp/feed/"
     ],
-    "www.apple.com": [
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topTvEpisodes/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topTvSeasons/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topalbums/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topalbums/limit=25/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=25/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/toppaidapplications/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/toppaidapplications/limit=25/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml",
-      "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=25/xml",
-      "https://trailers.apple.com/trailers/home/rss/newtrailers.rss",
-      "https://www.apple.com/au/newsroom/rss-feed.rss",
-      "https://www.apple.com/ca/newsroom/rss-feed.rss",
-      "https://www.apple.com/es/newsroom/rss-feed.rss",
-      "https://www.apple.com/jp/newsroom/rss-feed.rss",
-      "https://www.apple.com/newsroom/rss-feed.rss",
-      "https://www.apple.com/nz/newsroom/rss-feed.rss"
-    ],
     "www.arabnews.jp": [
       "https://www.arabnews.jp/feed/"
-    ],
-    "www.asahi.com": [
-      "http://rss.asahi.com/rss/asahi/business.rdf",
-      "http://rss.asahi.com/rss/asahi/culture.rdf",
-      "http://rss.asahi.com/rss/asahi/international.rdf",
-      "http://rss.asahi.com/rss/asahi/national.rdf",
-      "http://rss.asahi.com/rss/asahi/newsheadlines.rdf",
-      "http://rss.asahi.com/rss/asahi/politics.rdf",
-      "http://rss.asahi.com/rss/asahi/sports.rdf",
-      "http://www.asahi.com/rss/asahi/business.rdf",
-      "http://www.asahi.com/rss/asahi/car.rdf",
-      "http://www.asahi.com/rss/asahi/culture.rdf",
-      "http://www.asahi.com/rss/asahi/digital.rdf",
-      "http://www.asahi.com/rss/asahi/eco.rdf",
-      "http://www.asahi.com/rss/asahi/edu.rdf",
-      "http://www.asahi.com/rss/asahi/fashion.rdf",
-      "http://www.asahi.com/rss/asahi/food.rdf",
-      "http://www.asahi.com/rss/asahi/health.rdf",
-      "http://www.asahi.com/rss/asahi/housing.rdf",
-      "http://www.asahi.com/rss/asahi/igo.rdf",
-      "http://www.asahi.com/rss/asahi/international.rdf",
-      "http://www.asahi.com/rss/asahi/job.rdf",
-      "http://www.asahi.com/rss/asahi/national.rdf",
-      "http://www.asahi.com/rss/asahi/newsheadlines.rdf",
-      "http://www.asahi.com/rss/asahi/politics.rdf",
-      "http://www.asahi.com/rss/asahi/science.rdf",
-      "http://www.asahi.com/rss/asahi/shogi.rdf",
-      "http://www.asahi.com/rss/asahi/shopping.rdf",
-      "http://www.asahi.com/rss/asahi/sports.rdf",
-      "http://www.asahi.com/rss/asahi/travel.rdf",
-      "http://www3.asahi.com/rss/animal.rdf",
-      "http://www3.asahi.com/rss/olympics.rdf",
-      "http://www3.asahi.com/rss/worldcup.rdf",
-      "https://www.asahi.com/rss/asahi/health.rdf",
-      "https://www.asahi.com/rss/asahi/national.rdf",
-      "https://www.asahi.com/rss/asahi/politics.rdf"
     ],
     "www.atpress.ne.jp": [
       "https://www.atpress.ne.jp/rss/index.rdf"
@@ -3945,52 +2648,6 @@
     ],
     "www.baesystems.com": [
       "https://www.baesystems.com/en/rss"
-    ],
-    "www.bbc.com": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml",
-      "https://rsshub.app/bbc/chinese",
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
     ],
     "www.bengo4.com": [
       "https://www.bengo4.com/api/bbs/rss",
@@ -4015,19 +2672,6 @@
     "www.businessinsider.jp": [
       "https://www.businessinsider.jp/feed/atom.xml",
       "https://www.businessinsider.jp/feed/index.xml"
-    ],
-    "www.businesswire.com": [
-      "https://blog.businesswire.com/ja/rss.xml",
-      "https://blog.businesswire.com/rss.xml",
-      "https://blog.businesswire.com/zh-hk/rss.xml",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEF5XWQ==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEF9YXQ==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpQWg==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFtRWA==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEVlZXw==",
-      "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGFNXXw==",
-      "https://feed.businesswire.com/rss/jp/?rss=G1QFDERJXkJfFFNQXw==",
-      "https://feeds.businesswire.com/BW/Clinical_Trials-rss"
     ],
     "www.chainalysis.com": [
       "https://www.chainalysis.com/blog/category/%E5%88%B6%E8%A3%81/feed/",
@@ -4274,12 +2918,6 @@
     "www.constnews.com": [
       "https://www.constnews.com:443/?feed=rss2"
     ],
-    "www.continental.com": [
-      "https://www.continental.com/de/meta/rss/investoren/",
-      "https://www.continental.com/de/meta/rss/pressemitteilungen/",
-      "https://www.continental.com/en/general/rss/investors/",
-      "https://www.continental.com/en/general/rss/press-releases/"
-    ],
     "www.cyberagent.co.jp": [
       "https://d2utiq8et4vl56.cloudfront.net/RSS.rdf?v=1701944103",
       "https://d5jbsor3m9rwa.cloudfront.net/RSS.rdf?v=1748600643",
@@ -4314,25 +2952,8 @@
       "http://www.dreamnews.jp/?action_rss=1",
       "http://www.dreamnews.jp/?action_rss=1&mode=rss10"
     ],
-    "www.dvidshub.net": [
-      "https://www.dvidshub.net/rss/%22US+Army+Medical+Research+Institute+of+Infectious+Diseases%22/?q=%22US+Army+Medical+Research+Institute+of+Infectious+Diseases%22",
-      "https://www.dvidshub.net/rss/audio",
-      "https://www.dvidshub.net/rss/image",
-      "https://www.dvidshub.net/rss/news",
-      "https://www.dvidshub.net/rss/personnel/1058024",
-      "https://www.dvidshub.net/rss/publication",
-      "https://www.dvidshub.net/rss/publication/561",
-      "https://www.dvidshub.net/rss/unit/1762",
-      "https://www.dvidshub.net/rss/unit/1942",
-      "https://www.dvidshub.net/rss/unit/637",
-      "https://www.dvidshub.net/rss/unit/741",
-      "https://www.dvidshub.net/rss/video"
-    ],
     "www.dwih-tokyo.org": [
       "https://www.dwih-tokyo.org/en/feed/"
-    ],
-    "www.egonzehnder.com": [
-      "https://www.egonzehnder.com/rss/app-insights-en"
     ],
     "www.eisai.co.jp": [
       "https://www.eisai.co.jp/irupdate/index.rdf",
@@ -4341,34 +2962,6 @@
     ],
     "www.ele-king.net": [
       "https://www.ele-king.net/atom.xml"
-    ],
-    "www.elle.com": [
-      "https://www.elle.com/jp/rss/all.xml",
-      "https://www.elle.com/jp/rss/default.xml",
-      "https://www.elle.com/rss/all.xml",
-      "https://www.elle.com/rss/beauty.xml",
-      "https://www.elle.com/rss/culture.xml",
-      "https://www.elle.com/rss/default.xml",
-      "https://www.elle.com/rss/fashion.xml",
-      "https://www.elle.com/tw/rss/about.xml",
-      "https://www.elle.com/tw/rss/all.xml",
-      "https://www.elle.com/tw/rss/default.xml",
-      "https://www.elle.com/uk/rss/all.xml",
-      "https://www.elle.com/uk/rss/default.xml"
-    ],
-    "www.esquire.com": [
-      "https://www.esquire.com/rss/all.xml",
-      "https://www.esquire.com/rss/default.xml",
-      "https://www.esquire.com/rss/entertainment.xml",
-      "https://www.esquire.com/rss/food-drink.xml",
-      "https://www.esquire.com/rss/lifestyle.xml",
-      "https://www.esquire.com/rss/news-politics.xml",
-      "https://www.esquire.com/rss/style.xml",
-      "https://www.esquire.com/uk/rss/all.xml",
-      "https://www.esquire.com/uk/rss/default.xml"
-    ],
-    "www.europeantimes.news": [
-      "https://europeantimes.news/feed/"
     ],
     "www.excite.co.jp": [
       "https://www.excite.co.jp/news/rss/source/?source=Recordchina",
@@ -4428,23 +3021,10 @@
       "https://www.gizmodo.jp/atom.xml",
       "https://www.gizmodo.jp/index.xml"
     ],
-    "www.globenewswire.com": [
-      "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
-      "https://www.globenewswire.com/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
-      "https://www.globenewswire.com/RssFeed/subjectcode/27",
-      "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions",
-      "https://www.globenewswire.com/rssfeed/organization/UvLjuKpEVg-MMNYI3AH5AA==",
-      "https://www.globenewswire.com:443/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
-      "https://www.globenewswire.com:443/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
-      "https://www.globenewswire.com:443/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions"
-    ],
     "www.gmo.jp": [
       "https://group.gmo/rss/",
       "https://recruit.group.gmo/engineer/jisedai/blog/feed/",
       "https://www.gmo.jp/rss/"
-    ],
-    "www.goal.com": [
-      "https://www.goal.com/feeds/en/news"
     ],
     "www.goodspress.jp": [
       "https://www.goodspress.jp/feed/"
@@ -4455,22 +3035,6 @@
     ],
     "www.hamakei.com": [
       "http://www.hamakei.com/rss.xml"
-    ],
-    "www.harpersbazaar.com": [
-      "https://www.harpersbazaar.com/jp/rss/all.xml",
-      "https://www.harpersbazaar.com/jp/rss/celebrity.xml",
-      "https://www.harpersbazaar.com/rss/all.xml",
-      "https://www.harpersbazaar.com/rss/all.xml/?syndication=true",
-      "https://www.harpersbazaar.com/rss/all.xml?syndication=true",
-      "https://www.harpersbazaar.com/rss/celebrity.xml",
-      "https://www.harpersbazaar.com/rss/culture.xml",
-      "https://www.harpersbazaar.com/rss/default.xml",
-      "https://www.harpersbazaar.com/rss/fashion.xml",
-      "https://www.harpersbazaar.com/tw/rss/all.xml",
-      "https://www.harpersbazaar.com/tw/rss/default.xml",
-      "https://www.harpersbazaar.com/uk/rss/all.xml",
-      "https://www.harpersbazaar.com/uk/rss/culture.xml",
-      "https://www.harpersbazaar.com/uk/rss/default.xml"
     ],
     "www.hira2.jp": [
       "https://www.hira2.jp/feed"
@@ -4507,90 +3071,6 @@
     ],
     "www.huffingtonpost.jp": [
       "https://www.huffingtonpost.jp/feeds/index.xml"
-    ],
-    "www.ibm.com": [
-      "https://newsroom.ibm.com/announcements?pagetemplate=rss",
-      "https://research.ibm.com/rss",
-      "https://www.ibm.com/blog/author/austin-zeizel/feed/",
-      "https://www.ibm.com/blog/author/christina-shim/feed/",
-      "https://www.ibm.com/blog/author/christinamontgomery/feed/",
-      "https://www.ibm.com/blog/author/dan-cheuvront/feed/",
-      "https://www.ibm.com/blog/author/ibm-ai-ethics-board/feed/",
-      "https://www.ibm.com/blog/author/ibm-cloud-team/feed/",
-      "https://www.ibm.com/blog/author/jad-haddad/feed/",
-      "https://www.ibm.com/blog/author/jon-parker/feed/",
-      "https://www.ibm.com/blog/author/marc-coudijzer/feed/",
-      "https://www.ibm.com/blog/author/mark-hughes/feed/",
-      "https://www.ibm.com/blog/author/monica-proothi/feed/",
-      "https://www.ibm.com/blog/author/ray-beharryibm-com/feed/",
-      "https://www.ibm.com/blog/author/sascha-brodsky/feed/",
-      "https://www.ibm.com/blog/author/susan-minor/feed/",
-      "https://www.ibm.com/blog/author/trent-shupe/feed/",
-      "https://www.ibm.com/blog/author/yusuf-mirza/feed/",
-      "https://www.ibm.com/blog/category/agriculture/feed/",
-      "https://www.ibm.com/blog/category/analytics/feed/",
-      "https://www.ibm.com/blog/category/artificial-intelligence/feed/",
-      "https://www.ibm.com/blog/category/automation/feed/",
-      "https://www.ibm.com/blog/category/business-transformation/feed/",
-      "https://www.ibm.com/blog/category/cloud/feed/",
-      "https://www.ibm.com/blog/category/cognitive-enterprise/feed/",
-      "https://www.ibm.com/blog/category/cybersecurity/feed/",
-      "https://www.ibm.com/blog/category/education-and-skills/feed/",
-      "https://www.ibm.com/blog/category/government/feed/",
-      "https://www.ibm.com/blog/category/maximo/feed/",
-      "https://www.ibm.com/blog/category/news/feed/",
-      "https://www.ibm.com/blog/category/retail/feed/",
-      "https://www.ibm.com/blog/category/security/feed/",
-      "https://www.ibm.com/blog/category/social-impact/feed/",
-      "https://www.ibm.com/blog/category/sustainability/feed/",
-      "https://www.ibm.com/blog/category/transportation/feed/",
-      "https://www.ibm.com/blog/feed/",
-      "https://www.ibm.com/blog/feed/atom/",
-      "https://www.ibm.com/blog/tag/ai-ethics/feed/",
-      "https://www.ibm.com/blog/tag/ai-governance/feed/",
-      "https://www.ibm.com/blog/tag/ai-in-finance/feed/",
-      "https://www.ibm.com/blog/tag/analytics/feed/",
-      "https://www.ibm.com/blog/tag/artificial-intelligence/feed/",
-      "https://www.ibm.com/blog/tag/clean-electrification/feed/",
-      "https://www.ibm.com/blog/tag/cloud-security/feed/",
-      "https://www.ibm.com/blog/tag/cloud/feed/",
-      "https://www.ibm.com/blog/tag/customer-experience/feed/",
-      "https://www.ibm.com/blog/tag/cybersecurity/feed/",
-      "https://www.ibm.com/blog/tag/danny-sabbah/feed/",
-      "https://www.ibm.com/blog/tag/data-center/feed/",
-      "https://www.ibm.com/blog/tag/downer/feed/",
-      "https://www.ibm.com/blog/tag/education/feed/",
-      "https://www.ibm.com/blog/tag/enterprise-ai/feed/",
-      "https://www.ibm.com/blog/tag/event-driven-architecture/feed/",
-      "https://www.ibm.com/blog/tag/hybrid-cloud/feed/",
-      "https://www.ibm.com/blog/tag/ibm-business-analytics-enterprise/feed/",
-      "https://www.ibm.com/blog/tag/ibm-cloud-pak-for-data/feed/",
-      "https://www.ibm.com/blog/tag/ibm-cognos-analytics/feed/",
-      "https://www.ibm.com/blog/tag/ibm-granite-models/feed/",
-      "https://www.ibm.com/blog/tag/ibm-planning-analytics-as-a-service/feed/",
-      "https://www.ibm.com/blog/tag/ibm-quantum/feed/",
-      "https://www.ibm.com/blog/tag/ibm-tririga-application-suite/feed/",
-      "https://www.ibm.com/blog/tag/ibm-watsonx/feed/",
-      "https://www.ibm.com/blog/tag/ibm/feed/",
-      "https://www.ibm.com/blog/tag/innovation/feed/",
-      "https://www.ibm.com/blog/tag/maximo-application-suite/feed/",
-      "https://www.ibm.com/blog/tag/phishing/feed/",
-      "https://www.ibm.com/blog/tag/ransomware/feed/",
-      "https://www.ibm.com/blog/tag/statistics/feed/",
-      "https://www.ibm.com/blog/tag/supply-chain/feed/",
-      "https://www.ibm.com/blog/tag/telecommunications/feed/",
-      "https://www.ibm.com/blog/tag/x-force/feed/",
-      "https://www.ibm.com/blogs/blockchain/feed/",
-      "https://www.ibm.com/blogs/blockchain/feed/atom/",
-      "https://www.ibm.com/blogs/client-voices/feed/atom/",
-      "https://www.ibm.com/blogs/internet-of-things/feed/atom/",
-      "https://www.ibm.com/blogs/research/feed/atom/",
-      "https://www.ibm.com/blogs/supply-chain/feed/atom/",
-      "https://www.ibm.com/blogs/think/feed/atom/",
-      "https://www.ibm.com/cloud/blog/rss"
-    ],
-    "www.idtechex.com": [
-      "https://www.idtechex.com/research/rssfeed/?t2id=0&userid=undefined"
     ],
     "www.ieyasu.co": [
       "https://www.ieyasu.co/media/feed/"
@@ -4833,25 +3313,6 @@
       "https://www.mitsuifudosan.co.jp/corporate/ir/rss/irnews_rss.xml",
       "https://www.mitsuifudosan.co.jp/rss/news_rss.xml"
     ],
-    "www.mk.co.kr": [
-      "https://www.mk.co.kr/rss/30000001/",
-      "https://www.mk.co.kr/rss/30000023/",
-      "https://www.mk.co.kr/rss/30100041/",
-      "https://www.mk.co.kr/rss/30200030/",
-      "https://www.mk.co.kr/rss/30300018/",
-      "https://www.mk.co.kr/rss/30800011/",
-      "https://www.mk.co.kr/rss/40200003/",
-      "https://www.mk.co.kr/rss/40200124/",
-      "https://www.mk.co.kr/rss/40300001/",
-      "https://www.mk.co.kr/rss/50000001/",
-      "https://www.mk.co.kr/rss/50100032/",
-      "https://www.mk.co.kr/rss/50200011/",
-      "https://www.mk.co.kr/rss/50300009/",
-      "https://www.mk.co.kr/rss/50400012/",
-      "https://www.mk.co.kr/rss/50700001/",
-      "https://www.mk.co.kr/rss/60000007/",
-      "https://www.mk.co.kr/rss/71000001/"
-    ],
     "www.mlit.go.jp": [
       "https://www.mlit.go.jp/index.rdf",
       "https://www.mlit.go.jp/kankocho/kobo.rdf",
@@ -4863,153 +3324,6 @@
     ],
     "www.mod.go.jp": [
       "https://www.mod.go.jp/j/rss/update.xml"
-    ],
-    "www.msn.com": [
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml",
-      "http://www.rssmix.com/u/11743304/rss.xml",
-      "https://blogs.msn.com/author/bill-monroe/feed/",
-      "https://blogs.msn.com/author/chitralekha/feed/",
-      "https://blogs.msn.com/author/currrentlybill/feed/",
-      "https://blogs.msn.com/author/dave-kane/feed/",
-      "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
-      "https://blogs.msn.com/author/emily-falla/feed/",
-      "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
-      "https://blogs.msn.com/author/kun-chen/feed/",
-      "https://blogs.msn.com/author/lizz-callaway/feed/",
-      "https://blogs.msn.com/author/maria/feed/",
-      "https://blogs.msn.com/author/mrikank-varshney/feed/",
-      "https://blogs.msn.com/author/ovidan/feed/",
-      "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
-      "https://blogs.msn.com/author/taroon-mandhana/feed/",
-      "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
-      "https://blogs.msn.com/author/vera-chan/feed/",
-      "https://blogs.msn.com/feed/",
-      "https://blogs.msn.com/topic/events/feed/",
-      "https://blogs.msn.com/topic/featured/feed/",
-      "https://blogs.msn.com/topic/innovations/feed/",
-      "https://blogs.msn.com/topic/solutions/feed/",
-      "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
-      "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
-      "https://blogs.windows.com/devices/author/sandraandrews/feed/",
-      "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
-      "https://blogs.windows.com/devices/feed/",
-      "https://blogs.windows.com/devices/tag/education/feed/",
-      "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
-      "https://blogs.windows.com/devices/tag/surface/feed/",
-      "https://blogs.windows.com/devices/tag/windows-11/feed/",
-      "https://blogs.windows.com/feed/",
-      "https://blogs.windows.com/msedgedev/author/katherine-gan/feed/",
-      "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
-      "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
-      "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
-      "https://blogs.windows.com/msedgedev/author/sean-lyndersay/feed/",
-      "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
-      "https://blogs.windows.com/msedgedev/feed/",
-      "https://blogs.windows.com/msedgedev/tag/performance/feed/",
-      "https://blogs.windows.com/msedgedev/tag/pwa/feed/",
-      "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
-      "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
-      "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
-      "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
-      "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
-      "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
-      "https://blogs.windows.com/windowsdeveloper/feed/",
-      "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
-      "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
-      "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
-      "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
-      "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
-      "https://blogs.windows.com/windowsexperience/author/marklinton/feed/",
-      "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
-      "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
-      "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
-      "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
-      "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
-      "https://blogs.windows.com/windowsexperience/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/handheld-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/lenovo/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/rog/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/security/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox/feed/",
-      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
-      "https://www.computerweekly.com/rss/ContentSyndication.xml",
-      "https://www.computerweekly.com/rss/Enterprise-software.xml",
-      "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
-      "https://www.computerweekly.com/rss/IT-security.xml",
-      "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
-      "https://www.computerweekly.com/rss/Internet-technology.xml",
-      "https://www.computerweekly.com/rss/Networking-and-communication.xml",
-      "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
-      "https://www.infoworld.com/feed/",
-      "https://www.infoworld.com/index.rss",
-      "https://www.mirror.co.uk/?service=rss",
-      "https://www.mirror.co.uk/sport/football/?service=rss",
-      "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss",
-      "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
-      "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
-      "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml",
-      "https://www.telegraph.co.uk/business/rss.xml",
-      "https://www.telegraph.co.uk/cars/rss.xml",
-      "https://www.telegraph.co.uk/food-and-drink/rss.xml",
-      "https://www.telegraph.co.uk/news/rss.xml",
-      "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
-      "https://www.theguardian.com/football/who-scored-blog/rss",
-      "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
-      "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
-      "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
-      "https://www.theguardian.com/sport/blog/rss",
-      "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
-      "https://www.theguardian.com/uk/rss",
-      "https://www.theguardian.com/us/rss",
-      "https://www.theguardian.com/world/rss"
     ],
     "www.musicman.co.jp": [
       "https://www.musicman.co.jp/feed"
@@ -5156,13 +3470,6 @@
       "https://www.nikkei-science.com/?feed=comments-rss2",
       "https://www.nikkei-science.com/?feed=rss2",
       "https://www.nikkei-science.com/?feed=rss2&cat=8"
-    ],
-    "www.nippon.com": [
-      "https://www.nippon.com/en/feed/",
-      "https://www.nippon.com/es/feed/",
-      "https://www.nippon.com/fr/feed/",
-      "https://www.nippon.com/hk/feed/",
-      "https://www.nippon.com/ja/feed/"
     ],
     "www.nishinippon.co.jp": [
       "https://www.nishinippon.co.jp/feed/"
@@ -5339,9 +3646,6 @@
       "https://www.okinawatimes.co.jp/list/feed/rss",
       "https://www.okinawatimes.co.jp/list/feed/rss?c=editorial"
     ],
-    "www.olympics.com": [
-      "https://olympics.com/cio/fr/news/rss"
-    ],
     "www.osaka-ue.ac.jp": [
       "https://blog.osaka-ue.ac.jp/atom.xml",
       "https://blog.osaka-ue.ac.jp/sports/atom.xml"
@@ -5415,10 +3719,6 @@
       "https://www.pref.niigata.lg.jp:443/rss/10/sub2.xml",
       "https://www.pref.niigata.lg.jp:443/rss/10/sub8.xml"
     ],
-    "www.prnewswire.com": [
-      "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss",
-      "https://www.prnewswire.com/rss/news-releases-list.rss"
-    ],
     "www.qab.co.jp": [
       "http://www.qab.co.jp/news/feed",
       "https://www.qab.co.jp/feed/",
@@ -5432,79 +3732,6 @@
       "https://www.rbbtoday.com/rss20/index.rdf",
       "https://www.rbbtoday.com/special/rss/3859.rdf",
       "https://www.rbbtoday.com/webcode/feed/"
-    ],
-    "www.reuters.com": [
-      "https://blogs.thomsonreuters.com/answerson/category/global-trade-supply-chain/feed/",
-      "https://blogs.thomsonreuters.com/answerson/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/academic-research/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/anti-corruption/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/anti-money-laundering/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/artificial-intelligence/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/asia-pacific/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/banks/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/beps/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/big-data/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/blockchain/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/breakingviews/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/brexit/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/commodities/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/company-culture/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/compliance/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/coronavirus/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-counsel/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-law-departments/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-responsibility-inclusion/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/corporate-tax-departments/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/covid-19/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/criminal-law/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/cryptocurrency/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/data-privacy/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/data-visualization/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/diversity-inclusion/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/emerging-markets/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/employee-development/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/energy/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/enterprise-risk-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/financial-fraud/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/fincen/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/forum-magazine/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/fraud/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/gender-parity/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/global-labor-market/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/global-trade-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/government/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/industry-trends/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/information-professionals/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/innovation/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/international-business-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/law-firm-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/legal-tech/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/middle-east/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/news-agency/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/news-graphics/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/newsmaker-interviews/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/oil-gas/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/operational-risk-management/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/partnership/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/professional-well-being/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/real-estate/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/regtech/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/regulatory-intelligence/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/return-to-work/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/reuters-newsmaker/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/slavery/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/sustainability/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/tax-and-accounting/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/tax/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/the-hearing/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-institute/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-tax-accounting/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/united-kingdom/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/united-states/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/us-government/feed/",
-      "https://blogs.thomsonreuters.com/answerson/topic/working-remotely/feed/",
-      "https://www.thomsonreuters.com/en-us/posts/feed/"
     ],
     "www.rikujyokyogi.co.jp": [
       "https://www.rikujyokyogi.co.jp/feed"
@@ -5643,13 +3870,6 @@
     "www.sophia.ac.jp": [
       "https://www.sophia.ac.jp/jpn/feed/"
     ],
-    "www.sortiraparis.com": [
-      "https://www.sortiraparis.com/de/rss/sortir",
-      "https://www.sortiraparis.com/pl/rss/sortir",
-      "https://www.sortiraparis.com/rss/sap",
-      "https://www.sortiraparis.com/rss/sortir",
-      "https://www.sortiraparis.com/sk/rss/sortir"
-    ],
     "www.sotozen-net.or.jp": [
       "https://www.sotozen-net.or.jp/feed"
     ],
@@ -5720,20 +3940,6 @@
       "https://www.travelvoice.jp/workation/feed/",
       "https://www.travelvoice.jp:443/feed"
     ],
-    "www.trendmicro.com": [
-      "http://feeds.feedburner.com/tm-security-blog",
-      "http://feeds.trendmicro.com/MalwareAdvisories",
-      "http://feeds.trendmicro.com/MalwareTop10",
-      "http://feeds.trendmicro.com/TrendMicroResearch",
-      "http://feeds.trendmicro.com/TrendMicroSecurityAdvisories",
-      "http://feeds.trendmicro.com/TrendMicroSimplySecurity",
-      "http://feeds.trendmicro.com/jp/NewestMalware",
-      "http://feeds.trendmicro.com/jp/SecurityAdvisories",
-      "http://feeds.trendmicro.com/jp/SupportNews",
-      "http://feeds.trendmicro.com/jp/TrendMicroPatternFeed",
-      "https://feeds.feedburner.com/TrendMicroSimplySecurity",
-      "https://www.trendmicro.com/ja_jp/jp-security.tagSearch.xml"
-    ],
     "www.tsukuba.ac.jp": [
       "https://www.tsukuba.ac.jp/events/feed"
     ],
@@ -5745,12 +3951,6 @@
       "https://www.u-tokyo.ac.jp/focus/ja/events/feed.rdf",
       "https://www.u-tokyo.ac.jp/focus/ja/features/feed.rdf",
       "https://www.u-tokyo.ac.jp/focus/ja/press/feed.rdf"
-    ],
-    "www.unep.org": [
-      "https://www.unep.org/rss.xml"
-    ],
-    "www.unepfi.org": [
-      "https://www.unepfi.org/feed/"
     ],
     "www.urawa-reds.co.jp": [
       "https://www.urawa-reds.co.jp/heartfull/blog/?feed=rss2"
@@ -5764,11 +3964,6 @@
     "www.weekend-kanazawa.com": [
       "https://www.weekend-kanazawa.com/feed",
       "https://www.weekend-kanazawa.com/rss"
-    ],
-    "www.womenshealthmag.com": [
-      "https://www.womenshealthmag.com/rss/all.xml",
-      "https://www.womenshealthmag.com/rss/default.xml",
-      "https://www.womenshealthmag.com/rss/life.xml"
     ],
     "www.work-master.net": [
       "http://www.work-master.net/feed",
@@ -5814,11 +4009,6 @@
       "https://www.zenginkyo.or.jp/news/rss/",
       "https://www.zenginkyo.or.jp/topic/rss/"
     ],
-    "www3.asahi.com": [
-      "http://www3.asahi.com/rss/animal.rdf",
-      "http://www3.asahi.com/rss/olympics.rdf",
-      "http://www3.asahi.com/rss/worldcup.rdf"
-    ],
     "www3.nhk.or.jp": [
       "http://www3.nhk.or.jp/rss/news/cat-live.xml",
       "http://www3.nhk.or.jp/rss/news/cat0.xml",
@@ -5855,12 +4045,6 @@
     ],
     "yomiuri.co.jp": [
       "http://www.yomiuri.co.jp/adv/chuo/rss.xml"
-    ],
-    "zapier.com": [
-      "https://zapier.com/engine/rss/4640741/smartkarma-webinars",
-      "https://zapier.com/engine/rss/4640741/unpaywalled",
-      "https://zapier.com/engine/rss/4640741/unpaywalled-ebu",
-      "https://zapier.com/engine/rss/4640741/unpaywalled-eventdriven"
     ],
     "zenginkyo.or.jp": [
       "https://www.zenginkyo.or.jp/news/rss/",

@@ -1,0 +1,15 @@
+{
+  "country_code": "BN",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 3,
+  "feeds": {
+    "borneobulletin.com.bn": [
+      "https://borneobulletin.com.bn/category/national/feed/",
+      "https://borneobulletin.com.bn/feed/"
+    ],
+    "mediapermata.com.bn": [
+      "https://mediapermata.com.bn/feed/"
+    ]
+  }
+}

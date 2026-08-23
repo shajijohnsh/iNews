@@ -4,8 +4,23 @@
   "total_domains": 17,
   "total_feeds": 17,
   "feeds": {
-    "postregister.com": [
-      "http://www.postregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "arbiteronline.com": [
+      "https://www.arbiteronline.com/feed/"
+    ],
+    "argusobserver.com": [
+      "http://www.argusobserver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "clearwatertribune.com": [
+      "http://www.clearwatertribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "gazetterecord.com": [
+      "http://www.gazetterecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "hjnews.com": [
+      "http://www.hjnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "idahocountyfreepress.com": [
+      "http://www.idahocountyfreepress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "idahopress.com": [
       "http://www.idahopress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -16,23 +31,14 @@
     "magicvalley.com": [
       "http://magicvalley.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "argusobserver.com": [
-      "http://www.argusobserver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "tetonvalleynews.net": [
-      "http://www.tetonvalleynews.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "idahocountyfreepress.com": [
-      "http://www.idahocountyfreepress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "mtexpress.com": [
       "http://www.mtexpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
-    "hjnews.com": [
-      "http://www.hjnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "newspaperassociationofidaho.com": [
+      "https://www.newspaperassociationofidaho.com/feed/"
     ],
-    "clearwatertribune.com": [
-      "http://www.clearwatertribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    "postregister.com": [
+      "http://www.postregister.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ],
     "rexburgstandardjournal.com": [
       "http://www.rexburgstandardjournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
@@ -40,20 +46,14 @@
     "sandpointreader.com": [
       "https://sandpointreader.com/feed/"
     ],
-    "gazetterecord.com": [
-      "http://www.gazetterecord.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "signalamerican.com": [
       "https://signalamerican.com/rss.xml"
     ],
+    "tetonvalleynews.net": [
+      "http://www.tetonvalleynews.net/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "uiargonaut.com": [
       "https://www.uiargonaut.com/feed/"
-    ],
-    "arbiteronline.com": [
-      "https://www.arbiteronline.com/feed/"
-    ],
-    "newspaperassociationofidaho.com": [
-      "https://www.newspaperassociationofidaho.com/feed/"
     ]
   }
 }

@@ -1,0 +1,34 @@
+{
+  "country_code": "BZ",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 12,
+  "feeds": {
+    "7newsbelize.com": [
+      "https://7newsbelize.com/rss.php",
+      "https://www.7newsbelize.com/rss.php"
+    ],
+    "amandala.com.bz": [
+      "https://amandala.com.bz/news/feed/",
+      "https://amandala.com.bz/news/homepage/feed/"
+    ],
+    "ambergristoday.com": [
+      "https://ambergristoday.com/feed/"
+    ],
+    "breakingbelizenews.com": [
+      "https://www.breakingbelizenews.com/feed/",
+      "https://www.breakingbelizenews.com/home-5/feed/"
+    ],
+    "greaterbelize.com": [
+      "https://www.greaterbelize.com/feed/"
+    ],
+    "lovefm.com": [
+      "https://lovefm.com/feed/",
+      "https://lovefm.com/feed/atom/"
+    ],
+    "sanpedrosun.com": [
+      "https://www.sanpedrosun.com/feed/",
+      "https://www.sanpedrosun.com/homepage/feed/"
+    ]
+  }
+}

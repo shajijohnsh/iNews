@@ -1,0 +1,38 @@
+{
+  "country_code": "TH",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 12,
+  "feeds": {
+    "art4d.com": [
+      "https://art4d.com/feed"
+    ],
+    "ellethailand.com": [
+      "https://ellethailand.com/feed/",
+      "https://www.ellethailand.com/feed/"
+    ],
+    "fineart-magazine.com": [
+      "https://fineart-magazine.com/feed/"
+    ],
+    "gqthailand.com": [
+      "https://www.gqthailand.com/feed/"
+    ],
+    "grandprix.co.th": [
+      "https://www.grandprix.co.th/feed/"
+    ],
+    "positioningmag.com": [
+      "https://positioningmag.com/feed"
+    ],
+    "sarakadee.com": [
+      "http://www.sarakadee.com/feed/",
+      "https://www.sarakadee.com/video-podcast/feed/"
+    ],
+    "silpa-mag.com": [
+      "https://www.silpa-mag.com/feed"
+    ],
+    "thaiwaysmagazine.com": [
+      "https://thaiwaysmagazine.com/?format=feed&type=rss",
+      "https://thaiwaysmagazine.com/?format=feed&type=atom"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "country_code": "VC",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 12,
+  "feeds": {
+    "discoversvg.com": [
+      "https://discoversvg.com/feed/"
+    ],
+    "gov.vc": [
+      "https://www.gov.vc/index.php?format=feed&type=atom",
+      "https://www.gov.vc/index.php?format=feed&type=rss"
+    ],
+    "iwnsvg.com": [
+      "https://www.iwnsvg.com/feed/"
+    ],
+    "nbcsvg.com": [
+      "https://www.nbcsvg.com/feed/"
+    ],
+    "searchlight.vc": [
+      "https://searchlight.vc/searchlight/feed/",
+      "https://www.searchlight.vc/feed/",
+      "https://www.searchlight.vc/searchlight/feed/",
+      "https://www.searchlight.vc/searchlight/news/feed/"
+    ],
+    "stvincenttimes.com": [
+      "https://www.stvincenttimes.com/feed/"
+    ],
+    "thevincentian.com": [
+      "https://thevincentian.com/headlines.rss",
+      "http://thevincentian.com/clients/thevincentian/headlines.rss"
+    ]
+  }
+}

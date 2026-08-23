@@ -1,21 +1,11 @@
 {
   "country_code": "PK",
   "language_code": "UR",
-  "total_domains": 8,
-  "total_feeds": 11,
+  "total_domains": 7,
+  "total_feeds": 10,
   "feeds": {
     "aaj.tv": [
       "https://www.aaj.tv/feeds/home/"
-    ],
-    "khybernews.tv": [
-      "https://khybernews.tv/feed/"
-    ],
-    "neonews.pk": [
-      "https://www.neonews.pk/rss",
-      "https://www.neonews.pk/sitemap.xml"
-    ],
-    "ktnnews.tv": [
-      "https://ktnnews.tv/feed/"
     ],
     "channelfivepakistan.tv": [
       "https://channelfivepakistan.tv/feed/"
@@ -24,12 +14,19 @@
       "https://www.city42.tv/rss",
       "https://www.city42.tv/sitemap.xml"
     ],
-    "ktntv.tv": [
-      "https://ktntv.tv/feed/"
-    ],
     "kay2.tv": [
       "https://kay2.tv/feed/",
       "https://kay2.tv/kay2-tv-official-website/feed/"
+    ],
+    "ktnnews.tv": [
+      "https://ktnnews.tv/feed/"
+    ],
+    "ktntv.tv": [
+      "https://ktntv.tv/feed/"
+    ],
+    "neonews.pk": [
+      "https://www.neonews.pk/rss",
+      "https://www.neonews.pk/sitemap.xml"
     ]
   }
 }

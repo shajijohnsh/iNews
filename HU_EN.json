@@ -1,0 +1,195 @@
+{
+  "country_code": "HU",
+  "language_code": "EN",
+  "total_domains": 21,
+  "total_feeds": 145,
+  "feeds": {
+    "automotor.hu": [
+      "https://www.automotor.hu/feed/"
+    ],
+    "bbj.hu": [
+      "https://bbj.hu/assets/rss/rss.php",
+      "https://bbj.hu/feed/",
+      "https://bbj.hu/rss",
+      "https://www.bbj.hu/rss"
+    ],
+    "cosmopolitan.hu": [
+      "https://cosmopolitan.hu/rss",
+      "https://www.cosmopolitan.com/rss/all.xml",
+      "https://www.cosmopolitan.com/rss/default.xml"
+    ],
+    "demokrata.hu": [
+      "https://demokrata.hu/feed/"
+    ],
+    "elle.hu": [
+      "https://elle.hu/rss"
+    ],
+    "eszmelet.hu": [
+      "https://www.eszmelet.hu/feed/"
+    ],
+    "fidelio.hu": [
+      "https://fidelio.hu/rss/cikkek"
+    ],
+    "fotomagazin.hu": [
+      "https://fotomagazin.hu/feed/"
+    ],
+    "galaktika.hu": [
+      "https://galaktika.hu/feed/"
+    ],
+    "hammerworld.hu": [
+      "https://hammerworld.hu/feed/"
+    ],
+    "honvedelem.hu": [
+      "https://honvedelem.hu/rss",
+      "https://honvedelem.hu/rss.xml"
+    ],
+    "hvg.hu": [
+      "http://adozona.hu/rss",
+      "http://eduline.hu/rss.aspx",
+      "http://hvg.hu/rss/cegauto",
+      "http://hvg.hu/rss/enesacegem",
+      "http://hvg.hu/rss/gazdasag",
+      "http://hvg.hu/rss/itthon",
+      "http://hvg.hu/rss/kkv",
+      "http://hvg.hu/rss/kultura",
+      "http://hvg.hu/rss/nagyitas",
+      "http://hvg.hu/rss/sport",
+      "http://hvg.hu/rss/tudomany",
+      "http://hvg.hu/rss/velemeny",
+      "http://hvg.hu/rss/vilag",
+      "https://adozona.hu/rss",
+      "https://eduline.hu/rss",
+      "https://eduline.hu/rss.aspx",
+      "https://hvg.hu/rss",
+      "https://hvg.hu/rss.aspx",
+      "https://hvg.hu/rss/cegauto",
+      "https://hvg.hu/rss/elet",
+      "https://hvg.hu/rss/enesacegem",
+      "https://hvg.hu/rss/gazdasag",
+      "https://hvg.hu/rss/hvgkonyvek",
+      "https://hvg.hu/rss/itthon",
+      "https://hvg.hu/rss/kkv",
+      "https://hvg.hu/rss/kultura",
+      "https://hvg.hu/rss/nagyitas",
+      "https://hvg.hu/rss/sport",
+      "https://hvg.hu/rss/tudomany",
+      "https://hvg.hu/rss/velemeny",
+      "https://hvg.hu/rss/vilag",
+      "https://karrierplusz.jobline.hu/rss"
+    ],
+    "impressmagazin.hu": [
+      "http://impressmagazin.hu/feed/",
+      "https://impressmagazin.hu/feed/"
+    ],
+    "kiskegyed.blikk.hu": [
+      "https://www.kiskegyed.hu/rss"
+    ],
+    "magyarepitok.hu": [
+      "https://magyarepitok.hu/rss"
+    ],
+    "magyarnarancs.hu": [
+      "https://magyarnarancs.hu/rss",
+      "https://magyarnarancs.hu/rss/",
+      "https://magyarnarancs.hu/rss/narancs_c_mlap"
+    ],
+    "mult-kor.hu": [
+      "https://mult-kor.hu/.scripts/rss.php",
+      "https://mult-kor.hu/.scripts/rss.php?label=11"
+    ],
+    "nlc.hu": [
+      "https://nlc.hu/a-hetkoznapok-kapaszkodoi-podcast/20210714/kokeny-attila-alkohol-kamaszkor-interju/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210531/anyakivan-podcast-nlc/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210608/anyakivan-podcast-tilla-semjen-nora/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210622/peller-anna-peller-mariann-anyakivan-podcast/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210706/szuloi-szerepek-mi-van-ha-cserelunk/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210721/kotodo-neveles-aldas-vagy-atok/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210803/valas-gyerekkel-lehet-ezt-jol-csinalni-anyakivan-podcast/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210817/sokszor-masfel-oran-at-probaltam-alvasra-birni-a-gyereket-letezik-e-helyes-altatasi-modszer/feed/",
+      "https://nlc.hu/anyakivan-podcast/20210831/rubint-reka-anyakivan-podcast-gyerekneveles/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20210820/barcsak-tudtam-volna-szexrol-beszelgetni-az-anyukammal/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20210926/barcsak-tudtam-volna-tobbet-arrol-mit-tegyek-ha-megcsaltak-es-folytatnam-a-kapcsolatot/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20211008/barcsak-tudtam-volna-tobbet-arrol-milyen-egy-narcisztikus-szemelyisegzavarossal-a-parkapcsolat/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20211022/barcsak-tudtam-volna-amit-a-szexologusok-gondolnak-a-sex-education-sorozatrol/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20211105/barcsak-tudtam-volna-tobbet-a-parkapcsolati-elhidegulesrol/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20211203/barcsak-tudtam-volna-arrol-hogy-er-e-onkielegiteni-a-parkapcsolatban/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20211231/barcsak-tudtam-volna-arrol-amikor-a-partner-feltekeny-az-exemre/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220204/barcsak-tudtam-volna-tobbet-arrol-miert-jatszmazunk-a-parkapcsolatokban/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220401/barcsak-tudtam-volna-tobbet-arrol-milyen-a-jo-szex/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220422/barcsak-tudtam-volna-tobbet-a-bridgerton-sorozatrol/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220513/barcsak-tudtam-volna-tobbet-arrol-milyen-keresbe-menjek-bele-az-agyban/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220603/barcsak-tudtam-volna-tobbet-a-kamaszok-szexualis-eleterol-podcast/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220624/barcsak-tudtam-volna-podcast-tobbet-arrol-mukodhet-e-a-parkapcsolat-szex-nelkul/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220708/barcsak-tudtam-volna-podcast-hogyan-valjunk-el-felnottkent/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220805/barcsak-tudtam-volna-podcast-tenyleg-tobb-a-szex-a-nyaralason/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220902/barcsak-tudtam-volna-podcast-tenyleg-ki-lehet-herelni-a-ferfit-a-parkapcsolatban/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20220930/barcsak-tudtam-volna-tobbet-az-elemi-oszton-cimu-filmrol/feed/",
+      "https://nlc.hu/barcsak-tudtam-volna-podcast/20221015/barcsak-tudtam-volna-podcast-tobbet-arrol-hogyan-hat-a-parkapcsolatra-a-kotodesi-minta/feed/",
+      "https://nlc.hu/cimke/egyenlito-podcast/feed/",
+      "https://nlc.hu/cimke/it-angyalai-podcast/feed/",
+      "https://nlc.hu/cimke/kekver-podcast/feed/",
+      "https://nlc.hu/cimke/nemes-ugy-podcast/feed/",
+      "https://nlc.hu/csalad/20250417/egyenlito-podcast-varga-judit/feed/",
+      "https://nlc.hu/csalad/20250502/szuloszerviz-podcast-gyerekfejlesztes-mese-hatasa/feed/",
+      "https://nlc.hu/csalad/20250516/pasztor-anna-szuloszerviz-podcast/feed/",
+      "https://nlc.hu/csalad/20250613/szuloszerviz-podcast-igy-nevelj-rugalmas-gondolkodasu-gyereket-a-fejlodesfokuszu-szemlelet-legfontosabb-pontjai-egy-adasban/feed/",
+      "https://nlc.hu/csalad/20250724/akovacs-eva-egyenlito-podcast/feed/",
+      "https://nlc.hu/digitalis-szorongato/20201130/digitalis-szorongato-mentalis-egeszseg-podcast/feed/",
+      "https://nlc.hu/digitalis-szorongato/20210111/digitalis-szorongato-podcast-pszichologia-social-media-troll/feed/",
+      "https://nlc.hu/digitalis-szorongato/20210125/digitalis-szorongato-bullying-podcast/feed/",
+      "https://nlc.hu/gasztro/20251113/mautner-zsofi-karriervaltas-egyenlito-podcast/feed/",
+      "https://nlc.hu/itangyalai-podcast/20221116/it-angyalai-podcast-podcastsorozat-nlc/feed/",
+      "https://nlc.hu/itangyalai-podcast/20221205/lejart-volna-az-emberi-terapeutak-ideje/feed/",
+      "https://nlc.hu/itangyalai-podcast/20231002/mozogsz-vagy-eszel-a-teve-elott/feed/",
+      "https://nlc.hu/itangyalai-podcast/20231127/lany-sikerek-a-nemzetkozi-informatikai-diakolimpian/feed/",
+      "https://nlc.hu/itangyalai-podcast/20231211/visszateres-anyakent-a-munka-vilagaba/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/a-gyerekek-online-elete/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/a-munka-jovoje-a-jovo-munkaja/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/kibol-lesz-jatekfejleszto/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/magyar-tinik-a-neten/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/mi-lesz-az-iskolai-dolgozattal/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/mit-mond-a-robot/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/muveszet-es-mi/feed/",
+      "https://nlc.hu/itangyalai-podcast/cikk/noi-ertekesitok-az-it-teruleten/feed/",
+      "https://nlc.hu/kekver-podcast/20240711/kekver-filmbe-illo-kiralyi-szerelmek/feed/",
+      "https://nlc.hu/kekver-podcast/20240718/kekver-podcast-a-legnagyobb-kamuk-a-koronaban/feed/",
+      "https://nlc.hu/kekver-podcast/20240801/kekver-podcast-diana-hercegno-elete/feed/",
+      "https://nlc.hu/kekver-podcast/20240808/kekver-podcast-media-kiralyi-csalad/feed/",
+      "https://nlc.hu/kekver-podcast/20240815/kiralyi-csaladok-oktatas-kekver/feed/",
+      "https://nlc.hu/kekver-podcast/20240822/ez-pecsetelhette-meg-sisi-es-ferenc-jozsef-kapcsolatat/feed/",
+      "https://nlc.hu/kekver-podcast/20240829/a-titokzatos-rokon-akivel-meghan-markle-meg-tartja-a-kapcsolatot/feed/",
+      "https://nlc.hu/kekver-podcast/20240905/szules-es-varandossag-a-kiralyi-csaladokban/feed/",
+      "https://nlc.hu/lelek/20201130/nyugi-a-mi-mentalis-egeszsegunkre-is-hat-a-facebook-es-az-insta-indul-a-digitalis-szorongato-podcast/feed/",
+      "https://nlc.hu/nem-es-ugy/20220623/nem-es-ugy-podcast-miert-kapnak-az-idos-ferfi-szineszek-fiatal-noi-szinesznoket-a-filmekben/feed/",
+      "https://nlc.hu/nem-es-ugy/20220706/nem-es-ugy-podcast-az-eveszavar-a-mentalis-allapot-gondjait-is-jelzi/feed/",
+      "https://nlc.hu/nem-es-ugy/20220728/nem-es-ugy-podcast-amit-az-abortuszrol-jo-tudni/feed/",
+      "https://nlc.hu/nem-es-ugy/20220915/nem-es-ugy-podcast-a-menopauza-meg-mindig-tabu/feed/",
+      "https://nlc.hu/nem-es-ugy/20221027/nem-es-ugy-podcast-beszelni-kell-a-bantalmazo-anyakrol-es-nokrol/feed/",
+      "https://nlc.hu/nem-es-ugy/20230113/nem-es-ugy-podcast-tenyleg-csak-a-baj-van-a-pornoval/feed/",
+      "https://nlc.hu/nlc-podcast/20250515/egyenlito-podcast-ivanyi-orsolya-menopauza/feed/",
+      "https://nlc.hu/nlc-podcast/20250626/mi-teremtunk-olyan-korlatokat-sajat-magunknak-ami-lehet-hogy-nincs-is-ott-egyenlito-podcast/feed/",
+      "https://nlc.hu/nlc-podcast/koztunk-szolva/20200312/naray-bemesz-a-probafulkebe-es-ugy-nezel-ki-mint-aki-ot-perce-hanyt/feed/",
+      "https://nlc.hu/petcast/20240412/petcast-az-allati-podcast-a-legnehezebb-dontes-a-vegso-eutanazia-a-kisallatoknal/feed/",
+      "https://nlc.hu/petcast/20240419/petcast-az-allati-podcast-cuki-kis-aprosagok-a-ragcsalok-de-nem-konnyu-oket-jol-tartani/feed/",
+      "https://nlc.hu/petcast/20240524/petcast-az-allati-podcast-elveszett-elloptak-talaltad-ezt-csinald-gazdikent-vagy-allatszeretokent/feed/",
+      "https://nlc.hu/petcast/20241004/petcast-az-allati-podcast-cicaval-az-allatorvosnal-stressz-nelkul-is-lehet/feed/",
+      "https://nlc.hu/petcast/20241018/kutya-szeparacios-szorongas-petcast-podcast/feed/",
+      "https://nlc.hu/szabadido/20250306/varga-eszter-magyar-urmernok-no-egyenlito-podcast/feed/",
+      "https://nlc.hu/szabadido/20250529/racz-zsuzsa-egyenlito-podcast/feed/",
+      "https://nlc.hu/szabadido/20250828/kovacs-agnes-coca-cola-hbc-ugyvezeto-igazgatojanak-inspiralo-karrierut-egyenlito-podcast/feed/",
+      "https://nlc.hu/sztarok/20251016/toman-szabina-interju-egyenlito-podcast/feed/",
+      "https://nlc.hu/szuloi-ertekezlet/20200824/szuloi-ertekezlet-podcast-tippek-iskolakezdes-gyerek-szulo/feed/",
+      "https://nlc.hu/szuloi-ertekezlet/20201217/rendhagyo-karacsony-pszichologia-podcast/feed/"
+    ],
+    "player.hu": [
+      "https://player.hu/feed/"
+    ],
+    "technokrata.hu": [
+      "https://www.technokrata.hu/feed/"
+    ],
+    "travelo.hu": [
+      "https://www.travelo.hu/contentpartner/rss/travelomagazin.rss",
+      "https://www.borsonline.hu/publicapi/hu/rss/bors/articles",
+      "https://www.borsonline.hu/publicapi/hu/rss/bors/lexikon/stars"
+    ]
+  }
+}

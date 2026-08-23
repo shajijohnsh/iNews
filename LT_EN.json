@@ -1,0 +1,213 @@
+{
+  "country_code": "LT",
+  "language_code": "EN",
+  "total_domains": 39,
+  "total_feeds": 127,
+  "feeds": {
+    "15min.lt": [
+      "http://www.15min.lt/gyvenimas/rss",
+      "https://www.15min.lt/gyvenimas/rss",
+      "https://www.15min.lt/rss",
+      "https://www.15min.lt/rss/aktualu/lietuva",
+      "https://www.15min.lt/rss/aktualu/pasaulis",
+      "https://www.15min.lt/sportas/rss",
+      "https://www.15min.lt/verslas/rss"
+    ],
+    "Gyvenimas.eu": [
+      "https://www.gyvenimas.eu/feed/"
+    ],
+    "Santaka.info": [
+      "https://www.santaka.info/index.php/feed/"
+    ],
+    "alkas.lt": [
+      "https://alkas.lt/feed/"
+    ],
+    "anyksta.lt": [
+      "https://www.anyksta.lt/feed/"
+    ],
+    "bernardinai.lt": [
+      "http://www.bernardinai.lt/rss/feeds/all",
+      "https://www.bernardinai.lt/feed/atom/"
+    ],
+    "budas.lt": [
+      "https://budas.lt/?format=feed&type=atom",
+      "https://www.budas.lt/?format=feed&type=atom",
+      "https://budas.lt/?format=feed&type=rss",
+      "http://budas.lt/?format=feed&type=atom",
+      "http://budas.lt/?format=feed&type=rss",
+      "http://www.budas.lt/?format=feed&type=atom",
+      "http://www.budas.lt/?format=feed&type=rss",
+      "https://www.budas.lt/?format=feed&type=rss"
+    ],
+    "delfi.lt": [
+      "https://www.delfi.lt/rss/feeds/daily.xml",
+      "https://www.delfi.lt/rss/feeds/lithuania.xml",
+      "https://www.delfi.lt/rss/feeds/world.xml"
+    ],
+    "diena.lt": [
+      "https://diena.lt/rss.xml",
+      "https://kauno.diena.lt/rss.xml",
+      "https://kauno.diena.lt/rss/ivairenybe-straipsniai.xml",
+      "https://kauno.diena.lt/rss/kaunas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/kriminalai-straipsniai.xml",
+      "https://kauno.diena.lt/rss/laisvalaikis-ir-kultura-straipsniai.xml",
+      "https://kauno.diena.lt/rss/lietuva-straipsniai.xml",
+      "https://kauno.diena.lt/rss/pasaulis-straipsniai.xml",
+      "https://kauno.diena.lt/rss/sportas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/sveikata-straipsniai.xml",
+      "https://kauno.diena.lt/rss/verslas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/visi-straipsniai.xml",
+      "https://www.diena.lt/rss.xml",
+      "https://www.diena.lt/rss/nuomones-straipsniai.xml",
+      "https://www.diena.lt/rss/vilnius-straipsniai.xml"
+    ],
+    "druskonis.lt": [
+      "https://www.druskonis.tv/kultra?format=rss",
+      "https://www.druskonis.tv/naujienos?format=rss"
+    ],
+    "ekspertai.eu": [
+      "https://ekspertai.eu/rss.xml"
+    ],
+    "gargzdai.lt": [
+      "https://gargzdai.lt/feed/"
+    ],
+    "grokiskis.lt": [
+      "https://grokiskis.lt/aktualijos/feed",
+      "https://grokiskis.lt/bendruomeniu-vartai/feed",
+      "https://grokiskis.lt/feed",
+      "https://www.grokiskis.lt/aktualijos/feed",
+      "https://www.grokiskis.lt/bendruomeniu-vartai/feed",
+      "https://www.grokiskis.lt/feed"
+    ],
+    "gzeme.lt": [
+      "https://www.gzeme.lt/sample-page/feed/"
+    ],
+    "kalvotoji.lt": [
+      "https://www.kalvotoji.lt/feed/"
+    ],
+    "kauno.diena.lt": [
+      "https://diena.lt/rss.xml",
+      "https://kauno.diena.lt/rss.xml",
+      "https://kauno.diena.lt/rss/ivairenybe-straipsniai.xml",
+      "https://kauno.diena.lt/rss/kaunas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/kriminalai-straipsniai.xml",
+      "https://kauno.diena.lt/rss/laisvalaikis-ir-kultura-straipsniai.xml",
+      "https://kauno.diena.lt/rss/lietuva-straipsniai.xml",
+      "https://kauno.diena.lt/rss/pasaulis-straipsniai.xml",
+      "https://kauno.diena.lt/rss/sportas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/sveikata-straipsniai.xml",
+      "https://kauno.diena.lt/rss/verslas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/visi-straipsniai.xml",
+      "https://www.diena.lt/rss.xml",
+      "https://www.diena.lt/rss/nuomones-straipsniai.xml",
+      "https://www.diena.lt/rss/vilnius-straipsniai.xml"
+    ],
+    "klaipeda.diena.lt": [
+      "https://diena.lt/rss.xml",
+      "https://kauno.diena.lt/rss.xml",
+      "https://kauno.diena.lt/rss/ivairenybe-straipsniai.xml",
+      "https://kauno.diena.lt/rss/kriminalai-straipsniai.xml",
+      "https://kauno.diena.lt/rss/laisvalaikis-ir-kultura-straipsniai.xml",
+      "https://kauno.diena.lt/rss/lietuva-straipsniai.xml",
+      "https://kauno.diena.lt/rss/pasaulis-straipsniai.xml",
+      "https://kauno.diena.lt/rss/sportas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/sveikata-straipsniai.xml",
+      "https://kauno.diena.lt/rss/verslas-straipsniai.xml",
+      "https://kauno.diena.lt/rss/visi-straipsniai.xml",
+      "https://klaipeda.diena.lt/rss.xml",
+      "https://klaipeda.diena.lt/rss/klaipeda-straipsniai.xml",
+      "https://www.diena.lt/rss.xml",
+      "https://www.diena.lt/rss/nuomones-straipsniai.xml",
+      "https://www.diena.lt/rss/vilnius-straipsniai.xml"
+    ],
+    "kmintys.lt": [
+      "https://kmintys.lt/feed/"
+    ],
+    "kronika.lt": [
+      "https://www.kronika.lt/feed/"
+    ],
+    "kurier.lt": [
+      "https://www.kurier.lt/feed/"
+    ],
+    "kurierwilenski.lt": [
+      "https://kurierwilenski.lt/feed/"
+    ],
+    "kurjeris.lt": [
+      "https://kurjeris.lt/feed/"
+    ],
+    "l24.lt": [
+      "https://l24.lt/ru/ekonomika?format=feed"
+    ],
+    "lrytas.lt": [
+      "https://www.lrytas.lt/rss",
+      "https://www.lrytas.lt/rss/"
+    ],
+    "lzinios.lt": [
+      "https://lzinios.lt/feed/"
+    ],
+    "nyksciai.lt": [
+      "https://nyksciai.lt/feed"
+    ],
+    "politika.lt": [
+      "http://politika.lt/feed/"
+    ],
+    "respublika.lt": [
+      "https://www.respublika.lt/feed.php?format=rss",
+      "https://www.respublika.lt/feed.php?format=atom"
+    ],
+    "santarve.lt": [
+      "https://www.santarve.lt/feed/",
+      "http://www.santarve.lt/feed/",
+      "https://web.archive.org/web/20190914014116/http://www.santarve.lt/feed/"
+    ],
+    "suvalkietis.lt": [
+      "https://www.suvalkietis.lt/feed/"
+    ],
+    "svencioniukrastas.lt": [
+      "https://svencioniukrastas.lt/index.php?format=feed&type=rss",
+      "https://svencioniukrastas.lt/index.php?format=feed&type=atom"
+    ],
+    "traku-zeme.lt": [
+      "https://traku-zeme.lt/feed/",
+      "https://traku-zeme.lt/feed/"
+    ],
+    "tzinios.lt": [
+      "https://tzinios.lt/feed/"
+    ],
+    "udiena.lt": [
+      "http://udiena.lt/?format=feed&type=atom",
+      "http://udiena.lt/?format=feed&type=rss",
+      "https://udiena.lt/feed/"
+    ],
+    "ukzinios.lt": [
+      "https://www.ukzinios.lt/feed/"
+    ],
+    "ve.lt": [
+      "http://www.ve.lt/rss/",
+      "http://www.ve.lt/rss/as-tikrai-myliu-lietuviu-kalba/",
+      "http://www.ve.lt/rss/ekonomika/",
+      "http://www.ve.lt/rss/klaipeda1/",
+      "http://www.ve.lt/rss/kriminalai/",
+      "http://www.ve.lt/rss/kultura/",
+      "http://www.ve.lt/rss/laisvalaikis/",
+      "http://www.ve.lt/rss/nuomones/",
+      "http://www.ve.lt/rss/projektai/",
+      "http://www.ve.lt/rss/savaites-ekspresas/",
+      "http://www.ve.lt/rss/sportas/",
+      "http://www.ve.lt/rss/sveikata/",
+      "http://www.ve.lt/rss/ve-rekomenduoja1/",
+      "http://www.ve.lt/rss/visuomene/",
+      "https://ve.lt/rss"
+    ],
+    "veidas.lt": [
+      "http://www.veidas.lt/feed"
+    ],
+    "voruta.lt": [
+      "https://www.voruta.lt/feed/"
+    ],
+    "vz.lt": [
+      "https://www.vz.lt/rss",
+      "https://www.vz.lt/section/?template=rss"
+    ]
+  }
+}

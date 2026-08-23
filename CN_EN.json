@@ -1,0 +1,33 @@
+{
+  "country_code": "CN",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 11,
+  "feeds": {
+    "chinaeconomicreview.com": [
+      "https://chinaeconomicreview.com/feed/"
+    ],
+    "rayli.com.cn": [
+      "https://www.rayli.com.cn/feed"
+    ],
+    "thatsmags.com": [
+      "https://www.thatsmags.com/china/rss?channel=&module=china&cateid=",
+      "https://www.thatsmags.com/shanghai/rss?channel=&module=&cateid="
+    ],
+    "thebeijinger.com": [
+      "https://www.thebeijinger.com/blog/feed",
+      "https://www.thebeijinger.com/events/recently-added/feed"
+    ],
+    "theworldofchinese.com": [
+      "https://feeds.buzzsprout.com/1763226.rss",
+      "https://www.theworldofchinese.com/feed/",
+      "https://rss.buzzsprout.com/1763226.rss"
+    ],
+    "vogue.com.cn": [
+      "http://www.vogue.com.cn/rss.html"
+    ],
+    "yishu-online.com": [
+      "https://yishu-online.com/category/homepage/feed/"
+    ]
+  }
+}

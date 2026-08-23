@@ -1,0 +1,11 @@
+{
+  "country_code": "CK",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "cookislandsnews.com": [
+      "https://www.cookislandsnews.com/home/feed/"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "country_code": "BD",
   "language_code": "BN",
-  "total_domains": 146,
-  "total_feeds": 1318,
+  "total_domains": 102,
+  "total_feeds": 725,
   "feeds": {
     "aajbikel.com": [
       "https://www.aajbikel.com/feed/"
@@ -66,18 +66,6 @@
     "bartabazar.com": [
       "http://bartabazar.com/feed",
       "https://bartabazar.com/feed/"
-    ],
-    "bbc.co.uk": [
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml"
-    ],
-    "bbc.com": [
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
     ],
     "bengali.indianexpress.com": [
       "https://bengali.indianexpress.com/rss"
@@ -152,87 +140,6 @@
       "https://bengali.news18.com/commonfeeds/v1/ben/rss/west-bardhaman.xml",
       "https://bengali.news18.com/commonfeeds/v1/ben/rss/west-midnapore.xml"
     ],
-    "blog.iono.fm": [
-      "https://blog.iono.fm/rss/"
-    ],
-    "blog.spreaker.com": [
-      "https://blog.spreaker.com/3-pieces-of-gear-for-starting-your-podcast/feed/",
-      "https://blog.spreaker.com/category/marketing/feed/",
-      "https://blog.spreaker.com/category/monetization/feed/",
-      "https://blog.spreaker.com/feed/",
-      "https://blog.spreaker.com/how-to-get-podcast-sponsors-the-ultimate-guide/feed/",
-      "https://blog.spreaker.com/how-to-power-up-your-marketing-funnel-with-podcasting/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-a-beginners-guide/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-website/feed/"
-    ],
-    "blogs.msn.com": [
-      "https://blogs.msn.com/author/bill-monroe/feed/",
-      "https://blogs.msn.com/author/chitralekha/feed/",
-      "https://blogs.msn.com/author/currrentlybill/feed/",
-      "https://blogs.msn.com/author/dave-kane/feed/",
-      "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
-      "https://blogs.msn.com/author/emily-falla/feed/",
-      "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
-      "https://blogs.msn.com/author/kun-chen/feed/",
-      "https://blogs.msn.com/author/lizz-callaway/feed/",
-      "https://blogs.msn.com/author/maria/feed/",
-      "https://blogs.msn.com/author/mrikank-varshney/feed/",
-      "https://blogs.msn.com/author/ovidan/feed/",
-      "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
-      "https://blogs.msn.com/author/taroon-mandhana/feed/",
-      "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
-      "https://blogs.msn.com/author/vera-chan/feed/",
-      "https://blogs.msn.com/feed/",
-      "https://blogs.msn.com/topic/events/feed/",
-      "https://blogs.msn.com/topic/featured/feed/",
-      "https://blogs.msn.com/topic/innovations/feed/",
-      "https://blogs.msn.com/topic/solutions/feed/"
-    ],
-    "blogs.windows.com": [
-      "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
-      "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
-      "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
-      "https://blogs.windows.com/devices/feed/",
-      "https://blogs.windows.com/devices/tag/surface/feed/",
-      "https://blogs.windows.com/devices/tag/windows-11/feed/",
-      "https://blogs.windows.com/feed/",
-      "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
-      "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
-      "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
-      "https://blogs.windows.com/msedgedev/feed/",
-      "https://blogs.windows.com/msedgedev/tag/performance/feed/",
-      "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
-      "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
-      "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
-      "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
-      "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
-      "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
-      "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
-      "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
-      "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
-      "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
-      "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
-      "https://blogs.windows.com/windowsexperience/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox/feed/"
-    ],
     "boishakhinews24.net": [
       "https://www.boishakhinews24.net/feed"
     ],
@@ -250,19 +157,6 @@
     ],
     "channelionline.com": [
       "https://www.channelionline.com/feed/"
-    ],
-    "computerweekly.com": [
-      "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
-      "https://www.computerweekly.com/rss/ContentSyndication.xml",
-      "https://www.computerweekly.com/rss/Enterprise-software.xml",
-      "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
-      "https://www.computerweekly.com/rss/IT-security.xml",
-      "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
-      "https://www.computerweekly.com/rss/Internet-technology.xml",
-      "https://www.computerweekly.com/rss/Networking-and-communication.xml"
-    ],
-    "cpimwb.org.in": [
-      "https://cpimwb.org.in/feed/"
     ],
     "crimesylhet.com": [
       "https://www.crimesylhet.com/feed/"
@@ -339,77 +233,14 @@
     "dmpnews.org": [
       "https://dmpnews.org/feed/"
     ],
-    "drishtibhongi.in": [
-      "https://drishtibhongi.in/feed/"
-    ],
     "eimuhurte.com": [
       "https://www.eimuhurte.com/feed/"
-    ],
-    "eisamay.com": [
-      "https://eisamay.com/langapi/sitemap/gstandrssfeed/15819599.xml",
-      "https://eisamay.com/langapi/sitemap/gstandrssfeed/82047661.xml"
     ],
     "ekushey-tv.com": [
       "https://www.ekushey-tv.com/rss/rss.xml"
     ],
-    "feeds.bbci.co.uk": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml"
-    ],
-    "feeds.feedburner.com": [
-      "https://feeds.feedburner.com//kolkata24x7bengali"
-    ],
-    "feeds.sbs.com.au": [
-      "https://feeds.sbs.com.au/sbs-albanian",
-      "https://feeds.sbs.com.au/sbs-gujarati",
-      "https://feeds.sbs.com.au/sbs-hebrew",
-      "https://feeds.sbs.com.au/sbs-hindi"
-    ],
-    "feeds.simplecast.com": [
-      "https://feeds.simplecast.com/k_MKzWy1"
-    ],
     "inews.zoombangla.com": [
       "https://inews.zoombangla.com/feed/"
-    ],
-    "infoworld.com": [
-      "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
-      "https://www.infoworld.com/feed/",
-      "https://www.infoworld.com/index.rss"
-    ],
-    "iono.fm": [
-      "https://iono.fm/rss/chan/7367"
     ],
     "ispr.gov.bd": [
       "https://ispr.gov.bd/feed/",
@@ -449,11 +280,6 @@
     "khulnagazette.com": [
       "https://khulnagazette.com/feed/"
     ],
-    "kolkata24x7.in": [
-      "https://feeds.feedburner.com//kolkata24x7bengali",
-      "https://kolkata24x7.in/feed/",
-      "https://kolkata24x7.in/web-stories/feed/"
-    ],
     "livenarayanganj.com": [
       "https://livenarayanganj.com/feed/",
       "https://livenarayanganj24.com/feed/"
@@ -464,43 +290,11 @@
     "mahabahu.com": [
       "https://mahabahu.com/feed/"
     ],
-    "mirror.co.uk": [
-      "https://www.mirror.co.uk/?service=rss",
-      "https://www.mirror.co.uk/sport/football/?service=rss"
-    ],
     "newsbangla24.com": [
       "https://www.newsbangla24.com/rss.xml"
     ],
-    "newschecker.in": [
-      "https://newschecker.in/feed/",
-      "https://newschecker.in/web-stories/feed/"
-    ],
-    "newsrss.bbc.co.uk": [
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml"
-    ],
-    "nilkantho.in": [
-      "https://www.nilkantho.in/category/blog/feed/",
-      "https://www.nilkantho.in/feed/",
-      "https://www.nilkantho.in/tag/bengali-blog/feed/"
-    ],
     "parbattanews.com": [
       "https://www.parbattanews.com/feed/"
-    ],
-    "prnewswire.com": [
-      "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss"
-    ],
-    "prod-qt-images.s3.amazonaws.com": [
-      "https://prod-qt-images.s3.amazonaws.com/production/prothomalo-bangla/feed.xml"
     ],
     "radiotodaynews.com": [
       "https://www.radiotodaynews.com/rss/rss.xml"
@@ -511,81 +305,8 @@
     "risingbd.com": [
       "https://www.risingbd.com/rss/rss.xml"
     ],
-    "rss.dw.com": [
-      "https://rss.dw.com/rdf/rss-en-all",
-      "https://rss.dw.com/rdf/rss-fre-all",
-      "https://rss.dw.com/rdf/rss-tur-all",
-      "https://rss.dw.com/xml/DKpodcast_alltagsdeutsch_de",
-      "https://rss.dw.com/xml/DKpodcast_audiotrainer_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_videoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_video_de",
-      "https://rss.dw.com/xml/DKpodcast_dassagtmanso_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlaborUT_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlabor_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlehrerinfo_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_en",
-      "https://rss.dw.com/xml/DKpodcast_jojo2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo_de",
-      "https://rss.dw.com/xml/DKpodcast_lehrerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lernerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lgn_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_en",
-      "https://rss.dw.com/xml/DKpodcast_misjakrakow_en",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_de",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_en",
-      "https://rss.dw.com/xml/DKpodcast_missionparis_en",
-      "https://rss.dw.com/xml/DKpodcast_radiod1_de",
-      "https://rss.dw.com/xml/DKpodcast_radiod2_de",
-      "https://rss.dw.com/xml/DKpodcast_sprachbar_de",
-      "https://rss.dw.com/xml/DKpodcast_ticket_de",
-      "https://rss.dw.com/xml/DKpodcast_topthemamitvokabeln_de",
-      "https://rss.dw.com/xml/DKpodcast_wiesonicht_en",
-      "https://rss.dw.com/xml/DKpodcast_wortderwoche_de",
-      "https://rss.dw.com/xml/Dkpodcast_videothema_de"
-    ],
-    "rss.nytimes.com": [
-      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-    ],
-    "rsshub.app": [
-      "https://rsshub.app/bbc/chinese"
-    ],
-    "rssmix.com": [
-      "http://www.rssmix.com/u/11743304/rss.xml"
-    ],
-    "sangbadpratidin.in": [
-      "https://www.sangbadpratidin.in/feed/"
-    ],
     "sarabangla.net": [
       "https://sarabangla.net/feed/"
-    ],
-    "sbs-ondemand.streamguys1.com": [
-      "https://sbs-ondemand.streamguys1.com/sbs-albanian/",
-      "https://sbs-ondemand.streamguys1.com/sbs-gujarati/",
-      "https://sbs-ondemand.streamguys1.com/sbs-hebrew/",
-      "https://sbs-ondemand.streamguys1.com/sbs-hindi/"
-    ],
-    "sbs.com.au": [
-      "https://www.sbs.com.au/cyclingcentral/rss/news",
-      "https://www.sbs.com.au/feed/food/content-collection-rss/just-in",
-      "https://www.sbs.com.au/feed/news/content-collection-rss/top-stories",
-      "https://www.sbs.com.au/food/rss/recipes",
-      "https://www.sbs.com.au/news/feed",
-      "https://www.sbs.com.au/news/topic/australia/feed",
-      "https://www.sbs.com.au/news/topic/latest/feed",
-      "https://www.sbs.com.au/news/topic/world/feed",
-      "https://www.sbs.com.au/news/videos/feed"
     ],
     "sharebazarnews.com": [
       "https://www.sharebazarnews.com/company-archive/feed/",
@@ -605,23 +326,6 @@
     ],
     "songbadprokash.com": [
       "https://www.songbadprokash.com/rss.xml"
-    ],
-    "spreaker.com": [
-      "https://www.spreaker.com/show/2321086/episodes/feed",
-      "https://www.spreaker.com/show/2873428/episodes/feed",
-      "https://www.spreaker.com/show/3101278/episodes/feed",
-      "https://www.spreaker.com/show/3647242/episodes/feed",
-      "https://www.spreaker.com/show/4167903/episodes/feed",
-      "https://www.spreaker.com/show/4186920/episodes/feed",
-      "https://www.spreaker.com/show/4540074/episodes/feed",
-      "https://www.spreaker.com/show/4697880/episodes/feed",
-      "https://www.spreaker.com/show/4834164/episodes/feed",
-      "https://www.spreaker.com/show/4839697/episodes/feed",
-      "https://www.spreaker.com/show/4909975/episodes/feed",
-      "https://www.spreaker.com/show/5100773/episodes/feed",
-      "https://www.spreaker.com/show/5190470/episodes/feed",
-      "https://www.spreaker.com/show/5686560/episodes/feed",
-      "https://www.spreaker.com/show/5928697/episodes/feed"
     ],
     "tbsnews.net": [
       "https://www.tbsnews.net/analysis/rss.xml",
@@ -672,26 +376,8 @@
       "https://www.tbsnews.net/top-news/rss.xml",
       "https://www.tbsnews.net/women-empowerment/rss.xml"
     ],
-    "techtarget.com": [
-      "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
-      "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
-      "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml"
-    ],
     "techzoom.tv": [
       "https://techzoom.tv/feed/"
-    ],
-    "telegraph.co.uk": [
-      "https://www.telegraph.co.uk/business/rss.xml",
-      "https://www.telegraph.co.uk/cars/rss.xml",
-      "https://www.telegraph.co.uk/food-and-drink/rss.xml",
-      "https://www.telegraph.co.uk/news/rss.xml"
     ],
     "thedailystar.net": [
       "https://www.thedailystar.net/arts-entertainment/arts/rss.xml",
@@ -877,27 +563,8 @@
       "https://www.thedailystar.net/world/rss.xml",
       "https://www.thedailystar.net/world/south-asia/rss.xml"
     ],
-    "theguardian.com": [
-      "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
-      "https://www.theguardian.com/football/who-scored-blog/rss",
-      "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
-      "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
-      "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
-      "https://www.theguardian.com/sport/blog/rss",
-      "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
-      "https://www.theguardian.com/uk/rss",
-      "https://www.theguardian.com/us/rss",
-      "https://www.theguardian.com/world/rss"
-    ],
     "tv9bangla.com": [
       "https://tv9bangla.com/feed"
-    ],
-    "uttarbangasambad.com": [
-      "https://uttarbangasambad.com/feed/"
     ],
     "way2barak.com": [
       "https://way2barak.com/feed/"
@@ -932,52 +599,6 @@
     "www.banglatribune.com": [
       "https://www.banglatribune.com/feed/"
     ],
-    "www.bbc.com": [
-      "http://feeds.bbci.co.uk/russian/rss.xml",
-      "http://www.bbc.com/culture/feed.rss",
-      "http://www.bbc.com/future/feed.rss",
-      "http://www.bbc.com/travel/feed.rss",
-      "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "https://feeds.bbci.co.uk/news/education/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
-      "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
-      "https://feeds.bbci.co.uk/news/health/rss.xml",
-      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
-      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "https://feeds.bbci.co.uk/news/politics/rss.xml",
-      "https://feeds.bbci.co.uk/news/rss.xml",
-      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-      "https://feeds.bbci.co.uk/news/stories/rss.xml",
-      "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "https://feeds.bbci.co.uk/russian/rss.xml",
-      "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
-      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
-      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
-      "https://feeds.bbci.co.uk/sport/rss.xml",
-      "https://rsshub.app/bbc/chinese",
-      "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
-      "https://www.bbc.com/culture/feed.rss",
-      "https://www.bbc.com/future/feed.rss",
-      "https://www.bbc.com/travel/feed.rss",
-      "https://www.bbc.com/worklife/feed.rss"
-    ],
     "www.boishakhinews24.net": [
       "https://www.boishakhinews24.net/feed"
     ],
@@ -1004,108 +625,12 @@
     "www.dhakatimes24.com": [
       "https://www.dhakatimes24.com/feed/latest-rss.xml"
     ],
-    "www.dw.com": [
-      "https://blog.iono.fm/rss/",
-      "https://blog.spreaker.com/3-pieces-of-gear-for-starting-your-podcast/feed/",
-      "https://blog.spreaker.com/category/marketing/feed/",
-      "https://blog.spreaker.com/category/monetization/feed/",
-      "https://blog.spreaker.com/feed/",
-      "https://blog.spreaker.com/how-to-get-podcast-sponsors-the-ultimate-guide/feed/",
-      "https://blog.spreaker.com/how-to-power-up-your-marketing-funnel-with-podcasting/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-a-beginners-guide/feed/",
-      "https://blog.spreaker.com/how-to-start-a-podcast-website/feed/",
-      "https://feeds.simplecast.com/k_MKzWy1",
-      "https://iono.fm/rss/chan/7367",
-      "https://rss.dw.com/atom/rss-de-all",
-      "https://rss.dw.com/atom/rss-de-cul",
-      "https://rss.dw.com/atom/rss-de-cul-buch",
-      "https://rss.dw.com/atom/rss-de-cul-film",
-      "https://rss.dw.com/atom/rss-de-cul-musik",
-      "https://rss.dw.com/atom/rss-de-deutschlandentdecken",
-      "https://rss.dw.com/atom/rss-de-eco",
-      "https://rss.dw.com/atom/rss-de-news",
-      "https://rss.dw.com/atom/rss-de-sport",
-      "https://rss.dw.com/atom/rss-de-top",
-      "https://rss.dw.com/atom/rss-de-wissenschaft",
-      "https://rss.dw.com/atom/rss-en-all",
-      "https://rss.dw.com/rdf/rss-en-all",
-      "https://rss.dw.com/rdf/rss-fre-all",
-      "https://rss.dw.com/rdf/rss-tur-all",
-      "https://rss.dw.com/xml/DKpodcast_alltagsdeutsch_de",
-      "https://rss.dw.com/xml/DKpodcast_audiotrainer_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_videoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_bandtagebuch_video_de",
-      "https://rss.dw.com/xml/DKpodcast_dassagtmanso_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlaborUT_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlandlabor_de",
-      "https://rss.dw.com/xml/DKpodcast_deutschlehrerinfo_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn1_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn2_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn3_en",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_de",
-      "https://rss.dw.com/xml/DKpodcast_dwn4_en",
-      "https://rss.dw.com/xml/DKpodcast_jojo2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT2_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT3_de",
-      "https://rss.dw.com/xml/DKpodcast_jojoUT_de",
-      "https://rss.dw.com/xml/DKpodcast_jojo_de",
-      "https://rss.dw.com/xml/DKpodcast_lehrerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lernerportraet_de",
-      "https://rss.dw.com/xml/DKpodcast_lgn_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_de",
-      "https://rss.dw.com/xml/DKpodcast_marktplatz_en",
-      "https://rss.dw.com/xml/DKpodcast_misjakrakow_en",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_de",
-      "https://rss.dw.com/xml/DKpodcast_missionberlin_en",
-      "https://rss.dw.com/xml/DKpodcast_missionparis_en",
-      "https://rss.dw.com/xml/DKpodcast_radiod1_de",
-      "https://rss.dw.com/xml/DKpodcast_radiod2_de",
-      "https://rss.dw.com/xml/DKpodcast_sprachbar_de",
-      "https://rss.dw.com/xml/DKpodcast_ticket_de",
-      "https://rss.dw.com/xml/DKpodcast_topthemamitvokabeln_de",
-      "https://rss.dw.com/xml/DKpodcast_wiesonicht_en",
-      "https://rss.dw.com/xml/DKpodcast_wortderwoche_de",
-      "https://rss.dw.com/xml/Dkpodcast_videothema_de",
-      "https://rss.dw.com/xml/rss-de-all",
-      "https://rss.dw.com/xml/rss-de-cul",
-      "https://rss.dw.com/xml/rss-de-cul-buch",
-      "https://rss.dw.com/xml/rss-de-cul-film",
-      "https://rss.dw.com/xml/rss-de-cul-musik",
-      "https://rss.dw.com/xml/rss-de-deutschlandentdecken",
-      "https://rss.dw.com/xml/rss-de-eco",
-      "https://rss.dw.com/xml/rss-de-news",
-      "https://rss.dw.com/xml/rss-de-sport",
-      "https://rss.dw.com/xml/rss-de-top",
-      "https://rss.dw.com/xml/rss-de-wissenschaft",
-      "https://www.spreaker.com/show/2321086/episodes/feed",
-      "https://www.spreaker.com/show/2873428/episodes/feed",
-      "https://www.spreaker.com/show/3101278/episodes/feed",
-      "https://www.spreaker.com/show/3647242/episodes/feed",
-      "https://www.spreaker.com/show/4167903/episodes/feed",
-      "https://www.spreaker.com/show/4186920/episodes/feed",
-      "https://www.spreaker.com/show/4540074/episodes/feed",
-      "https://www.spreaker.com/show/4697880/episodes/feed",
-      "https://www.spreaker.com/show/4834164/episodes/feed",
-      "https://www.spreaker.com/show/4839697/episodes/feed",
-      "https://www.spreaker.com/show/4909975/episodes/feed",
-      "https://www.spreaker.com/show/5100773/episodes/feed",
-      "https://www.spreaker.com/show/5190470/episodes/feed",
-      "https://www.spreaker.com/show/5686560/episodes/feed",
-      "https://www.spreaker.com/show/5928697/episodes/feed"
-    ],
     "www.eimuhurte.com": [
       "https://www.eimuhurte.com/feed/",
       "https://www.eimuhurte.com/web-stories/feed/"
     ],
     "www.ekushey-tv.com": [
       "https://www.ekushey-tv.com/rss/rss.xml"
-    ],
-    "www.facebook.com": [
-      "https://www.facebook.com/business/news/rss/"
     ],
     "www.ittefaq.com.bd": [
       "https://www.ittefaq.com.bd/feed/"
@@ -1141,160 +666,8 @@
     "www.khoborsangjog.com": [
       "https://www.khoborsangjog.com/feed/"
     ],
-    "www.msn.com": [
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
-      "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml",
-      "http://www.rssmix.com/u/11743304/rss.xml",
-      "https://blogs.msn.com/author/bill-monroe/feed/",
-      "https://blogs.msn.com/author/chitralekha/feed/",
-      "https://blogs.msn.com/author/currrentlybill/feed/",
-      "https://blogs.msn.com/author/dave-kane/feed/",
-      "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
-      "https://blogs.msn.com/author/emily-falla/feed/",
-      "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
-      "https://blogs.msn.com/author/kun-chen/feed/",
-      "https://blogs.msn.com/author/lizz-callaway/feed/",
-      "https://blogs.msn.com/author/maria/feed/",
-      "https://blogs.msn.com/author/mrikank-varshney/feed/",
-      "https://blogs.msn.com/author/ovidan/feed/",
-      "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
-      "https://blogs.msn.com/author/taroon-mandhana/feed/",
-      "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
-      "https://blogs.msn.com/author/vera-chan/feed/",
-      "https://blogs.msn.com/feed/",
-      "https://blogs.msn.com/topic/events/feed/",
-      "https://blogs.msn.com/topic/featured/feed/",
-      "https://blogs.msn.com/topic/innovations/feed/",
-      "https://blogs.msn.com/topic/solutions/feed/",
-      "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
-      "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
-      "https://blogs.windows.com/devices/author/sandraandrews/feed/",
-      "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
-      "https://blogs.windows.com/devices/feed/",
-      "https://blogs.windows.com/devices/tag/education/feed/",
-      "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
-      "https://blogs.windows.com/devices/tag/surface/feed/",
-      "https://blogs.windows.com/devices/tag/windows-11/feed/",
-      "https://blogs.windows.com/feed/",
-      "https://blogs.windows.com/msedgedev/author/katherine-gan/feed/",
-      "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
-      "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
-      "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
-      "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
-      "https://blogs.windows.com/msedgedev/author/sean-lyndersay/feed/",
-      "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
-      "https://blogs.windows.com/msedgedev/feed/",
-      "https://blogs.windows.com/msedgedev/tag/performance/feed/",
-      "https://blogs.windows.com/msedgedev/tag/pwa/feed/",
-      "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
-      "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
-      "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
-      "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
-      "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
-      "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
-      "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
-      "https://blogs.windows.com/windowsdeveloper/feed/",
-      "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
-      "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
-      "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
-      "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
-      "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
-      "https://blogs.windows.com/windowsexperience/author/marklinton/feed/",
-      "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
-      "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
-      "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
-      "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
-      "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
-      "https://blogs.windows.com/windowsexperience/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/handheld-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/lenovo/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/rog/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/security/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
-      "https://blogs.windows.com/windowsexperience/tag/xbox/feed/",
-      "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
-      "https://www.computerweekly.com/rss/ContentSyndication.xml",
-      "https://www.computerweekly.com/rss/Enterprise-software.xml",
-      "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
-      "https://www.computerweekly.com/rss/IT-security.xml",
-      "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
-      "https://www.computerweekly.com/rss/Internet-technology.xml",
-      "https://www.computerweekly.com/rss/Networking-and-communication.xml",
-      "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
-      "https://www.infoworld.com/feed/",
-      "https://www.infoworld.com/index.rss",
-      "https://www.mirror.co.uk/?service=rss",
-      "https://www.mirror.co.uk/sport/football/?service=rss",
-      "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss",
-      "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
-      "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
-      "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
-      "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
-      "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml",
-      "https://www.telegraph.co.uk/business/rss.xml",
-      "https://www.telegraph.co.uk/cars/rss.xml",
-      "https://www.telegraph.co.uk/food-and-drink/rss.xml",
-      "https://www.telegraph.co.uk/news/rss.xml",
-      "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
-      "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
-      "https://www.theguardian.com/football/who-scored-blog/rss",
-      "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
-      "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
-      "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
-      "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
-      "https://www.theguardian.com/sport/blog/rss",
-      "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
-      "https://www.theguardian.com/uk/rss",
-      "https://www.theguardian.com/us/rss",
-      "https://www.theguardian.com/world/rss"
-    ],
     "www.newsbangla24.com": [
       "https://www.newsbangla24.com/rss.xml"
-    ],
-    "www.nilkantho.in": [
-      "https://www.nilkantho.in/category/blog/feed/",
-      "https://www.nilkantho.in/feed/",
-      "https://www.nilkantho.in/tag/bengali-blog/feed/"
     ],
     "www.parbattanews.com": [
       "https://www.parbattanews.com/feed/"
@@ -1310,28 +683,6 @@
     ],
     "www.risingbd.com": [
       "https://www.risingbd.com/rss/rss.xml"
-    ],
-    "www.sangbadpratidin.in": [
-      "https://www.sangbadpratidin.in/feed/"
-    ],
-    "www.sbs.com.au": [
-      "https://feeds.sbs.com.au/sbs-albanian",
-      "https://feeds.sbs.com.au/sbs-gujarati",
-      "https://feeds.sbs.com.au/sbs-hebrew",
-      "https://feeds.sbs.com.au/sbs-hindi",
-      "https://sbs-ondemand.streamguys1.com/sbs-albanian/",
-      "https://sbs-ondemand.streamguys1.com/sbs-gujarati/",
-      "https://sbs-ondemand.streamguys1.com/sbs-hebrew/",
-      "https://sbs-ondemand.streamguys1.com/sbs-hindi/",
-      "https://www.sbs.com.au/cyclingcentral/rss/news",
-      "https://www.sbs.com.au/feed/food/content-collection-rss/just-in",
-      "https://www.sbs.com.au/feed/news/content-collection-rss/top-stories",
-      "https://www.sbs.com.au/food/rss/recipes",
-      "https://www.sbs.com.au/news/feed",
-      "https://www.sbs.com.au/news/topic/australia/feed",
-      "https://www.sbs.com.au/news/topic/latest/feed",
-      "https://www.sbs.com.au/news/topic/world/feed",
-      "https://www.sbs.com.au/news/videos/feed"
     ],
     "www.sharebazarnews.com": [
       "https://www.sharebazarnews.com/company-archive/feed/",
@@ -1575,38 +926,6 @@
       "https://www.thedailystar.net/world/middle-east/rss.xml",
       "https://www.thedailystar.net/world/rss.xml",
       "https://www.thedailystar.net/world/south-asia/rss.xml"
-    ],
-    "www3.nhk.or.jp": [
-      "http://www3.nhk.or.jp/rss/news/cat-live.xml",
-      "http://www3.nhk.or.jp/rss/news/cat0.xml",
-      "http://www3.nhk.or.jp/rss/news/cat1.xml",
-      "http://www3.nhk.or.jp/rss/news/cat2.xml",
-      "http://www3.nhk.or.jp/rss/news/cat3.xml",
-      "http://www3.nhk.or.jp/rss/news/cat4.xml",
-      "http://www3.nhk.or.jp/rss/news/cat5.xml",
-      "http://www3.nhk.or.jp/rss/news/cat6.xml",
-      "http://www3.nhk.or.jp/rss/news/cat7.xml",
-      "https://www3.nhk.or.jp/rss/news/cat1.xml"
-    ],
-    "zeenews.india.com": [
-      "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
-      "https://zeenews.india.com/hindi/india.xml",
-      "https://zeenews.india.com/hindi/rss.xml",
-      "https://zeenews.india.com/rss/asia-news.xml",
-      "https://zeenews.india.com/rss/blog-news.xml",
-      "https://zeenews.india.com/rss/business.xml",
-      "https://zeenews.india.com/rss/entertainment-news.xml",
-      "https://zeenews.india.com/rss/health-news.xml",
-      "https://zeenews.india.com/rss/india-national-news.xml",
-      "https://zeenews.india.com/rss/india-news.xml",
-      "https://zeenews.india.com/rss/science-environment-news.xml",
-      "https://zeenews.india.com/rss/sports-news.xml",
-      "https://zeenews.india.com/rss/technology-news.xml",
-      "https://zeenews.india.com/rss/world-news.xml",
-      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
-      "https://zeenews.india.com:443/rss/business.xml",
-      "https://zeenews.india.com:443/rss/science-environment-news.xml",
-      "https://zeenews.india.com:443/rss/world-news.xml"
     ],
     "zeenews.india.com:443": [
       "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",

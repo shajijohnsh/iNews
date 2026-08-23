@@ -2,11 +2,15 @@
   "country_code": "US",
   "language_code": "EN",
   "total_domains": 17,
-  "total_feeds": 22,
+  "total_feeds": 24,
   "feeds": {
     "alamogordonews.com": [
       "https://alamogordonews.com/feed/",
       "https://alamogordonews.com/home/feed/"
+    ],
+    "alibi.com": [
+      "https://alibi.com/feed/",
+      "https://alibi.com/sample-page/feed/"
     ],
     "artesianews.com": [
       "https://artesianews.com/feed/",
@@ -19,46 +23,44 @@
     "gallupindependent.com": [
       "https://gallupindependent.com/?feed=rss2"
     ],
+    "gpkmedia.com": [
+      "http://www.gpkmedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "greenfiretimes.com": [
+      "https://www.greenfiretimes.com/blog-feed.xml"
+    ],
     "hobbsnews.com": [
       "https://www.hobbsnews.com/feed/"
     ],
+    "lasvegasoptic.com": [
+      "http://www.lasvegasoptic.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
+    "nmpress.org": [
+      "http://www.nmpress.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+    ],
     "rdrnews.com": [
-      "http://www.rdrnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "santafenewmexican.com": [
-      "http://www.santafenewmexican.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "scdailypress.com": [
-      "https://www.scdailypress.com/silvercitydailypress/news/feed/"
-    ],
-    "alibi.com": [
-      "https://alibi.com/feed/",
-      "https://alibi.com/sample-page/feed/"
+      "https://www.rdrnews.com/feed/"
     ],
     "riograndesun.com": [
       "https://riograndesun.com/feed/",
       "https://riograndesun.com/home/feed/"
     ],
-    "lasvegasoptic.com": [
-      "http://www.lasvegasoptic.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
     "ruidosonews.com": [
       "https://ruidosonews.com/feed/"
     ],
-    "greenfiretimes.com": [
-      "https://www.greenfiretimes.com/blog-feed.xml"
+    "santafenewmexican.com": [
+      "https://www.santafenewmexican.com/search/?f=rss&t=article&c=news/local_news&l=50&s=start_time&sd=desc",
+      "https://www.santafenewmexican.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=news,news/*&f=rss",
+      "https://www.santafenewmexican.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=life,life/*&f=rss"
+    ],
+    "scdailypress.com": [
+      "https://www.scdailypress.com/silvercitydailypress/news/feed/"
     ],
     "sfreporter.com": [
       "https://sfreporter.com/api/rss/content.rss"
     ],
     "taosnews.com": [
       "http://www.taosnews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "gpkmedia.com": [
-      "http://www.gpkmedia.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
-    ],
-    "nmpress.org": [
-      "http://www.nmpress.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
     ]
   }
 }

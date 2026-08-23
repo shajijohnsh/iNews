@@ -1,0 +1,159 @@
+{
+  "country_code": "JO",
+  "language_code": "EN",
+  "total_domains": 24,
+  "total_feeds": 103,
+  "feeds": {
+    "alanbatnews.net": [
+      "https://alanbatnews.net/feed"
+    ],
+    "alghad.com": [
+      "https://alghad.com/feed/"
+    ],
+    "allofjo.net": [
+      "https://www.allofjo.net/rss.php?type=main",
+      "http://www.allofjo.net/rss.php?type=main"
+    ],
+    "almadenahnews.com": [
+      "http://www.almadenahnews.com/rss"
+    ],
+    "almajd.net": [
+      "http://almajd.net/feed/",
+      "https://almajd.net/feed/"
+    ],
+    "alrai.com": [
+      "http://alrai.com/rss-feed/1",
+      "http://alrai.com/rss-feed/10",
+      "http://alrai.com/rss-feed/11",
+      "http://alrai.com/rss-feed/12",
+      "http://alrai.com/rss-feed/13",
+      "http://alrai.com/rss-feed/14",
+      "http://alrai.com/rss-feed/16",
+      "http://alrai.com/rss-feed/17",
+      "http://alrai.com/rss-feed/18",
+      "http://alrai.com/rss-feed/19",
+      "http://alrai.com/rss-feed/2",
+      "http://alrai.com/rss-feed/20",
+      "http://alrai.com/rss-feed/21",
+      "http://alrai.com/rss-feed/22",
+      "http://alrai.com/rss-feed/23",
+      "http://alrai.com/rss-feed/24",
+      "http://alrai.com/rss-feed/26",
+      "http://alrai.com/rss-feed/27",
+      "http://alrai.com/rss-feed/3",
+      "http://alrai.com/rss-feed/32",
+      "http://alrai.com/rss-feed/33",
+      "http://alrai.com/rss-feed/34",
+      "http://alrai.com/rss-feed/35",
+      "http://alrai.com/rss-feed/36",
+      "http://alrai.com/rss-feed/37",
+      "http://alrai.com/rss-feed/38",
+      "http://alrai.com/rss-feed/39",
+      "http://alrai.com/rss-feed/4",
+      "http://alrai.com/rss-feed/40",
+      "http://alrai.com/rss-feed/41",
+      "http://alrai.com/rss-feed/5",
+      "http://alrai.com/rss-feed/9",
+      "https://alrai.com/rss-feed/1",
+      "https://alrai.com/rss-feed/10",
+      "https://alrai.com/rss-feed/11",
+      "https://alrai.com/rss-feed/12",
+      "https://alrai.com/rss-feed/13",
+      "https://alrai.com/rss-feed/14",
+      "https://alrai.com/rss-feed/16",
+      "https://alrai.com/rss-feed/17",
+      "https://alrai.com/rss-feed/18",
+      "https://alrai.com/rss-feed/19",
+      "https://alrai.com/rss-feed/2",
+      "https://alrai.com/rss-feed/20",
+      "https://alrai.com/rss-feed/21",
+      "https://alrai.com/rss-feed/22",
+      "https://alrai.com/rss-feed/23",
+      "https://alrai.com/rss-feed/24",
+      "https://alrai.com/rss-feed/26",
+      "https://alrai.com/rss-feed/27",
+      "https://alrai.com/rss-feed/3",
+      "https://alrai.com/rss-feed/32",
+      "https://alrai.com/rss-feed/33",
+      "https://alrai.com/rss-feed/34",
+      "https://alrai.com/rss-feed/35",
+      "https://alrai.com/rss-feed/36",
+      "https://alrai.com/rss-feed/37",
+      "https://alrai.com/rss-feed/38",
+      "https://alrai.com/rss-feed/39",
+      "https://alrai.com/rss-feed/4",
+      "https://alrai.com/rss-feed/40",
+      "https://alrai.com/rss-feed/41",
+      "https://alrai.com/rss-feed/5",
+      "https://alrai.com/rss-feed/9"
+    ],
+    "alwakeelnews.com": [
+      "https://www.alwakeelnews.com/rss"
+    ],
+    "ammonnews.net": [
+      "https://www.ammonnews.net/rss.php?type=news&id=50",
+      "https://www.ammonnews.net/rss.php?type=news&id=73"
+    ],
+    "arabi21.com": [
+      "https://arabi21.com/Rss/SectionNewsRSS?id=293",
+      "https://arabi21.com/Rss/SectionNewsRSS?id=299",
+      "https://arabi21.com/Rss/SectionNewsRss",
+      "https://arabi21.com/feed",
+      "https://www.arabi21.com/feed"
+    ],
+    "assabeel.net": [
+      "https://assabeel.net/feeds"
+    ],
+    "assawsana.com": [
+      "https://www.assawsana.com/portal/rss/"
+    ],
+    "factjo.com": [
+      "https://factjo.com/rss.xml"
+    ],
+    "hashd-ahali.org": [
+      "https://www.hashd-ahali.org/main/ahali/?feed=rss2",
+      "https://www.hashd-ahali.org/main/ahali/?feed=rss2&page_id=53683"
+    ],
+    "jbcnews.net": [
+      "http://www.jbcnews.net/rss"
+    ],
+    "jo24.net": [
+      "https://jo24.net/feed/rss.php"
+    ],
+    "jordantimes.com": [
+      "https://jordantimes.com/rss.xml",
+      "https://www.jordantimes.com/rss.xml",
+      "http://jordantimes.com/rss.xml",
+      "http://www.jordantimes.com/rss.xml"
+    ],
+    "jordanzad.com": [
+      "http://jordanzad.com/rss.php?type=main"
+    ],
+    "lawjo.net": [
+      "https://lawjo.net/feed/",
+      "https://lawjo.net/feed/"
+    ],
+    "maqar.com": [
+      "https://maqar.com/feed"
+    ],
+    "petra.gov.jo": [
+      "https://petra.gov.jo/library/RSS/RSS_Local.xml",
+      "https://www.petra.gov.jo/library/RSS/RSS_General_En.xml?ID=634707158347335432"
+    ],
+    "sarahanews.net": [
+      "http://www.sarahanews.net/feed",
+      "https://www.sarahanews.net/feed/"
+    ],
+    "sarayanews.com": [
+      "https://www.sarayanews.com/rss.php?type=news&id=24",
+      "https://www.sarayanews.com/rss.php?type=news&id=2"
+    ],
+    "sawaleif.com": [
+      "https://sawaleif.com/feed/",
+      "https://arabitrend.com/feed/"
+    ],
+    "watananews.com": [
+      "https://watananews.com/feed/"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "country_code": "UA",
+  "language_code": "EN",
+  "total_domains": 26,
+  "total_feeds": 55,
+  "feeds": {
+    "borysten.com.ua": [
+      "https://borysten.com.ua/index.php?format=feed&type=rss",
+      "https://borysten.com.ua/index.php?format=feed&type=atom"
+    ],
+    "bunews.com.ua": [
+      "https://businessukraine.ua/feed/"
+    ],
+    "commons.com.ua": [
+      "https://commons.com.ua/uk/feed/"
+    ],
+    "dengi.ua": [
+      "https://dengi.ua/rss"
+    ],
+    "econa.org.ua": [
+      "https://www.econa.org.ua/index.php/econa/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "https://www.econa.org.ua/index.php/econa/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "https://www.econa.org.ua/index.php/econa/gateway/plugin/WebFeedGatewayPlugin/rss2"
+    ],
+    "focus.ua": [
+      "https://focus.ua/modules/rss.php",
+      "https://focus.ua/uk/modules/rss.php"
+    ],
+    "gazeta.ua": [
+      "https://gazeta.ua/rss",
+      "https://gazeta.ua/ru/rss",
+      "https://m.gazeta.ua/ru/rss"
+    ],
+    "gothic.com.ua": [
+      "https://gothic.com.ua/?feed=rss2"
+    ],
+    "journal.cndiovt.com.ua": [
+      "https://journal.cndiovt.com.ua/index.php/ovt/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+      "https://journal.cndiovt.com.ua/index.php/ovt/gateway/plugin/AnnouncementFeedGatewayPlugin/rss",
+      "https://journal.cndiovt.com.ua/index.php/ovt/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2"
+    ],
+    "kontrakty.ua": [
+      "http://kontrakty.ua/feed/.ukrnet",
+      "http://kontrakty.ua/feed/_rss",
+      "http://kontrakty.ua/feed/important",
+      "https://kontrakty.ua/feed/.ukrnet",
+      "https://kontrakty.ua/feed/_rss",
+      "https://kontrakty.ua/feed/important"
+    ],
+    "ktm.ukma.edu.ua": [
+      "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+      "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss",
+      "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2",
+      "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/WebFeedGatewayPlugin/rss2"
+    ],
+    "kunsht.com.ua": [
+      "https://www.kunsht.com.ua/feed"
+    ],
+    "lvivtoday.com.ua": [
+      "http://www.lvivtoday.com.ua/rss.xml"
+    ],
+    "nvp.stu.cn.ua": [
+      "https://nvp.stu.cn.ua/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+      "https://nvp.stu.cn.ua/gateway/plugin/AnnouncementFeedGatewayPlugin/rss",
+      "https://nvp.stu.cn.ua/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2",
+      "https://nvp.stu.cn.ua/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "https://nvp.stu.cn.ua/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "https://nvp.stu.cn.ua/gateway/plugin/WebFeedGatewayPlugin/rss2"
+    ],
+    "odnako.org": [
+      "https://www.odnako.org/feed/"
+    ],
+    "pharmj.org.ua": [
+      "https://pharmj.org.ua/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "https://pharmj.org.ua/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "https://pharmj.org.ua/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/rss2"
+    ],
+    "politik.org.ua": [
+      "https://www.politik.org.ua/?feed=rss2"
+    ],
+    "pro-of.com.ua": [
+      "https://www.pro-of.com.ua/feed/",
+      "https://www.pro-of.com.ua/homepage-newspaper/feed/"
+    ],
+    "prostory.net.ua": [
+      "https://prostory.net.ua/ua/?format=feed&type=rss",
+      "https://prostory.net.ua/ua/?format=feed&type=atom"
+    ],
+    "telekritika.ua": [
+      "https://telekritika.ua/feed/",
+      "https://telekritika.ua/feed/atom/",
+      "https://telekritika.ua/feed/"
+    ],
+    "tyzhden.ua": [
+      "https://tyzhden.ua/holovna/feed/"
+    ],
+    "ukrainianweek.com": [
+      "https://ukrainianweek.com/sample-page/feed/"
+    ],
+    "ukrmus.wordpress.com": [
+      "https://ukrmus.wordpress.com/feed/"
+    ],
+    "vesti.ua": [
+      "https://vesti.ua/feeds/partners"
+    ],
+    "whatson-kyiv.com": [
+      "https://whatson-kyiv.com/feed/"
+    ],
+    "zolotapektoral.te.ua": [
+      "https://zolotapektoral.te.ua/feed/"
+    ]
+  }
+}

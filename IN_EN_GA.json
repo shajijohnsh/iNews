@@ -1,25 +1,40 @@
 {
   "country_code": "IN",
   "language_code": "EN",
-  "total_domains": 5,
-  "total_feeds": 7,
+  "total_domains": 9,
+  "total_feeds": 14,
   "feeds": {
-    "tarunbharat.com": [
-      "https://www.tarunbharat.com/feed/",
-      "https://www.tarunbharat.com/webstories/feed/"
+    "digitalgoa.com": [
+      "https://digitalgoa.com/feed/"
+    ],
+    "esakal.com": [
+      "https://www.esakal.com/stories.rss"
     ],
     "goanews.com": [
       "https://goanews.com/feed/"
-    ],
-    "digitalgoa.com": [
-      "https://digitalgoa.com/feed/",
-      "https://digitalgoa.com/news/feed/"
     ],
     "goanobserver.in": [
       "https://www.goanobserver.in/feed/"
     ],
     "goaplusnews.com": [
       "https://goaplusnews.com/feed/"
+    ],
+    "gomantaktimes.com": [
+      "https://prod-qt-images.s3.amazonaws.com/production/gomantaktimes/feed.xml"
+    ],
+    "heraldgoa.in": [
+      "https://prod-qt-images.s3.amazonaws.com/production/heraldgoa-main/feed.xml",
+      "https://www.heraldgoa.in/feed/"
+    ],
+    "navhindtimes.in": [
+      "https://navhindtimes.in/feed/",
+      "http://navhindtimes.in/feed/",
+      "https://www.navhindtimes.in/feed/",
+      "http://www.navhindtimes.in/feed/"
+    ],
+    "tarunbharat.com": [
+      "https://www.tarunbharat.com/feed/",
+      "https://www.tarunbharat.com/webstories/feed/"
     ]
   }
 }

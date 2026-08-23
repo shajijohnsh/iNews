@@ -1,0 +1,108 @@
+{
+  "country_code": "GN",
+  "language_code": "EN",
+  "total_domains": 28,
+  "total_feeds": 44,
+  "feeds": {
+    "actuguinee.org": [
+      "https://actuguinee.org/feed/"
+    ],
+    "africaguinee.com": [
+      "https://www.africaguinee.com/feed/"
+    ],
+    "afrinews.org": [
+      "https://afrinews.org/feed/"
+    ],
+    "aminata.com": [
+      "https://aminata.com/feed/"
+    ],
+    "ang.gw": [
+      "https://ang.gw/feed/"
+    ],
+    "bambaramdipadida.blogspot.com": [
+      "https://bambaramdipadida.blogspot.com/feeds/posts/default",
+      "https://bambaramdipadida.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/2841085020454197606/posts/default"
+    ],
+    "cia.gov": [
+      "https://feeds.transistor.fm/the-langley-files-a-cia-podcast"
+    ],
+    "conakryinfos.com": [
+      "https://conakryinfos.com/feed/"
+    ],
+    "conosaba.blogspot.com": [
+      "https://conosaba.blogspot.com/feeds/posts/default",
+      "https://conosaba.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8169735641935766077/posts/default"
+    ],
+    "dokainternacionaldenunciante.blogspot.com": [
+      "https://dokainternacionaldenunciante.blogspot.com/feeds/posts/default",
+      "https://dokainternacionaldenunciante.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8687907605525519509/posts/default"
+    ],
+    "faladepapagaio.blogspot.com": [
+      "https://faladepapagaio.blogspot.com/feeds/posts/default",
+      "https://faladepapagaio.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8729019095886187777/posts/default"
+    ],
+    "foot224.co": [
+      "https://www.foot224.co/feed/"
+    ],
+    "gnakrylive.com": [
+      "https://www.gnakrylive.com/?format=feed&type=atom",
+      "https://www.gnakrylive.com/?format=feed&type=rss"
+    ],
+    "guinee24.com": [
+      "https://guinee24.com/feed",
+      "https://www.guinee24.com/feed/"
+    ],
+    "guinee360.com": [
+      "https://www.guinee360.com/feed/"
+    ],
+    "guinee7.com": [
+      "https://www.guinee7.com/feed/"
+    ],
+    "guineefoot.info": [
+      "https://guineefoot.info/feed/"
+    ],
+    "guineelive.com": [
+      "https://guineelive.com/feed/"
+    ],
+    "guineematin.com": [
+      "https://guineematin.com/feed/"
+    ],
+    "guineendade.blogspot.com": [
+      "https://guineendade.blogspot.com/feeds/posts/default",
+      "https://guineendade.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/9202834225322848560/posts/default"
+    ],
+    "guineenews.org": [
+      "https://guineenews.org/feed/"
+    ],
+    "kababachir.com": [
+      "http://www.kababachir.com/feed/"
+    ],
+    "kaloumpresse.com": [
+      "https://kaloumpresse.com/feed/"
+    ],
+    "lelynx.net": [
+      "https://lelynx.net/feed/"
+    ],
+    "mediaguinee.org": [
+      "https://mediaguinee.com/feed/"
+    ],
+    "notabanca.blogspot.com": [
+      "https://notabanca.blogspot.com/feeds/posts/default",
+      "https://notabanca.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/1612247222771314532/posts/default"
+    ],
+    "odemocratagb.com": [
+      "https://www.odemocratagb.com/?feed=rss2",
+      "http://www.odemocratagb.com/?feed=rss2"
+    ],
+    "rispito.com": [
+      "http://www.rispito.com/feeds/posts/default",
+      "https://www.blogger.com/feeds/5200919713145586903/posts/default"
+    ]
+  }
+}
