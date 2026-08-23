@@ -1,0 +1,59 @@
+{
+  "country_code": "AE",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 39,
+  "feeds": {
+    "communicateonline.me": [
+      "https://communicateonline.me/feed/"
+    ],
+    "emirateswoman.com": [
+      "https://emirateswoman.com/feed/"
+    ],
+    "healthmagazine.ae": [
+      "https://healthmagazine.ae/feed/",
+      "https://healthmagazine.ae/homepage/feed/"
+    ],
+    "hiamag.com": [
+      "https://www.hiamag.com/%3Cfront%3E"
+    ],
+    "meed.com": [
+      "https://www.meed.com/classifications/analysis/special-report/feed/",
+      "https://www.meed.com/tenders/feed/",
+      "https://www.meed.com/sector/construction/rss",
+      "https://www.meed.com/countries/gcc/saudi-arabia/rss/feed",
+      "https://www.meed.com/countries/algeria/rss/feed",
+      "https://www.meed.com/countries/gcc/uae/rss/feed",
+      "https://www.meed.com/countries/iran/rss/feed",
+      "https://www.meed.com/countries/iraq/rss/feed",
+      "https://www.meed.com/events/rss",
+      "https://www.meed.com/sector/oil-and-gas/rss",
+      "https://www.meed.com/sector/transport/rss",
+      "https://www.meed.com/countries/gcc/bahrain/rss/feed",
+      "https://www.meed.com/countries/gcc/kuwait/rss/feed",
+      "https://www.meed.com/countries/gcc/oman/rss/feed",
+      "https://www.meed.com/countries/gcc/qatar/rss/feed",
+      "https://www.meed.com/countries/levant/jordan/rss/feed",
+      "https://www.meed.com/countries/levant/lebanon/rss/feed",
+      "https://www.meed.com/countries/levant/syria/rss/feed",
+      "https://www.meed.com/countries/north-africa/egypt/rss/feed",
+      "https://www.meed.com/countries/north-africa/libya/rss/feed",
+      "https://www.meed.com/countries/north-africa/morocco/rss/feed",
+      "https://www.meed.com/countries/north-africa/tunisia/rss/feed",
+      "https://www.meed.com/sector/Technology/rss",
+      "https://www.meed.com/sector/banking-finance/rss",
+      "https://www.meed.com/sector/industrial/rss",
+      "https://www.meed.com/sector/petrochemicals/rss",
+      "https://www.meed.com/sector/water/rss",
+      "https://www.meed.com/sector/power-and-water/power/rss",
+      "https://www.meed.com/classifications/analysis/special-report/rss",
+      "https://www.meed.com/sector/economy/tourism/rss",
+      "https://www.meed.com/classifications/analysis/feed",
+      "https://www.meed.com/classifications/analysis/special-report/rss/"
+    ],
+    "uaestylemagazine.com": [
+      "https://www.uaestylemagazine.com/feed",
+      "https://uaestylemagazine.com/feed/"
+    ]
+  }
+}

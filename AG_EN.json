@@ -1,0 +1,26 @@
+{
+  "country_code": "AG",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 6,
+  "feeds": {
+    "abstvradio.com": [
+      "https://abstvradio.com/feed/"
+    ],
+    "antigua.news": [
+      "https://antigua.news/feed/"
+    ],
+    "antiguanewsroom.com": [
+      "https://antiguanewsroom.com/feed/"
+    ],
+    "antiguanherald.com": [
+      "https://antiguanherald.com/feed.xml"
+    ],
+    "antiguaobserver.com": [
+      "https://antiguaobserver.com/feed/"
+    ],
+    "theantiguan.com": [
+      "https://www.theantiguan.com/blog-feed.xml"
+    ]
+  }
+}

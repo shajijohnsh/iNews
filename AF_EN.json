@@ -1,0 +1,139 @@
+{
+  "country_code": "AF",
+  "language_code": "EN",
+  "total_domains": 33,
+  "total_feeds": 65,
+  "feeds": {
+    "8am.media": [
+      "https://8am.media/feed/"
+    ],
+    "afghanislamicpress.com": [
+      "https://afghanislamicpress.com/feed"
+    ],
+    "afghanistan.ru": [
+      "http://feeds2.feedburner.com/templatic"
+    ],
+    "afghanpaper.com": [
+      "http://www.afghanpaper.com/rss.php"
+    ],
+    "afintl.com": [
+      "https://www.afintl.com/feed"
+    ],
+    "amu.tv": [
+      "https://amu.tv/feed/"
+    ],
+    "aopnews.com": [
+      "https://www.aopnews.com/feed/"
+    ],
+    "ariananews.af": [
+      "https://www.ariananews.af/feed/"
+    ],
+    "armanemili.com": [
+      "https://armanemili.com/feed/"
+    ],
+    "avapress.com": [
+      "https://cdn.avapress.net/rssb5.-er48r6--4qhfle2m.puirug.r.xml"
+    ],
+    "azadiradio.com": [
+      "https://www.azadiradio.com/api/",
+      "https://www.azadiradio.com/sitemap.xml"
+    ],
+    "bakhtarnews.af": [
+      "https://bakhtarnews.af/dr/feed/",
+      "https://bakhtarnews.af/feed/",
+      "https://www.bakhtarnews.af/rss/latest-posts",
+      "https://www.bakhtarnews.af/rss/category/social-ps",
+      "https://www.bakhtarnews.af/rss/category/Economics-ps",
+      "https://www.bakhtarnews.af/rss/category/political-ps",
+      "https://www.bakhtarnews.af/rss/category/culture-ps",
+      "https://www.bakhtarnews.af/rss/category/technology-ps",
+      "https://www.bakhtarnews.af/rss/category/announcement-ps",
+      "https://www.bakhtarnews.af/rss/category/%D8%AF-%D8%A7%D8%A7%D8%A7-%D8%AF-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D9%88-%D9%88%D9%8A%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%A7%D9%86",
+      "https://www.bakhtarnews.af/rss/category/%D8%B1%D9%88%D8%BA%D8%AA%DB%8C%D8%A7",
+      "https://www.bakhtarnews.af/rss/category/%D8%B1%D8%A7%D8%B3%D8%AA%D9%86%DB%8C%D8%AF%D9%88%D9%86%DA%A9%D9%8A",
+      "https://www.bakhtarnews.af/rss/category/International-ps",
+      "https://www.bakhtarnews.af/rss/category/education-ps"
+    ],
+    "benawa.com": [
+      "http://benawa.com/rss/24.xml",
+      "http://benawa.com/rss/26.xml",
+      "http://benawa.com/rss/32.xml",
+      "http://benawa.com/rss/4.xml",
+      "http://benawa.com/rss/44.xml",
+      "http://benawa.com/rss/8.xml",
+      "http://benawa.com/rss/9.xml"
+    ],
+    "darivoa.com": [
+      "https://www.darivoa.com/api/",
+      "https://www.darivoa.com/sitemap.xml"
+    ],
+    "dawatmedia24.com": [
+      "https://dawatmedia24.com/feed/"
+    ],
+    "eslahonline.net": [
+      "https://www.eslahonline.net/feed/"
+    ],
+    "etilaatroz.com": [
+      "https://www.etilaatroz.com/feed/"
+    ],
+    "farsi.ru": [
+      "http://farsi.ru/rss.xhtml",
+      "http://www.farsi.ru/rss.xhtml"
+    ],
+    "hewaddaily.com": [
+      "https://hewaddaily.com/?feed=rss2"
+    ],
+    "jawedan.com": [
+      "https://jawedan.com/feed/",
+      "https://jawedan.com/homepage-blog-layout/feed/"
+    ],
+    "kabulpress.org": [
+      "https://kabulpress.org/spip.php?page=backend"
+    ],
+    "khaama.com": [
+      "https://www.khaama.com/feed/",
+      "https://www.khaama.com/khaama-press/feed/"
+    ],
+    "lemar.tv": [
+      "https://www.lemar.tv/en/rss.xml",
+      "https://www.lemar.tv/node/feed",
+      "http://lemar.tv/node/feed",
+      "http://www.lemar.tv/node/feed"
+    ],
+    "nunn.asia": [
+      "https://www.nunn.asia/?feed=rss2"
+    ],
+    "pajhwok.com": [
+      "https://pajhwok.com/feed/",
+      "https://pajhwok.com/feed/atom/"
+    ],
+    "pashtovoa.com": [
+      "https://www.pashtovoa.com/api/",
+      "https://www.pashtovoa.com/sitemap.xml"
+    ],
+    "rta.af": [
+      "https://rta.af/feed/",
+      "https://rta.af/fa/feed/",
+      "https://rta.af/ar/feed/"
+    ],
+    "shamshadtv.tv": [
+      "https://shamshadtv.tv/index.php?format=feed&type=rss",
+      "https://shamshadtv.tv/index.php?format=feed&type=atom"
+    ],
+    "sputnik.af": [
+      "https://sputnik.af/export/rss2/archive/index.xml"
+    ],
+    "swn.af": [
+      "https://swn.af/feed/"
+    ],
+    "theafghantimes.com": [
+      "https://theafghantimes.com/feed/"
+    ],
+    "thekabultimes.com": [
+      "https://thekabultimes.com/feed/"
+    ],
+    "tkg.af": [
+      "https://tkg.af/feed/"
+    ]
+  }
+}

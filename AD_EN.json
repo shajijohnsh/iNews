@@ -1,0 +1,31 @@
+{
+  "country_code": "AD",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 11,
+  "feeds": {
+    "andorradifusio.ad": [
+      "https://www.andorradifusio.ad/xml/noticies_destacades_rtva"
+    ],
+    "ara.ad": [
+      "https://www.ara.ad/rss/",
+      "https://www.ara.ad/rss/latest/"
+    ],
+    "bondia.ad": [
+      "https://www.bondia.ad/rss-full-factiva.xml",
+      "https://www.bondia.ad/rss.xml"
+    ],
+    "diariandorra.ad": [
+      "https://www.diariandorra.ad/rss",
+      "https://www.diariandorra.ad/rss/home.xml",
+      "https://www.diariandorra.ad/uploads/rss/continguts.xml"
+    ],
+    "elperiodic.ad": [
+      "https://elperiodic.ad/feed/"
+    ],
+    "forum.ad": [
+      "https://forum.ad/feed/",
+      "http://forum.ad/feed/"
+    ]
+  }
+}
