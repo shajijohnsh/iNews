@@ -17,7 +17,7 @@ use_production_ads=true
 admob_enabled=true
 banner_ad_enabled=true
 native_ad_enabled=true
-interstitial_ad_enabled=true
+interstitial_ad_enabled=false
 
 # ==========================================
 # PRIVATE AD FALLBACK SETTINGS
