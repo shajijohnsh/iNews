@@ -14,15 +14,15 @@ use_production_ads=true
 # AD FORMAT ENABLE / DISABLE SWITCHES
 # Enable only Banner and Native Ads. Interstitial Ads are disabled (false).
 # ==========================================
-admob_enabled=false
-banner_ad_enabled=false
-native_ad_enabled=false
-interstitial_ad_enabled=false
+admob_enabled=true
+banner_ad_enabled=true
+native_ad_enabled=true
+interstitial_ad_enabled=true
 
 # ==========================================
 # PRIVATE AD FALLBACK SETTINGS
 # ==========================================
-private_ad_enabled=true
+private_ad_enabled=false
 private_banner_image_url=https://theinews.info/assets/inews_aso_screenshot_1_1787428996844.png
 private_banner_click_url=https://theinews.info
 private_native_image_url=https://theinews.info/assets/inews_aso_screenshot_2_1787429014317.png
