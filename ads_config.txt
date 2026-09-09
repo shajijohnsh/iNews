@@ -23,11 +23,11 @@ interstitial_ad_enabled=false
 # PRIVATE AD FALLBACK SETTINGS
 # ==========================================
 private_ad_enabled=true
-private_banner_image_url=https://example.com/global_banner.png
-private_banner_click_url=https://example.com
-private_native_image_url=https://example.com/global_native.png
-private_native_click_url=https://example.com
-private_native_title=Global Sponsor
+private_banner_image_url=https://theinews.info/assets/inews_aso_screenshot_1_1787428996844.png
+private_banner_click_url=https://theinews.info
+private_native_image_url=https://theinews.info/assets/inews_aso_screenshot_2_1787429014317.png
+private_native_click_url=https://theinews.info
+private_native_title=i-News Global
 private_native_description=This is a global private sponsor ad.
 
 # ==========================================
